@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8859343",
+    "name": "Vega del Sol, Mexico",
+    "description": "Oaxaca, Santa Mar\u00eda Jacatepec",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8859343",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8859343.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 17.80972
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -96.21694
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1278
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 63
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Vega del Sol"
+}

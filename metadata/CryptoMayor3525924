@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3525924",
+    "name": "La Cruz de Tenango, Mexico",
+    "description": "Hidalgo, Tenango de Doria",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3525924",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3525924.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.28272
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -98.27373
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 598
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2442
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "La Cruz,La Cruz de Tenango"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3589498",
+    "name": "Santa Ana Huista, Guatemala",
+    "description": "Huehuetenango, Municipio de Santa Ana Huista",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3589498",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3589498.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 15.68085
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -91.82005
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2004
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 754
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Guatemala"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Guatemala"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "GT",
+    "altnames": "Santa Ana Huista"
+}

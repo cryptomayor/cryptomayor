@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5127150",
+    "name": "Mineville, United States",
+    "description": "New York, Essex County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5127150",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5127150.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 44.09283
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -73.51818
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1269
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 395
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/New_York"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

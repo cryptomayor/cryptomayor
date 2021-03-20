@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4025312",
+    "name": "Las Canoas, Mexico",
+    "description": "Michoac\u00e1n, Zacapu",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4025312",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4025312.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.80751
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -101.87329
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 642
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2249
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Las Canoas"
+}

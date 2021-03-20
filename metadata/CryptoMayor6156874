@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6156874",
+    "name": "St. Jean Baptiste, Canada",
+    "description": "Manitoba",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6156874",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6156874.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 49.26559
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -97.34037
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 563
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 233
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Winnipeg"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Canada"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "CA",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3816892",
+    "name": "Buenos Aires, Mexico",
+    "description": "Chiapas, Siltepec",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3816892",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3816892.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 15.58595
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -92.49913
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 597
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1491
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Buenos Aires"
+}

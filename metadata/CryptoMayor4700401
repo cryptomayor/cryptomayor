@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4700401",
+    "name": "Jacinto City, United States",
+    "description": "Texas, Harris County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4700401",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4700401.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 29.76745
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -95.23382
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 10782
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 11
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Chicago"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

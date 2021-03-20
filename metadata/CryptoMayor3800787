@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3800787",
+    "name": "Villa Nueva, Mexico",
+    "description": "Oaxaca, Santiago Ixtayutla",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3800787",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3800787.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 16.56144
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -97.82405
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 568
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 856
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Villa Nueva"
+}

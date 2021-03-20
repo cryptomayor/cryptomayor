@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor11745826",
+    "name": "North Macksville, Australia",
+    "description": "New South Wales, Nambucca Shire",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor11745826",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor11745826.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -30.69391
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 152.94445
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 599
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 19
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Sydney"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": null
+}

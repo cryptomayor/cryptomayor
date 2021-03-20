@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3801110",
+    "name": "San Mart\u00edn Zacatepec, Mexico",
+    "description": "Oaxaca, San Mart\u00edn Zacatepec",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3801110",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3801110.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 17.80761
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -98.06059
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 639
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1551
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "San Martin Zacatepec,San Mart\u00edn Zacatepec"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6295081",
+    "name": "Stadt Winterthur (Kreis 1) / Br\u00fchlberg, Switzerland",
+    "description": "Zurich, Bezirk Winterthur",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6295081",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6295081.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.49764
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 8.71272
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1476
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 454
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Zurich"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Switzerland"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "CH",
+    "altnames": "Bruehlberg,Br\u00fchlberg"
+}

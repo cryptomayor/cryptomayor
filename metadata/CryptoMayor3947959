@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3947959",
+    "name": "Ambar, Peru",
+    "description": "Lima region, Huaura",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3947959",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3947959.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -10.73333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -77.26667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 462
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2736
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Lima"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Peru"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "PE",
+    "altnames": null
+}

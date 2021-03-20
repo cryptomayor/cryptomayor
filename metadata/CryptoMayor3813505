@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3813505",
+    "name": "Chipoco, Mexico",
+    "description": "Hidalgo, Tlanchinol",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3813505",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3813505.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.975
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -98.70333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 959
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1479
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Chipoco"
+}

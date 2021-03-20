@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3815199",
+    "name": "San Jos\u00e9 Teacalco, Mexico",
+    "description": "Tlaxcala, San Jos\u00e9 Teacalco",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3815199",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3815199.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.33558
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -98.06455
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 5381
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2609
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3523670",
+    "name": "Maltrata, Mexico",
+    "description": "Veracruz, Maltrata",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3523670",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3523670.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.81091
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -97.27538
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 11842
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1720
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Maltrata"
+}

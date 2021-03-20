@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3607079",
+    "name": "La Reina, Honduras",
+    "description": "Santa B\u00e1rbara",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3607079",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3607079.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 15.11667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -88.63333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 954
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1256
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Tegucigalpa"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Honduras"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "HN",
+    "altnames": null
+}

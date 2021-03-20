@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2709968",
+    "name": "Gullbranna, Sweden",
+    "description": "Halland, Halmstads Kommun",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2709968",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2709968.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 56.59167
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 12.95
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 8
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Stockholm"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Sweden"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "SE",
+    "altnames": "Gullbranna"
+}

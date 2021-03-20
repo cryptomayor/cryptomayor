@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor932614",
+    "name": "Mafeteng, Lesotho",
+    "description": "Mafeteng",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor932614",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor932614.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -29.82299
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 27.23744
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 57059
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1669
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Africa/Maseru"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Lesotho"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AF"
+        }
+    ],
+    "country_code": "LS",
+    "altnames": "MFC,Mafeteng"
+}

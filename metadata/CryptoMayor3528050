@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3528050",
+    "name": "El Tecomate, Mexico",
+    "description": "Puebla, Francisco Z. Mena",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3528050",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3528050.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.77103
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -97.77204
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 794
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 135
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "El Tecomate"
+}

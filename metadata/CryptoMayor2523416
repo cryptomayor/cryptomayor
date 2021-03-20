@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2523416",
+    "name": "San Michele di Ganzaria, Italy",
+    "description": "Sicily, Catania",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2523416",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2523416.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 37.28042
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 14.42633
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3311
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 463
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "San Michele,San Michele di Ganzaria,San Micheli di Ganzaria"
+}

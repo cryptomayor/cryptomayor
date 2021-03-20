@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5964410",
+    "name": "Grand Haven, Canada",
+    "description": "British Columbia",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5964410",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5964410.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 56.23333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -120.9
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 735
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 655
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Dawson_Creek"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Canada"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "CA",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3940069",
+    "name": "Huaca\u00f1a, Peru",
+    "description": "Ayacucho, Provincia de Sucre",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3940069",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3940069.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -14.17361
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -73.88639
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 395
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 3200
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Lima"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Peru"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "PE",
+    "altnames": null
+}

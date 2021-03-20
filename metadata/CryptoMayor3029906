@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3029906",
+    "name": "Brosville, France",
+    "description": "Normandy, Eure",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3029906",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3029906.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 49.1
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 1.11667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 644
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 51
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Brosville"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3937303",
+    "name": "La Capilla, Peru",
+    "description": "Moquegua, Provincia de General S\u00e1nchez Cerro",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3937303",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3937303.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -16.75694
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -71.17917
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 214
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1842
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Lima"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Peru"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "PE",
+    "altnames": null
+}

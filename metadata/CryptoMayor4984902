@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4984902",
+    "name": "Baraga, United States",
+    "description": "Michigan, Baraga County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4984902",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4984902.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 46.77854
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -88.48902
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1996
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 190
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Detroit"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

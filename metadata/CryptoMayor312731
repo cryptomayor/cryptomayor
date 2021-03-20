@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor312731",
+    "name": "Hamur, Turkey",
+    "description": "A\u011fr\u0131",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor312731",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor312731.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 39.60561
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 42.985
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 4233
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1693
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Istanbul"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Turkey"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AS"
+        }
+    ],
+    "country_code": "TR",
+    "altnames": "Hamur"
+}

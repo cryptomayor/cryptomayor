@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor763238",
+    "name": "Olszanka, Poland",
+    "description": "Lublin, Powiat krasnostawski",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor763238",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor763238.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 51.03238
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 23.0197
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 538
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 188
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Warsaw"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Poland"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "PL",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8860952",
+    "name": "El Pozo, Mexico",
+    "description": "Chiapas, Chamula",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8860952",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8860952.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 16.85167
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -92.57194
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 756
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2288
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "El Pozo,Los Pozos"
+}

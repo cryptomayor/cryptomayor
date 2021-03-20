@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor310200",
+    "name": "Karaburun, Turkey",
+    "description": "\u0130zmir",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor310200",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor310200.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 38.6364
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 26.51094
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3249
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 81
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Istanbul"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Turkey"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AS"
+        }
+    ],
+    "country_code": "TR",
+    "altnames": "Ahirli,Ah\u0131rl\u0131,Karaburun"
+}

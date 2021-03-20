@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3698261",
+    "name": "Chipe, Peru",
+    "description": "Amazonas, Provincia de Bagua",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3698261",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3698261.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -4.80657
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -78.30267
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 749
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 253
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Lima"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Peru"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "PE",
+    "altnames": null
+}

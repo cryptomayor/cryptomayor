@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5683793",
+    "name": "Ulm, United States",
+    "description": "Montana, Cascade County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5683793",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5683793.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.43051
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -111.50719
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 738
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1020
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Denver"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

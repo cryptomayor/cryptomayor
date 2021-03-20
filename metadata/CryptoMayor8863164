@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8863164",
+    "name": "El Amate, Mexico",
+    "description": "Chiapas, Bochil",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8863164",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8863164.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 17.12361
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -93.00528
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 508
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1511
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "El Amate"
+}

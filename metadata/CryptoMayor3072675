@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3072675",
+    "name": "Krucemburk, Czechia",
+    "description": "Vyso\u010dina, Okres Havl\u00ed\u010dk\u016fv Brod",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3072675",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3072675.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 49.68841
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 15.85207
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1630
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 572
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Prague"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Czechia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "CZ",
+    "altnames": "Kreuzberg,Krucemburk"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3035459",
+    "name": "Baden, France",
+    "description": "Brittany, Morbihan",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3035459",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3035459.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.6185
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -2.9199
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3611
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 29
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Baden"
+}

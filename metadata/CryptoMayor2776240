@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2776240",
+    "name": "Hintersee, Austria",
+    "description": "Salzburg, Politischer Bezirk Salzburg-Umgebung",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2776240",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2776240.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.7
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 13.28333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 252
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 972
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Vienna"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Austria"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "AT",
+    "altnames": "Feichten,Hintersee"
+}

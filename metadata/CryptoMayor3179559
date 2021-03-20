@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3179559",
+    "name": "Campomolino, Italy",
+    "description": "Piedmont, Provincia di Cuneo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3179559",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3179559.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 44.40883
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 7.21192
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 24
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1170
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "Castelmagno"
+}

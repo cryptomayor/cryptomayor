@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3175230",
+    "name": "Lallio, Italy",
+    "description": "Lombardy, Provincia di Bergamo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3175230",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3175230.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 45.66283
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 9.62887
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 4124
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 212
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": null
+}

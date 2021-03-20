@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor11096473",
+    "name": "Actipan, Mexico",
+    "description": "Puebla, Tepeaca",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor11096473",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor11096473.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.93689
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -97.90252
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3631
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2199
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Actipan,San Pablo Actipan"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3985206",
+    "name": "San Pablo, Mexico",
+    "description": "Coahuila, San Pedro",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3985206",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3985206.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 25.72842
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -103.0746
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 708
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1107
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Monterrey"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "San Pablo"
+}

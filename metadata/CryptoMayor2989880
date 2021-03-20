@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2989880",
+    "name": "Noyers-Saint-Martin, France",
+    "description": "Hauts-de-France, Oise",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2989880",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2989880.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 49.55336
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 2.26175
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 745
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 170
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Noyers,Noyers-Saint-Martin"
+}

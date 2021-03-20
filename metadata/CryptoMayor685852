@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor685852",
+    "name": "Bahnari, Romania",
+    "description": "Vaslui, Municipiul Vaslui",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor685852",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor685852.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 46.64119
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 27.79905
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 640
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 199
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": null
+}

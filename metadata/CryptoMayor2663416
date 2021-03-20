@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2663416",
+    "name": "Velanda, Sweden",
+    "description": "V\u00e4stra G\u00f6taland, Trollh\u00e4ttan",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2663416",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2663416.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 58.22883
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 12.30986
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 592
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 74
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Stockholm"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Sweden"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "SE",
+    "altnames": "Velanda"
+}

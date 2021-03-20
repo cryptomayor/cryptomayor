@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor700160",
+    "name": "Mykolayivka, Ukraine",
+    "description": "Odessa, Shyryayeve Raion",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor700160",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor700160.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.53673
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 30.24611
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1423
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 66
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Kiev"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Ukraine"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "UA",
+    "altnames": "Ganskoye,Mikolaivka,Mykolaivka,Mykola\u00efvka,\u041c\u0438\u043a\u043e\u043b\u0430\u0457\u0432\u043a\u0430"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3181238",
+    "name": "Calascio, Italy",
+    "description": "Abruzzo, Provincia dell' Aquila",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3181238",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3181238.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 42.32595
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 13.69699
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 136
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1210
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "Calascio"
+}

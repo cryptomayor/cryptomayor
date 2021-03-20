@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor664448",
+    "name": "Turia, Romania",
+    "description": "Olt, Comuna Valea Mare",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor664448",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor664448.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 44.44671
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 24.47772
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 752
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 197
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": null
+}

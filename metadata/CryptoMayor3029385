@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3029385",
+    "name": "Busy, France",
+    "description": "Bourgogne-Franche-Comt\u00e9, Doubs",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3029385",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3029385.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.16727
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 5.9482
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 503
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 300
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Busy"
+}

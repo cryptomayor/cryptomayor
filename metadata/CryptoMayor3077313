@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3077313",
+    "name": "Cvr\u010dovice, Czechia",
+    "description": "Central Bohemia, Okres Kladno",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3077313",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3077313.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 50.17979
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 14.15479
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 579
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 333
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Prague"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Czechia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "CZ",
+    "altnames": null
+}

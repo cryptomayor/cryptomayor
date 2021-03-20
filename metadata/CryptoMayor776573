@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor776573",
+    "name": "Babice, Poland",
+    "description": "Subcarpathia, Powiat przemyski",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor776573",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor776573.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 49.81838
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 22.47597
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 832
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 242
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Warsaw"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Poland"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "PL",
+    "altnames": null
+}

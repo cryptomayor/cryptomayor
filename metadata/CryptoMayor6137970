@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6137970",
+    "name": "Saint-Elz\u00e9ar, Canada",
+    "description": "Quebec, Laval",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6137970",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6137970.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 45.60338
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -73.72698
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1057
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 47
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Toronto"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Canada"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "CA",
+    "altnames": null
+}

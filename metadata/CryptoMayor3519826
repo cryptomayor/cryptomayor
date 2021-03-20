@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3519826",
+    "name": "San Antonio Metzonapa, Mexico",
+    "description": "Puebla, Ayotoxco de Guerrero",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3519826",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3519826.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.05207
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -97.37968
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 509
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 410
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "San Antonio,San Antonio Metzompa,San Antonio Metzonapa"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3986749",
+    "name": "San Isidro, Mexico",
+    "description": "San Luis Potos\u00ed, Cedral",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3986749",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3986749.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 23.866
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -100.77506
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1152
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1715
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": null
+}

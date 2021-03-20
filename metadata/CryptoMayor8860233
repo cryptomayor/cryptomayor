@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8860233",
+    "name": "San Juan Tepepa, Mexico",
+    "description": "Puebla, Puebla",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8860233",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8860233.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.97389
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -98.15444
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 909
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2191
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "San Juan Tepepa"
+}

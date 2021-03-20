@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5996666",
+    "name": "Lac-Alouette, Canada",
+    "description": "Quebec",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5996666",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5996666.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 45.81698
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -73.9592
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 4473
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 99
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Toronto"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Canada"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "CA",
+    "altnames": null
+}

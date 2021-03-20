@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2760430",
+    "name": "Zwentendorf, Austria",
+    "description": "Lower Austria, Politischer Bezirk Tulln",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2760430",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2760430.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 48.3453
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 15.91026
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1039
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 184
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Vienna"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Austria"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "AT",
+    "altnames": "Zwentendorf an der Donau"
+}

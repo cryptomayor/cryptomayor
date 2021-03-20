@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3167012",
+    "name": "Scafa, Italy",
+    "description": "Abruzzo, Provincia di Pescara",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3167012",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3167012.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 42.26575
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 13.99665
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2536
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 120
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "Scafa"
+}

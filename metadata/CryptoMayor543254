@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor543254",
+    "name": "Kozhukhovo, Russia",
+    "description": "Moscow Oblast",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor543254",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor543254.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 55.7
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 37.66667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 50000
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 120
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Moscow"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Russia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RU",
+    "altnames": "Kozhukhovo,\u041a\u043e\u0436\u0443\u0445\u043e\u0432\u043e"
+}

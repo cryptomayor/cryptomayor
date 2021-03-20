@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6085665",
+    "name": "Nakusp, Canada",
+    "description": "British Columbia, Regional District of Central Kootenay",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6085665",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6085665.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 50.24987
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -117.80226
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1706
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 484
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Vancouver"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Canada"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "CA",
+    "altnames": null
+}

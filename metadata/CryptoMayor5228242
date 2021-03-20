@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5228242",
+    "name": "Groton, United States",
+    "description": "South Dakota, Brown County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5228242",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5228242.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 45.44746
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -98.09871
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1508
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 397
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Chicago"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

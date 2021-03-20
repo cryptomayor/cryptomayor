@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3169982",
+    "name": "Pozzuolo, Italy",
+    "description": "Umbria, Provincia di Perugia",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3169982",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3169982.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 43.12165
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 11.95599
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1028
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 357
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "Pozzuolo"
+}

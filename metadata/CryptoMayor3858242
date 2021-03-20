@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3858242",
+    "name": "El Cuy, Argentina",
+    "description": "Rio Negro, Departamento de El Cuy",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3858242",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3858242.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -39.92685
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -68.34208
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 0
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 717
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Argentina/Salta"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Argentina"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "AR",
+    "altnames": "El Cuy"
+}

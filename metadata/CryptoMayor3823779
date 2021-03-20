@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3823779",
+    "name": "Arroyo Azul, Mexico",
+    "description": "Veracruz, Carrillo Puerto",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3823779",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3823779.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.82333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -96.68444
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 970
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 317
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": null
+}

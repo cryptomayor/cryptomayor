@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5109477",
+    "name": "Blasdell, United States",
+    "description": "New York, Erie County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5109477",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5109477.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 42.79728
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -78.82337
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2592
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 188
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/New_York"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": "Blaisdell,Blasdell"
+}

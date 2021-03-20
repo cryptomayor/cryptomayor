@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3818755",
+    "name": "Santa Cuz del Bosque, Mexico",
+    "description": "Puebla, Nopalucan",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3818755",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3818755.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.13421
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -97.83266
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 929
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2546
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Santa Cruz del Bosque,Santa Cuz del Bosque"
+}

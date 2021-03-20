@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3801345",
+    "name": "San Miguel Santa Flor, Mexico",
+    "description": "Oaxaca, San Miguel Santa Flor",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3801345",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3801345.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 17.92128
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -96.79969
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 516
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1817
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "San Miguel Santa Flor"
+}

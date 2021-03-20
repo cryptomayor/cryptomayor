@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor755581",
+    "name": "Wi\u015bniew, Poland",
+    "description": "Mazovia, Powiat mi\u0144ski",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor755581",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor755581.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 52.25802
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 21.72461
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 505
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 200
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Warsaw"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Poland"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "PL",
+    "altnames": null
+}

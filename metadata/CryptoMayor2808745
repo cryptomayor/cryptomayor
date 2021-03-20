@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2808745",
+    "name": "Wilhelmsdorf, Germany",
+    "description": "Bavaria, Regierungsbezirk Mittelfranken",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2808745",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2808745.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 49.56419
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 10.73716
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1269
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 329
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Berlin"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Germany"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "DE",
+    "altnames": null
+}

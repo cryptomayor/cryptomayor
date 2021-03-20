@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3200742",
+    "name": "Galgovo, Croatia",
+    "description": "Zagreba\u010dka, Grad Samobor",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3200742",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3200742.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 45.73333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 15.75
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 686
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 218
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Zagreb"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Croatia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "HR",
+    "altnames": "Galgovo"
+}

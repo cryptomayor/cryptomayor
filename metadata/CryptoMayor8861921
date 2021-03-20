@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8861921",
+    "name": "Polocote de Arriba, Mexico",
+    "description": "San Luis Potos\u00ed, Venado",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8861921",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8861921.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 22.95861
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -101.13139
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 627
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1885
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Polocote de Arriba"
+}

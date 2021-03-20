@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8861521",
+    "name": "El Crucero, Mexico",
+    "description": "Sonora, Imuris",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8861521",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8861521.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 30.77306
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -110.87222
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 674
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 827
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Hermosillo"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "El Crucero"
+}

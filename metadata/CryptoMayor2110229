@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2110229",
+    "name": "Buota Village, Kiribati",
+    "description": "Gilbert Islands, Tarawa",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2110229",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2110229.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 1.39078
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 173.13082
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1373
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 11
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Pacific/Tarawa"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Kiribati"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "KI",
+    "altnames": null
+}

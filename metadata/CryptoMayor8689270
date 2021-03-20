@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8689270",
+    "name": "Rosario, Peru",
+    "description": "Ayacucho, Provincia de La Mar",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8689270",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8689270.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -12.61849
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -73.84512
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 884
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 981
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Lima"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Peru"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "PE",
+    "altnames": null
+}

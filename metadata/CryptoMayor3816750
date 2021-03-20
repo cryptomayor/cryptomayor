@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3816750",
+    "name": "Noyola, Mexico",
+    "description": "Chiapas, Tonal\u00e1",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3816750",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3816750.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 16.03889
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -93.7675
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 824
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 25
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor681908",
+    "name": "Cilieni, Romania",
+    "description": "Olt, Comuna Cilieni",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor681908",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor681908.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 43.9
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 24.61667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3556
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 49
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": "Chilieni,Cilieni"
+}

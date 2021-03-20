@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3014640",
+    "name": "Grillon, France",
+    "description": "Provence-Alpes-C\u00f4te d'Azur, Vaucluse",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3014640",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3014640.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 44.39508
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 4.92954
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1826
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 182
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Grillon"
+}

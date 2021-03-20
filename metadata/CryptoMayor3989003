@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3989003",
+    "name": "Rancho Viejo, Mexico",
+    "description": "Guanajuato, San Miguel de Allende",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3989003",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3989003.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 21.02091
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -100.77142
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2001
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1885
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Rancho Viejo"
+}

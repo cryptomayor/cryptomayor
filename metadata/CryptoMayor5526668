@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5526668",
+    "name": "Morning Glory, United States",
+    "description": "Texas, El Paso County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5526668",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5526668.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 31.57012
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -106.21581
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 651
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1103
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Denver"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor1091989",
+    "name": "Batou, Comoros",
+    "description": "Grande Comore",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor1091989",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor1091989.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -11.49861
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 43.3575
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 562
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 924
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Indian/Comoro"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Comoros"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AF"
+        }
+    ],
+    "country_code": "KM",
+    "altnames": null
+}

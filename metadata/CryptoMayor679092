@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor679092",
+    "name": "Ortoaia, Romania",
+    "description": "Suceava, Comuna Dorna-Arini",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor679092",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor679092.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.35
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 25.43333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 532
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 789
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": null
+}

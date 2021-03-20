@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8861829",
+    "name": "Picones, Mexico",
+    "description": "Zacatecas, Zacatecas",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8861829",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8861829.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 22.75417
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -102.63417
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 638
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2313
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Picones"
+}

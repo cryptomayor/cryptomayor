@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3816428",
+    "name": "San Antonio Buenavista, Mexico",
+    "description": "Chiapas, La Independencia",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3816428",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3816428.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 16.15234
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -91.6502
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1887
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1378
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "San Antonio Buenavista"
+}

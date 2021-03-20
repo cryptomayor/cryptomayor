@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5855803",
+    "name": "Hawaiian Acres, United States",
+    "description": "Hawaii, Hawaii County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5855803",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5855803.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.53806
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -155.05222
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2700
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 316
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Pacific/Honolulu"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2529621",
+    "name": "Tarsouat, Morocco",
+    "description": "Souss-Massa, Tiznit",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2529621",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2529621.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 29.58153
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -9.02664
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 0
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1054
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Africa/Casablanca"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Morocco"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AF"
+        }
+    ],
+    "country_code": "MA",
+    "altnames": null
+}

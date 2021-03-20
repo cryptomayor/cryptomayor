@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8468603",
+    "name": "Borgonato, Italy",
+    "description": "Lombardy, Provincia di Brescia",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8468603",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8468603.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 45.6207
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 10.0182
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 532
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 208
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": null
+}

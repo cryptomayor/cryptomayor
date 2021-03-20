@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3690862",
+    "name": "Vista Alegre, Peru",
+    "description": "Amazonas, Provincia de Rodr\u00edguez de Mendoza",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3690862",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3690862.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -6.15139
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -77.30056
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 291
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1545
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Lima"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Peru"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "PE",
+    "altnames": null
+}

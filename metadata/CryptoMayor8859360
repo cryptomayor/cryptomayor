@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8859360",
+    "name": "Cerro Armadillo Grande, Mexico",
+    "description": "Oaxaca, San Juan Bautista Valle Nacional",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8859360",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8859360.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 17.86611
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -96.30861
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1266
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 629
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Cerro Armadillo Grande"
+}

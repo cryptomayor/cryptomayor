@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3998807",
+    "name": "La Victoria, Mexico",
+    "description": "Sonora, Hermosillo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3998807",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3998807.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 29.12215
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -110.8908
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1966
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 239
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Hermosillo"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "La Victoria"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3982016",
+    "name": "Tepache, Mexico",
+    "description": "Sonora, Tepache",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3982016",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3982016.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 29.53275
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -109.53134
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1305
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 601
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Hermosillo"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Tepache"
+}

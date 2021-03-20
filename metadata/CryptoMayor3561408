@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3561408",
+    "name": "El Cobre, Cuba",
+    "description": "Santiago de Cuba",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3561408",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3561408.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.0485
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -75.94579
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 4768
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 102
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Havana"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Cuba"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "CU",
+    "altnames": "Cobre,El Cobre,Santiago del Prado"
+}

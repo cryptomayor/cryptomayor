@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3182003",
+    "name": "Bisenti, Italy",
+    "description": "Abruzzo, Provincia di Teramo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3182003",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3182003.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 42.52883
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 13.7995
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 577
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 291
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "Bisenti"
+}

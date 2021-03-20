@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2144103",
+    "name": "Werombi, Australia",
+    "description": "New South Wales, Wollondilly",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2144103",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2144103.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -33.98333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 150.58333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 913
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 250
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Sydney"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": "Werombi"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor1283599",
+    "name": "Bhojpur, Nepal",
+    "description": "Lumbini Province, Banke",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor1283599",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor1283599.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 27.93565
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 81.77555
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2640
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 132
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Asia/Kathmandu"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Nepal"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AS"
+        }
+    ],
+    "country_code": "NP",
+    "altnames": "Bhojpur"
+}

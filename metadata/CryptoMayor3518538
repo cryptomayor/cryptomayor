@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3518538",
+    "name": "San Lorenzo Oyamel, Mexico",
+    "description": "Morelos",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3518538",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3518538.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.43355
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -99.57761
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 5753
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2605
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Oyamel,San Lorenzo,San Lorenzo Oyamel"
+}

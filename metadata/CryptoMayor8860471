@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8860471",
+    "name": "San Isidro el Zapotal, Mexico",
+    "description": "Chiapas, La Independencia",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8860471",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8860471.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 16.15778
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -91.61417
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 848
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1186
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "San Isidro el Zapotal"
+}

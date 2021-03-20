@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8860431",
+    "name": "Colonia Huitexcalco, Mexico",
+    "description": "Hidalgo, Chilcuautla",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8860431",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8860431.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.26417
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -99.27722
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 860
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2066
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Colonia Huitexcalco"
+}

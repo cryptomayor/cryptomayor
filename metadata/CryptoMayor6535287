@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6535287",
+    "name": "Comignago, Italy",
+    "description": "Piedmont, Provincia di Novara",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6535287",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6535287.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 45.71487
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 8.56403
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 752
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 274
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": null
+}

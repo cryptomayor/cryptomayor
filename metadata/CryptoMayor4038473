@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4038473",
+    "name": "Piti Village, Guam",
+    "description": "Piti",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4038473",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4038473.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 13.46256
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 144.69331
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1666
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 8
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Pacific/Guam"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Guam"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "GU",
+    "altnames": "Petey,Piti Vilage,Piti Village"
+}

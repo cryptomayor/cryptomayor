@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5700501",
+    "name": "Wauneta, United States",
+    "description": "Nebraska, Chase County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5700501",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5700501.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 40.41833
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -101.37128
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 574
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 898
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Denver"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

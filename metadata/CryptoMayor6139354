@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6139354",
+    "name": "Salisbury, Canada",
+    "description": "New Brunswick",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6139354",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6139354.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 46.03905
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -65.04628
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1534
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 45
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Moncton"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Canada"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "CA",
+    "altnames": null
+}

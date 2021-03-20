@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor11584022",
+    "name": "El Pueblito, Mexico",
+    "description": "Veracruz",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor11584022",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor11584022.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.88639
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -96.96946
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 8078
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 936
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "El Pueblito,El Pueblito (Crucero Nacional)"
+}

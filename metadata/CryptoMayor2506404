@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2506404",
+    "name": "Arris, Algeria",
+    "description": "Batna",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2506404",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2506404.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 35.25881
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 6.34706
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 36641
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1205
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Africa/Algiers"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Algeria"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AF"
+        }
+    ],
+    "country_code": "DZ",
+    "altnames": "Arris"
+}

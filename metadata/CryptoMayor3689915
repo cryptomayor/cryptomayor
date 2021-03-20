@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3689915",
+    "name": "Ancuya, Colombia",
+    "description": "Nari\u00f1o, Ancuy\u00e1",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3689915",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3689915.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 1.2633
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -77.51376
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 5852
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1360
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Bogota"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Colombia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "CO",
+    "altnames": "Ancuya"
+}

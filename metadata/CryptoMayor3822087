@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3822087",
+    "name": "Xochapa, Mexico",
+    "description": "Guerrero, Alcozauca de Guerrero",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3822087",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3822087.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 17.38398
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -98.45103
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1565
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1440
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Xochapa"
+}

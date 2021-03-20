@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3995038",
+    "name": "Navarrete, Mexico",
+    "description": "Nayarit, San Blas",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3995038",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3995038.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 21.64841
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -105.11539
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1603
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 72
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mazatlan"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Navarrete"
+}

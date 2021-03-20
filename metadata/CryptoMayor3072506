@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3072506",
+    "name": "Kunice, Czechia",
+    "description": "Central Bohemia, Okres Praha-v\u00fdchod",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3072506",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3072506.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 49.93655
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 14.6715
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 666
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 422
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Prague"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Czechia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "CZ",
+    "altnames": "Kunitz"
+}

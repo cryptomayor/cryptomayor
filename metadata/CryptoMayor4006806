@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4006806",
+    "name": "Empalme, Mexico",
+    "description": "Sonora, Empalme",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4006806",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4006806.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 27.96166
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -110.81411
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 42516
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 7
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Hermosillo"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Empalme"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3712510",
+    "name": "Chepillo, Panama",
+    "description": "Panam\u00e1, Distrito de Chepo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3712510",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3712510.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 8.95396
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -79.12856
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 255
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 8
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Panama"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Panama"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "PA",
+    "altnames": "Chepillo"
+}

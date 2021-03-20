@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor601901",
+    "name": "Vuollerim, Sweden",
+    "description": "Norrbotten, Jokkmokks Kommun",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor601901",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor601901.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 66.43038
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 20.62434
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 683
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 104
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Stockholm"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Sweden"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "SE",
+    "altnames": null
+}

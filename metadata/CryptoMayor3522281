@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3522281",
+    "name": "Otates, Mexico",
+    "description": "Quer\u00e9taro, Landa de Matamoros",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3522281",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3522281.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 21.14538
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -99.21633
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 572
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1295
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Otates"
+}

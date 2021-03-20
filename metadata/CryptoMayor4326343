@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4326343",
+    "name": "Grayson, United States",
+    "description": "Louisiana, Caldwell Parish",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4326343",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4326343.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 32.04988
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -92.1093
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 524
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 52
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Chicago"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": "Emory,Grayson"
+}

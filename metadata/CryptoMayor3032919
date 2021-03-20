@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3032919",
+    "name": "Beuville, France",
+    "description": "Normandy, Calvados",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3032919",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3032919.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 49.24364
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -0.32585
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2311
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 17
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": null
+}

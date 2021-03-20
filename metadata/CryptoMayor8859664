@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8859664",
+    "name": "Ojite Rancho Nuevo, Mexico",
+    "description": "Veracruz, Tuxpan",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8859664",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8859664.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.96944
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -97.52806
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1116
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 37
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "El Ojite,Ojite,Ojite Rancho Nuevo"
+}

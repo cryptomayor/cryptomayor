@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor11634542",
+    "name": "San Antonio Arroyo Zarco, Mexico",
+    "description": "M\u00e9xico",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor11634542",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor11634542.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.08865
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -99.73459
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 919
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2589
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "San Antonio Arroyo Zarco"
+}

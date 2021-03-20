@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor733579",
+    "name": "Aytos, Bulgaria",
+    "description": "Burgas, Obshtina Aytos",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor733579",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor733579.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 42.7
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 27.25
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 20986
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 89
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Sofia"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Bulgaria"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "BG",
+    "altnames": "Aitos,Ajtos,Aytos,\u0410\u0439\u0442\u043e\u0441"
+}

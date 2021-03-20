@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3518008",
+    "name": "San Pedro Cuayuca, Mexico",
+    "description": "Puebla, Cuayuca de Andrade",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3518008",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3518008.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.48214
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -98.18316
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1287
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1226
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Coayuca,Cuayuca,San Pedro,San Pedro Coayuca de Andrade,San Pedro Cuayuca,San Pedro Cuayuca de Andrade"
+}

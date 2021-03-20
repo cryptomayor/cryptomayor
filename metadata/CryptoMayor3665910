@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3665910",
+    "name": "Villarrica, Colombia",
+    "description": "Tolima, Villarrica",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3665910",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3665910.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 3.93502
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -74.60036
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3081
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1133
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Bogota"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Colombia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "CO",
+    "altnames": "Villarrica"
+}

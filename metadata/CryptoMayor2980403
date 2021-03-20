@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2980403",
+    "name": "Sainte-Maure-de-Touraine, France",
+    "description": "Centre, Indre-et-Loire",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2980403",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2980403.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.1113
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 0.62236
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 4084
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 78
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Maure-Libre,Sainte-Maure,Sainte-Maure-de-Touraine"
+}

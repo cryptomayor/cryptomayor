@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4027173",
+    "name": "Pineda, Mexico",
+    "description": "Guerrero, Coyuca de Catal\u00e1n",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4027173",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4027173.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.28961
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -100.85611
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 925
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 365
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Pineda"
+}

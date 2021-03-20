@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5008861",
+    "name": "Sand Lake, United States",
+    "description": "Michigan, Iosco County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5008861",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5008861.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 44.31918
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -83.6847
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1412
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 243
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Detroit"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

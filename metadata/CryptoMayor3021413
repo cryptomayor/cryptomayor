@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3021413",
+    "name": "Dienville, France",
+    "description": "Grand Est, Aube",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3021413",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3021413.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 48.35
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 4.53333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 771
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 129
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Dienville"
+}

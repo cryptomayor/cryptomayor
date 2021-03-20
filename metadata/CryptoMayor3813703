@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3813703",
+    "name": "Cerritos, Mexico",
+    "description": "Hidalgo, Ixmiquilpan",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3813703",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3813703.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.53711
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -99.18388
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 894
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1762
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Cerritos"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3515343",
+    "name": "Tlayacapan, Mexico",
+    "description": "Morelos, Tlayacapan",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3515343",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3515343.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.95556
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -98.98111
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 7989
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1637
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Tlayacapan"
+}

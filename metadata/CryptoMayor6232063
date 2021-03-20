@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6232063",
+    "name": "Wiri, New Zealand",
+    "description": "Auckland, Auckland",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6232063",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6232063.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -36.9982
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 174.86019
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3768
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 23
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Pacific/Auckland"
+        },
+        {
+            "trait_type": "Country",
+            "value": "New Zealand"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "NZ",
+    "altnames": null
+}

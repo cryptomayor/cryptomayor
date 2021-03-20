@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor7315246",
+    "name": "Ocean Pointe, United States",
+    "description": "Hawaii, Honolulu County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor7315246",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor7315246.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 21.31066
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -158.03638
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 8361
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 7
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Pacific/Honolulu"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

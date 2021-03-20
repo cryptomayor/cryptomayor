@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3743324",
+    "name": "Paric, Peru",
+    "description": "Cajamarca, Provincia de Cutervo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3743324",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3743324.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -6.28356
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -79.13409
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 553
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1972
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Lima"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Peru"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "PE",
+    "altnames": null
+}

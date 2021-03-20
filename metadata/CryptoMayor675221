@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor675221",
+    "name": "Jimbor, Romania",
+    "description": "Bistri\u0163a-N\u0103s\u0103ud, Comuna Chiochi\u015f",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor675221",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor675221.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 46.92628
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 24.20868
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 615
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 368
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": null
+}

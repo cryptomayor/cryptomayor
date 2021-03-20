@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3813407",
+    "name": "Texoloc, Mexico",
+    "description": "Hidalgo, Xochiatipan",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3813407",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3813407.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.9173
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -98.25334
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 950
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 415
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Texoloc"
+}

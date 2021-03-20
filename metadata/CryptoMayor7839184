@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor7839184",
+    "name": "Makata, Malawi",
+    "description": "Southern Region, Blantyre District",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor7839184",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor7839184.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -15.78721
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 35.03046
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 0
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1085
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Africa/Blantyre"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Malawi"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AF"
+        }
+    ],
+    "country_code": "MW",
+    "altnames": null
+}

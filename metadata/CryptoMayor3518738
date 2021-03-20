@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3518738",
+    "name": "San Juan Atenco, Mexico",
+    "description": "Puebla, San Juan Atenco",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3518738",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3518738.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.0867
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -97.54074
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1977
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2453
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Atenco,San Juan,San Juan Atenco"
+}

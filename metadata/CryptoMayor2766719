@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2766719",
+    "name": "Sankt Georgen, Austria",
+    "description": "Carinthia, Villach Stadt",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2766719",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2766719.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 46.63333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 13.8
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 983
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 661
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Vienna"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Austria"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "AT",
+    "altnames": null
+}

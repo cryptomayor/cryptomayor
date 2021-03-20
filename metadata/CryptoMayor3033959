@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3033959",
+    "name": "Beauvoisin, France",
+    "description": "Occitanie, Gard",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3033959",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3033959.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 43.71869
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 4.32298
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3426
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 84
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Beauvoisin"
+}

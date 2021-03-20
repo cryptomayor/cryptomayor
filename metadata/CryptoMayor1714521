@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor1714521",
+    "name": "Dolo, Philippines",
+    "description": "Davao, Province of Davao del Sur",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor1714521",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor1714521.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 6.81028
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 125.19167
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3973
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 177
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Asia/Manila"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Philippines"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AS"
+        }
+    ],
+    "country_code": "PH",
+    "altnames": "Dolo"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3102686",
+    "name": "Bralin, Poland",
+    "description": "Greater Poland, Powiat k\u0119pi\u0144ski",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3102686",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3102686.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 51.28581
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 17.90325
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2500
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 181
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Warsaw"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Poland"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "PL",
+    "altnames": null
+}

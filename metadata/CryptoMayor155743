@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor155743",
+    "name": "Lugoba, Tanzania",
+    "description": "Pwani, Bagamoyo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor155743",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor155743.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -6.45
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 38.33333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 16902
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 250
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Africa/Dar_es_Salaam"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Tanzania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AF"
+        }
+    ],
+    "country_code": "TZ",
+    "altnames": "Lugoba"
+}

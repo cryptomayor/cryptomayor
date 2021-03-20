@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3627047",
+    "name": "Santa Teresa del Tuy, Venezuela",
+    "description": "Miranda",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3627047",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3627047.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 10.23291
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -66.66474
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 278890
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 135
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Caracas"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Venezuela"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "VE",
+    "altnames": "Santa Teresa,Santa Teresa del Tuy"
+}

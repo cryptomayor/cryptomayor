@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2657889",
+    "name": "Zuzwil, Switzerland",
+    "description": "Saint Gallen, Wahlkreis Wil",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2657889",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2657889.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.47452
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 9.11196
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 4226
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 533
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Zurich"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Switzerland"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "CH",
+    "altnames": "Zuzwil,Zuzwil SG"
+}

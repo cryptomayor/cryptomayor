@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3667247",
+    "name": "Teruel, Colombia",
+    "description": "Huila, Teruel",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3667247",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3667247.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 2.74193
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -75.56738
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3921
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 875
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Bogota"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Colombia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "CO",
+    "altnames": "Retiro,Teruel"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8860428",
+    "name": "Francisco Villa (El Retiro), Mexico",
+    "description": "Nayarit, Rosamorada",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8860428",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8860428.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 22.22056
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -105.32917
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 861
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 4
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mazatlan"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Francisco Villa (El Retiro)"
+}

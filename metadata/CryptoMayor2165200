@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2165200",
+    "name": "Glenroy, Australia",
+    "description": "Victoria, Moreland",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2165200",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2165200.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -37.7
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 144.93333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 22127
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 102
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Melbourne"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": null
+}

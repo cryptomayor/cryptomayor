@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8859112",
+    "name": "Colonia Palma, Mexico",
+    "description": "M\u00e9xico, Isidro Fabela",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8859112",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8859112.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.56444
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -99.42417
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1459
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2977
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Colonia Palma"
+}

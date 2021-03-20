@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3072654",
+    "name": "Krnsko, Czechia",
+    "description": "Central Bohemia, Okres Mlad\u00e1 Boleslav",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3072654",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3072654.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 50.37241
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 14.86304
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 503
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 215
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Prague"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Czechia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "CZ",
+    "altnames": "Horni Krnsko,Horn\u00ed Krnsko"
+}

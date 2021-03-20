@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3022014",
+    "name": "Curvalle, France",
+    "description": "Occitanie, Tarn",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3022014",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3022014.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 43.92715
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 2.54454
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 519
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 342
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Curvalle"
+}

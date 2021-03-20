@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3008682",
+    "name": "Laignes, France",
+    "description": "Bourgogne-Franche-Comt\u00e9, Cote d'Or",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3008682",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3008682.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.84283
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 4.36478
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 910
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 213
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Laignes"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2986442",
+    "name": "Pomas, France",
+    "description": "Occitanie, Aude",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2986442",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2986442.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 43.11174
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 2.29158
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 703
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 166
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Pomas"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3515946",
+    "name": "Teocelo, Mexico",
+    "description": "Veracruz, Teocelo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3515946",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3515946.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.3856
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -96.97371
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 9967
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1189
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Teocelo"
+}

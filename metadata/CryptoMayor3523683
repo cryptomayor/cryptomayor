@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3523683",
+    "name": "Malinaltepec, Mexico",
+    "description": "Guerrero, Malinaltepec",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3523683",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3523683.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 17.24501
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -98.67091
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1187
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1522
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Malinaltepec"
+}

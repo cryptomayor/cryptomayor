@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3837960",
+    "name": "San Basilio, Argentina",
+    "description": "Cordoba, Departamento de R\u00edo Cuarto",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3837960",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3837960.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -33.49763
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -64.31495
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2882
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 303
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Argentina/Cordoba"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Argentina"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "AR",
+    "altnames": "San Basilio"
+}

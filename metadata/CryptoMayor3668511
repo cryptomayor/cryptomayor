@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3668511",
+    "name": "Santa Rosa, Colombia",
+    "description": "Cauca, Santa Rosa",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3668511",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3668511.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 1.70267
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -76.57389
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 0
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1727
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Bogota"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Colombia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "CO",
+    "altnames": "Santa Rosa"
+}

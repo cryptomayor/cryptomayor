@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8862114",
+    "name": "El Cacalote, Mexico",
+    "description": "Jalisco, El Grullo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8862114",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8862114.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.84417
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -104.28083
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 603
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 932
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "El Cacalote"
+}

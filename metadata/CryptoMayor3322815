@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3322815",
+    "name": "Walserfeld, Austria",
+    "description": "Salzburg, Politischer Bezirk Salzburg-Umgebung",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3322815",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3322815.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.79222
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 12.98
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1050
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 438
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Vienna"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Austria"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "AT",
+    "altnames": null
+}

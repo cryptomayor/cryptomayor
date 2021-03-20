@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor818487",
+    "name": "Vorotynsk, Russia",
+    "description": "Kaluga",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor818487",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor818487.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 54.42828
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 36.04646
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 10977
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 134
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Moscow"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Russia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RU",
+    "altnames": "Vorotynsk"
+}

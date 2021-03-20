@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4568683",
+    "name": "Villalba, Puerto Rico",
+    "description": "Villalba, Villalba Barrio-Pueblo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4568683",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4568683.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.12718
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -66.49212
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 4555
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 159
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Puerto_Rico"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Puerto Rico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "PR",
+    "altnames": null
+}

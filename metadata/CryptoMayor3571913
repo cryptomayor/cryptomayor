@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3571913",
+    "name": "Marsh Harbour, Bahamas",
+    "description": "Central Abaco",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3571913",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3571913.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 26.54124
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -77.0636
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 5314
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 4
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Nassau"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Bahamas"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "BS",
+    "altnames": "MHH,Marsh Harbour"
+}

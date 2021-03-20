@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor752188",
+    "name": "Alanyurt, Turkey",
+    "description": "Bursa",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor752188",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor752188.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 40.10881
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 29.51871
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2138
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 323
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Istanbul"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Turkey"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AS"
+        }
+    ],
+    "country_code": "TR",
+    "altnames": "Adabinli,Alanyurt"
+}

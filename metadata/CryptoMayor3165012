@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3165012",
+    "name": "Uzzano, Italy",
+    "description": "Tuscany, Provincia di Pistoia",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3165012",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3165012.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 43.89728
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 10.70403
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 152
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 254
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "Uzzano"
+}

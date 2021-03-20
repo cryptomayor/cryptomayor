@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2599289",
+    "name": "Alunda, Sweden",
+    "description": "Uppsala, \u00d6sthammars Kommun",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2599289",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2599289.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 60.26667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 18.4
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2224
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 13
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Stockholm"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Sweden"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "SE",
+    "altnames": "Alunda"
+}

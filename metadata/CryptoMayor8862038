@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8862038",
+    "name": "Lomas de Monterrey, Mexico",
+    "description": "Sinaloa, Mazatl\u00e1n",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8862038",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8862038.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 23.25472
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -106.25667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 612
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 38
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mazatlan"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Lomas de Monterrey"
+}

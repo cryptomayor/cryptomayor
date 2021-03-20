@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2960420",
+    "name": "Huncherange, Luxembourg",
+    "description": "Esch-sur-Alzette, Bettembourg",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2960420",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2960420.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 49.51694
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 6.065
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 615
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 273
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Luxembourg"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Luxembourg"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "LU",
+    "altnames": "Huncherange"
+}

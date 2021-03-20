@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3933986",
+    "name": "Orcopampa, Peru",
+    "description": "Arequipa, Provincia de Castilla",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3933986",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3933986.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -15.26611
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -72.34167
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 5643
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 3790
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Lima"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Peru"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "PE",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5100246",
+    "name": "Lake Telemark, United States",
+    "description": "New Jersey, Morris County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5100246",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5100246.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 40.95677
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -74.49793
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1255
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 222
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/New_York"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

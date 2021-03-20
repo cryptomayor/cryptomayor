@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3467760",
+    "name": "Campo Formoso, Brazil",
+    "description": "Bahia, Campo Formoso",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3467760",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3467760.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -10.5075
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -40.32139
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 23920
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 580
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Bahia"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Brazil"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "BR",
+    "altnames": null
+}

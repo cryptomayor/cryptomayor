@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor730919",
+    "name": "Ihtiman, Bulgaria",
+    "description": "Sofia, Ihtiman",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor730919",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor730919.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 42.43333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 23.81667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 14154
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 636
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Sofia"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Bulgaria"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "BG",
+    "altnames": "Ichtiman,Ihtiman,Ikhitman,Ikhtiman,\u0418\u0445\u0442\u0438\u043c\u0430\u043d"
+}

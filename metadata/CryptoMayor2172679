@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2172679",
+    "name": "Cambooya, Australia",
+    "description": "Queensland, Toowoomba",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2172679",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2172679.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -27.71454
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 151.86029
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1545
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 464
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Brisbane"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": "Cambooya"
+}

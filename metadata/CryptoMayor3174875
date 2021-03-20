@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3174875",
+    "name": "Leonessa, Italy",
+    "description": "Latium, Provincia di Rieti",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3174875",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3174875.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 42.56855
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 12.95996
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1118
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 953
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "Leonessa"
+}

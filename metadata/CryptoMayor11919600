@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor11919600",
+    "name": "Oberstra\u00df, Austria",
+    "description": "Upper Austria, Politischer Bezirk V\u00f6cklabruck",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor11919600",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor11919600.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 48.00389
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 13.7097
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 766
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 399
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Vienna"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Austria"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "AT",
+    "altnames": "Oberstrass"
+}

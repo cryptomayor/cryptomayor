@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3030010",
+    "name": "Brion, France",
+    "description": "Bourgogne-Franche-Comt\u00e9, Yonne",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3030010",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3030010.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.99606
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 3.48008
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 625
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 124
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Brion"
+}

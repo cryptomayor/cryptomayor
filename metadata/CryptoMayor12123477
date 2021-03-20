@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor12123477",
+    "name": "Zonno, Ghana",
+    "description": "Upper East, Bolgatanga Municipal District",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor12123477",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor12123477.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 10.78442
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -0.78449
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2000
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 216
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Africa/Accra"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Ghana"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AF"
+        }
+    ],
+    "country_code": "GH",
+    "altnames": null
+}

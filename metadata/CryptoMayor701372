@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor701372",
+    "name": "Mena, Ukraine",
+    "description": "Chernihiv",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor701372",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor701372.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 51.5217
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 32.21568
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 12766
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 129
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Kiev"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Ukraine"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "UA",
+    "altnames": "Mena,\u041c\u0435\u043d\u0430"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3021233",
+    "name": "Domancy, France",
+    "description": "Auvergne-Rh\u00f4ne-Alpes, Haute-Savoie",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3021233",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3021233.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 45.91205
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 6.65271
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1904
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 554
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Domancy"
+}

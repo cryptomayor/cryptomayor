@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2782248",
+    "name": "Au an der Donau, Austria",
+    "description": "Upper Austria, Politischer Bezirk Perg",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2782248",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2782248.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 48.22879
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 14.58323
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 900
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 237
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Vienna"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Austria"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "AT",
+    "altnames": "Au,Au an der Donau"
+}

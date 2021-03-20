@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor754400",
+    "name": "Zabawa, Poland",
+    "description": "Lesser Poland, Powiat tarnowski",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor754400",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor754400.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 50.12041
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 20.82244
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 920
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 179
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Warsaw"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Poland"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "PL",
+    "altnames": null
+}

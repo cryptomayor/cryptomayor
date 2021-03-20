@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3471068",
+    "name": "Praia do Baixio, Brazil",
+    "description": "Bahia, Esplanada",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3471068",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3471068.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -12.10599
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -37.69413
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 750
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 5
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Bahia"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Brazil"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "BR",
+    "altnames": null
+}

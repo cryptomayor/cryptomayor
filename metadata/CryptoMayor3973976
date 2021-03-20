@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3973976",
+    "name": "El Charquito, Mexico",
+    "description": "San Luis Potos\u00ed, Villa de Arista",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3973976",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3973976.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 22.62783
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -100.69299
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 567
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1550
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": null
+}

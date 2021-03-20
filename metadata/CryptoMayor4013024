@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4013024",
+    "name": "Concordia, Mexico",
+    "description": "Coahuila, San Pedro",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4013024",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4013024.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 25.77982
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -103.11696
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 7858
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1108
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Monterrey"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Concordia"
+}

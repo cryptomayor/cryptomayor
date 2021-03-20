@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6535462",
+    "name": "Farigliano, Italy",
+    "description": "Piedmont, Provincia di Cuneo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6535462",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6535462.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 44.51204
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 7.91424
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1043
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 265
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": null
+}

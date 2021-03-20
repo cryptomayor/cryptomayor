@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8950171",
+    "name": "San Biagio, Italy",
+    "description": "Piedmont, Provincia di Cuneo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8950171",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8950171.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 44.48176
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 7.61065
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 569
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 423
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "San Biagio"
+}

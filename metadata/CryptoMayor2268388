@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2268388",
+    "name": "Faial, Portugal",
+    "description": "Madeira, Santana",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2268388",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2268388.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 32.78333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -16.85
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1567
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": -128
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Atlantic/Madeira"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Portugal"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "PT",
+    "altnames": "Faial"
+}

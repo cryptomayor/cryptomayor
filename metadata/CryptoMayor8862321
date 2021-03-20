@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8862321",
+    "name": "Mexiquito, Mexico",
+    "description": "Chiapas, Las Margaritas",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8862321",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8862321.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 16.46806
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -91.96611
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 581
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1655
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Mexiquito"
+}

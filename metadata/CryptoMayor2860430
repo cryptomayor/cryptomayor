@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2860430",
+    "name": "Oberhausen, Germany",
+    "description": "Bavaria, Upper Bavaria",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2860430",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2860430.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.78333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 11.13333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2094
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 588
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Berlin"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Germany"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "DE",
+    "altnames": null
+}

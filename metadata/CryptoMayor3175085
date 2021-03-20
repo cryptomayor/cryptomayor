@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3175085",
+    "name": "Serra, Italy",
+    "description": "Tuscany, Provincia di Prato",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3175085",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3175085.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 43.80269
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 11.03053
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 714
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 125
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": null
+}

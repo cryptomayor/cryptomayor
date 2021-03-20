@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3522617",
+    "name": "Nueva Ciudad Guerrero, Mexico",
+    "description": "Tamaulipas, Guerrero",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3522617",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3522617.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 26.56219
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -99.22863
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 4312
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 108
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Monterrey"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Ciudad Nueva Guerrero,Nueva Ciudad Guerrero"
+}

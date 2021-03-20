@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2704999",
+    "name": "Horn, Sweden",
+    "description": "V\u00e4stmanland, V\u00e4ster\u00e5s",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2704999",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2704999.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 59.5
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 16.28333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 547
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 23
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Stockholm"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Sweden"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "SE",
+    "altnames": "Horn"
+}

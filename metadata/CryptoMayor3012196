@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3012196",
+    "name": "Jourgnac, France",
+    "description": "Nouvelle-Aquitaine, Haute-Vienne",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3012196",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3012196.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 45.71926
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 1.21346
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 781
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 365
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Jourgnac"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4024210",
+    "name": "El Jaralillo, Mexico",
+    "description": "Guanajuato, Santa Cruz de Juventino Rosas",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4024210",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4024210.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.66515
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -100.97739
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 764
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1788
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "El Jaralillo,Jaralillo"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor12156872",
+    "name": "Thorncliffe Park, Canada",
+    "description": "Ontario, Toronto county",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor12156872",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor12156872.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 43.70775
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -79.34998
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 21108
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 128
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Toronto"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Canada"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "CA",
+    "altnames": null
+}

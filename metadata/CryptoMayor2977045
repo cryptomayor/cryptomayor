@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2977045",
+    "name": "Saint-Sauveur, France",
+    "description": "Nouvelle-Aquitaine, Dordogne",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2977045",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2977045.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 44.86845
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 0.58605
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 639
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 110
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Saint-Sauveur"
+}

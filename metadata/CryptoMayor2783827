@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2783827",
+    "name": "Werm, Belgium",
+    "description": "Flanders, Provincie Limburg",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2783827",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2783827.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 50.83261
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 5.4796
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 700
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 89
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Brussels"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Belgium"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "BE",
+    "altnames": "Hoeselt (Werm)"
+}

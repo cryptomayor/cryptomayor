@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8949574",
+    "name": "Passo del Bidollo, Italy",
+    "description": "The Marches, Provincia di Macerata",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8949574",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8949574.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 43.24861
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 13.42346
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 891
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 127
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "Passo del Bidollo"
+}

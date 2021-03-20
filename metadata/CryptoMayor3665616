@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3665616",
+    "name": "Zambrano, Colombia",
+    "description": "Bol\u00edvar",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3665616",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3665616.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 9.7474
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -74.81572
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 9565
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 16
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Bogota"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Colombia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "CO",
+    "altnames": "Zambrano"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2649432",
+    "name": "Findon, United Kingdom",
+    "description": "England, West Sussex",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2649432",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2649432.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 50.86816
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -0.40735
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1886
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 56
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/London"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United Kingdom"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "GB",
+    "altnames": null
+}

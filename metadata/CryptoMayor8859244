@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8859244",
+    "name": "San Antonio el Paso, Mexico",
+    "description": "Hidalgo, Omitl\u00e1n de Ju\u00e1rez",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8859244",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8859244.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.14722
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -98.61611
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1348
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2614
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "San Antonio el Paso"
+}

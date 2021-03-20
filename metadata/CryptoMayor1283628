@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor1283628",
+    "name": "Bhadrapur, Nepal",
+    "description": "Province 1, Jhapa",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor1283628",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor1283628.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 26.54404
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 88.09436
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 19523
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 91
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Asia/Kathmandu"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Nepal"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AS"
+        }
+    ],
+    "country_code": "NP",
+    "altnames": "BDP,Bhadrapur"
+}

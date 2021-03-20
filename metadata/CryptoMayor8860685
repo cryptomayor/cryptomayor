@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8860685",
+    "name": "La Virgen, Mexico",
+    "description": "Guanajuato, Salvatierra",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8860685",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8860685.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.14202
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -100.90445
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 802
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1826
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "La Virgen"
+}

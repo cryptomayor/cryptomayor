@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3689952",
+    "name": "Anaime, Colombia",
+    "description": "Tolima, Cajamarca",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3689952",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3689952.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 4.39639
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -75.445
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 25715
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1818
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Bogota"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Colombia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "CO",
+    "altnames": null
+}

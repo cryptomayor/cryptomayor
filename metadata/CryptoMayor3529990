@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3529990",
+    "name": "Cuautepec, Mexico",
+    "description": "Puebla, Tlacuilotepec",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3529990",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3529990.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.33901
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -98.04204
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 957
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1146
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Cuantepec,Cuautepec"
+}

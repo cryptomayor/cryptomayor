@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2694720",
+    "name": "Linneryd, Sweden",
+    "description": "J\u00f6nk\u00f6ping, Vaggeryds Kommun",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2694720",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2694720.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 57.4
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 14.15
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 541
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 184
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Stockholm"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Sweden"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "SE",
+    "altnames": "Linneryd"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3972978",
+    "name": "El Baluarte, Mexico",
+    "description": "Zacatecas, Fresnillo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3972978",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3972978.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 23.40345
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -103.03565
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 980
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2087
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Baluarte,El Baluarte"
+}

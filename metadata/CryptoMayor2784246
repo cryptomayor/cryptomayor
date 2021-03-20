@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2784246",
+    "name": "Waardamme, Belgium",
+    "description": "Flanders, Provincie West-Vlaanderen",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2784246",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2784246.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 51.11136
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 3.22288
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2103
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 12
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Brussels"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Belgium"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "BE",
+    "altnames": "Waardamme,Waerdamme"
+}

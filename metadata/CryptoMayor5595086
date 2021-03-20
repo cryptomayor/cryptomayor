@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5595086",
+    "name": "Hansen, United States",
+    "description": "Idaho, Twin Falls County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5595086",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5595086.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 42.53068
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -114.30101
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1249
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1228
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Boise"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

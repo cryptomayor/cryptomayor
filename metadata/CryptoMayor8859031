@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8859031",
+    "name": "Unidad Habitacional 10 de Abril, Mexico",
+    "description": "Morelos, Ayala",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8859031",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8859031.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.75444
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -98.91611
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1531
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1293
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Unidad Habitacional 10 de Abril"
+}

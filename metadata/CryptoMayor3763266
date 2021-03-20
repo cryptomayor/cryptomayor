@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3763266",
+    "name": "Las Palmas, Peru",
+    "description": "San Mart\u00edn, Provincia de San Mart\u00edn",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3763266",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3763266.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -6.52741
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -76.3431
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 942
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 247
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Lima"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Peru"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "PE",
+    "altnames": "Las Palmas"
+}

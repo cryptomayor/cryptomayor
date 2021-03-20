@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4404151",
+    "name": "Polo, United States",
+    "description": "Missouri, Caldwell County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4404151",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4404151.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 39.55223
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -94.04077
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 540
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 313
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Chicago"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

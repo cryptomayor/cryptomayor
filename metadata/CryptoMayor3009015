@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3009015",
+    "name": "La Grand-Croix, France",
+    "description": "Auvergne-Rh\u00f4ne-Alpes, Loire",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3009015",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3009015.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 45.50383
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 4.55915
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 5045
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 301
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "La Grand-Croix"
+}

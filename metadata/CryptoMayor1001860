@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor1001860",
+    "name": "Giyani, South Africa",
+    "description": "Limpopo, Mopani District Municipality",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor1001860",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor1001860.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -23.30246
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 30.71868
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 37024
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 484
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Africa/Johannesburg"
+        },
+        {
+            "trait_type": "Country",
+            "value": "South Africa"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AF"
+        }
+    ],
+    "country_code": "ZA",
+    "altnames": "GIY,Giyane,Giyani"
+}

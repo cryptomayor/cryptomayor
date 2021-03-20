@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor12070137",
+    "name": "Robertville, Canada",
+    "description": "New Brunswick, Gloucester County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor12070137",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor12070137.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.69624
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -65.77344
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 937
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 60
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Moncton"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Canada"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "CA",
+    "altnames": null
+}

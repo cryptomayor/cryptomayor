@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3992838",
+    "name": "Peyote, Mexico",
+    "description": "San Luis Potos\u00ed, Guadalc\u00e1zar",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3992838",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3992838.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 22.65512
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -100.60528
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 520
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1527
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": null
+}

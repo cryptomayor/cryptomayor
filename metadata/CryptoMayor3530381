@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3530381",
+    "name": "Comalteco, Mexico",
+    "description": "Veracruz, Espinal",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3530381",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3530381.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.24863
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -97.47138
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 842
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 68
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Comalteco"
+}

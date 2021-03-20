@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8950058",
+    "name": "Rocchetta Nuova, Italy",
+    "description": "Molise, Provincia di Isernia",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8950058",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8950058.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 41.62375
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 14.08574
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 608
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 555
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "Rocchetta Nuova"
+}

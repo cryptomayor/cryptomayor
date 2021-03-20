@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3616794",
+    "name": "San Jorge, Nicaragua",
+    "description": "Rivas",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3616794",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3616794.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 11.45584
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -85.80308
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 7158
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 54
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Managua"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Nicaragua"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "NI",
+    "altnames": "San Jorge"
+}

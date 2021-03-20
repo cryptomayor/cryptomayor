@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3168625",
+    "name": "Saltara, Italy",
+    "description": "The Marches, Provincia di Pesaro e Urbino",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3168625",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3168625.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 43.75252
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 12.89853
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 761
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 136
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "Saltara"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8650509",
+    "name": "Popoctepetl, Mexico",
+    "description": "Veracruz, Santiago Tuxtla",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8650509",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8650509.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.51264
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -95.3159
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 547
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 456
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Popoctepetl"
+}

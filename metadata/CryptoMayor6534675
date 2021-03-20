@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6534675",
+    "name": "Castel di Lama, Italy",
+    "description": "The Marches, Provincia di Ascoli Piceno",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6534675",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6534675.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 42.86435
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 13.71929
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 7216
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 81
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": null
+}

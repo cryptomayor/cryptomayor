@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3994544",
+    "name": "Obrajuelo, Mexico",
+    "description": "Guanajuato, Apaseo el Grande",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3994544",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3994544.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.59371
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -100.55918
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2932
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1809
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Obrajuelo"
+}

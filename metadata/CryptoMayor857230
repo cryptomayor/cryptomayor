@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor857230",
+    "name": "Muratbey, Turkey",
+    "description": "Istanbul",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor857230",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor857230.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 41.0963
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 28.49227
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2164
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 76
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Istanbul"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Turkey"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AS"
+        }
+    ],
+    "country_code": "TR",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2726026",
+    "name": "Anderstorp, Sweden",
+    "description": "V\u00e4stra G\u00f6taland, Gullsp\u00e5ngs Kommun",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2726026",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2726026.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 58.88333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 14.28333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 4987
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 157
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Stockholm"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Sweden"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "SE",
+    "altnames": "Anderstorp"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2621471",
+    "name": "Gilleleje, Denmark",
+    "description": "Capital Region, Gribskov Kommune",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2621471",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2621471.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 56.12196
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 12.31056
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 5799
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 14
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Copenhagen"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Denmark"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "DK",
+    "altnames": "Gilleje,Gilleleje"
+}

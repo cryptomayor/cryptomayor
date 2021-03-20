@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8860136",
+    "name": "Pozolapa, Mexico",
+    "description": "Guerrero, Ayutla de los Libres",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8860136",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8860136.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 16.87833
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -99.10361
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 934
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 207
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Pozolapa"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3684510",
+    "name": "El Cocuy, Colombia",
+    "description": "Boyac\u00e1, El Cocuy",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3684510",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3684510.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 6.41151
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -72.44876
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2706
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2646
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Bogota"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Colombia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "CO",
+    "altnames": "Cocuy,El Cocuy"
+}

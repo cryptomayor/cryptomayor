@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3527029",
+    "name": "Huajintepec, Mexico",
+    "description": "Oaxaca",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3527029",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3527029.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 16.61003
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -98.23028
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2567
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 333
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Guajintepec,Huajintepec"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3979727",
+    "name": "Zapotiltic, Mexico",
+    "description": "Jalisco, Zapotiltic",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3979727",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3979727.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.62749
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -103.41752
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 22833
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1318
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Zapotiltic"
+}

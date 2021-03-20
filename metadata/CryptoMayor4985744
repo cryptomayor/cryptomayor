@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4985744",
+    "name": "Berkley, United States",
+    "description": "Michigan, Oakland County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4985744",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4985744.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 42.50309
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -83.18354
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 15268
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 209
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Detroit"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

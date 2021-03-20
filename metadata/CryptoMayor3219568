@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3219568",
+    "name": "Limana, Italy",
+    "description": "Veneto, Provincia di Belluno",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3219568",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3219568.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 46.10039
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 12.18552
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3128
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 361
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "Limana"
+}

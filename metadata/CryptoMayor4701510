@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4701510",
+    "name": "Jones Creek, United States",
+    "description": "Texas, Brazoria County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4701510",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4701510.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 28.96858
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -95.45522
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2074
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 8
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Chicago"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

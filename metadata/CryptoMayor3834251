@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3834251",
+    "name": "Toledo, Argentina",
+    "description": "Cordoba, Departamento de Santa Mar\u00eda",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3834251",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3834251.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -31.55574
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -64.00947
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3046
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 371
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Argentina/Cordoba"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Argentina"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "AR",
+    "altnames": "Toledo"
+}

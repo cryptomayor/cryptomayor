@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor10295350",
+    "name": "San Carlo All'Arena, Italy",
+    "description": "Campania",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor10295350",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor10295350.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 40.86511
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 14.26291
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 69094
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 49
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": null
+}

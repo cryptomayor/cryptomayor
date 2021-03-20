@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2782434",
+    "name": "Ardning, Austria",
+    "description": "Styria, Politischer Bezirk Liezen",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2782434",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2782434.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.5912
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 14.36372
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 797
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 664
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Vienna"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Austria"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "AT",
+    "altnames": "Ardning"
+}

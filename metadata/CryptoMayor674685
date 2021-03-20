@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor674685",
+    "name": "Livada, Romania",
+    "description": "Arad, Comuna Livada",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor674685",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor674685.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 46.22284
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 21.38403
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2840
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 111
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": "Baumgarten,Fachert,Fakert,Livada"
+}

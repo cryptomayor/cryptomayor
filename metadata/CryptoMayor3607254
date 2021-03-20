@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3607254",
+    "name": "La Paz, Honduras",
+    "description": "La Paz",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3607254",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3607254.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 14.31944
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -87.67917
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 17555
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 688
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Tegucigalpa"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Honduras"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "HN",
+    "altnames": "La Paz"
+}

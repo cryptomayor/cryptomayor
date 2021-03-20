@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5189888",
+    "name": "Flying Hills, United States",
+    "description": "Pennsylvania, Berks County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5189888",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5189888.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 40.27676
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -75.9141
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2568
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 126
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/New_York"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

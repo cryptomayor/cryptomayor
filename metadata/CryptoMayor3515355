@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3515355",
+    "name": "Tlaxco (Santiago Tlaxco), Mexico",
+    "description": "Puebla, Chiconcuautla",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3515355",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3515355.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.05788
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -97.96249
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1695
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1419
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Taxco,Tlaxco"
+}

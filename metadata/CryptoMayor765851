@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor765851",
+    "name": "Luborzyca, Poland",
+    "description": "Lesser Poland, Powiat krakowski",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor765851",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor765851.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 50.13582
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 20.11425
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 590
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 292
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Warsaw"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Poland"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "PL",
+    "altnames": null
+}

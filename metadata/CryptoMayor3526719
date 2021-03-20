@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3526719",
+    "name": "Ixculculla, Mexico",
+    "description": "Hidalgo, Molango de Escamilla",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3526719",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3526719.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.96089
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -98.84359
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 519
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1234
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Ixcuicuila,Ixculculla,Izcuicuila"
+}

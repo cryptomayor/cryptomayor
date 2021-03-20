@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2971202",
+    "name": "Vacquiers, France",
+    "description": "Occitanie, Upper Garonne",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2971202",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2971202.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 43.77667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 1.48127
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1161
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 187
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Vacquiers"
+}

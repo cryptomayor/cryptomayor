@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5218361",
+    "name": "Weedville, United States",
+    "description": "Pennsylvania, Elk County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5218361",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5218361.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 41.27673
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -78.49169
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 542
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 357
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/New_York"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

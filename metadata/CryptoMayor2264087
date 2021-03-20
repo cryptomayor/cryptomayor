@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2264087",
+    "name": "Ramada, Portugal",
+    "description": "Lisbon, Odivelas",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2264087",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2264087.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 38.80368
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -9.1877
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 17535
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 116
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Lisbon"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Portugal"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "PT",
+    "altnames": "Ramada"
+}

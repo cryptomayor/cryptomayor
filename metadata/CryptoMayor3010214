@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3010214",
+    "name": "La Chapelle-Yvon, France",
+    "description": "Normandy, Calvados",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3010214",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3010214.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 49.06381
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 0.33945
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 523
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 95
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "La Chapelle,La Chapelle-Yvon"
+}

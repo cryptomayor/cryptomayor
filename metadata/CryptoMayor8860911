@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8860911",
+    "name": "Cumbre Ventanas, Mexico",
+    "description": "Chiapas, Siltepec",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8860911",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8860911.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 15.55092
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -92.29961
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 763
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2366
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Cumbre Ventanas"
+}

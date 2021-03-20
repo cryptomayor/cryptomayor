@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2905502",
+    "name": "Herzberg, Germany",
+    "description": "Brandenburg",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2905502",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2905502.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 52.90269
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 12.96979
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 726
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 47
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Berlin"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Germany"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "DE",
+    "altnames": null
+}

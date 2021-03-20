@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3180827",
+    "name": "Cannalonga, Italy",
+    "description": "Campania, Provincia di Salerno",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3180827",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3180827.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 40.24461
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 15.29325
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1002
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 547
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "Cannalonga"
+}

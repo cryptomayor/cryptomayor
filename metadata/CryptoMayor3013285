@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3013285",
+    "name": "Hilbesheim, France",
+    "description": "Grand Est, Moselle",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3013285",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3013285.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 48.77667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 7.0982
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 529
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 272
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Hilbesheim"
+}

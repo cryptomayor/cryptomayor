@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4017198",
+    "name": "Bellavista, Mexico",
+    "description": "Nayarit, Tepic",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4017198",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4017198.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 21.56236
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -104.88267
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2291
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 783
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mazatlan"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Bellavista"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3433522",
+    "name": "Hurlingham, Argentina",
+    "description": "Buenos Aires, Partido de Hurlingham",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3433522",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3433522.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -34.5904
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -58.62904
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 60000
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 17
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Argentina/Buenos_Aires"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Argentina"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "AR",
+    "altnames": "28 de Septiembre,Hurlingham"
+}

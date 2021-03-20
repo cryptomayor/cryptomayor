@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3711125",
+    "name": "El Chorrillo, Panama",
+    "description": "Panam\u00e1, Distrito de Panam\u00e1",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3711125",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3711125.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 8.94964
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -79.54715
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 18302
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 10
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Panama"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Panama"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "PA",
+    "altnames": "Chorrillo,El Chorrillo"
+}

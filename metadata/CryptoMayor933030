@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor933030",
+    "name": "Tamasane, Botswana",
+    "description": "Central",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor933030",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor933030.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -22.4184
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 27.40127
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1070
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 946
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Africa/Gaborone"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Botswana"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AF"
+        }
+    ],
+    "country_code": "BW",
+    "altnames": "Tamasane"
+}

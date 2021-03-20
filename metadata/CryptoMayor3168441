@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3168441",
+    "name": "San Damiano al Colle, Italy",
+    "description": "Lombardy, Provincia di Pavia",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3168441",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3168441.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 45.02713
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 9.3486
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 560
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 207
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "San Damiano al Colle"
+}

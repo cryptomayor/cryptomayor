@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor12157007",
+    "name": "Santa Anita - Los Ficus, Peru",
+    "description": "Lima region, Lima",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor12157007",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor12157007.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -12.05048
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -76.97335
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 184614
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 233
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Lima"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Peru"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "PE",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3032007",
+    "name": "Bois-le-Roi, France",
+    "description": "Normandy, Eure",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3032007",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3032007.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 48.86223
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 1.34329
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 860
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 131
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Bois,Bois-le-Roi,Bois-le-Roy"
+}

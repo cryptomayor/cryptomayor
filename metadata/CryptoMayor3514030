@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3514030",
+    "name": "Zimapantongo, Mexico",
+    "description": "Hidalgo, Chapantongo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3514030",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3514030.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.23932
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -99.45535
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 738
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2222
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Zimapantongo"
+}

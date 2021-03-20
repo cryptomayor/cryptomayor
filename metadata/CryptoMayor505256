@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor505256",
+    "name": "Primorka, Russia",
+    "description": "Rostov",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor505256",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor505256.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.28395
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 39.06408
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3780
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 24
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Moscow"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Russia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RU",
+    "altnames": "Kosa Kuryacha,Primorka,Primorskoye,\u041f\u0440\u0438\u043c\u043e\u0440\u043a\u0430"
+}

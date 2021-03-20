@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2066680",
+    "name": "McLaren Flat, Australia",
+    "description": "South Australia, Onkaparinga",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2066680",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2066680.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -35.21667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 138.58333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1492
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 93
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Adelaide"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": "McLaren Flat"
+}

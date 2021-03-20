@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3803256",
+    "name": "Agua Blanca, Mexico",
+    "description": "Tabasco, Tacotalpa",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3803256",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3803256.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 17.48584
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -92.6218
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 592
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 40
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Agua Blanca"
+}

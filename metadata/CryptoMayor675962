@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor675962",
+    "name": "Hotaru, Romania",
+    "description": "Olt, Comuna Grojdibodu",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor675962",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor675962.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 43.75386
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 24.2514
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 836
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 47
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": "Hotaru,Hotarul"
+}

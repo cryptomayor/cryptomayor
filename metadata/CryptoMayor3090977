@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3090977",
+    "name": "Nielepice, Poland",
+    "description": "Lesser Poland, Powiat krakowski",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3090977",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3090977.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 50.10836
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 19.7014
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 734
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 288
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Warsaw"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Poland"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "PL",
+    "altnames": null
+}

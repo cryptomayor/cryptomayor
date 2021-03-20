@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3995029",
+    "name": "Navidad, Mexico",
+    "description": "Nuevo Le\u00f3n, Galeana",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3995029",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3995029.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 25.0708
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -100.60201
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 778
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1888
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Monterrey"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Ejido Navidad,Navidad"
+}

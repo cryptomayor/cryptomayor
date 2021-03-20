@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3521010",
+    "name": "Puerto Arista, Mexico",
+    "description": "Chiapas, Tonal\u00e1",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3521010",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3521010.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 15.9345
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -93.80971
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 944
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 9
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Arista,Pueblo Arista,Puerto Arista"
+}

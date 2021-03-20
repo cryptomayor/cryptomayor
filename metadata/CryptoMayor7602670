@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor7602670",
+    "name": "Zhu Cheng City, China",
+    "description": "Shandong",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor7602670",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor7602670.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 35.99502
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 119.40259
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1000000
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 67
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Asia/Shanghai"
+        },
+        {
+            "trait_type": "Country",
+            "value": "China"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AS"
+        }
+    ],
+    "country_code": "CN",
+    "altnames": null
+}

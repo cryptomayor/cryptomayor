@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor683221",
+    "name": "Burla, Romania",
+    "description": "Suceava, Comuna Burla",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor683221",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor683221.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.79033
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 25.92696
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1885
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 428
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": null
+}

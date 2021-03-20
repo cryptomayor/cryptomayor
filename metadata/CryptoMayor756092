@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor756092",
+    "name": "Wawer, Poland",
+    "description": "Mazovia, Warszawa",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor756092",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor756092.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 52.19656
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 21.17752
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 62656
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 95
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Warsaw"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Poland"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "PL",
+    "altnames": null
+}

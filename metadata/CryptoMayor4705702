@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4705702",
+    "name": "Leakey, United States",
+    "description": "Texas, Real County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4705702",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4705702.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 29.72884
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -99.76145
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 424
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 494
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Chicago"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

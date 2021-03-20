@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3987090",
+    "name": "San Francisco de Arriba, Mexico",
+    "description": "Coahuila, San Pedro",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3987090",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3987090.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 25.75028
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -103.15631
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1157
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1114
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Monterrey"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "San Francisco,San Francisco de Arriba"
+}

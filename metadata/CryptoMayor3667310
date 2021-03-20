@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3667310",
+    "name": "Tena, Colombia",
+    "description": "Cundinamarca, Tena",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3667310",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3667310.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 4.66001
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -74.39258
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 696
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1430
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Bogota"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Colombia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "CO",
+    "altnames": "Tena"
+}

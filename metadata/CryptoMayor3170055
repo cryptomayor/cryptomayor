@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3170055",
+    "name": "Posillipo, Italy",
+    "description": "Campania",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3170055",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3170055.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 40.81279
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 14.20001
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 22856
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": -9999
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": null
+}

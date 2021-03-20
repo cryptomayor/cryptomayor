@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3532670",
+    "name": "Astacinga, Mexico",
+    "description": "Veracruz, Astacinga",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3532670",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3532670.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.569
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -97.10376
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 723
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2317
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Astacinga"
+}

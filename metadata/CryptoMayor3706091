@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3706091",
+    "name": "La Tiza, Panama",
+    "description": "Los Santos, Distrito de Las Tablas",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3706091",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3706091.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 7.7511
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -80.29216
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1150
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 60
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Panama"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Panama"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "PA",
+    "altnames": "La Tiza"
+}

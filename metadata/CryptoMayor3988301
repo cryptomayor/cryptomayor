@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3988301",
+    "name": "Sacramento, Mexico",
+    "description": "Coahuila, Sacramento",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3988301",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3988301.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 27.00264
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -101.72463
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2297
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 591
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Monterrey"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Sacramento"
+}

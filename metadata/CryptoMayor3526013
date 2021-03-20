@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3526013",
+    "name": "La Sidra, Mexico",
+    "description": "Veracruz, Atzacan",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3526013",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3526013.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.9338
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -97.07989
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1752
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1342
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "La Cidra,La Sidra"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4027144",
+    "name": "San Antonio de las Huertas, Mexico",
+    "description": "Guerrero, Tlapehuala",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4027144",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4027144.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.28151
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -100.51828
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1816
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 364
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "San Antonio de las Huertas"
+}

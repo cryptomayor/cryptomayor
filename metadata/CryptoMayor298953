@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor298953",
+    "name": "Toptepe, Turkey",
+    "description": "Mardin",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor298953",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor298953.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 37.26113
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 41.24948
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1491
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 952
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Istanbul"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Turkey"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AS"
+        }
+    ],
+    "country_code": "TR",
+    "altnames": "Nebil,Toptepe"
+}

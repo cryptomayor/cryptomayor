@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3662075",
+    "name": "Tabatinga, Brazil",
+    "description": "Amazonas, Tabatinga",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3662075",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3662075.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -4.23116
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -69.93858
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 28229
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 80
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Manaus"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Brazil"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "BR",
+    "altnames": "TBT,Tabatinga"
+}

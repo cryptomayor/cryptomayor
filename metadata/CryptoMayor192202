@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor192202",
+    "name": "Kijabe, Kenya",
+    "description": "Nakuru",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor192202",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor192202.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -0.93334
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 36.57233
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 4679
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2050
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Africa/Nairobi"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Kenya"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AF"
+        }
+    ],
+    "country_code": "KE",
+    "altnames": "Kijabe"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3517401",
+    "name": "Santa Isabel Chalma, Mexico",
+    "description": "M\u00e9xico, Amecameca",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3517401",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3517401.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.15712
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -98.76533
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2215
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2483
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Chalma,Santa Isabel Chalma"
+}

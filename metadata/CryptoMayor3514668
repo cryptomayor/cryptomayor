@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3514668",
+    "name": "Villa Hidalgo, Mexico",
+    "description": "Chiapas, Tuzant\u00e1n",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3514668",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3514668.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 15.10659
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -92.37408
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1089
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 116
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Villa Hidalgo"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3588726",
+    "name": "Sipacapa, Guatemala",
+    "description": "San Marcos",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3588726",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3588726.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 15.21246
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -91.63416
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 661
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1981
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Guatemala"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Guatemala"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "GT",
+    "altnames": "Sipacapa"
+}

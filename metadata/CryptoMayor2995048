@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2995048",
+    "name": "Maurens, France",
+    "description": "Nouvelle-Aquitaine, Dordogne",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2995048",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2995048.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 44.93509
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 0.48363
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 946
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 120
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Maurens"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4004294",
+    "name": "Ixtapa, Mexico",
+    "description": "Guerrero, Zihuatanejo de Azueta",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4004294",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4004294.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 17.66782
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -101.64165
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 8992
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 10
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Ixtapa Zihuatanejo"
+}

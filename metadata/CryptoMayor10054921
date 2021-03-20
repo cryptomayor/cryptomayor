@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor10054921",
+    "name": "Embleton, Australia",
+    "description": "Western Australia, Bayswater",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor10054921",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor10054921.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -31.90355
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 115.90902
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3124
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 35
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Perth"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": null
+}

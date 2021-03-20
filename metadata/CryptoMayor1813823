@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor1813823",
+    "name": "Dankou, China",
+    "description": "Hunan",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor1813823",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor1813823.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 26.35972
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 110.24278
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 690
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 435
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Asia/Shanghai"
+        },
+        {
+            "trait_type": "Country",
+            "value": "China"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AS"
+        }
+    ],
+    "country_code": "CN",
+    "altnames": null
+}

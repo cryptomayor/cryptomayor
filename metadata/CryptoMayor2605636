@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2605636",
+    "name": "Sonnberg, Austria",
+    "description": "Salzburg, Politischer Bezirk Sankt Johann im Pongau",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2605636",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2605636.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.41667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 13.31667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 708
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 796
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Vienna"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Austria"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "AT",
+    "altnames": null
+}

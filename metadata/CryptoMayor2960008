@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2960008",
+    "name": "Warken, Luxembourg",
+    "description": "Diekirch, Ettelbruck",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2960008",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2960008.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 49.85918
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 6.08415
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1188
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 214
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Luxembourg"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Luxembourg"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "LU",
+    "altnames": "Warken"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3017512",
+    "name": "Fourmies, France",
+    "description": "Hauts-de-France, North",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3017512",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3017512.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 50.01532
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 4.04784
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 14151
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 190
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Fourmies"
+}

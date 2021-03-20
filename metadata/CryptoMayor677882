@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor677882",
+    "name": "Frumosu, Romania",
+    "description": "Suceava, Comuna Frumosu",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor677882",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor677882.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.61667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 25.65
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3571
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 711
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": "Frumosu,Frumosul"
+}

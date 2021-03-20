@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4255339",
+    "name": "Cambridge City, United States",
+    "description": "Indiana, Wayne County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4255339",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4255339.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 39.81255
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -85.17163
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1784
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 285
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Indiana/Indianapolis"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

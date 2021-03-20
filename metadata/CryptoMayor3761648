@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3761648",
+    "name": "Chiltepec de Hidalgo, Mexico",
+    "description": "M\u00e9xico, Coatepec Harinas",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3761648",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3761648.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.91266
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -99.8345
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1196
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2400
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Chiltepec de Hidalgo"
+}

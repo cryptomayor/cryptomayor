@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3027867",
+    "name": "Cerisy-la-Salle, France",
+    "description": "Normandy, Manche",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3027867",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3027867.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 49.02622
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -1.28283
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1024
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 131
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Cerisy,Cerisy-la-Salle"
+}

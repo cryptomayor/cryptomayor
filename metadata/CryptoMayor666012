@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor666012",
+    "name": "Straja, Romania",
+    "description": "Suceava, Comuna Straja",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor666012",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor666012.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.91667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 25.55
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 5304
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 512
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": "Straja"
+}

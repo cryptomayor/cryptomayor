@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2264403",
+    "name": "Porto Salvo, Portugal",
+    "description": "Lisbon, Oeiras",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2264403",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2264403.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 38.72293
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -9.30473
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 13867
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 105
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Lisbon"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Portugal"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "PT",
+    "altnames": "Porto Salvo"
+}

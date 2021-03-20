@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3517999",
+    "name": "San Pedro el Alto, Mexico",
+    "description": "M\u00e9xico, Ixtlahuaca",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3517999",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3517999.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.58429
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -99.8805
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 4708
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2598
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "San Pedro,San Pedro Alto,San Pedro el Alto"
+}

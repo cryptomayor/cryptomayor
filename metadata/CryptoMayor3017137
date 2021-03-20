@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3017137",
+    "name": "Fressain, France",
+    "description": "Hauts-de-France, North",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3017137",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3017137.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 50.2873
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 3.19416
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 951
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 81
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Fressain"
+}

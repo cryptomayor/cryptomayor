@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2647502",
+    "name": "Harbury, United Kingdom",
+    "description": "England, Warwickshire",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2647502",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2647502.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 52.23537
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -1.45706
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2148
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 126
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/London"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United Kingdom"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "GB",
+    "altnames": null
+}

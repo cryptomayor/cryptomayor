@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8859892",
+    "name": "Jalmolonga (La Hacienda), Mexico",
+    "description": "M\u00e9xico, Malinalco",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8859892",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8859892.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.91835
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -99.49407
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1019
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1573
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Jalmolonga (La Hacienda)"
+}

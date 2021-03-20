@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2143180",
+    "name": "Wondai, Australia",
+    "description": "Queensland, South Burnett",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2143180",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2143180.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -26.3177
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 151.87242
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1963
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 320
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Brisbane"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": "WDI,Wondai"
+}

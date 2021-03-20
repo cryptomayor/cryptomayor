@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4869743",
+    "name": "Odebolt, United States",
+    "description": "Iowa, Sac County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4869743",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4869743.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 42.31221
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -95.25055
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 978
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 417
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Chicago"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

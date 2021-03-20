@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6534217",
+    "name": "Mazzano, Italy",
+    "description": "Lombardy, Provincia di Brescia",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6534217",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6534217.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 45.52008
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 10.35387
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2548
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 159
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": null
+}

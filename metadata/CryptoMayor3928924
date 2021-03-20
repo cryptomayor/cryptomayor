@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3928924",
+    "name": "Satipo, Peru",
+    "description": "Junin, Provincia de Satipo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3928924",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3928924.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -11.25222
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -74.63861
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 15532
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 629
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Lima"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Peru"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "PE",
+    "altnames": "San Francisco de Satipo,Satipo"
+}

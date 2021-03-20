@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2189630",
+    "name": "Hunterville, New Zealand",
+    "description": "Manawatu-Wanganui, Rangitikei District",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2189630",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2189630.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -39.93656
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 175.56835
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 520
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 268
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Pacific/Auckland"
+        },
+        {
+            "trait_type": "Country",
+            "value": "New Zealand"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "NZ",
+    "altnames": "Hunterville Town District"
+}

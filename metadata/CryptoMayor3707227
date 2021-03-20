@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3707227",
+    "name": "La Mesa, Panama",
+    "description": "Veraguas, Distrito de La Mesa",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3707227",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3707227.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 8.14947
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -81.18427
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2090
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 214
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Panama"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Panama"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "PA",
+    "altnames": "La Mesa,Las Mesa"
+}

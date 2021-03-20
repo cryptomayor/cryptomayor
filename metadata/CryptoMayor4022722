@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4022722",
+    "name": "Ciudad Sat\u00e9lite del Norte, Mexico",
+    "description": "Nuevo Le\u00f3n, Salinas Victoria",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4022722",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4022722.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 25.91448
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -100.26542
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3375
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 444
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Monterrey"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Ciudad Satelite del Norte,Ciudad Sat\u00e9lite del Norte"
+}

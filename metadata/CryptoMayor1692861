@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor1692861",
+    "name": "San Vicente, Philippines",
+    "description": "Cagayan Valley, Province of Cagayan",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor1692861",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor1692861.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.50746
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 122.15035
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3269
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 4
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Asia/Manila"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Philippines"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AS"
+        }
+    ],
+    "country_code": "PH",
+    "altnames": "Port San Vicente,San Vicente,San Vincent,San Vincente"
+}

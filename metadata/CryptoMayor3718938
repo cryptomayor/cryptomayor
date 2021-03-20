@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3718938",
+    "name": "Petit Trou de Nippes, Haiti",
+    "description": "Nippes, Ansavo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3718938",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3718938.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.52535
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -73.50815
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2130
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 6
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Port-au-Prince"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Haiti"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "HT",
+    "altnames": "Petit Trou"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3800552",
+    "name": "El Cacalote, Mexico",
+    "description": "Oaxaca, Villa de Tututepec de Melchor Ocampo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3800552",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3800552.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 15.95373
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -97.35257
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 763
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 10
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Cacalotepec,El Cacalote"
+}

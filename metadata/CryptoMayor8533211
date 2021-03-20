@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8533211",
+    "name": "Oberhof, Switzerland",
+    "description": "Aargau, Bezirk Laufenburg",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8533211",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8533211.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.44874
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 8.00273
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 0
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 526
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Zurich"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Switzerland"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "CH",
+    "altnames": "Oberhof"
+}

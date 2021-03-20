@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8349004",
+    "name": "Lansvale, Australia",
+    "description": "New South Wales, Fairfield",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8349004",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8349004.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -33.90073
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 150.95078
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2534
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Sydney"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": null
+}

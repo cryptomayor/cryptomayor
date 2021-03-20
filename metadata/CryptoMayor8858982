@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8858982",
+    "name": "El Tzay, Mexico",
+    "description": "Chiapas, Oxchuc",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8858982",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8858982.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 16.86361
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -92.31222
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1594
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1523
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "El Tzay"
+}

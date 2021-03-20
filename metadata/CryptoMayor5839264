@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5839264",
+    "name": "South Park, United States",
+    "description": "Wyoming, Teton County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5839264",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5839264.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 43.42215
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -110.79326
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1731
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1846
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Denver"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

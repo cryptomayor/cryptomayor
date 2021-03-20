@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3800947",
+    "name": "San Miguel Tlacotepec, Mexico",
+    "description": "Oaxaca, San Miguel Tlacotepec",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3800947",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3800947.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 17.45621
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -98.00547
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1621
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1734
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "San Miguel Tlacotepec"
+}

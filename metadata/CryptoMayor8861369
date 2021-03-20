@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8861369",
+    "name": "Texcochapan de Abajo, Mexico",
+    "description": "Veracruz, Santiago Tuxtla",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8861369",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8861369.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.41667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -95.30528
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 694
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 126
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Texcochapan de Abajo"
+}

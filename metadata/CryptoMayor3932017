@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3932017",
+    "name": "Pocohuanca, Peru",
+    "description": "Apur\u00edmac, Provincia de Aymaraes",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3932017",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3932017.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -14.21837
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -73.08714
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 332
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 3258
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Lima"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Peru"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "PE",
+    "altnames": null
+}

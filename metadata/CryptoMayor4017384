@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4017384",
+    "name": "Barrio Nuevo, Mexico",
+    "description": "Guerrero, Zihuatanejo de Azueta",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4017384",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4017384.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 17.72075
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -101.63657
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1726
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 14
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Barrio Nuevo"
+}

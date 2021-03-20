@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3518274",
+    "name": "San Miguel del Puerto, Mexico",
+    "description": "Oaxaca, San Miguel del Puerto",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3518274",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3518274.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 15.92169
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -96.17499
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 779
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 343
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "San Miguel del Puerto"
+}

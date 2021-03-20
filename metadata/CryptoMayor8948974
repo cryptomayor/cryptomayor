@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8948974",
+    "name": "Sant'Agata Martesana, Italy",
+    "description": "Lombardy, Citt\u00e0 metropolitana di Milano",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8948974",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8948974.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 45.5222
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 9.38382
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2060
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 132
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "Sant'Agata Martesana"
+}

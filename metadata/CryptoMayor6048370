@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6048370",
+    "name": "Lakefield, Canada",
+    "description": "Ontario, Peterborough County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6048370",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6048370.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 44.43342
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -78.26623
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2753
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 241
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Toronto"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Canada"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "CA",
+    "altnames": null
+}

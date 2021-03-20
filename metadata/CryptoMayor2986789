@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2986789",
+    "name": "Plesnois, France",
+    "description": "Grand Est, Moselle",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2986789",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2986789.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 49.1731
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 6.106
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 740
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 253
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Plesnois"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3650960",
+    "name": "Sucre, Ecuador",
+    "description": "Manab\u00ed, Cant\u00f3n Veinticuatro de Mayo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3650960",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3650960.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -1.27974
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -80.41885
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 15286
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 121
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Guayaquil"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Ecuador"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "EC",
+    "altnames": "Sucre"
+}

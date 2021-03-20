@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3823827",
+    "name": "Veinte de Noviembre, Mexico",
+    "description": "Veracruz, C\u00f3rdoba",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3823827",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3823827.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.865
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -96.95472
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1351
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 861
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": null
+}

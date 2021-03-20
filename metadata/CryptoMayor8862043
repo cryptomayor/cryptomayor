@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8862043",
+    "name": "Bosques del Mineral, Mexico",
+    "description": "Hidalgo, Mineral de la Reforma",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8862043",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8862043.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.05833
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -98.775
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 611
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2358
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Bosques del Mineral"
+}

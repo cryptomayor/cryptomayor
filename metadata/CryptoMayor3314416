@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3314416",
+    "name": "Suncroft, Ireland",
+    "description": "Leinster, Kildare",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3314416",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3314416.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 53.104
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -6.86126
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 735
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 86
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Dublin"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Ireland"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IE",
+    "altnames": "Suncroft"
+}

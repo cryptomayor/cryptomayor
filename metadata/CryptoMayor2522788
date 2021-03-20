@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2522788",
+    "name": "Venetico Superiore, Italy",
+    "description": "Sicily, Messina",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2522788",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2522788.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 38.19307
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 15.38119
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 273
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 283
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "Venetico"
+}

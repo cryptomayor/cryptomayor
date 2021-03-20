@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor673812",
+    "name": "Margine, Romania",
+    "description": "Bihor, Comuna Abram",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor673812",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor673812.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.2947
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 22.42418
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 640
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 159
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": null
+}

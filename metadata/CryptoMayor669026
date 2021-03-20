@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor669026",
+    "name": "Redea, Romania",
+    "description": "Olt, Comuna Redea",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor669026",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor669026.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 44.05
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 24.3
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3217
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 124
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": "Redea"
+}

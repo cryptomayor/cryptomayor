@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5084536",
+    "name": "Chichester, United States",
+    "description": "New Hampshire, Merrimack County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5084536",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5084536.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 43.24925
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -71.39979
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2382
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 166
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/New_York"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

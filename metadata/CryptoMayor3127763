@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3127763",
+    "name": "Bot, Spain",
+    "description": "Catalonia, Prov\u00edncia de Tarragona",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3127763",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3127763.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 41.00916
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 0.38392
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 768
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 294
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Madrid"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Spain"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "ES",
+    "altnames": "Bot"
+}

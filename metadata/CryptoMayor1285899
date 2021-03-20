@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor1285899",
+    "name": "Yamethin, Myanmar",
+    "description": "Mandalay, Yamethin District",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor1285899",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor1285899.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.43189
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 96.13875
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 59867
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 203
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Asia/Yangon"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Myanmar"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AS"
+        }
+    ],
+    "country_code": "MM",
+    "altnames": "Yamethin,Yamethinn"
+}

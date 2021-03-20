@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3935315",
+    "name": "Marcas, Peru",
+    "description": "Huancavelica, Provincia de Acobamba",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3935315",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3935315.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -12.88948
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -74.39951
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 680
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 3298
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Lima"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Peru"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "PE",
+    "altnames": null
+}

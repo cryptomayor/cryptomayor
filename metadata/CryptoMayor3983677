@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3983677",
+    "name": "Santiaguillo, Mexico",
+    "description": "Zacatecas, Fresnillo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3983677",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3983677.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 23.14718
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -102.6524
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1378
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2079
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Santiago,Santiaguillo"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3176280",
+    "name": "Gattorna, Italy",
+    "description": "Liguria, Provincia di Genova",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3176280",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3176280.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 44.43071
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 9.18513
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 672
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 181
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": null
+}

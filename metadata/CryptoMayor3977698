@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3977698",
+    "name": "Lamadrid, Mexico",
+    "description": "Coahuila, Lamadrid",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3977698",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3977698.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 27.05087
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -101.79552
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1801
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 651
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Monterrey"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Lamadrid"
+}

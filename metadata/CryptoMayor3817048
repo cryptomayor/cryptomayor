@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3817048",
+    "name": "Huaypira, Peru",
+    "description": "Piura, Provincia de Sullana",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3817048",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3817048.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -4.64484
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -80.53825
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 695
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 132
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Lima"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Peru"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "PE",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4026570",
+    "name": "La Compa\u00f1\u00eda, Mexico",
+    "description": "M\u00e9xico, Valle de Bravo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4026570",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4026570.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.1646
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -100.07966
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1094
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2103
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Cerro Colorado,La Compania,La Compa\u00f1\u00eda"
+}

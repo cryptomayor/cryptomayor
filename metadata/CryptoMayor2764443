@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2764443",
+    "name": "Steinhaus, Austria",
+    "description": "Upper Austria, Wels-Land",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2764443",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2764443.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 48.11614
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 14.0189
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 990
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 375
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Vienna"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Austria"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "AT",
+    "altnames": null
+}

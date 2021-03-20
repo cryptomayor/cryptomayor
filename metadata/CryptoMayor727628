@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor727628",
+    "name": "Rila, Bulgaria",
+    "description": "Kyustendil, Obshtina Rila",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor727628",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor727628.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 42.13333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 23.13333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3002
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 621
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Sofia"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Bulgaria"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "BG",
+    "altnames": "Rila,Rila Selo,Riloselo,\u0420\u0438\u043b\u0430"
+}

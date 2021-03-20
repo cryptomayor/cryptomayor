@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2976911",
+    "name": "Saint-Simon, France",
+    "description": "Hauts-de-France, Aisne",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2976911",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2976911.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 49.74594
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 3.17771
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 658
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 67
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Saint-Simon"
+}

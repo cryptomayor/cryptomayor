@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3518723",
+    "name": "Tuxtepec, Mexico",
+    "description": "Oaxaca, San Juan Bautista Tuxtepec",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3518723",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3518723.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.0883
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -96.12535
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 101810
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 31
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "San Juan Bautista,San Juan Bautista Tuxtepec,San Juan Bautista Tuxtla,Tuxtepec"
+}

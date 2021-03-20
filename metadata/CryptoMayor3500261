@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3500261",
+    "name": "Las Salinas, Dominican Republic",
+    "description": "Barahona, Las Salinas",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3500261",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3500261.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.27485
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -71.31596
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 4513
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 31
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Santo_Domingo"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Dominican Republic"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "DO",
+    "altnames": "La Salina,Las Salinas"
+}

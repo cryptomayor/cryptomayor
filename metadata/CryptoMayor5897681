@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5897681",
+    "name": "Belfast, Canada",
+    "description": "Prince Edward Island",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5897681",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5897681.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 46.08341
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -62.88197
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1839
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 14
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Halifax"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Canada"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "CA",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3853748",
+    "name": "Inriville, Argentina",
+    "description": "Cordoba, Departamento de Marcos Ju\u00e1rez",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3853748",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3853748.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -32.94424
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -62.23028
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3778
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 108
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Argentina/Cordoba"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Argentina"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "AR",
+    "altnames": null
+}

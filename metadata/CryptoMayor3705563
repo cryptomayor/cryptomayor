@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3705563",
+    "name": "Los Algarrobos, Panama",
+    "description": "Veraguas, Distrito de Santiago",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3705563",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3705563.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 8.11291
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -81.01524
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1977
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 118
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Panama"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Panama"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "PA",
+    "altnames": "Los Algarrobos"
+}

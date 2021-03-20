@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3027081",
+    "name": "Champlitte-la-Ville, France",
+    "description": "Bourgogne-Franche-Comt\u00e9, Haute-Sa\u00f4ne",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3027081",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3027081.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.61333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 5.53191
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1880
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 220
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Champlitte-la-Ville"
+}

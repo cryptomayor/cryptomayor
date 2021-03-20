@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3443928",
+    "name": "Aguas Corrientes, Uruguay",
+    "description": "Canelones, Aguas Corrientes",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3443928",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3443928.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -34.52194
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -56.39361
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1101
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 14
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Montevideo"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Uruguay"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "UY",
+    "altnames": "Aguas Corrientes"
+}

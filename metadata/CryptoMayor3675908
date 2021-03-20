@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3675908",
+    "name": "Los Santos, Colombia",
+    "description": "Santander, Los Santos",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3675908",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3675908.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 6.75343
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -73.10473
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 0
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1327
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Bogota"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Colombia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "CO",
+    "altnames": "Los Santos"
+}

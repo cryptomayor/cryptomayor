@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6290924",
+    "name": "Neu-Rheinau, Switzerland",
+    "description": "Zurich, Bezirk Andelfingen",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6290924",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6290924.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.63436
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 8.60852
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 562
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 395
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Zurich"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Switzerland"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "CH",
+    "altnames": null
+}

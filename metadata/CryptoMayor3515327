@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3515327",
+    "name": "San Felipe Toctla, Mexico",
+    "description": "Puebla, Acteopan",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3515327",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3515327.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.76139
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -98.69972
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 594
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1688
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": null
+}

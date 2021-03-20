@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8858106",
+    "name": "Terrazas del Valle, Mexico",
+    "description": "Baja California, Tijuana",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8858106",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8858106.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 32.4875
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -116.82667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 20421
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 189
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Tijuana"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Terrazas del Valle"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6295352",
+    "name": "Schlieren / Freiestrasse, Switzerland",
+    "description": "Zurich, Bezirk Dietikon",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6295352",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6295352.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.39598
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 8.44202
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1212
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 398
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Zurich"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Switzerland"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "CH",
+    "altnames": "Freiestrasse"
+}

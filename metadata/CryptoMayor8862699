@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8862699",
+    "name": "El Salto, Mexico",
+    "description": "Guerrero, Ayutla de los Libres",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8862699",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8862699.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 17.03696
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -99.04986
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 547
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 974
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "El Salto"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3701330",
+    "name": "San Miguel del Yuco, Panama",
+    "description": "Chiriqu\u00ed, Distrito de Bugaba",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3701330",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3701330.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 8.54404
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -82.62442
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 756
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 307
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Panama"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Panama"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "PA",
+    "altnames": "San Miguel del Yuco"
+}

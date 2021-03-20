@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6931018",
+    "name": "Taringa, Australia",
+    "description": "Queensland, Brisbane",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6931018",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6931018.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -27.49061
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 152.97861
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 8145
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 36
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Brisbane"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6294820",
+    "name": "R\u00fcmikon, Switzerland",
+    "description": "Zurich, Bezirk Winterthur",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6294820",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6294820.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.50232
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 8.78724
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 675
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 475
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Zurich"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Switzerland"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "CH",
+    "altnames": null
+}

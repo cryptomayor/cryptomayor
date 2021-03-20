@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2207547",
+    "name": "McCrae, Australia",
+    "description": "Victoria, Mornington Peninsula",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2207547",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2207547.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -38.34972
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 144.92806
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2629
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 10
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Melbourne"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2663086",
+    "name": "Vika, Sweden",
+    "description": "Dalarna, Falu kommun",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2663086",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2663086.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 60.51341
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 15.7161
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 582
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 125
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Stockholm"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Sweden"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "SE",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2270357",
+    "name": "Campelos, Portugal",
+    "description": "Lisbon, Torres Vedras",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2270357",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2270357.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 39.19678
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -9.23519
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 109
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Lisbon"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Portugal"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "PT",
+    "altnames": "Campelos"
+}

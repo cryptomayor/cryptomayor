@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3038247",
+    "name": "Albine, France",
+    "description": "Occitanie, Tarn",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3038247",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3038247.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 43.45947
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 2.53945
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 541
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 321
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Albine"
+}

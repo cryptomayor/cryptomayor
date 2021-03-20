@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3682385",
+    "name": "Floridablanca, Colombia",
+    "description": "Santander, Floridablanca",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3682385",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3682385.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 7.06222
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -73.08644
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 252267
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 928
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Bogota"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Colombia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "CO",
+    "altnames": "Florida,Floridablanca"
+}

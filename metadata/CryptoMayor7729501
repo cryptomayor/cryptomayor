@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor7729501",
+    "name": "Dove Valley, United States",
+    "description": "Colorado, Arapahoe County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor7729501",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor7729501.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 39.57771
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -104.8294
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 5243
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1754
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Denver"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

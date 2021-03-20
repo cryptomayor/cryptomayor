@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor722852",
+    "name": "Apagy, Hungary",
+    "description": "Szabolcs-Szatm\u00e1r-Bereg",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor722852",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor722852.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.96431
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 21.93539
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2348
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 117
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Budapest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Hungary"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "HU",
+    "altnames": "Apagy"
+}

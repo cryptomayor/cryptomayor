@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8860319",
+    "name": "San Jos\u00e9 de la Presa, Mexico",
+    "description": "Guanajuato, Celaya",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8860319",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8860319.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.61111
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -100.75222
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 887
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1775
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "San Jose de la Presa,San Jos\u00e9 de la Presa"
+}

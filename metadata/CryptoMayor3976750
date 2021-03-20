@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3976750",
+    "name": "El Serranito, Mexico",
+    "description": "Sinaloa, Guasave",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3976750",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3976750.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 25.55795
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -108.2314
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 553
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 36
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mazatlan"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "El Serranito"
+}

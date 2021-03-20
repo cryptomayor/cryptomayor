@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8949876",
+    "name": "Villa Saviola, Italy",
+    "description": "Lombardy, Provincia di Mantova",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8949876",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8949876.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 45.0302
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 10.79964
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 687
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 19
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "Villa Saviola"
+}

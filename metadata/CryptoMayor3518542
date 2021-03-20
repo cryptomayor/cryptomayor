@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3518542",
+    "name": "San Lorenzo Chiautzingo, Mexico",
+    "description": "Puebla, Chiautzingo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3518542",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3518542.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.20432
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -98.46747
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 7477
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2372
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Chiautzingo,San Lorenzo,San Lorenzo Chiautzingo"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3012721",
+    "name": "Isdes, France",
+    "description": "Centre, Loiret",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3012721",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3012721.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.67133
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 2.25562
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 509
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 150
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Isdes"
+}

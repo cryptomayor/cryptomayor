@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4881170",
+    "name": "Wellsburg, United States",
+    "description": "Iowa, Grundy County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4881170",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4881170.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 42.45915
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -92.93853
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 707
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 308
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Chicago"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

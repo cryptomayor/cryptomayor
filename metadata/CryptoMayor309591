@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor309591",
+    "name": "Karakuyu, Turkey",
+    "description": "Mardin",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor309591",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor309591.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 37.15934
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 40.54377
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 942
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 469
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Istanbul"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Turkey"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AS"
+        }
+    ],
+    "country_code": "TR",
+    "altnames": "Karakaya,Karakuyu,Karakuyu Koyu,Karakuyu K\u00f6y\u00fc"
+}

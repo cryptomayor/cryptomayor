@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6122707",
+    "name": "Rivers, Canada",
+    "description": "Manitoba",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6122707",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6122707.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 50.03081
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -100.24029
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1165
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 478
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Winnipeg"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Canada"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "CA",
+    "altnames": "YYI"
+}

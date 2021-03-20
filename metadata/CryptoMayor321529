@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor321529",
+    "name": "Belevi, Turkey",
+    "description": "\u0130zmir",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor321529",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor321529.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 38.015
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 27.45028
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2174
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 15
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Istanbul"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Turkey"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AS"
+        }
+    ],
+    "country_code": "TR",
+    "altnames": "Belevi"
+}

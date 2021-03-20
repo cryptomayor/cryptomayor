@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3181555",
+    "name": "Brescello, Italy",
+    "description": "Emilia-Romagna, Provincia di Reggio Emilia",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3181555",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3181555.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 44.89531
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 10.51269
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2839
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 23
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "Brescello"
+}

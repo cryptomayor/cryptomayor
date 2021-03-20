@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8503114",
+    "name": "Rome, United States",
+    "description": "Wisconsin, Adams County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8503114",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8503114.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 44.2206
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -89.80843
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2697
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 309
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Chicago"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

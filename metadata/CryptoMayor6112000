@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6112000",
+    "name": "Port Rowan, Canada",
+    "description": "Ontario",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6112000",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6112000.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 42.6168
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -80.46638
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1102
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 184
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Toronto"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Canada"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "CA",
+    "altnames": null
+}

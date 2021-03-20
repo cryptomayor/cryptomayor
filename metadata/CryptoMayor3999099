@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3999099",
+    "name": "La Tapona, Mexico",
+    "description": "San Luis Potos\u00ed, Mexquitic de Carmona",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3999099",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3999099.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 22.22604
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -101.22458
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 811
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2143
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "La Tapona,Tapona"
+}

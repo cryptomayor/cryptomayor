@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8861236",
+    "name": "La Genoveva, Mexico",
+    "description": "Sinaloa, El Fuerte",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8861236",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8861236.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 25.86306
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -108.91278
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 711
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 28
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mazatlan"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "La Genoveva"
+}

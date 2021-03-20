@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5132023",
+    "name": "Port Morris, United States",
+    "description": "New York, Bronx County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5132023",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5132023.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 40.80149
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -73.90958
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1978
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 3
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/New_York"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3815789",
+    "name": "El Carrizal, Mexico",
+    "description": "Chiapas, Pantepec",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3815789",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3815789.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 17.16213
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -93.0771
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 889
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1264
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "El Carrizal"
+}

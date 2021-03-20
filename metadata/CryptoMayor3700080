@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3700080",
+    "name": "Villa Carmen, Panama",
+    "description": "Panam\u00e1 Oeste, Distrito de Capira",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3700080",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3700080.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 8.79832
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -79.86929
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1043
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 92
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Panama"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Panama"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "PA",
+    "altnames": "Villa Carmen"
+}

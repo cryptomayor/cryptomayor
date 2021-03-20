@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3032877",
+    "name": "Beynac, France",
+    "description": "Nouvelle-Aquitaine, Haute-Vienne",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3032877",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3032877.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 45.76698
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 1.16798
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 646
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 320
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Beynac"
+}

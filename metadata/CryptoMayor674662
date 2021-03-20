@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor674662",
+    "name": "Liveni, Romania",
+    "description": "Boto\u015fani, Comuna Manoleasa",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor674662",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor674662.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 48.05736
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 27.06279
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 907
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 112
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3669947",
+    "name": "San Diego, Colombia",
+    "description": "Cesar, San Diego",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3669947",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3669947.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 10.33623
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -73.18203
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 8014
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 166
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Bogota"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Colombia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "CO",
+    "altnames": "Corregimiento San Diego,San Diego"
+}

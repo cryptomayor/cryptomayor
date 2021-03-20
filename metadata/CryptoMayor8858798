@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8858798",
+    "name": "Francisco I. Madero, Mexico",
+    "description": "Veracruz, Santiago Tuxtla",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8858798",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8858798.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.32667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -95.3625
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1863
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 53
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Francisco I. Madero"
+}

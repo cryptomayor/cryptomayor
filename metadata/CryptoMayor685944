@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor685944",
+    "name": "Bacea, Romania",
+    "description": "Olt, Comuna Movileni",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor685944",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor685944.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 44.39824
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 24.63759
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1609
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 162
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": null
+}

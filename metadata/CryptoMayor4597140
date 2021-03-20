@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4597140",
+    "name": "Southern Shops, United States",
+    "description": "South Carolina, Spartanburg County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4597140",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4597140.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 34.98595
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -81.99455
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3767
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 276
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/New_York"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor9972961",
+    "name": "Werrington County, Australia",
+    "description": "New South Wales, Penrith Municipality",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor9972961",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor9972961.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -33.7465
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 150.73929
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3621
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 42
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Sydney"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": null
+}

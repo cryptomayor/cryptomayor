@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3600327",
+    "name": "Villanueva, Honduras",
+    "description": "Cort\u00e9s",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3600327",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3600327.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 15.31667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -88.0
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 31571
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 151
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Tegucigalpa"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Honduras"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "HN",
+    "altnames": "Villanueva"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2709323",
+    "name": "Hagby, Sweden",
+    "description": "Kalmar, Kalmar Kommun",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2709323",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2709323.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 56.55175
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 16.18684
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 871
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 8
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Stockholm"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Sweden"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "SE",
+    "altnames": null
+}

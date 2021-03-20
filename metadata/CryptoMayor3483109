@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3483109",
+    "name": "Guadalupe Victoria, Mexico",
+    "description": "Tamaulipas, Abasolo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3483109",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3483109.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 24.08205
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -98.2334
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2258
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 70
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Monterrey"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Guadalupe Victoria"
+}

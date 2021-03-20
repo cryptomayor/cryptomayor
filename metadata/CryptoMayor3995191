@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3995191",
+    "name": "Nacaveba, Mexico",
+    "description": "Sinaloa, Sinaloa",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3995191",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3995191.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 25.76159
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -108.04376
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 906
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 225
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mazatlan"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": null
+}

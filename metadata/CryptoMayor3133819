@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3133819",
+    "name": "Innbygda, Norway",
+    "description": "Innlandet, Trysil",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3133819",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3133819.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 61.31484
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 12.26374
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2250
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 380
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Oslo"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Norway"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "NO",
+    "altnames": "Trysil"
+}

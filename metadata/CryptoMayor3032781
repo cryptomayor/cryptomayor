@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3032781",
+    "name": "Bichancourt, France",
+    "description": "Hauts-de-France, Aisne",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3032781",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3032781.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 49.57953
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 3.21781
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 935
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 60
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Bichancourt"
+}

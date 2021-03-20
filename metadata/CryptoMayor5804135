@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5804135",
+    "name": "Mount Vista, United States",
+    "description": "Washington, Clark County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5804135",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5804135.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 45.73428
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -122.63288
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 7850
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 72
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Los_Angeles"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

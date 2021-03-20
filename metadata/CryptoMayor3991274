@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3991274",
+    "name": "Punta de la Vega, Mexico",
+    "description": "Jalisco, Ameca",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3991274",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3991274.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.5907
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -103.89831
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1077
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1275
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Punta de la Vega,San Antonio Puerta de la Vega"
+}

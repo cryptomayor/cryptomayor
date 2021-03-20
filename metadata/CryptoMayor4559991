@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4559991",
+    "name": "New Salem, United States",
+    "description": "Pennsylvania, York County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4559991",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4559991.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 39.90149
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -76.78942
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 777
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 189
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/New_York"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": "New Salem,York New Salem"
+}

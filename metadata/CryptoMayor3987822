@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3987822",
+    "name": "San Antonio, Mexico",
+    "description": "Nuevo Le\u00f3n, Ju\u00e1rez",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3987822",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3987822.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 25.63868
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -100.05844
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2391
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 374
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Monterrey"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": null
+}

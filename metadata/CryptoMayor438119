@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor438119",
+    "name": "Dursunlu, Turkey",
+    "description": "Hatay",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor438119",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor438119.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 36.16736
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 36.15788
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 5147
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 221
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Istanbul"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Turkey"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AS"
+        }
+    ],
+    "country_code": "TR",
+    "altnames": "Dursunlu"
+}

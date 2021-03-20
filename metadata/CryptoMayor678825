@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor678825",
+    "name": "Drincea, Romania",
+    "description": "Mehedin\u0163i, Comuna Punghina",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor678825",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor678825.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 44.30459
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 22.99834
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 540
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 117
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": null
+}

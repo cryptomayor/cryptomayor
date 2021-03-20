@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6078737",
+    "name": "Morrisburg, Canada",
+    "description": "Ontario, United Counties of Stormont, Dundas and Glengarry",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6078737",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6078737.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 44.9001
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -75.18261
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3014
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 77
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Toronto"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Canada"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "CA",
+    "altnames": null
+}

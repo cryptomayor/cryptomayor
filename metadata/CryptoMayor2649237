@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2649237",
+    "name": "Ford, United Kingdom",
+    "description": "England, Shropshire",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2649237",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2649237.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 52.71693
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -2.86881
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 697
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 70
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/London"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United Kingdom"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "GB",
+    "altnames": "Ford"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor1505003",
+    "name": "Kalinovo, Russia",
+    "description": "Sverdlovsk",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor1505003",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor1505003.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 57.1317
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 60.1464
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2901
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 290
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Asia/Yekaterinburg"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Russia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RU",
+    "altnames": "Kalinovo,\u041a\u0430\u043b\u0438\u043d\u043e\u0432\u043e"
+}

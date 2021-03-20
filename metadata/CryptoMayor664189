@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor664189",
+    "name": "Urca, Romania",
+    "description": "Cluj, Comuna Vii\u015foara",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor664189",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor664189.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 46.54885
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 23.96187
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1156
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 324
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": null
+}

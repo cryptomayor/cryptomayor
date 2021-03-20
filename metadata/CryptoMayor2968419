@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2968419",
+    "name": "Villers-Bocage, France",
+    "description": "Normandy, Calvados",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2968419",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2968419.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 49.0796
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -0.65412
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3025
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 158
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Villers,Villers-Bocage"
+}

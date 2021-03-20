@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2183824",
+    "name": "Rakaia, New Zealand",
+    "description": "Canterbury, Ashburton District",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2183824",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2183824.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -43.75
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 172.01667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1043
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 118
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Pacific/Auckland"
+        },
+        {
+            "trait_type": "Country",
+            "value": "New Zealand"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "NZ",
+    "altnames": "South Rakaia"
+}

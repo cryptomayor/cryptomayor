@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6096232",
+    "name": "Paisley, Canada",
+    "description": "Ontario, Bruce County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6096232",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6096232.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 44.30641
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -81.27265
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1045
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 214
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Toronto"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Canada"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "CA",
+    "altnames": null
+}

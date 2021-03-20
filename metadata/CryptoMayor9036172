@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor9036172",
+    "name": "Avegno Chiesa, Italy",
+    "description": "Liguria, Provincia di Genova",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor9036172",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor9036172.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 44.38764
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 9.16367
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 625
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 67
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "Avegno Chiesa"
+}

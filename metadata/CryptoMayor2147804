@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2147804",
+    "name": "Sutherland, Australia",
+    "description": "New South Wales, Sutherland Shire",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2147804",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2147804.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -34.031
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 151.05532
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 10657
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 107
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Sydney"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": "Sutherland"
+}

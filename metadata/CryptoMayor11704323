@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor11704323",
+    "name": "Healy, Australia",
+    "description": "Queensland, Mount Isa",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor11704323",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor11704323.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -20.74596
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 139.5001
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1836
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 362
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Brisbane"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": null
+}

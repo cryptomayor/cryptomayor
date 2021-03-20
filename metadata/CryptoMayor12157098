@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor12157098",
+    "name": "Cono Norte, Peru",
+    "description": "Arequipa, Provincia de Arequipa",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor12157098",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor12157098.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -16.30111
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -71.61647
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 14542
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2642
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Lima"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Peru"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "PE",
+    "altnames": null
+}

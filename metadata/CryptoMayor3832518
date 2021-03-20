@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3832518",
+    "name": "Vista Alegre, Argentina",
+    "description": "Neuquen, Departamento de Confluencia",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3832518",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3832518.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -38.75
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -68.18333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2857
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 336
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Argentina/Salta"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Argentina"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "AR",
+    "altnames": "Colonia Vista Alegre,Vista Alegre"
+}

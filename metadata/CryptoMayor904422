@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor904422",
+    "name": "Mumbwa, Zambia",
+    "description": "Central",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor904422",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor904422.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -14.98293
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 27.0619
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 19086
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1185
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Africa/Lusaka"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Zambia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AF"
+        }
+    ],
+    "country_code": "ZM",
+    "altnames": "Mumbwa"
+}

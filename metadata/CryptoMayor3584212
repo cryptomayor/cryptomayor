@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3584212",
+    "name": "Olocuilta, El Salvador",
+    "description": "La Paz",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3584212",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3584212.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 13.56972
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -89.11722
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 6324
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 485
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/El_Salvador"
+        },
+        {
+            "trait_type": "Country",
+            "value": "El Salvador"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "SV",
+    "altnames": "Olocuilta"
+}

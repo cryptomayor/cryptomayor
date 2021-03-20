@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6619280",
+    "name": "Sydney Central Business District, Australia",
+    "description": "New South Wales, City of Sydney",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6619280",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6619280.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -33.86482
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 151.20773
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 25654
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 76
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Sydney"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": "Inner West,Sydney CBD,Sydney Central Business District"
+}

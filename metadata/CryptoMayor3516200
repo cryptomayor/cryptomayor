@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3516200",
+    "name": "Tecajec, Mexico",
+    "description": "Morelos, Yecapixtla",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3516200",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3516200.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.79806
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -98.815
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1665
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1584
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": null
+}

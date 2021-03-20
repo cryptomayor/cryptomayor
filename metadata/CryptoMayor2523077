@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2523077",
+    "name": "Siris, Italy",
+    "description": "Sardinia, Provincia di Oristano",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2523077",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2523077.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 39.71228
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 8.77507
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 224
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 165
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "Siris"
+}

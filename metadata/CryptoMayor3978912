@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3978912",
+    "name": "Canutillo, Mexico",
+    "description": "Durango, Ocampo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3978912",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3978912.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 26.38015
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -105.373
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 614
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1690
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Monterrey"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Canutillo"
+}

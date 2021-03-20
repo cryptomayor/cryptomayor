@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3445853",
+    "name": "Ubaitaba, Brazil",
+    "description": "Bahia, Ubaitaba",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3445853",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3445853.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -14.3125
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -39.32333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 28375
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 47
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Bahia"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Brazil"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "BR",
+    "altnames": "Itapira"
+}

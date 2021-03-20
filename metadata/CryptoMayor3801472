@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3801472",
+    "name": "El Porvenir, Mexico",
+    "description": "Oaxaca, San Juan Cotzoc\u00f3n",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3801472",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3801472.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 17.47446
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -95.25596
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1580
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 99
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "El Porvenir"
+}

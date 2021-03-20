@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor681195",
+    "name": "Cocorova, Romania",
+    "description": "Gorj, Comuna Turburea",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor681195",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor681195.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 44.6569
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 23.55734
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 596
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 167
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": null
+}

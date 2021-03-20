@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6295503",
+    "name": "Z\u00fcrich (Kreis 5) / Escher-Wyss, Switzerland",
+    "description": "Zurich, Bezirk Z\u00fcrich",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6295503",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6295503.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.39052
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 8.51292
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1846
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 403
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Zurich"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Switzerland"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "CH",
+    "altnames": "Escher-Wyss"
+}

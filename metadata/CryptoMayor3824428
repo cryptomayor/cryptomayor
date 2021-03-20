@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3824428",
+    "name": "Zonzonapa, Mexico",
+    "description": "Veracruz, Huayacocotla",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3824428",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3824428.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.68917
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -98.44006
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 746
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1339
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Zonzonapa"
+}

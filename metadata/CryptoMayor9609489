@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor9609489",
+    "name": "Marseille Roucas-Blanc, France",
+    "description": "Provence-Alpes-C\u00f4te d'Azur, Bouches-du-Rh\u00f4ne",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor9609489",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor9609489.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 43.27652
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 5.36519
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3707
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 80
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": null
+}

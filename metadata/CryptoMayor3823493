@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3823493",
+    "name": "Totozinapa, Mexico",
+    "description": "Veracruz, Calcahualco",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3823493",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3823493.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.12546
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -97.16643
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 708
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2456
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Totozinapa"
+}

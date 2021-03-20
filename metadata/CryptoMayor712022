@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor712022",
+    "name": "Bobivtsi, Ukraine",
+    "description": "Chernivtsi Oblast, Storozhynets Raion",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor712022",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor712022.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 48.26348
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 25.69901
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1852
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 218
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Kiev"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Ukraine"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "UA",
+    "altnames": "Bobeshti,Bobivtsi,Bobovtsy"
+}

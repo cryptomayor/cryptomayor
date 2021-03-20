@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2787373",
+    "name": "Saint-Marc, Belgium",
+    "description": "Wallonia, Province de Namur",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2787373",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2787373.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 50.49218
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 4.84749
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1422
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 182
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Brussels"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Belgium"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "BE",
+    "altnames": "Saint-Marc"
+}

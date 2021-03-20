@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4564026",
+    "name": "Coto Laurel, Puerto Rico",
+    "description": "Ponce, Coto Laurel Barrio",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4564026",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4564026.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.04969
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -66.55128
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3606
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 71
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Puerto_Rico"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Puerto Rico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "PR",
+    "altnames": null
+}

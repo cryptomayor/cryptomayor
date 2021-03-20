@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor447025",
+    "name": "T\u00fcrkler, Turkey",
+    "description": "Antalya, Alanya",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor447025",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor447025.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 36.60198
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 31.82067
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 7240
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 6
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Istanbul"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Turkey"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AS"
+        }
+    ],
+    "country_code": "TR",
+    "altnames": null
+}

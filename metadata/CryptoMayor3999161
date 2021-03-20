@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3999161",
+    "name": "Las Varas, Mexico",
+    "description": "Chihuahua, Saucillo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3999161",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3999161.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 28.15659
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -105.34058
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2410
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1173
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Chihuahua"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Las Varas"
+}

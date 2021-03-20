@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4027696",
+    "name": "La Pintada, Mexico",
+    "description": "Guerrero, Atoyac de \u00c1lvarez",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4027696",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4027696.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 17.34597
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -100.16881
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 628
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1073
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "La Pintada,La Pinteda"
+}

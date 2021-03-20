@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3016053",
+    "name": "Gilette, France",
+    "description": "Provence-Alpes-C\u00f4te d'Azur, Alpes-Maritimes",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3016053",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3016053.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 43.84976
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 7.16346
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1302
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 417
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Gilette"
+}

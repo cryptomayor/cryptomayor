@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6293333",
+    "name": "K\u00fcsnacht / Schiedhalden, Switzerland",
+    "description": "Zurich, Bezirk Meilen",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6293333",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6293333.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.32112
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 8.58881
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1033
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 496
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Zurich"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Switzerland"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "CH",
+    "altnames": "Schiedhalden"
+}

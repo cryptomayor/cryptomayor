@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6309525",
+    "name": "Nueva Luz, Peru",
+    "description": "Cusco, Provincia de La Convenci\u00f3n",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6309525",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6309525.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -11.46817
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -73.03162
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 689
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 304
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Lima"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Peru"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "PE",
+    "altnames": null
+}

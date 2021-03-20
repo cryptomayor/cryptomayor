@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3825958",
+    "name": "Paso de Mata, Mexico",
+    "description": "Quer\u00e9taro, San Juan del R\u00edo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3825958",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3825958.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.3423
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -99.92712
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 4632
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2126
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Paso de Mata"
+}

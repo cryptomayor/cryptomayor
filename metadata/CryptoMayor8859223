@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8859223",
+    "name": "Colonia G\u00f3mez Mor\u00edn, Mexico",
+    "description": "Baja California, Ensenada",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8859223",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8859223.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 31.88167
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -116.54389
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1362
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 279
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Tijuana"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Colonia Gomez Morin,Colonia G\u00f3mez Mor\u00edn"
+}

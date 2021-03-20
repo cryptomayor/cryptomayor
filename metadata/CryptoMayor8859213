@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8859213",
+    "name": "Santa Anita, Mexico",
+    "description": "Guanajuato, Celaya",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8859213",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8859213.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.47028
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -100.815
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1374
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1755
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Santa Anita"
+}

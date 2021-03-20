@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3824996",
+    "name": "Loma Bonita, Mexico",
+    "description": "Oaxaca, Loma Bonita",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3824996",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3824996.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.10721
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -95.87904
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 31485
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 31
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Loma Bonita"
+}

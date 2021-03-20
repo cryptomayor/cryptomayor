@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2397169",
+    "name": "Ntoum, Gabon",
+    "description": "Estuaire",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2397169",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2397169.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 0.39051
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 9.76096
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 8569
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 11
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Africa/Libreville"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Gabon"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AF"
+        }
+    ],
+    "country_code": "GA",
+    "altnames": "NKA,Nkan,Ntoum"
+}

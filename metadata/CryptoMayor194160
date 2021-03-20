@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor194160",
+    "name": "Kapenguria, Kenya",
+    "description": "West Pokot",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor194160",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor194160.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 1.23889
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 35.11194
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 56000
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2020
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Africa/Nairobi"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Kenya"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AF"
+        }
+    ],
+    "country_code": "KE",
+    "altnames": "Kap-Nguria,Kapenguria"
+}

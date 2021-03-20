@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3674702",
+    "name": "Miranda, Colombia",
+    "description": "Cauca, Miranda",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3674702",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3674702.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 3.25283
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -76.22924
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 13223
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 972
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Bogota"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Colombia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "CO",
+    "altnames": "Miranda"
+}

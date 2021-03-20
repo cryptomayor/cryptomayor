@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3036270",
+    "name": "Auchy-les-Mines, France",
+    "description": "Hauts-de-France, Pas-de-Calais",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3036270",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3036270.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 50.51349
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 2.78283
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 4534
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 26
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Auchy,Auchy-les-Mines"
+}

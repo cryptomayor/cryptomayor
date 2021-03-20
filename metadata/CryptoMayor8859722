@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8859722",
+    "name": "Lomas de Romero, Mexico",
+    "description": "Puebla, Tecamachalco",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8859722",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8859722.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.91444
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -97.71722
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1087
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2164
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Lomas de Romero"
+}

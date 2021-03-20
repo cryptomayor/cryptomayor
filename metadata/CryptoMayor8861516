@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8861516",
+    "name": "El Nuevo Condado, Mexico",
+    "description": "Guanajuato, Silao de la Victoria",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8861516",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8861516.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.93056
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -101.44306
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 674
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1773
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "El Nuevo Condado"
+}

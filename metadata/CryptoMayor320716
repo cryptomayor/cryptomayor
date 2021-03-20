@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor320716",
+    "name": "Bozburun, Turkey",
+    "description": "Mu\u011fla",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor320716",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor320716.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 36.69495
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 28.04336
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 0
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Istanbul"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Turkey"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AS"
+        }
+    ],
+    "country_code": "TR",
+    "altnames": "Bozburun"
+}

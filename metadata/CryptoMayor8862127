@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8862127",
+    "name": "Fraccionamiento San Isidro, Mexico",
+    "description": "Oaxaca, Santiago Pinotepa Nacional",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8862127",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8862127.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 16.36278
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -98.06611
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 602
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 221
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Fraccionamiento San Isidro"
+}

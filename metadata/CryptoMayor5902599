@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5902599",
+    "name": "Blackfalds, Canada",
+    "description": "Alberta",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5902599",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5902599.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 52.38342
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -113.7853
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3198
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 876
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Edmonton"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Canada"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "CA",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3030203",
+    "name": "Breuillet, France",
+    "description": "\u00cele-de-France, Essonne",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3030203",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3030203.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 48.57064
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 2.17424
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 7755
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 92
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Breuillet"
+}

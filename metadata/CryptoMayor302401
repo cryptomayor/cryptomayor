@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor302401",
+    "name": "Refahiye, Turkey",
+    "description": "Erzincan",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor302401",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor302401.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 39.89315
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 38.76607
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 5579
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1598
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Istanbul"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Turkey"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AS"
+        }
+    ],
+    "country_code": "TR",
+    "altnames": "Gercanis,Refahiye"
+}

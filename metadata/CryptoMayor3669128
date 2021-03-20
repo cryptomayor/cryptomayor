@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3669128",
+    "name": "San Pedro, Colombia",
+    "description": "Sucre, San Pedro",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3669128",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3669128.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 9.3956
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -75.06476
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 11489
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 144
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Bogota"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Colombia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "CO",
+    "altnames": "San Pedro"
+}

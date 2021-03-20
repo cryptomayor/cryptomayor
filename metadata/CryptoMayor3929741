@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3929741",
+    "name": "San Dami\u00e1n, Peru",
+    "description": "Lima region, Provincia de Huarochir\u00ed",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3929741",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3929741.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -12.01736
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -76.39179
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 818
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 3231
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Lima"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Peru"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "PE",
+    "altnames": null
+}

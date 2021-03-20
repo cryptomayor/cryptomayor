@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3688357",
+    "name": "Buenos Aires, Colombia",
+    "description": "Cauca, Buenos Aires",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3688357",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3688357.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 3.01397
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -76.64612
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2144
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1200
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Bogota"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Colombia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "CO",
+    "altnames": null
+}

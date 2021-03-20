@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2405841",
+    "name": "Masaka, Sierra Leone",
+    "description": "Northern Province",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2405841",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2405841.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 8.66492
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -11.8026
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3219
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 129
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Africa/Freetown"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Sierra Leone"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AF"
+        }
+    ],
+    "country_code": "SL",
+    "altnames": "Masaka"
+}

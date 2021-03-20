@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor683488",
+    "name": "Buda, Romania",
+    "description": "Vaslui, Comuna O\u015fe\u015fti",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor683488",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor683488.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 46.76231
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 27.42113
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1298
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 157
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": null
+}

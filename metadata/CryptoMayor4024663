@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4024663",
+    "name": "La Cruz del Palmar, Mexico",
+    "description": "Guanajuato, San Miguel de Allende",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4024663",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4024663.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.96973
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -100.84354
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1009
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1866
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Cruz de Palmar,Cruz del Palmar,La Cruz del Palmar"
+}

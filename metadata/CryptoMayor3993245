@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3993245",
+    "name": "Pastelera, Mexico",
+    "description": "Zacatecas, R\u00edo Grande",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3993245",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3993245.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 23.7442
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -103.097
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1140
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1914
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Hacienda Pastelera,Pastelera"
+}

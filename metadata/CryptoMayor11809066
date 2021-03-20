@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor11809066",
+    "name": "Oman Smart Future City, Oman",
+    "description": "Al Batinah South",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor11809066",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor11809066.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 23.6527
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 57.59926
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 25000
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 69
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Asia/Muscat"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Oman"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AS"
+        }
+    ],
+    "country_code": "OM",
+    "altnames": "Oman Smart City"
+}

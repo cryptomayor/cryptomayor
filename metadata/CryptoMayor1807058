@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor1807058",
+    "name": "Huaqiao, China",
+    "description": "Hunan",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor1807058",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor1807058.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 27.70806
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 110.14194
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2240
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 270
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Asia/Shanghai"
+        },
+        {
+            "trait_type": "Country",
+            "value": "China"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AS"
+        }
+    ],
+    "country_code": "CN",
+    "altnames": "Hua-ch'iao,Hua-ch\u2019iao,Huaqiao"
+}

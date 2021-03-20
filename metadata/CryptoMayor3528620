@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3528620",
+    "name": "El Nopal, Mexico",
+    "description": "Chiapas, Ixtapa",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3528620",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3528620.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 16.91161
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -92.84471
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1903
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1549
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "El Nopal,Nopal"
+}

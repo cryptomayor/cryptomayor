@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6303007",
+    "name": "Bellavista, Peru",
+    "description": "Junin, Provincia de Satipo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6303007",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6303007.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -11.27388
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -74.65775
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 654
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 673
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Lima"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Peru"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "PE",
+    "altnames": null
+}

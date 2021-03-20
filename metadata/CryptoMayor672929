@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor672929",
+    "name": "Moi, Romania",
+    "description": "Gorj, Comuna B\u00e2lteni",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor672929",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor672929.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 44.90093
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 23.20834
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 973
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 163
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": "Moi,Moii"
+}

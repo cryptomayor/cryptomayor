@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3064948",
+    "name": "St\u0159e\u0148, Czechia",
+    "description": "Olomouck\u00fd, Okres Olomouc",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3064948",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3064948.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 49.69152
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 17.15382
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 539
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 227
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Prague"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Czechia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "CZ",
+    "altnames": null
+}

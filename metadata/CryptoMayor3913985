@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3913985",
+    "name": "Yumani, Bolivia",
+    "description": "La Paz",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3913985",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3913985.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -16.03574
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -69.14843
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2500
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 3972
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/La_Paz"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Bolivia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "BO",
+    "altnames": "Estancia Yumani,Isla del Sol"
+}

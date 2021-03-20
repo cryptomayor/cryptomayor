@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3677457",
+    "name": "La Sierra, Colombia",
+    "description": "Cauca, La Sierra",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3677457",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3677457.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 2.17835
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -76.76265
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2129
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1776
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Bogota"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Colombia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "CO",
+    "altnames": "La Sierra"
+}

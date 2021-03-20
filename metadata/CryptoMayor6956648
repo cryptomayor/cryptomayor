@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6956648",
+    "name": "Diez de Octubre, Cuba",
+    "description": "Havana",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6956648",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6956648.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 23.0881
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -82.3597
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 227293
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 63
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Havana"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Cuba"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "CU",
+    "altnames": null
+}

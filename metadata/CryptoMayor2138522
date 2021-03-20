@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2138522",
+    "name": "Poya, New Caledonia",
+    "description": "North Province, Poya",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2138522",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2138522.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -21.35
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 165.15
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2617
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 11
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Pacific/Noumea"
+        },
+        {
+            "trait_type": "Country",
+            "value": "New Caledonia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "NC",
+    "altnames": "Poya"
+}

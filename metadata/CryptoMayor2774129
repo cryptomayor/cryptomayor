@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2774129",
+    "name": "Kleingaisfeld, Austria",
+    "description": "Styria, Politischer Bezirk Voitsberg",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2774129",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2774129.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.02515
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 15.21028
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 795
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 423
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Vienna"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Austria"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "AT",
+    "altnames": null
+}

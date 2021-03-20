@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3018374",
+    "name": "Flavacourt, France",
+    "description": "Hauts-de-France, Oise",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3018374",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3018374.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 49.33502
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 1.82038
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 730
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 94
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Flavacourt"
+}

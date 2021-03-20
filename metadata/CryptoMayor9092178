@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor9092178",
+    "name": "Nuevo Necaxa, Mexico",
+    "description": "Puebla, Juan Galindo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor9092178",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor9092178.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.21049
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -98.00657
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 8203
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1354
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Nuevo Necaxa"
+}

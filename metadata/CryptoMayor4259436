@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4259436",
+    "name": "Ingalls, United States",
+    "description": "Indiana, Madison County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4259436",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4259436.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 39.95699
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -85.80526
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2382
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 263
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Indiana/Indianapolis"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

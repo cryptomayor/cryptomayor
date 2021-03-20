@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8349377",
+    "name": "California Gully, Australia",
+    "description": "Victoria, Greater Bendigo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8349377",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8349377.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -36.72887
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 144.26089
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 4268
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 241
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Melbourne"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": null
+}

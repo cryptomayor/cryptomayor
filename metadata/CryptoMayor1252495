@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor1252495",
+    "name": "Pajo, Bhutan",
+    "description": "Punakha",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor1252495",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor1252495.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 27.53333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 89.88333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3032
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1438
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Asia/Thimphu"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Bhutan"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AS"
+        }
+    ],
+    "country_code": "BT",
+    "altnames": "Pajo"
+}

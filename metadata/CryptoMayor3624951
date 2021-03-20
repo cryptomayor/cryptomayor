@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3624951",
+    "name": "Alajuelita, Costa Rica",
+    "description": "San Jos\u00e9, Alajuelita",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3624951",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3624951.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 9.90163
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -84.10042
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 13845
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1135
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Costa_Rica"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Costa Rica"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "CR",
+    "altnames": "Alajuelita"
+}

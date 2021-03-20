@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4564214",
+    "name": "El Negro, Puerto Rico",
+    "description": "Yabucoa, Camino Nuevo Barrio",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4564214",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4564214.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.03747
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -65.85127
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1656
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 41
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Puerto_Rico"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Puerto Rico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "PR",
+    "altnames": null
+}

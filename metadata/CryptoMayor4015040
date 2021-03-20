@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4015040",
+    "name": "La Resolana, Mexico",
+    "description": "Jalisco, Casimiro Castillo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4015040",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4015040.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.6052
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -104.43433
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 11180
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 371
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Casimiro Castillo,La Resolana,Resolana"
+}

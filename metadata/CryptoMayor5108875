@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5108875",
+    "name": "Bernhards Bay, United States",
+    "description": "New York, Oswego County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5108875",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5108875.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 43.24451
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -75.93353
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1350
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 124
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/New_York"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": "Bernhard's Bay,Bernhards Bay"
+}

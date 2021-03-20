@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4137775",
+    "name": "Bloomingdale, United States",
+    "description": "Washington, D.C., Washington County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4137775",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4137775.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 38.91678
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -77.01137
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 4980
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 30
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/New_York"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

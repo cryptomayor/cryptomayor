@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2017626",
+    "name": "Primorskiy, Russia",
+    "description": "Primorskiy (Maritime) Kray",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2017626",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2017626.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 43.09962
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 131.58938
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1708
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 40
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Asia/Vladivostok"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Russia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RU",
+    "altnames": "Primorskij,Primorskiy,\u041f\u0440\u0438\u043c\u043e\u0440\u0441\u043a\u0438\u0439"
+}

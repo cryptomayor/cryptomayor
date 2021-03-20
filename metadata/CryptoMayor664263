@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor664263",
+    "name": "Ungra, Romania",
+    "description": "Bra\u015fov, Comuna Ungra",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor664263",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor664263.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 45.98333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 25.26667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1983
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 452
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": "Ungra"
+}

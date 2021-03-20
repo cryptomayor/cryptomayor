@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor9972578",
+    "name": "Sunshine West, Australia",
+    "description": "Victoria, Brimbank",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor9972578",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor9972578.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -37.79117
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 144.81637
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 18568
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 40
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Melbourne"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3851181",
+    "name": "La Francia, Argentina",
+    "description": "Cordoba, Departamento de San Justo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3851181",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3851181.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -31.40675
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -62.63396
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3503
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 112
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Argentina/Cordoba"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Argentina"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "AR",
+    "altnames": null
+}

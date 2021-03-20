@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor437967",
+    "name": "Demirkonak, Turkey",
+    "description": "Hatay",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor437967",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor437967.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 36.58249
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 36.52744
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 779
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 150
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Istanbul"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Turkey"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AS"
+        }
+    ],
+    "country_code": "TR",
+    "altnames": "Demirkonak"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6535164",
+    "name": "Chiuduno, Italy",
+    "description": "Lombardy, Provincia di Bergamo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6535164",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6535164.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 45.65068
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 9.84946
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 5434
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 216
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": null
+}

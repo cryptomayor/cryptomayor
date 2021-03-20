@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3801562",
+    "name": "Cal y Mayor, Mexico",
+    "description": "Oaxaca, Santa Mar\u00eda Chimalapa",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3801562",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3801562.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 16.96187
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -94.01575
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 543
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 759
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Cal y Mayor,Rafael Cal y Mayor"
+}

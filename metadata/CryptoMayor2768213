@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2768213",
+    "name": "Pusterwald, Austria",
+    "description": "Styria, Politischer Bezirk Murtal",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2768213",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2768213.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.30611
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 14.37556
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 450
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1073
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Vienna"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Austria"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "AT",
+    "altnames": "Pusterwald"
+}

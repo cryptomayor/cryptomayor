@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5127561",
+    "name": "Morrisville, United States",
+    "description": "New York, Madison County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5127561",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5127561.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 42.89868
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -75.64018
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1764
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 407
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/New_York"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": "Morris Flats,Morrisville"
+}

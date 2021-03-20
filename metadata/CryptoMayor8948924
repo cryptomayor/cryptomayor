@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8948924",
+    "name": "Stazione, Italy",
+    "description": "The Marches, Provincia di Ancona",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8948924",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8948924.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 43.50046
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 13.15149
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2446
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 95
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "Stazione"
+}

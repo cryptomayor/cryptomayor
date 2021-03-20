@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor673315",
+    "name": "Mileanca, Romania",
+    "description": "Boto\u015fani, Comuna Mileanca",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor673315",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor673315.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 48.08333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 26.7
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2985
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 122
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": null
+}

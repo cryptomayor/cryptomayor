@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor740881",
+    "name": "Osmaneli, Turkey",
+    "description": "Bilecik",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor740881",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor740881.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 40.35722
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 30.01417
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 15708
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 114
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Istanbul"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Turkey"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AS"
+        }
+    ],
+    "country_code": "TR",
+    "altnames": "Lefke,Osmaneli"
+}

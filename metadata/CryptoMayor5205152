@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5205152",
+    "name": "Parkside, United States",
+    "description": "Pennsylvania, Monroe County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5205152",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5205152.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 41.1012
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -75.25046
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2206
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 222
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/New_York"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

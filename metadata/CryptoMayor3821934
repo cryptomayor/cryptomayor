@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3821934",
+    "name": "Acalmani, Mexico",
+    "description": "Guerrero, Ayutla de los Libres",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3821934",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3821934.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 17.08785
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -99.11656
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 940
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1020
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Acalmani"
+}

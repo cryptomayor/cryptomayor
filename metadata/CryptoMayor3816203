@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3816203",
+    "name": "Siberia, Mexico",
+    "description": "Chiapas, Chanal",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3816203",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3816203.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 16.61787
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -92.29325
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 954
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2110
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "La Siberia,Siberia"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5070327",
+    "name": "Homer, United States",
+    "description": "Nebraska, Dakota County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5070327",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5070327.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 42.32166
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -96.48948
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 541
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 336
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Chicago"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

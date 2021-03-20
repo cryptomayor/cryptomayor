@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3671287",
+    "name": "Puerto Wilches, Colombia",
+    "description": "Santander, Puerto Wilches",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3671287",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3671287.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 7.34828
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -73.89601
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 13705
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 67
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Bogota"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Colombia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "CO",
+    "altnames": "Puerto Wilches"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8862695",
+    "name": "Santo Domingo, Mexico",
+    "description": "Campeche, Calakmul",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8862695",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8862695.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 17.99917
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -89.37694
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 547
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 203
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Cancun"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Santo Domingo"
+}

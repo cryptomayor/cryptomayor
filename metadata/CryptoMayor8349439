@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8349439",
+    "name": "Skye, Australia",
+    "description": "Victoria, Frankston",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8349439",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8349439.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -38.10505
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 145.2163
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 7971
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 33
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Melbourne"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": null
+}

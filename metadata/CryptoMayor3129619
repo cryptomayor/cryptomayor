@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3129619",
+    "name": "Argavieso, Spain",
+    "description": "Aragon, Provincia de Huesca",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3129619",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3129619.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 42.05275
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -0.27834
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 125
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 484
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Madrid"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Spain"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "ES",
+    "altnames": "Argavieso"
+}

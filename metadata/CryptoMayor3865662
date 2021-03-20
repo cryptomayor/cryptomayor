@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3865662",
+    "name": "Antofagasta de la Sierra, Argentina",
+    "description": "Catamarca, Departamento de Antofagasta de la Sierra",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3865662",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3865662.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -26.0594
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -67.40636
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 500
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 3368
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Argentina/Catamarca"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Argentina"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "AR",
+    "altnames": "Antofagasta de la Sierra"
+}

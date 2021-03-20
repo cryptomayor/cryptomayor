@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3826904",
+    "name": "San Pedro Tejalpa, Mexico",
+    "description": "M\u00e9xico, Zinacantepec",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3826904",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3826904.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.25809
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -99.79232
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1892
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2869
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "San Pedro Tejalpa"
+}

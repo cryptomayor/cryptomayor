@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2839623",
+    "name": "Scherstetten, Germany",
+    "description": "Bavaria, Swabia",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2839623",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2839623.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 48.18032
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 10.64005
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1008
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 565
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Berlin"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Germany"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "DE",
+    "altnames": null
+}

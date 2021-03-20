@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3164502",
+    "name": "Verucchio, Italy",
+    "description": "Emilia-Romagna, Provincia di Rimini",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3164502",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3164502.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 43.98171
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 12.42317
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 944
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 331
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "Verucchio"
+}

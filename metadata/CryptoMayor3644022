@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3644022",
+    "name": "El Callao, Venezuela",
+    "description": "Bol\u00edvar",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3644022",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3644022.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 7.34706
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -61.82684
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 0
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 171
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Caracas"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Venezuela"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "VE",
+    "altnames": "El Callao"
+}

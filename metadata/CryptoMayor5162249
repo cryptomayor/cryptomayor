@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5162249",
+    "name": "McClure, United States",
+    "description": "Ohio, Henry County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5162249",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5162249.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 41.37144
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -83.94189
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 709
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 205
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/New_York"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

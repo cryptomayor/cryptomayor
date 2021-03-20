@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor11179947",
+    "name": "San Isidro de los Sauces, Mexico",
+    "description": "Guanajuato, Le\u00f3n",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor11179947",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor11179947.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 21.02103
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -101.53724
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1675
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1798
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "San Isidro de los Sauces"
+}

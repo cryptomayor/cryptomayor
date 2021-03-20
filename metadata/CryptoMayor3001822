@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3001822",
+    "name": "Les Bordes, France",
+    "description": "Centre, Indre",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3001822",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3001822.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 46.98114
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 1.97381
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 950
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 154
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Les Bordes"
+}

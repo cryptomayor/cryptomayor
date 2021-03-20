@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3460622",
+    "name": "Itarantim, Brazil",
+    "description": "Bahia, Itarantim",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3460622",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3460622.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -15.65972
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -40.06556
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 12369
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 255
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Bahia"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Brazil"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "BR",
+    "altnames": null
+}

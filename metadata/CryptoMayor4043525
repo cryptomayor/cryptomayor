@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4043525",
+    "name": "Agana Heights Village, Guam",
+    "description": "Agana Heights",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4043525",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4043525.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 13.46559
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 144.74795
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3940
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 39
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Pacific/Guam"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Guam"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "GU",
+    "altnames": "Agana Heights,Hagatna Heights,Tutuhan"
+}

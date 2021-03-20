@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor1294041",
+    "name": "Taungdwingyi, Myanmar",
+    "description": "Magway, Magway District",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor1294041",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor1294041.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.0065
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 95.54531
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 70094
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 143
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Asia/Yangon"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Myanmar"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AS"
+        }
+    ],
+    "country_code": "MM",
+    "altnames": "Taungdwingyi"
+}

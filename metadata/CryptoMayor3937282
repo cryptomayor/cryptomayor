@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3937282",
+    "name": "Lachaqui, Peru",
+    "description": "Lima region, Provincia de Canta",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3937282",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3937282.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -11.5529
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -76.62718
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 766
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 3665
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Lima"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Peru"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "PE",
+    "altnames": null
+}

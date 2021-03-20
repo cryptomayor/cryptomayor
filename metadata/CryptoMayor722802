@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor722802",
+    "name": "Arn\u00f3t, Hungary",
+    "description": "Borsod-Aba\u00faj-Zempl\u00e9n",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor722802",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor722802.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 48.13058
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 20.85832
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2493
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 112
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Budapest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Hungary"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "HU",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2768717",
+    "name": "Plankenau, Austria",
+    "description": "Salzburg, Politischer Bezirk Sankt Johann im Pongau",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2768717",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2768717.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.32673
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 13.19282
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1722
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 856
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Vienna"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Austria"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "AT",
+    "altnames": null
+}

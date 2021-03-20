@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4634474",
+    "name": "Kimball, United States",
+    "description": "Tennessee, Marion County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4634474",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4634474.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 35.04786
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -85.67191
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1401
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 205
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Chicago"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": "Kimball,Wallsville"
+}

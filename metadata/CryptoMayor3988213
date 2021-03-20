@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3988213",
+    "name": "Salamanca, Mexico",
+    "description": "Durango, Lerdo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3988213",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3988213.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 25.51581
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -103.6982
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 678
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1168
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Monterrey"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Salamanca"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5127555",
+    "name": "Morrisonville, United States",
+    "description": "New York, Clinton County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5127555",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5127555.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 44.6931
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -73.56208
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1545
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 108
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/New_York"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

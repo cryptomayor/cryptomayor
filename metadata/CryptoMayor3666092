@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3666092",
+    "name": "Vetas, Colombia",
+    "description": "Santander, Vetas",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3666092",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3666092.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 7.30911
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -72.87122
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1210
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 3257
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Bogota"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Colombia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "CO",
+    "altnames": "Vetas"
+}

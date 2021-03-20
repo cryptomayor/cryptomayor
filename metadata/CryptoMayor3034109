@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3034109",
+    "name": "Beaupuy, France",
+    "description": "Occitanie, Upper Garonne",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3034109",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3034109.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 43.64713
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 1.55517
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1227
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 163
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Beaupuy"
+}

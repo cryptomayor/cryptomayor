@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3180870",
+    "name": "Candia, Italy",
+    "description": "The Marches, Provincia di Ancona",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3180870",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3180870.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 43.56553
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 13.49293
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 865
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 192
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "Candia,Candia di Ancona"
+}

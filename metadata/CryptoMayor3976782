@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3976782",
+    "name": "La Presita, Mexico",
+    "description": "Sinaloa, Sinaloa",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3976782",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3976782.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 25.70734
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -108.58523
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1147
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 30
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mazatlan"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "La Presita"
+}

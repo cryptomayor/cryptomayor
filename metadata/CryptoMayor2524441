@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2524441",
+    "name": "Rocca di Capri Leone, Italy",
+    "description": "Sicily, Messina",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2524441",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2524441.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 38.10677
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 14.71032
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 4248
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 44
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "La Rocca,Rocca di Caprileone"
+}

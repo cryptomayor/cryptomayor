@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3823979",
+    "name": "Mundo Nuevo, Mexico",
+    "description": "Veracruz, Coatzacoalcos",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3823979",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3823979.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.08831
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -94.39024
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 8420
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 15
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Mundo Nuevo,Nuevo Mundo"
+}

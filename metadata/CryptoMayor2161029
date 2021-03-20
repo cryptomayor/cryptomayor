@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2161029",
+    "name": "Kotara, Australia",
+    "description": "New South Wales, Newcastle",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2161029",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2161029.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -32.94282
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 151.69585
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3846
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 102
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Sydney"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": "Kotara"
+}

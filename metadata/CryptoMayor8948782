@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8948782",
+    "name": "Villa Raspa, Italy",
+    "description": "Abruzzo, Provincia di Pescara",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8948782",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8948782.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 42.45542
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 14.18457
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 5059
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 23
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "Villa Raspa"
+}

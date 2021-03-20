@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8862610",
+    "name": "La Loma de San Mateo, Mexico",
+    "description": "M\u00e9xico, Temascalcingo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8862610",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8862610.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.90833
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -99.91056
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 555
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2591
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "La Loma de San Mateo"
+}

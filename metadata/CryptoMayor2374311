@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2374311",
+    "name": "Cacheu, Guinea-Bissau",
+    "description": "Cacheu",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2374311",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2374311.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 12.27444
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -16.16528
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 10490
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 18
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Africa/Bissau"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Guinea-Bissau"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AF"
+        }
+    ],
+    "country_code": "GW",
+    "altnames": "Cacheu"
+}

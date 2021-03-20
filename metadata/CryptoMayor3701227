@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3701227",
+    "name": "Santa Cruz, Panama",
+    "description": "Chiriqu\u00ed, Distrito de Renacimiento",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3701227",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3701227.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 8.6463
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -82.76055
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 274
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 651
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Panama"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Panama"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "PA",
+    "altnames": "Santa Cruz"
+}

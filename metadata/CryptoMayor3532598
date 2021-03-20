@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3532598",
+    "name": "Atlequizayan, Mexico",
+    "description": "Puebla, Atlequizayan",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3532598",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3532598.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.01214
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -97.62423
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1554
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 809
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Atlequizayan"
+}

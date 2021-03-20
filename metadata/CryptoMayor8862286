@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8862286",
+    "name": "San Gabriel, Mexico",
+    "description": "Sinaloa, Guasave",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8862286",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8862286.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 25.52972
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -108.47528
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 585
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 18
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mazatlan"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "San Gabriel"
+}

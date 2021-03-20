@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6078177",
+    "name": "Moose Lake, Canada",
+    "description": "Manitoba",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6078177",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6078177.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 49.20559
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -95.30629
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1225
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 346
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Winnipeg"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Canada"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "CA",
+    "altnames": null
+}

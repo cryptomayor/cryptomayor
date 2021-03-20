@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor11558888",
+    "name": "Esquena, Peru",
+    "description": "Puno, Provincia de Carabaya",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor11558888",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor11558888.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -13.92672
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -69.95295
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 642
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 3932
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Lima"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Peru"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "PE",
+    "altnames": "Esquena"
+}

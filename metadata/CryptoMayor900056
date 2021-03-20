@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor900056",
+    "name": "Nyimba, Zambia",
+    "description": "Eastern",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor900056",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor900056.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -14.55656
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 30.8149
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1336
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 716
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Africa/Lusaka"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Zambia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AF"
+        }
+    ],
+    "country_code": "ZM",
+    "altnames": "Nyimba"
+}

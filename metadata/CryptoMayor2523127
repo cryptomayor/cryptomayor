@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2523127",
+    "name": "Siamaggiore, Italy",
+    "description": "Sardinia, Provincia di Oristano",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2523127",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2523127.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 39.94966
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 8.63461
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 670
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 17
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "Siamaggiore"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8862436",
+    "name": "La Huerta, Mexico",
+    "description": "Michoac\u00e1n, Tac\u00e1mbaro",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8862436",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8862436.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.09889
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -101.51306
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 571
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1096
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "La Huerta"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8858332",
+    "name": "La Joya, Mexico",
+    "description": "M\u00e9xico, Zinacantepec",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8858332",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8858332.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.27639
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -99.75889
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3800
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2795
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "La Joya"
+}

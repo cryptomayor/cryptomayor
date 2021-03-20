@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3587923",
+    "name": "Villa Canales, Guatemala",
+    "description": "Guatemala, Municipio de Villa Canales",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3587923",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3587923.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 14.48285
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -90.53425
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 122194
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1259
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Guatemala"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Guatemala"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "GT",
+    "altnames": "Villa Anales,Villa Canales"
+}

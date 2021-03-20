@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3972657",
+    "name": "Casa de Cerros, Mexico",
+    "description": "Zacatecas, P\u00e1nuco",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3972657",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3972657.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 22.88499
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -102.52124
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1145
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2253
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Casa de Cerros"
+}

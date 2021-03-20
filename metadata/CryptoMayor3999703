@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3999703",
+    "name": "Las Lagunillas, Mexico",
+    "description": "Jalisco, Autl\u00e1n de Navarro",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3999703",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3999703.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.7171
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -104.28836
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 836
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 915
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Lagunilla,Las Lagunillas"
+}

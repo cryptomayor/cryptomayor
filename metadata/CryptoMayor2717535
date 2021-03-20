@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2717535",
+    "name": "Djurmo, Sweden",
+    "description": "Dalarna, Gagnefs Kommun",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2717535",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2717535.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 60.55027
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 15.18362
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 689
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 207
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Stockholm"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Sweden"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "SE",
+    "altnames": "Djurmo"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor906221",
+    "name": "Mkushi, Zambia",
+    "description": "Central",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor906221",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor906221.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -13.62015
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 29.3939
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 12306
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1257
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Africa/Lusaka"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Zambia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AF"
+        }
+    ],
+    "country_code": "ZM",
+    "altnames": "Mkushi"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4985601",
+    "name": "Belleville, United States",
+    "description": "Michigan, Wayne County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4985601",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4985601.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 42.20476
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -83.48521
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3880
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 208
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Detroit"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

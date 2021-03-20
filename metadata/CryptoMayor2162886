@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2162886",
+    "name": "Huntly, Australia",
+    "description": "Victoria, Greater Bendigo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2162886",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2162886.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -36.66451
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 144.33382
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2321
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 179
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Melbourne"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": "Huntly"
+}

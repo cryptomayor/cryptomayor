@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3151719",
+    "name": "Hov, Norway",
+    "description": "Innlandet, S\u00f8ndre Land",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3151719",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3151719.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 60.6987
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 10.35193
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2095
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 270
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Oslo"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Norway"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "NO",
+    "altnames": "Hov,Hov i Land"
+}

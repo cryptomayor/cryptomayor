@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3824816",
+    "name": "Paso del Ingenio, Mexico",
+    "description": "Veracruz, Angel R. Cabada",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3824816",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3824816.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.60306
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -95.36306
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 630
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 73
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": null
+}

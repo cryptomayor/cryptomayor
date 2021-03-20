@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5265792",
+    "name": "Orfordville, United States",
+    "description": "Wisconsin, Rock County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5265792",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5265792.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 42.62751
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -89.25317
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1495
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 271
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Chicago"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": "Orford,Orfordville"
+}

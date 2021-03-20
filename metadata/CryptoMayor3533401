@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3533401",
+    "name": "Acopinalco, Mexico",
+    "description": "Hidalgo, Apan",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3533401",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3533401.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.70959
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -98.53258
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 833
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2471
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Acopinalco"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3672077",
+    "name": "Planadas, Colombia",
+    "description": "Tolima, Planadas",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3672077",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3672077.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 3.19698
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -75.64506
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 9709
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1212
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Bogota"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Colombia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "CO",
+    "altnames": "PLA,Planadas"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3042271",
+    "name": "Andreas, Isle of Man",
+    "description": "Andreas",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3042271",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3042271.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 54.36667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -4.43333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 0
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 26
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Isle_of_Man"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Isle of Man"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IM",
+    "altnames": "Andreas"
+}

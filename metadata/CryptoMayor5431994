@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5431994",
+    "name": "Mount Crested Butte, United States",
+    "description": "Colorado, Gunnison County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5431994",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5431994.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 38.90527
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -106.96032
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 801
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 3028
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Denver"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": "Mount Crested Butte"
+}

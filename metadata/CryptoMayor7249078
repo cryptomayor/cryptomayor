@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor7249078",
+    "name": "North Castle, United States",
+    "description": "New York, Westchester County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor7249078",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor7249078.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 41.14
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -73.68389
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 12304
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 190
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/New_York"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

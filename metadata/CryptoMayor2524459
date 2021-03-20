@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2524459",
+    "name": "Lampedusa, Italy",
+    "description": "Sicily, Agrigento",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2524459",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2524459.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 35.50142
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 12.60964
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 4065
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 14
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "LMP,Lampedusa"
+}

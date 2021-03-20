@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2799034",
+    "name": "Dworp, Belgium",
+    "description": "Flanders, Provincie Vlaams-Brabant",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2799034",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2799034.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 50.72983
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 4.30106
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 5470
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 48
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Brussels"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Belgium"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "BE",
+    "altnames": "Beersel (Dworp),Tourneppe"
+}

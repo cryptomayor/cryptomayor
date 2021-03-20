@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3689697",
+    "name": "Arboledas, Colombia",
+    "description": "Norte de Santander, Arboledas",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3689697",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3689697.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 7.64233
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -72.79944
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2702
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 940
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Bogota"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Colombia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "CO",
+    "altnames": "Arboledas"
+}

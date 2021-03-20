@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor312289",
+    "name": "Haymana, Turkey",
+    "description": "Ankara",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor312289",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor312289.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 39.43212
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 32.49732
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 11896
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1210
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Istanbul"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Turkey"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AS"
+        }
+    ],
+    "country_code": "TR",
+    "altnames": "Hamam,Haymana,Sivrihamam,Yaban"
+}

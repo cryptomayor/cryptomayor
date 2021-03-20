@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3520035",
+    "name": "Salmoral, Mexico",
+    "description": "Veracruz, La Antigua",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3520035",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3520035.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.34237
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -96.3561
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 753
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 16
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Salmoral"
+}

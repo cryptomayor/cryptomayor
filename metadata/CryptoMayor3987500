@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3987500",
+    "name": "San Buenaventura, Mexico",
+    "description": "Coahuila, San Buenaventura",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3987500",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3987500.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 27.06193
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -101.54891
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 20480
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 499
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Monterrey"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "San Buenaventura"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3973866",
+    "name": "Pozuelos, Mexico",
+    "description": "San Luis Potos\u00ed, San Luis Potos\u00ed",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3973866",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3973866.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 22.08943
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -101.11523
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1094
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2100
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Pozuelos"
+}

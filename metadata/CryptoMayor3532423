@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3532423",
+    "name": "Nuevo Balsas, Mexico",
+    "description": "Guerrero, Cocula",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3532423",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3532423.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.03253
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -99.75913
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1711
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 487
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": null
+}

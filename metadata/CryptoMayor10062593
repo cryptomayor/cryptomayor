@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor10062593",
+    "name": "Mount Stuart, Australia",
+    "description": "Tasmania, Hobart",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor10062593",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor10062593.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -42.87157
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 147.30164
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2339
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 165
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Hobart"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": null
+}

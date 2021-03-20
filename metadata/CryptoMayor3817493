@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3817493",
+    "name": "Ahuatenco, Mexico",
+    "description": "M\u00e9xico, Ocuilan",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3817493",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3817493.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.94778
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -99.33278
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 960
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1939
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": null
+}

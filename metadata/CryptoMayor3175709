@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3175709",
+    "name": "Guardiagrele, Italy",
+    "description": "Abruzzo, Provincia di Chieti",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3175709",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3175709.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 42.19406
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 14.21939
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 4789
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 532
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "Guardiagrele"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3570584",
+    "name": "Le Gros-Morne, Martinique",
+    "description": "Martinique, Martinique",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3570584",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3570584.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 14.7
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -61.0
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 11025
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 132
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Martinique"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Martinique"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MQ",
+    "altnames": null
+}

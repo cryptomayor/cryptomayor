@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3710026",
+    "name": "El Roble, Panama",
+    "description": "Cocl\u00e9, Distrito de Aguadulce",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3710026",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3710026.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 8.1685
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -80.65897
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1648
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 33
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Panama"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Panama"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "PA",
+    "altnames": "El Roble"
+}

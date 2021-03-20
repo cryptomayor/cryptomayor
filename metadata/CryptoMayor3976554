@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3976554",
+    "name": "Valle Escondido, Mexico",
+    "description": "Sinaloa, Culiac\u00e1n",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3976554",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3976554.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 24.51972
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -107.25556
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 530
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 64
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mazatlan"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": null
+}

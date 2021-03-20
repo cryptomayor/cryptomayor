@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2760132",
+    "name": "Aalsmeerderbrug, Netherlands",
+    "description": "North Holland, Gemeente Haarlemmermeer",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2760132",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2760132.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 52.27417
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 4.75
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 505
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": -2
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Amsterdam"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Netherlands"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "NL",
+    "altnames": null
+}

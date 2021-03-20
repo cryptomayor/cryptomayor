@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8862685",
+    "name": "Campanario, Mexico",
+    "description": "Chiapas, Tila",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8862685",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8862685.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 17.46694
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -92.35111
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 548
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 423
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Campanario"
+}

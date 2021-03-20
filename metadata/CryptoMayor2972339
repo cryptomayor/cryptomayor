@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2972339",
+    "name": "Toulenne, France",
+    "description": "Nouvelle-Aquitaine, Gironde",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2972339",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2972339.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 44.55862
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -0.26259
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2210
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 6
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Toulenne"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2153391",
+    "name": "Perth, Australia",
+    "description": "Tasmania, Northern Midlands",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2153391",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2153391.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -41.57231
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 147.17096
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2907
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 165
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Hobart"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": "Perth"
+}

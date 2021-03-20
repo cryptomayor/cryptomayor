@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor157014",
+    "name": "Kisanga, Tanzania",
+    "description": "Morogoro, Morogoro Rural",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor157014",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor157014.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -7.43622
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 37.70337
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 10978
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 150
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Africa/Dar_es_Salaam"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Tanzania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AF"
+        }
+    ],
+    "country_code": "TZ",
+    "altnames": "Kisanga"
+}

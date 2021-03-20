@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3170351",
+    "name": "Pomaretto, Italy",
+    "description": "Piedmont, Torino",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3170351",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3170351.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 44.9559
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 7.18128
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 976
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 621
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "Pomaret,Pomaretto"
+}

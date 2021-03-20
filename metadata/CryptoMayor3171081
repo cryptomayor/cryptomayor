@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3171081",
+    "name": "Pettinengo, Italy",
+    "description": "Piedmont, Provincia di Biella",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3171081",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3171081.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 45.61306
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 8.10422
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1599
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 713
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "Pettinengo"
+}

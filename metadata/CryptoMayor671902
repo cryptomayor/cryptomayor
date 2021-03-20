@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor671902",
+    "name": "Oinacu, Romania",
+    "description": "Giurgiu, Comuna Oinacu",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor671902",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor671902.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 43.95
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 26.01667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3892
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 20
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": "Oinac,Oinacu,Oinacul"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5199324",
+    "name": "Lykens, United States",
+    "description": "Pennsylvania, Dauphin County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5199324",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5199324.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 40.56675
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -76.70052
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1759
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 215
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/New_York"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

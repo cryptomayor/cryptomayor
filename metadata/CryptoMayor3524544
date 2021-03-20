@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3524544",
+    "name": "La Tortuga, Mexico",
+    "description": "Quer\u00e9taro, Tequisquiapan",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3524544",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3524544.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.56703
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -99.92317
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2029
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1926
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "La Tortuga,Tortuga"
+}

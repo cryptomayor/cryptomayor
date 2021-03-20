@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5879898",
+    "name": "Badger, United States",
+    "description": "Alaska, Fairbanks North Star Borough",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5879898",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5879898.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 64.8
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -147.53333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 19482
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 146
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Anchorage"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

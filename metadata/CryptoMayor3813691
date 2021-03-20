@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3813691",
+    "name": "El Salitre, Mexico",
+    "description": "Hidalgo, Zimap\u00e1n",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3813691",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3813691.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.71446
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -99.33205
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 864
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1862
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "El Salitre"
+}

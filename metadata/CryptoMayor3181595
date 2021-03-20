@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3181595",
+    "name": "Brazzacco, Italy",
+    "description": "Friuli Venezia Giulia, Udine",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3181595",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3181595.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 46.12133
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 13.15917
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 762
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 211
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": null
+}

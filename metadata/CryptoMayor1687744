@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor1687744",
+    "name": "Santo Domingo, Philippines",
+    "description": "Bicol, Province of Albay",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor1687744",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor1687744.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 13.23528
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 123.77722
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 0
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 21
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Asia/Manila"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Philippines"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AS"
+        }
+    ],
+    "country_code": "PH",
+    "altnames": "Santo Domingo"
+}

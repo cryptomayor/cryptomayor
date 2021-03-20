@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8663015",
+    "name": "Pampachacra, Peru",
+    "description": "Huancavelica, Provincia de Huancavelica",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8663015",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8663015.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -12.80405
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -74.92108
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 559
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 3909
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Lima"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Peru"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "PE",
+    "altnames": null
+}

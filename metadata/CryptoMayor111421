@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor111421",
+    "name": "Zarand, Iran",
+    "description": "Kerman",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor111421",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor111421.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 30.81271
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 56.56399
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 58983
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1656
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Asia/Tehran"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Iran"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AS"
+        }
+    ],
+    "country_code": "IR",
+    "altnames": "Zarand,zrnd,\u0632\u0631\u0646\u062f"
+}

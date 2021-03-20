@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor7932629",
+    "name": "Balwyn North, Australia",
+    "description": "Victoria, Boroondara",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor7932629",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor7932629.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -37.79086
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 145.09386
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 20015
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 59
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Melbourne"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": "Balwyn North"
+}

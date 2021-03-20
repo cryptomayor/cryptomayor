@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8859703",
+    "name": "Vallejo (Porvenir Vallejo), Mexico",
+    "description": "Sinaloa, Ahome",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8859703",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8859703.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 25.88278
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -109.07361
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1098
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 16
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mazatlan"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Vallejo (Porvenir Vallejo)"
+}

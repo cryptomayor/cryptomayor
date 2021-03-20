@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3824145",
+    "name": "Emiliano Zapata, Mexico",
+    "description": "Veracruz, Pueblo Viejo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3824145",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3824145.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 22.1784
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -98.01277
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 515
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 6
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Emiliano Zapata"
+}

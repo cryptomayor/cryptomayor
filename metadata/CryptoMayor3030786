@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3030786",
+    "name": "Boust, France",
+    "description": "Grand Est, Moselle",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3030786",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3030786.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 49.43561
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 6.1917
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 746
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 185
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Boust"
+}

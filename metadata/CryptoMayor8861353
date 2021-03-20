@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8861353",
+    "name": "Las Limas, Mexico",
+    "description": "Chiapas, Simojovel",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8861353",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8861353.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 17.09694
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -92.69889
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 695
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 938
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Las Limas"
+}

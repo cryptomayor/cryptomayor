@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3213719",
+    "name": "Kurland, Sweden",
+    "description": "Sk\u00e5ne, Trelleborgs Kommun",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3213719",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3213719.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 55.375
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 13.08333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 560
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 5
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Stockholm"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Sweden"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "SE",
+    "altnames": "Kurland"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor669832",
+    "name": "Poroschia, Romania",
+    "description": "Teleorman, Comuna Poroschia",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor669832",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor669832.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 43.93333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 25.36667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 4544
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 38
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": "Poroschia"
+}

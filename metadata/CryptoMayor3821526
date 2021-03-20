@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3821526",
+    "name": "Escuchapa, Mexico",
+    "description": "Guerrero, Huitzuco de los Figueroa",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3821526",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3821526.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.30716
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -99.244
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 609
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1136
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Escuchapa"
+}

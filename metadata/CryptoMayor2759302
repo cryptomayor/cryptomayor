@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2759302",
+    "name": "Beersdal, Netherlands",
+    "description": "Limburg, Gemeente Heerlen",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2759302",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2759302.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 50.90597
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 5.9644
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1620
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 95
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Amsterdam"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Netherlands"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "NL",
+    "altnames": null
+}

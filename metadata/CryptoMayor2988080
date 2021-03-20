@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2988080",
+    "name": "Penne, France",
+    "description": "Occitanie, Tarn",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2988080",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2988080.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 44.07712
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 1.7298
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 547
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 158
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Penne"
+}

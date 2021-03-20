@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3802376",
+    "name": "Rancho Nuevo, Mexico",
+    "description": "Tabasco, Cunduac\u00e1n",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3802376",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3802376.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.07201
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -93.07252
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1330
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 12
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Rancho Nuevo"
+}

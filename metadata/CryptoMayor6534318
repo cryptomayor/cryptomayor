@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6534318",
+    "name": "Roure, Italy",
+    "description": "Piedmont, Torino",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6534318",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6534318.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 45.00214
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 7.13161
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 897
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 897
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": null
+}

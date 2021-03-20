@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor684162",
+    "name": "Borozel, Romania",
+    "description": "Bihor, Comuna Borod",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor684162",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor684162.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.00597
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 22.56215
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 671
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 287
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6534296",
+    "name": "Coassolo Torinese, Italy",
+    "description": "Piedmont, Torino",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6534296",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6534296.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 45.29775
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 7.46041
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1470
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 681
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": null
+}

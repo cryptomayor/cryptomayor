@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor589336",
+    "name": "Pringi, Estonia",
+    "description": "Harjumaa, Viimsi vald",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor589336",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor589336.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 59.53459
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 24.79726
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 603
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 15
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Tallinn"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Estonia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "EE",
+    "altnames": "Pringi"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2270962",
+    "name": "Benfica, Portugal",
+    "description": "Lisbon, Lisbon",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2270962",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2270962.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 38.75087
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -9.20282
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 36985
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 90
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Lisbon"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Portugal"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "PT",
+    "altnames": null
+}

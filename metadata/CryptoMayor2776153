@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2776153",
+    "name": "Hitzendorf, Austria",
+    "description": "Styria, Politischer Bezirk Graz-Umgebung",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2776153",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2776153.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.03333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 15.3
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1129
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 369
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Vienna"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Austria"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "AT",
+    "altnames": null
+}

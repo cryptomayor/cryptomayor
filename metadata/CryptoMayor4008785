@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4008785",
+    "name": "El Palmito, Mexico",
+    "description": "Michoac\u00e1n, Numar\u00e1n",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4008785",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4008785.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.21226
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -101.94572
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 727
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1688
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "El Palmito"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3164701",
+    "name": "Varenna, Italy",
+    "description": "Lombardy, Provincia di Lecco",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3164701",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3164701.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 46.01078
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 9.28465
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 764
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 275
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "Varenna"
+}

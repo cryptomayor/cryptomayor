@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2803320",
+    "name": "Aisemont, Belgium",
+    "description": "Wallonia, Province de Namur",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2803320",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2803320.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 50.40491
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 4.65185
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 643
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 199
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Brussels"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Belgium"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "BE",
+    "altnames": "Fosses-la-Ville (Aisemont)"
+}

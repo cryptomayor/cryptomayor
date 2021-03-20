@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5094342",
+    "name": "Webster, United States",
+    "description": "New Hampshire, Merrimack County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5094342",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5094342.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 43.32897
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -71.71786
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1682
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 208
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/New_York"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

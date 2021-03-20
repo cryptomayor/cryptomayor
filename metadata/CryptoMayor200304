@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor200304",
+    "name": "Bondo, Kenya",
+    "description": "Siaya",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor200304",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor200304.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 0.23522
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 34.28086
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 8683
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1223
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Africa/Nairobi"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Kenya"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AF"
+        }
+    ],
+    "country_code": "KE",
+    "altnames": "Bondo"
+}

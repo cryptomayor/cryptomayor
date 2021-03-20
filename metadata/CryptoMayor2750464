@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2750464",
+    "name": "Nederwetten, Netherlands",
+    "description": "North Brabant, Gemeente Nuenen, Gerwen en Nederwetten",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2750464",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2750464.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 51.49167
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 5.52361
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 700
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 15
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Amsterdam"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Netherlands"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "NL",
+    "altnames": null
+}

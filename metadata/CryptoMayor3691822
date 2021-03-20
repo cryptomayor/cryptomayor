@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3691822",
+    "name": "Sillapata, Peru",
+    "description": "Huanuco, Provincia de Dos de Mayo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3691822",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3691822.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -9.75831
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -76.7744
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 504
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 3444
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Lima"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Peru"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "PE",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3693584",
+    "name": "Pimentel, Peru",
+    "description": "Lambayeque, Provincia de Chiclayo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3693584",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3693584.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -6.83667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -79.93417
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 15552
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 7
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Lima"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Peru"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "PE",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3816561",
+    "name": "San Francisco Pujiltic, Mexico",
+    "description": "Chiapas, Venustiano Carranza",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3816561",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3816561.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 16.27922
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -92.45319
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 7137
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 625
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Pujiltic,San Francisco Pujiltic"
+}

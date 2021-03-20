@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor933321",
+    "name": "Mogapinyana, Botswana",
+    "description": "Central",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor933321",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor933321.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -22.37114
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 27.58575
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1400
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 915
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Africa/Gaborone"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Botswana"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AF"
+        }
+    ],
+    "country_code": "BW",
+    "altnames": "Mogapinyana,Mokhapinyana"
+}

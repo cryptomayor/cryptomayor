@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2658856",
+    "name": "Saland, Switzerland",
+    "description": "Zurich, Bezirk Pf\u00e4ffikon",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2658856",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2658856.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.39069
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 8.85294
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 526
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 606
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Zurich"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Switzerland"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "CH",
+    "altnames": null
+}

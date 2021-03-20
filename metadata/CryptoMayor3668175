@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3668175",
+    "name": "Segovia, Colombia",
+    "description": "Antioquia, Segovia",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3668175",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3668175.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 7.07993
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -74.6989
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 39938
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 680
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Bogota"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Colombia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "CO",
+    "altnames": "Segovia"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8858116",
+    "name": "Casa Blanca, Mexico",
+    "description": "Puebla, Amozoc",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8858116",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8858116.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.04222
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -98.11889
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 17262
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2232
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Casa Blanca"
+}

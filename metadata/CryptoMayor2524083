@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2524083",
+    "name": "Monsoreto, Italy",
+    "description": "Calabria, Provincia di Vibo-Valentia",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2524083",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2524083.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 38.51512
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 16.16664
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 786
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 674
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8949230",
+    "name": "La Rosa, Italy",
+    "description": "Apulia, Provincia di Brindisi",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8949230",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8949230.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 40.60674
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 17.95207
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1313
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 23
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "La Rosa"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor11979227",
+    "name": "Encanto, United States",
+    "description": "Arizona, Maricopa County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor11979227",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor11979227.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 33.47937
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -112.07823
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 54614
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 350
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Phoenix"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": "Encanto Village"
+}

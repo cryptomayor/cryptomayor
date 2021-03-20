@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3770955",
+    "name": "Villa Rica, Colombia",
+    "description": "Cauca, El Tambo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3770955",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3770955.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 2.5142
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -76.84939
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 9070
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1737
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Bogota"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Colombia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "CO",
+    "altnames": "Villa Rica"
+}

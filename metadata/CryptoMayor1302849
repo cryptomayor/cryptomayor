@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor1302849",
+    "name": "Hpa-An, Myanmar",
+    "description": "Kayin, Hpa-an District",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor1302849",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor1302849.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 16.88953
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 97.63482
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 50000
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 18
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Asia/Yangon"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Myanmar"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AS"
+        }
+    ],
+    "country_code": "MM",
+    "altnames": "Hpa-An,Hpa-an,PAA,Pa-an,Pan"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4722543",
+    "name": "Rice, United States",
+    "description": "Texas, Navarro County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4722543",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4722543.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 32.24376
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -96.4986
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 952
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 140
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Chicago"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

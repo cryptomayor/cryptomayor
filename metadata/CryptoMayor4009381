@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4009381",
+    "name": "El Llano de los Vela, Mexico",
+    "description": "Jalisco, Hostotipaquillo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4009381",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4009381.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 21.00024
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -103.915
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 549
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1007
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "El Llano de los Vela,El Llano de los Velas"
+}

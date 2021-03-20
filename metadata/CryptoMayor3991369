@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3991369",
+    "name": "Puerto de Nieto, Mexico",
+    "description": "Quer\u00e9taro",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3991369",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3991369.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.88975
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -100.53814
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1305
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2136
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Puerto Nieto,Puerto de Nieto"
+}

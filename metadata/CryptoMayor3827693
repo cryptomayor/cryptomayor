@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3827693",
+    "name": "La Macarena, Colombia",
+    "description": "Meta, La Macarena",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3827693",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3827693.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 2.18266
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -73.7871
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3466
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 229
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Bogota"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Colombia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "CO",
+    "altnames": "LMC,La Macarena"
+}

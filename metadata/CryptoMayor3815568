@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3815568",
+    "name": "Miguel Hidalgo, Mexico",
+    "description": "Chiapas, Palenque",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3815568",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3815568.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 17.53238
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -91.82048
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 650
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 67
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Lacandon,Lacand\u00f3n,Miguel Hidalgo"
+}

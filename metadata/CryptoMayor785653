@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor785653",
+    "name": "Span\u010devac, Serbia",
+    "description": "Central Serbia, P\u010dinja",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor785653",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor785653.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 42.36263
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 21.85619
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 578
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 587
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Belgrade"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Serbia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RS",
+    "altnames": "Spancevac,Span\u010devac"
+}

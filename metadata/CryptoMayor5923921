@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5923921",
+    "name": "Cliffcrest, Canada",
+    "description": "Ontario, Toronto county",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5923921",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5923921.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 43.72192
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -79.23091
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 15935
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 184
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Toronto"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Canada"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "CA",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6122078",
+    "name": "Richmond, Canada",
+    "description": "Quebec, Estrie",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6122078",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6122078.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 45.66677
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -72.1491
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3485
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 126
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Toronto"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Canada"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "CA",
+    "altnames": "Richmond"
+}

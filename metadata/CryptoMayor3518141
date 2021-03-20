@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3518141",
+    "name": "San Pablo Anicano, Mexico",
+    "description": "Puebla, San Pablo Anicano",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3518141",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3518141.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.12394
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -98.08502
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1865
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1135
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Amicano,Amicano-San Pablo,San Pablo,San Pablo Amicano,San Pablo Anicano"
+}

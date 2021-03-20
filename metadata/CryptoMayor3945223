@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3945223",
+    "name": "Catahuasi, Peru",
+    "description": "Lima region, Provincia de Yauyos",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3945223",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3945223.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -12.79889
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -75.89194
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 386
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1172
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Lima"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Peru"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "PE",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2176264",
+    "name": "Belmont, Australia",
+    "description": "Queensland, Brisbane",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2176264",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2176264.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -27.49882
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 153.134
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3648
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 7
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Brisbane"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": "Belmont"
+}

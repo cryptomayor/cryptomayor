@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4018668",
+    "name": "Altos de Jecopaco, Mexico",
+    "description": "Sonora, Cajeme",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4018668",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4018668.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 27.17048
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -109.89363
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 984
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 23
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Hermosillo"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Alto Jecopaco,Altos de Jecopaco"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4568077",
+    "name": "San Antonio, Puerto Rico",
+    "description": "Quebradillas, Cacao Barrio",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4568077",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4568077.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.45161
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -66.94962
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1203
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 164
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Puerto_Rico"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Puerto Rico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "PR",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3815739",
+    "name": "La Ceiba, Mexico",
+    "description": "Chiapas, Simojovel",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3815739",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3815739.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 17.13371
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -92.51887
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1275
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 586
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "La Ceiba"
+}

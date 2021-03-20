@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2791385",
+    "name": "Melle, Belgium",
+    "description": "Flanders, Provincie Oost-Vlaanderen",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2791385",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2791385.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 51.00232
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 3.80526
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 10687
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 8
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Brussels"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Belgium"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "BE",
+    "altnames": "Melle"
+}

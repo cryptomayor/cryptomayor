@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3172041",
+    "name": "Olmeneta, Italy",
+    "description": "Lombardy, Provincia di Cremona",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3172041",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3172041.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 45.2354
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 10.02318
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 920
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 53
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "Olmeneta"
+}

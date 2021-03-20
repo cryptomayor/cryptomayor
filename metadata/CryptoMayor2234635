@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2234635",
+    "name": "Bazou, Cameroon",
+    "description": "West",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2234635",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2234635.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 5.06001
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 10.46751
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 13058
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1206
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Africa/Douala"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Cameroon"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AF"
+        }
+    ],
+    "country_code": "CM",
+    "altnames": "Bazou"
+}

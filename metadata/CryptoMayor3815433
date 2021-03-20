@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3815433",
+    "name": "Santa Ana Nopalucan, Mexico",
+    "description": "Tlaxcala, Santa Ana Nopalucan",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3815433",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3815433.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.2981
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -98.33321
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 6848
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2228
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Nopalucan,Santa Ana Nopalucan"
+}

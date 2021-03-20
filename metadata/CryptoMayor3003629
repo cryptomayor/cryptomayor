@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3003629",
+    "name": "Le Magny, France",
+    "description": "Centre, Indre",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3003629",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3003629.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 46.56799
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 1.95601
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 867
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 252
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Le Magny"
+}

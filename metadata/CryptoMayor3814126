@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3814126",
+    "name": "Mangas, Mexico",
+    "description": "Hidalgo, Tezontepec de Aldama",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3814126",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3814126.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.18647
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -99.24799
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3776
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2005
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Mangas"
+}

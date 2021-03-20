@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4741641",
+    "name": "Whitehouse, United States",
+    "description": "Texas, Smith County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4741641",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4741641.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 32.22682
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -95.2255
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 8189
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 148
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Chicago"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

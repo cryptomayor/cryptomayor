@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3827380",
+    "name": "San Pedro Atocpan, Mexico",
+    "description": "Mexico City, Milpa Alta",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3827380",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3827380.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.2016
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -99.04963
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 8283
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2455
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "San Pedro Atocpan"
+}

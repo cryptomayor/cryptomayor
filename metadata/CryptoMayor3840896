@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3840896",
+    "name": "Plaza Huincul, Argentina",
+    "description": "Neuquen, Departamento de Confluencia",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3840896",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3840896.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -38.92598
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -69.20863
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 12273
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 600
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Argentina/Salta"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Argentina"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "AR",
+    "altnames": "Plaza Huincul"
+}

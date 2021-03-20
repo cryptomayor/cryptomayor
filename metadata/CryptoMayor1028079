@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor1028079",
+    "name": "Ressano Garcia, Mozambique",
+    "description": "Maputo Province",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor1028079",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor1028079.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -25.44278
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 31.99528
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 110000
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 125
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Africa/Maputo"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mozambique"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AF"
+        }
+    ],
+    "country_code": "MZ",
+    "altnames": "Resano Garcia,Ressano Garcia"
+}

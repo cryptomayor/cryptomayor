@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2651056",
+    "name": "Dousland, United Kingdom",
+    "description": "England, Devon",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2651056",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2651056.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 50.50009
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -4.06324
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 833
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 210
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/London"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United Kingdom"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "GB",
+    "altnames": null
+}

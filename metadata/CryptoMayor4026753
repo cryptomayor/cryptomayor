@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4026753",
+    "name": "Cerritos del Pilar, Mexico",
+    "description": "M\u00e9xico, Villa Victoria",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4026753",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4026753.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.44508
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -100.01909
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1228
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2628
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Cerritos del Pilar"
+}

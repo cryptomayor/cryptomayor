@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3514588",
+    "name": "Xaltepec, Mexico",
+    "description": "Puebla, Huauchinango",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3514588",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3514588.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.16495
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -98.00128
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2583
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1349
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Xaltepec"
+}

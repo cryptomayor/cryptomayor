@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3089882",
+    "name": "Osielec, Poland",
+    "description": "Lesser Poland, Powiat suski",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3089882",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3089882.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 49.68079
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 19.78243
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3000
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 466
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Warsaw"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Poland"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "PL",
+    "altnames": null
+}

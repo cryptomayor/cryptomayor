@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor560646",
+    "name": "Golovino, Russia",
+    "description": "Vladimir",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor560646",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor560646.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 55.96128
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 40.42511
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2990
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 154
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Moscow"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Russia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RU",
+    "altnames": "Golovino,\u0413\u043e\u043b\u043e\u0432\u0438\u043d\u043e"
+}

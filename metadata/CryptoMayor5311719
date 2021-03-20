@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5311719",
+    "name": "Rock Point, United States",
+    "description": "Arizona, Apache County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5311719",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5311719.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 36.71806
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -109.62594
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 642
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1530
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Denver"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

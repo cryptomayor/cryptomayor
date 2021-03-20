@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6292997",
+    "name": "R\u00fcschlikon / Alte Landstrasse, Switzerland",
+    "description": "Zurich, Bezirk Horgen",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6292997",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6292997.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.30378
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 8.55427
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 546
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 457
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Zurich"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Switzerland"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "CH",
+    "altnames": "Alte Landstrasse"
+}

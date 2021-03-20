@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3514008",
+    "name": "Zongolica, Mexico",
+    "description": "Veracruz, Zongolica",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3514008",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3514008.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.66673
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -96.99707
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 6874
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1219
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Zongolica"
+}

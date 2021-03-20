@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3006725",
+    "name": "La Ronde, France",
+    "description": "Nouvelle-Aquitaine, Charente-Maritime",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3006725",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3006725.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 46.29919
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -0.80792
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 792
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 7
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "La Ronde"
+}

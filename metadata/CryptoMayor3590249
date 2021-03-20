@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3590249",
+    "name": "San Francisco, Guatemala",
+    "description": "Pet\u00e9n, Municipio de San Francisco",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3590249",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3590249.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 16.7978
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -89.93507
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3954
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 241
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Guatemala"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Guatemala"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "GT",
+    "altnames": "San Francisco"
+}

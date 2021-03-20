@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor12070757",
+    "name": "Cross Lake 19A, Canada",
+    "description": "Manitoba",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor12070757",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor12070757.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 54.65135
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -97.76848
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2018
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 209
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Winnipeg"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Canada"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "CA",
+    "altnames": null
+}

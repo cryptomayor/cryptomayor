@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor239300",
+    "name": "Gambo, Central African Republic",
+    "description": "Mbomou, Gambo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor239300",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor239300.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 4.64816
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 22.26331
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 4971
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 483
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Africa/Bangui"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Central African Republic"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AF"
+        }
+    ],
+    "country_code": "CF",
+    "altnames": "Gambo"
+}

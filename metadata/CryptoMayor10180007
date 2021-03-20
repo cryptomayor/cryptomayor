@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor10180007",
+    "name": "Villa Unida, Panama",
+    "description": "Panam\u00e1, Distrito de Panam\u00e1",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor10180007",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor10180007.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 9.18908
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -79.62452
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 14854
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 83
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Panama"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Panama"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "PA",
+    "altnames": "Villa Unida"
+}

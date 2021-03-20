@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3818784",
+    "name": "El Progreso, Mexico",
+    "description": "Puebla, Guadalupe Victoria",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3818784",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3818784.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.38537
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -97.28936
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 751
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2448
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "El Progreso"
+}

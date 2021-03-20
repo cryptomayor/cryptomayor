@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor7669018",
+    "name": "Aldergrove, Canada",
+    "description": "British Columbia, Metro Vancouver Regional District",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor7669018",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor7669018.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 49.05801
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -122.47087
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 12363
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 102
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Vancouver"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Canada"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "CA",
+    "altnames": "Aldergrove"
+}

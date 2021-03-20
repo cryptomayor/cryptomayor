@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2723488",
+    "name": "Bara, Sweden",
+    "description": "S\u00f6dermanland, Oxel\u00f6sunds Kommun",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2723488",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2723488.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 58.68333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 17.06667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3270
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 20
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Stockholm"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Sweden"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "SE",
+    "altnames": null
+}

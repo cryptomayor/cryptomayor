@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor12212815",
+    "name": "Veliko Polje, Croatia",
+    "description": "City of Zagreb, Gradska cetvrt Novi Zagreb - istok",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor12212815",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor12212815.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 45.73682
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 16.01584
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1668
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 119
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Zagreb"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Croatia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "HR",
+    "altnames": "V. Polje"
+}

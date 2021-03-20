@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8860120",
+    "name": "Vista Marina, Mexico",
+    "description": "Baja California, Playas de Rosarito",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8860120",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8860120.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 32.25278
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -116.93972
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 939
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 78
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Tijuana"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Vista Marina"
+}

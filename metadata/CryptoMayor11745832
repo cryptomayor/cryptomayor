@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor11745832",
+    "name": "Dardanup West, Australia",
+    "description": "Western Australia, Dardanup",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor11745832",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor11745832.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -33.38637
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 115.72964
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 649
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 25
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Perth"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": null
+}

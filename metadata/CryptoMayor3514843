@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3514843",
+    "name": "Vega de Alatorre, Mexico",
+    "description": "Veracruz, Vega de Alatorre",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3514843",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3514843.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.02823
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -96.64751
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 7653
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 27
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Vega de Alatorre"
+}

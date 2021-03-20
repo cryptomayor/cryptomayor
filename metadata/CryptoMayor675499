@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor675499",
+    "name": "Irina, Romania",
+    "description": "Satu Mare, Comuna Andrid",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor675499",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor675499.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.55334
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 22.40342
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 587
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 113
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": null
+}

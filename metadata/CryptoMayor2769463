@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2769463",
+    "name": "Oftering, Austria",
+    "description": "Upper Austria, Politischer Bezirk Linz-Land",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2769463",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2769463.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 48.23399
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 14.13571
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 508
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 309
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Vienna"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Austria"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "AT",
+    "altnames": "Oftering"
+}

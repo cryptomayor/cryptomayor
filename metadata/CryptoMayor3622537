@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3622537",
+    "name": "Parrita, Costa Rica",
+    "description": "Puntarenas, Parrita",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3622537",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3622537.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 9.52012
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -84.32249
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3734
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 12
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Costa_Rica"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Costa Rica"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "CR",
+    "altnames": "Parrita"
+}

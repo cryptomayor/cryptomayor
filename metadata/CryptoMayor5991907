@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5991907",
+    "name": "Killarney, Canada",
+    "description": "Manitoba",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5991907",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5991907.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 49.18332
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -99.66364
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2362
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 495
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Winnipeg"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Canada"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "CA",
+    "altnames": null
+}

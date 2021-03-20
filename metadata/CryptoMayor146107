@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor146107",
+    "name": "Pyrgos, Cyprus",
+    "description": "Limassol, Pyrgos",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor146107",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor146107.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 34.74167
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 33.18333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1407
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 83
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Asia/Nicosia"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Cyprus"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "CY",
+    "altnames": "Pyrga,Pyrgos"
+}

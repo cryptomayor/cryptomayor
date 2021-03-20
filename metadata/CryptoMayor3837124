@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3837124",
+    "name": "San Justo, Argentina",
+    "description": "Santa Fe, Departamento de San Justo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3837124",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3837124.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -30.78913
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -60.59189
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 21809
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 59
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Argentina/Cordoba"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Argentina"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "AR",
+    "altnames": "San Justo"
+}

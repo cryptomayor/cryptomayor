@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3667780",
+    "name": "Suan, Colombia",
+    "description": "Atl\u00e1ntico, Suan",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3667780",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3667780.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 10.33347
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -74.88016
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 10381
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 10
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Bogota"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Colombia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "CO",
+    "altnames": "Suan"
+}

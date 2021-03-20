@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5131095",
+    "name": "Philadelphia, United States",
+    "description": "New York, Jefferson County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5131095",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5131095.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 44.1545
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -75.70882
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1223
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 150
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/New_York"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": "Filadel'fija,Philadelphia,Quaker Settlement,\u0424\u0438\u043b\u0430\u0434\u0435\u043b\u044c\u0444\u0438\u044f"
+}

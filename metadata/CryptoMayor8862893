@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8862893",
+    "name": "Canacucho, Mexico",
+    "description": "Michoac\u00e1n, P\u00e1tzcuaro",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8862893",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8862893.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.47972
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -101.49194
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 530
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2344
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Canacucho"
+}

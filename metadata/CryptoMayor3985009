@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3985009",
+    "name": "San Pedro Pareo, Mexico",
+    "description": "Michoac\u00e1n, P\u00e1tzcuaro",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3985009",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3985009.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.53245
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -101.67042
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 692
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2067
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "San Pedro,San Pedro Pareo,San Pedro Purua"
+}

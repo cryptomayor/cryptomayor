@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8863014",
+    "name": "Colonia Primero de Mayo, Mexico",
+    "description": "Veracruz, Tierra Blanca",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8863014",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8863014.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.66528
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -96.61417
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 519
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 212
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Colonia Primero de Mayo"
+}

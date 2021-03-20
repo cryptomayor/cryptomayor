@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3509578",
+    "name": "Ciudad Nueva, Dominican Republic",
+    "description": "Nacional, Santo Domingo De Guzm\u00e1n",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3509578",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3509578.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.46707
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -69.89339
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 18756
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 15
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Santo_Domingo"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Dominican Republic"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "DO",
+    "altnames": "Ciudad Nueva"
+}

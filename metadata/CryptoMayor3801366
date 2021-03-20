@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3801366",
+    "name": "Arroyo de Banco, Mexico",
+    "description": "Oaxaca, San Juan Bautista Valle Nacional",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3801366",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3801366.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 17.80312
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -96.34794
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1267
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 168
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Arroyo de Banco"
+}

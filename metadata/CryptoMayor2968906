@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2968906",
+    "name": "Villasavary, France",
+    "description": "Occitanie, Aude",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2968906",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2968906.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 43.22062
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 2.03847
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 935
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 182
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Villasavary"
+}

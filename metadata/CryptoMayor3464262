@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3464262",
+    "name": "Encruzilhada, Brazil",
+    "description": "Bahia, Encruzilhada",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3464262",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3464262.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -15.53139
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -40.90944
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 4711
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 627
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Bahia"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Brazil"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "BR",
+    "altnames": null
+}

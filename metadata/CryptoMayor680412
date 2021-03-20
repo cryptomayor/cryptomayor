@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor680412",
+    "name": "Cozia, Romania",
+    "description": "Mehedin\u0163i, Comuna Pristol",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor680412",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor680412.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 44.21491
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 22.71371
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 731
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 40
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": null
+}

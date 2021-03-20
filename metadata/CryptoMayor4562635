@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4562635",
+    "name": "Arecibo, Puerto Rico",
+    "description": "Arecibo, Arecibo Barrio-Pueblo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4562635",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4562635.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.47245
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -66.71573
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 49318
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 14
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Puerto_Rico"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Puerto Rico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "PR",
+    "altnames": "ARE,Arecivo,Arezibo,Ariezibo,Arrec2 bo,El Arecibo,La Ribera del A recibo,La Villa del Capitan Correa"
+}

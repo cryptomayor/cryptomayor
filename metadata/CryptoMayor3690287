@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3690287",
+    "name": "Aipe, Colombia",
+    "description": "Huila, Aipe",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3690287",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3690287.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 3.22222
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -75.23667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 7964
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 393
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Bogota"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Colombia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "CO",
+    "altnames": "Aipe"
+}

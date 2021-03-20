@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3605005",
+    "name": "Marcala, Honduras",
+    "description": "La Paz",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3605005",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3605005.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 14.15
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -88.03333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 10054
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1248
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Tegucigalpa"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Honduras"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "HN",
+    "altnames": "MRJ,Marcala"
+}

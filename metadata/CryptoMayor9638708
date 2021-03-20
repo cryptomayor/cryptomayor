@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor9638708",
+    "name": "El Campito, Mexico",
+    "description": "Chiapas, Suchiate",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor9638708",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor9638708.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 14.67637
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -92.17499
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 645
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 27
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "El Campito"
+}

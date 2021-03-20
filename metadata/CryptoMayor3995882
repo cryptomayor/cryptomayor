@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3995882",
+    "name": "San Bernardino de Milpillas Chico, Mexico",
+    "description": "Durango, Pueblo Nuevo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3995882",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3995882.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 23.38463
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -105.15314
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1296
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2008
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Monterrey"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Milpillas,Milpillas Chico,San Bernardino de Milpillas Chico"
+}

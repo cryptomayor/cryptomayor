@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2185296",
+    "name": "Otautau, New Zealand",
+    "description": "Southland, Southland District",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2185296",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2185296.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -46.15
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 168.0
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 745
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 55
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Pacific/Auckland"
+        },
+        {
+            "trait_type": "Country",
+            "value": "New Zealand"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "NZ",
+    "altnames": "Otautau Town District"
+}

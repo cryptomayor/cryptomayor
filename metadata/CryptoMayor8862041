@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8862041",
+    "name": "Arroyo Delicias, Mexico",
+    "description": "Chiapas, Benem\u00e9rito de las Am\u00e9ricas",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8862041",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8862041.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 16.11667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -90.55139
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 611
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 151
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Arroyo Delicias"
+}

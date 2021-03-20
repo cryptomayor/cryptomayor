@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2680350",
+    "name": "Sandarne, Sweden",
+    "description": "G\u00e4vleborg, S\u00f6derhamns Kommun",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2680350",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2680350.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 61.25893
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 17.15284
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1681
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Stockholm"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Sweden"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "SE",
+    "altnames": "Sandarne"
+}

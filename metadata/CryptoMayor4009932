@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4009932",
+    "name": "El \u00c9bano, Mexico",
+    "description": "Sinaloa, Angostura",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4009932",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4009932.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 25.32402
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -108.18368
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 994
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 20
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mazatlan"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "El Ebano,El \u00c9bano"
+}

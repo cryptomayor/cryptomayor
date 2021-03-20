@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3034408",
+    "name": "Bazus, France",
+    "description": "Occitanie, Upper Garonne",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3034408",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3034408.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 43.73555
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 1.51631
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 599
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 182
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Bazus"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2801846",
+    "name": "Blaugies, Belgium",
+    "description": "Wallonia, Province du Hainaut",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2801846",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2801846.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 50.37218
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 3.80582
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1401
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 132
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Brussels"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Belgium"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "BE",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2065710",
+    "name": "Mosman Park, Australia",
+    "description": "Western Australia, Mosman Park",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2065710",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2065710.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -32.00538
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 115.7638
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 8566
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 24
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Perth"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": "Mosman Park"
+}

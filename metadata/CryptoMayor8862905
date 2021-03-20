@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8862905",
+    "name": "Bancos de Calitique, Mexico",
+    "description": "Durango, Mezquital",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8862905",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8862905.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 22.44528
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -104.39472
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 528
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 997
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Monterrey"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Bancos de Calitique"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3523279",
+    "name": "Mexcalteco, Mexico",
+    "description": "Veracruz, Altotonga",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3523279",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3523279.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.82202
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -97.11784
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 537
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 716
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Mexcalteco"
+}

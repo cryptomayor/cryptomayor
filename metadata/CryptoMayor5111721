@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5111721",
+    "name": "Castile, United States",
+    "description": "New York, Wyoming County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5111721",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5111721.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 42.62895
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -78.05445
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 986
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 413
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/New_York"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": "Castile,Castle,Oak Hill,Wolf Creek"
+}

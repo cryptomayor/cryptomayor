@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5516077",
+    "name": "Agua Dulce, United States",
+    "description": "Texas, El Paso County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5516077",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5516077.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 31.65511
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -106.13887
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3014
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1223
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Denver"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor759472",
+    "name": "Serniki, Poland",
+    "description": "Lublin, Powiat lubartowski",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor759472",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor759472.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 51.43716
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 22.65853
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 382
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 150
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Warsaw"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Poland"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "PL",
+    "altnames": "Serniki,Syrniki"
+}

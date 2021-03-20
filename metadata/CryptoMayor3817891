@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3817891",
+    "name": "San Jos\u00e9 Degued\u00f3, Mexico",
+    "description": "M\u00e9xico, Soyaniquilpan de Ju\u00e1rez",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3817891",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3817891.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.08593
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -99.56417
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 799
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2519
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": null
+}

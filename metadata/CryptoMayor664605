@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor664605",
+    "name": "Trip, Romania",
+    "description": "Satu Mare, Comuna Bixad",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor664605",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor664605.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.9245
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 23.37648
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1387
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 172
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": null
+}

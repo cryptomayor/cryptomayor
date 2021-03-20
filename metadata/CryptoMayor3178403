@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3178403",
+    "name": "Colle di Tora, Italy",
+    "description": "Latium, Provincia di Rieti",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3178403",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3178403.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 42.20809
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 12.94746
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 367
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 561
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "Colle di Tora"
+}

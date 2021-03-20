@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor602909",
+    "name": "Skelleftehamn, Sweden",
+    "description": "V\u00e4sterbotten, Skellefte\u00e5 Kommun",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor602909",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor602909.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 64.68333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 21.23333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3069
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": -9999
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Stockholm"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Sweden"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "SE",
+    "altnames": "Skelleftehamn"
+}

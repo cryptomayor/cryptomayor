@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3504080",
+    "name": "Jima Abajo, Dominican Republic",
+    "description": "La Vega, Jima Abajo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3504080",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3504080.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.13292
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -70.37607
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 6299
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 69
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Santo_Domingo"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Dominican Republic"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "DO",
+    "altnames": "Jima,Jima Abajo"
+}

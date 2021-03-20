@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4165576",
+    "name": "Naples Park, United States",
+    "description": "Florida, Collier County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4165576",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4165576.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 26.26175
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -81.80925
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 5967
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 8
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/New_York"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3380450",
+    "name": "Roura, French Guiana",
+    "description": "Guyane, Guyane",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3380450",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3380450.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 4.72874
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -52.32495
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2229
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 14
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Cayenne"
+        },
+        {
+            "trait_type": "Country",
+            "value": "French Guiana"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "GF",
+    "altnames": "Roura"
+}

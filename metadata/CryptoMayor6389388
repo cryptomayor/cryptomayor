@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6389388",
+    "name": "Buenos Aires, Peru",
+    "description": "San Mart\u00edn, Provincia de Moyobamba",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6389388",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6389388.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -5.92285
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -77.0787
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 578
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 815
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Lima"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Peru"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "PE",
+    "altnames": null
+}

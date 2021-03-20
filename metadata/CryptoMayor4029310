@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4029310",
+    "name": "San Vicente, Mexico",
+    "description": "Nayarit, Bah\u00eda de Banderas",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4029310",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4029310.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.74879
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -105.25018
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 14324
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 18
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Bahia_Banderas"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "San Vicente"
+}

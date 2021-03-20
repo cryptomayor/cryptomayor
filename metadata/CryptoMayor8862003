@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8862003",
+    "name": "Poblado Morelos, Mexico",
+    "description": "Oaxaca, San Pablo Etla",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8862003",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8862003.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 17.15167
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -96.77528
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 616
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1618
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Poblado Morelos"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2866102",
+    "name": "Neubrunn, Germany",
+    "description": "Bavaria, Regierungsbezirk Unterfranken",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2866102",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2866102.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 49.73088
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 9.67161
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2311
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 290
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Berlin"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Germany"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "DE",
+    "altnames": "Neubrunn"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3926850",
+    "name": "Tucsipampa, Peru",
+    "description": "Huancavelica, Provincia de Angaraes",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3926850",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3926850.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -13.00084
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -74.78819
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 551
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 3426
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Lima"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Peru"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "PE",
+    "altnames": null
+}

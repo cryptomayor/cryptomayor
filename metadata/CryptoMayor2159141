@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2159141",
+    "name": "Maddingley, Australia",
+    "description": "Victoria, Moorabool",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2159141",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2159141.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -37.68518
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 144.43245
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3426
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 109
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Melbourne"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": null
+}

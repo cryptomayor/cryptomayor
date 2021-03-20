@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3813414",
+    "name": "Atlalco, Mexico",
+    "description": "Veracruz",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3813414",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3813414.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.81851
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -98.28581
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 547
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 507
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Atlalco"
+}

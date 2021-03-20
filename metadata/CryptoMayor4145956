@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4145956",
+    "name": "Alturas, United States",
+    "description": "Florida, Polk County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4145956",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4145956.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 27.87169
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -81.71508
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 4185
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 55
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/New_York"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

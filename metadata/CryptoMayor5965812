@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5965812",
+    "name": "Greater Napanee, Canada",
+    "description": "Ontario",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5965812",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5965812.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 44.25012
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -76.94944
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 15132
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 92
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Toronto"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Canada"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "CA",
+    "altnames": "Napanee"
+}

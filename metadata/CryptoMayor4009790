@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4009790",
+    "name": "El Fuerte, Mexico",
+    "description": "Zacatecas, Villanueva",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4009790",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4009790.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 22.6513
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -102.74146
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 683
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2162
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "El Fuerte"
+}

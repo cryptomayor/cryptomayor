@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8861364",
+    "name": "La Noria, Mexico",
+    "description": "Michoac\u00e1n, Tar\u00edmbaro",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8861364",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8861364.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.84167
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -101.11778
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 694
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1870
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "La Noria"
+}

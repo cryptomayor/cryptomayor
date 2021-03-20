@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3428708",
+    "name": "San Luis del Palmar, Argentina",
+    "description": "Corrientes, Departamento de San Luis del Palmar",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3428708",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3428708.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -27.5079
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -58.55454
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 15347
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 62
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Argentina/Cordoba"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Argentina"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "AR",
+    "altnames": "San Luis del Palmar"
+}

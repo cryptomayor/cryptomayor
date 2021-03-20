@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor774129",
+    "name": "Cieszacin Wielki, Poland",
+    "description": "Subcarpathia, Powiat jaros\u0142awski",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor774129",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor774129.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 49.99406
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 22.5939
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 810
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 227
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Warsaw"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Poland"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "PL",
+    "altnames": null
+}

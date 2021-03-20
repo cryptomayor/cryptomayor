@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4011592",
+    "name": "Guanajuato, Mexico",
+    "description": "Baja California, Mexicali",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4011592",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4011592.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 32.51857
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -115.33847
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 994
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 7
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Tijuana"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Ejido Guanajuato,Guanajuato"
+}

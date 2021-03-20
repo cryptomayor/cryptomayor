@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4020500",
+    "name": "Atotonilco, Mexico",
+    "description": "Nayarit, Tecuala",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4020500",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4020500.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 22.38806
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -105.48333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 810
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 12
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mazatlan"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Atotonilco,Totonilco"
+}

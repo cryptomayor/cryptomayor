@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3815978",
+    "name": "Miguel Hidalgo, Mexico",
+    "description": "Chiapas, San Fernando",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3815978",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3815978.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 16.86607
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -93.23734
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 994
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 979
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Miguel Hidalgo"
+}

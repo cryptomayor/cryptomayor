@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor683735",
+    "name": "Brebi, Romania",
+    "description": "S\u0103laj, Comuna Creaca",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor683735",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor683735.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.20775
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 23.1969
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 614
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 262
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": "Brebi,Brebu"
+}

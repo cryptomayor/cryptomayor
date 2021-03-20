@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3015852",
+    "name": "Glandon, France",
+    "description": "Nouvelle-Aquitaine, Haute-Vienne",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3015852",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3015852.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 45.47978
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 1.22573
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 801
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 378
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Glandon"
+}

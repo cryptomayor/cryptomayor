@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6179138",
+    "name": "Westlock, Canada",
+    "description": "Alberta",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6179138",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6179138.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 54.15016
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -113.86876
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 4678
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 651
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Edmonton"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Canada"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "CA",
+    "altnames": null
+}

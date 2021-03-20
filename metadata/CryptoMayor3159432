@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3159432",
+    "name": "Dale, Norway",
+    "description": "Innlandet, Sel",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3159432",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3159432.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 61.77534
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 9.49454
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 773
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 526
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Oslo"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Norway"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "NO",
+    "altnames": null
+}

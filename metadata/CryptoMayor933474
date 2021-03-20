@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor933474",
+    "name": "Magothla, Botswana",
+    "description": "",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor933474",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor933474.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -23.56667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 27.0
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1174
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 860
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Africa/Gaborone"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Botswana"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AF"
+        }
+    ],
+    "country_code": "BW",
+    "altnames": "Magothla"
+}

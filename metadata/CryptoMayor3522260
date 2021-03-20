@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3522260",
+    "name": "Oviedo, Mexico",
+    "description": "Veracruz, P\u00e1nuco",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3522260",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3522260.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 22.04478
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -98.40043
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1662
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 20
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Oviedo"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2800150",
+    "name": "Corbais, Belgium",
+    "description": "Wallonia, Province du Brabant Wallon",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2800150",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2800150.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 50.64609
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 4.65589
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1373
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 129
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Brussels"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Belgium"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "BE",
+    "altnames": "Mont-Saint-Guibert (Corbais)"
+}

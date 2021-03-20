@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3458237",
+    "name": "Maca\u00fabas, Brazil",
+    "description": "Bahia, Maca\u00fabas",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3458237",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3458237.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -13.01944
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -42.69861
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 14597
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 695
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Bahia"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Brazil"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "BR",
+    "altnames": "Macahubas"
+}

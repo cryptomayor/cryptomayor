@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4006968",
+    "name": "El Verde, Mexico",
+    "description": "Sinaloa, Concordia",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4006968",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4006968.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 23.36461
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -106.13514
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1263
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 84
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mazatlan"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "El Verde,Verde"
+}

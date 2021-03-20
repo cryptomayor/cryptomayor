@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3600338",
+    "name": "Villa de San Francisco, Honduras",
+    "description": "Francisco Moraz\u00e1n",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3600338",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3600338.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 14.16667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -86.96667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 5914
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 777
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Tegucigalpa"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Honduras"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "HN",
+    "altnames": "Villa San Francisco,Villa de San Francisco"
+}

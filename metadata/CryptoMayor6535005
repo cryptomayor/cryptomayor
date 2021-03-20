@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6535005",
+    "name": "Campolongo sul Brenta, Italy",
+    "description": "Veneto, Provincia di Vicenza",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6535005",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6535005.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 45.8271
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 11.7008
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 639
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 141
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": null
+}

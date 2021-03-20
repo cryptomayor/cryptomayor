@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2967492",
+    "name": "Wallon-Cappel, France",
+    "description": "Hauts-de-France, North",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2967492",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2967492.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 50.7268
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 2.4741
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 857
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 54
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Wallon-Cappel"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2789232",
+    "name": "Peer, Belgium",
+    "description": "Flanders, Provincie Limburg",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2789232",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2789232.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 51.1303
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 5.45952
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 15551
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 64
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Brussels"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Belgium"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "BE",
+    "altnames": "Peer"
+}

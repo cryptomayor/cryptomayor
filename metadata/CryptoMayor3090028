@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3090028",
+    "name": "Orawka, Poland",
+    "description": "Lesser Poland, Powiat nowotarski",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3090028",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3090028.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 49.5144
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 19.72398
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 977
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 650
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Warsaw"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Poland"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "PL",
+    "altnames": null
+}

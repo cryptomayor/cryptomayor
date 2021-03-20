@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3082144",
+    "name": "Wierzbno, Poland",
+    "description": "Lower Silesia, Powiat o\u0142awski",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3082144",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3082144.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 50.93674
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 17.17961
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1047
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 140
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Warsaw"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Poland"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "PL",
+    "altnames": null
+}

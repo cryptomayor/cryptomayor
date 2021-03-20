@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3523982",
+    "name": "Los Molinos, Mexico",
+    "description": "Veracruz, Perote",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3523982",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3523982.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.59565
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -97.21513
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3215
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2428
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "El Molino,Los Molinos"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3991513",
+    "name": "Puerta Azul, Mexico",
+    "description": "Nayarit, Santiago Ixcuintla",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3991513",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3991513.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 21.82975
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -105.17077
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 848
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 22
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mazatlan"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Puerta Azul"
+}

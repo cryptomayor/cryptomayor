@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor9538955",
+    "name": "Frieth, United Kingdom",
+    "description": "England, Buckinghamshire",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor9538955",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor9538955.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 51.6052
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -0.85191
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 571
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 172
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/London"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United Kingdom"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "GB",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3904666",
+    "name": "Santiago del Torno, Bolivia",
+    "description": "Santa Cruz",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3904666",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3904666.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -17.98674
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -63.38118
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 15543
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 514
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/La_Paz"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Bolivia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "BO",
+    "altnames": "El Torno,Santiago del Torno,Torno"
+}

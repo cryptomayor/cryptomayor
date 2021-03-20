@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3925977",
+    "name": "Vitis, Peru",
+    "description": "Lima region, Provincia de Yauyos",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3925977",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3925977.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -12.22394
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -75.80804
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 503
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 3579
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Lima"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Peru"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "PE",
+    "altnames": null
+}

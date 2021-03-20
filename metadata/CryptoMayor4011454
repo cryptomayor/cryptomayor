@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4011454",
+    "name": "San Francisco del Progreso, Mexico",
+    "description": "Coahuila, Parras",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4011454",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4011454.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 25.59162
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -102.17084
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 665
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1243
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Monterrey"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Ejido San Francisco del Progreso,San Francisco del Progreso"
+}

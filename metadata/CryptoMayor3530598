@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3530598",
+    "name": "Ciudad del Ma\u00edz, Mexico",
+    "description": "San Luis Potos\u00ed, Ciudad del Ma\u00edz",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3530598",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3530598.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 22.40187
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -99.60468
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 10391
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1243
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Ciudad del Maiz,Ciudad del Ma\u00edz,General Magdaleno Cedillo"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3590389",
+    "name": "San Benito, Guatemala",
+    "description": "Pet\u00e9n, Municipio de San Benito",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3590389",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3590389.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 16.91675
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -89.91898
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 30764
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 135
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Guatemala"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Guatemala"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "GT",
+    "altnames": "San Benito"
+}

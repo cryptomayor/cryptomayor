@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8521418",
+    "name": "Espargos, Cabo Verde",
+    "description": "Sal",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8521418",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8521418.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 16.75524
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -22.9446
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 6173
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 53
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Atlantic/Cape_Verde"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Cabo Verde"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AF"
+        }
+    ],
+    "country_code": "CV",
+    "altnames": "Espargos"
+}

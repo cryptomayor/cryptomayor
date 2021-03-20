@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8310705",
+    "name": "Freemans Reach, Australia",
+    "description": "New South Wales, Hawkesbury",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8310705",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8310705.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -33.55794
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 150.79553
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1958
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 69
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Sydney"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": "Freemans Reach"
+}

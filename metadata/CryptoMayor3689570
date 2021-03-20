@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3689570",
+    "name": "Arjona, Colombia",
+    "description": "Bol\u00edvar, Arjona",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3689570",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3689570.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 10.25444
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -75.34389
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 50405
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 62
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Bogota"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Colombia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "CO",
+    "altnames": "Arjona"
+}

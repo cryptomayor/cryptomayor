@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3746181",
+    "name": "Ciudad Camilo Cienfuegos, Cuba",
+    "description": "Havana",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3746181",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3746181.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 23.16076
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -82.32798
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 178041
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 12
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Havana"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Cuba"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "CU",
+    "altnames": "Ciudad Camilo Cienfuegos,Habana del Este,La Habana del Este"
+}

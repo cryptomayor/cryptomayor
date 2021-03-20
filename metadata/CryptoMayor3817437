@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3817437",
+    "name": "San Jos\u00e9 Chalmita, Mexico",
+    "description": "M\u00e9xico, Tenancingo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3817437",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3817437.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.85862
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -99.54831
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1163
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2023
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": null
+}

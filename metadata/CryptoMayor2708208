@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2708208",
+    "name": "Hammarby, Sweden",
+    "description": "G\u00e4vleborg, Sandvikens Kommun",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2708208",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2708208.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 60.54385
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 16.56934
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 533
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 59
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Stockholm"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Sweden"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "SE",
+    "altnames": "Hammarby"
+}

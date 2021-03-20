@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4712097",
+    "name": "Moody, United States",
+    "description": "Texas, McLennan County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4712097",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4712097.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 31.30823
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -97.3614
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1380
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 243
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Chicago"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

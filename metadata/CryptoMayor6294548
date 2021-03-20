@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6294548",
+    "name": "Uster / Nieder-Uster, Switzerland",
+    "description": "Zurich, Bezirk Uster",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6294548",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6294548.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.34743
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 8.70088
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 4128
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 459
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Zurich"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Switzerland"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "CH",
+    "altnames": "Nieder-Uster,Niederuster"
+}

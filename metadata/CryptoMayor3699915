@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3699915",
+    "name": "Zapotillo, Panama",
+    "description": "Veraguas, Distrito de Las Palmas",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3699915",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3699915.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 8.00719
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -81.50917
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 375
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 53
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Panama"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Panama"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "PA",
+    "altnames": "Zapotillo"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8689248",
+    "name": "Kimbiri, Peru",
+    "description": "Ayacucho, Provincia de La Mar",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8689248",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8689248.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -12.61935
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -73.78814
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 4369
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 592
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Lima"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Peru"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "PE",
+    "altnames": null
+}

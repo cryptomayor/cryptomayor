@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2148503",
+    "name": "Stanwell Park, Australia",
+    "description": "New South Wales, Wollongong",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2148503",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2148503.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -34.2261
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 150.98583
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1358
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 39
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Sydney"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": "Stanwell Park"
+}

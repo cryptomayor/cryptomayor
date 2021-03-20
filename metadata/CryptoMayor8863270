@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8863270",
+    "name": "Potrerillos, Mexico",
+    "description": "Sinaloa, Concordia",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8863270",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8863270.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 23.45333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -105.82806
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 502
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1522
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mazatlan"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Potrerillos"
+}

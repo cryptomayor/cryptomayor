@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3465059",
+    "name": "Cubat\u00e3o, Brazil",
+    "description": "S\u00e3o Paulo, Cubat\u00e3o",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3465059",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3465059.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -23.895
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -46.42528
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 118410
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 6
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Sao_Paulo"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Brazil"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "BR",
+    "altnames": null
+}

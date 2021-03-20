@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2906119",
+    "name": "Herforst, Germany",
+    "description": "Rheinland-Pfalz",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2906119",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2906119.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 49.95
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 6.7
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1009
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 314
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Berlin"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Germany"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "DE",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5919815",
+    "name": "Channel-Port aux Basques, Canada",
+    "description": "Newfoundland and Labrador",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5919815",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5919815.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.57286
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -59.13808
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 4220
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": -9999
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/St_Johns"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Canada"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "CA",
+    "altnames": "Channel-Port-aux-Basques,Port aux Basques"
+}

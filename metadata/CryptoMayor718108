@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor718108",
+    "name": "Levelek, Hungary",
+    "description": "Szabolcs-Szatm\u00e1r-Bereg",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor718108",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor718108.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.96282
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 21.98537
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2948
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 121
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Budapest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Hungary"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "HU",
+    "altnames": "Levelek"
+}

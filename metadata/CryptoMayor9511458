@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor9511458",
+    "name": "San Nicol\u00e1s Temascat\u00edo, Mexico",
+    "description": "Guanajuato, Irapuato",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor9511458",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor9511458.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.72486
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -101.24874
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1699
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1766
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "San Nicolas Temascatio,San Nicol\u00e1s Temascat\u00edo"
+}

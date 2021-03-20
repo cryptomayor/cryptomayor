@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8862360",
+    "name": "Mesa de los Leones, Mexico",
+    "description": "M\u00e9xico, Ecatepec de Morelos",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8862360",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8862360.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.61306
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -99.08333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 578
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2329
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Mesa de los Leones"
+}

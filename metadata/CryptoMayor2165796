@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2165796",
+    "name": "Geelong West, Australia",
+    "description": "Victoria, Greater Geelong",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2165796",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2165796.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -38.13888
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 144.34842
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 6775
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 26
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Melbourne"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": "Geelong West"
+}

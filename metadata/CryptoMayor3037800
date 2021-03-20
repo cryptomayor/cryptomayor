@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3037800",
+    "name": "Ancelle, France",
+    "description": "Provence-Alpes-C\u00f4te d'Azur, Hautes-Alpes",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3037800",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3037800.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 44.62328
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 6.20625
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 664
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1354
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Ancelle"
+}

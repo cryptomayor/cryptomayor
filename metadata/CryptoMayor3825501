@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3825501",
+    "name": "El Lindero, Mexico",
+    "description": "Quer\u00e9taro, Jalpan de Serra",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3825501",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3825501.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 21.279
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -99.50106
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 644
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 768
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "El Lindero"
+}

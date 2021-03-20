@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3607802",
+    "name": "Laguna Seca, Honduras",
+    "description": "Olancho",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3607802",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3607802.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 14.7
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -86.1
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1131
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 363
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Tegucigalpa"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Honduras"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "HN",
+    "altnames": null
+}

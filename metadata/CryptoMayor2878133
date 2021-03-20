@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2878133",
+    "name": "Lichtenau, Germany",
+    "description": "North Rhine-Westphalia, Regierungsbezirk Detmold",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2878133",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2878133.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 51.61707
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 8.89665
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 11268
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 303
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Berlin"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Germany"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "DE",
+    "altnames": "Lichtenau"
+}

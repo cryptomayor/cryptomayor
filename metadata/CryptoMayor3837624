@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3837624",
+    "name": "San Francisco del Monte de Oro, Argentina",
+    "description": "San Luis, Departamento de Ayacucho",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3837624",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3837624.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -32.59825
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -66.12539
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3295
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 792
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Argentina/San_Luis"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Argentina"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "AR",
+    "altnames": "San Francisco,San Francisco del Monte de Oro"
+}

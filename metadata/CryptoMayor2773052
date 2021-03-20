@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2773052",
+    "name": "Landschach, Austria",
+    "description": "Styria, Politischer Bezirk Murtal",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2773052",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2773052.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.2
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 14.83333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 891
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 623
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Vienna"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Austria"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "AT",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8347896",
+    "name": "Roxburgh Park, Australia",
+    "description": "Victoria, Hume",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8347896",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8347896.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -37.62581
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 144.92555
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 21742
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 188
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Melbourne"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": null
+}

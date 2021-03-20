@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3680601",
+    "name": "Imu\u00e9s, Colombia",
+    "description": "Nari\u00f1o, Imu\u00e9s",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3680601",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3680601.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 1.05516
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -77.49669
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1736
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2441
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Bogota"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Colombia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "CO",
+    "altnames": "Imues,Imu\u00e9s"
+}

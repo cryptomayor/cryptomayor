@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4025648",
+    "name": "Salguero, Mexico",
+    "description": "Michoac\u00e1n, San Lucas",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4025648",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4025648.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.41401
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -100.62583
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1347
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 275
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Salguero"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2826743",
+    "name": "Stockheim, Germany",
+    "description": "Bavaria, Upper Franconia",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2826743",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2826743.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 50.30639
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 11.28172
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 5286
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 343
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Berlin"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Germany"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "DE",
+    "altnames": null
+}

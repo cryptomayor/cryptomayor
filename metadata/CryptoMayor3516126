@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3516126",
+    "name": "Tecpaco, Mexico",
+    "description": "Hidalgo, Calnali",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3516126",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3516126.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.93003
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -98.59109
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 630
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1302
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Tecpaco"
+}

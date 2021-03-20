@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4250724",
+    "name": "Stonington, United States",
+    "description": "Illinois, Christian County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4250724",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4250724.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 39.64004
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -89.19286
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 890
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 190
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Chicago"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

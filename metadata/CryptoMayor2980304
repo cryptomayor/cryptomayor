@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2980304",
+    "name": "Sainte-Suzanne, France",
+    "description": "Pays de la Loire, Mayenne",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2980304",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2980304.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 48.09809
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -0.35499
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1059
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 150
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Mont-d'Erve,Sainte-Suzanne"
+}

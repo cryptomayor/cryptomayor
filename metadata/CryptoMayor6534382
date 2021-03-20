@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6534382",
+    "name": "Casarza Ligure, Italy",
+    "description": "Liguria, Provincia di Genova",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6534382",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6534382.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 44.27188
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 9.44704
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 5439
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 24
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": null
+}

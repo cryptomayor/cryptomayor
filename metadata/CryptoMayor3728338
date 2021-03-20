@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3728338",
+    "name": "Carrefour, Haiti",
+    "description": "Ouest, Arrondissement de Port-au-Prince",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3728338",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3728338.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.54114
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -72.39922
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 442156
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 32
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Port-au-Prince"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Haiti"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "HT",
+    "altnames": null
+}

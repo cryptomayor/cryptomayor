@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3999366",
+    "name": "Las Piedras, Mexico",
+    "description": "Durango, Lerdo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3999366",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3999366.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 25.5021
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -103.58067
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 630
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1153
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Monterrey"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Las Piedras"
+}

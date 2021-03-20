@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor671025",
+    "name": "Petin, Romania",
+    "description": "Satu Mare, Comuna P\u00e3ule\u015fti",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor671025",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor671025.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.77245
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 22.96739
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 629
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 126
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": null
+}

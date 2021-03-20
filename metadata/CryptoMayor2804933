@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2804933",
+    "name": "Zeitlarn, Germany",
+    "description": "Bavaria, Upper Palatinate",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2804933",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2804933.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 49.07848
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 12.11174
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 5849
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 334
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Berlin"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Germany"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "DE",
+    "altnames": null
+}

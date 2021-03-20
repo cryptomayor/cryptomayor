@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8949489",
+    "name": "Belvedere, Italy",
+    "description": "Emilia-Romagna, Provincia di Rimini",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8949489",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8949489.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 43.96663
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 12.70285
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 951
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 18
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "Belvedere"
+}

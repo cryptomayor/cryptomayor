@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor9096282",
+    "name": "Amatitla Santiago, Mexico",
+    "description": "San Luis Potos\u00ed, Tamazunchale",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor9096282",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor9096282.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 21.2198
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -98.85872
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 585
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 544
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Amatitla Santiago"
+}

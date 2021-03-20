@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5130561",
+    "name": "Park Slope, United States",
+    "description": "New York, Kings County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5130561",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5130561.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 40.6701
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -73.98597
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 65047
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 17
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/New_York"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": "Park Slope,Prospect Hill"
+}

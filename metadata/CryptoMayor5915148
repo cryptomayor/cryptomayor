@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5915148",
+    "name": "Cantley, Canada",
+    "description": "Quebec, Outaouais",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5915148",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5915148.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 45.5668
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -75.78265
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 10412
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 162
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Toronto"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Canada"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "CA",
+    "altnames": null
+}

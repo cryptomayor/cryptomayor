@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4026759",
+    "name": "El Potrero de San Diego, Mexico",
+    "description": "M\u00e9xico, Villa Victoria",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4026759",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4026759.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.48899
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -100.0821
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1006
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2686
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "El Potrereo de San Diego,El Potrero de San Diego"
+}

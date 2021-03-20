@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5011985",
+    "name": "Tekonsha, United States",
+    "description": "Michigan, Calhoun County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5011985",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5011985.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 42.09338
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -84.98581
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 704
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 289
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Detroit"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

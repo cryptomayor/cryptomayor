@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor11919605",
+    "name": "Hofkirchen, Austria",
+    "description": "Styria, Politischer Bezirk Hartberg-F\u00fcrstenfeld",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor11919605",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor11919605.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.24509
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 15.89251
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 669
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 354
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Vienna"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Austria"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "AT",
+    "altnames": null
+}

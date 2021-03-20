@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3575479",
+    "name": "Charlestown, Saint Kitts and Nevis",
+    "description": "Saint Paul Charlestown",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3575479",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3575479.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 17.13333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -62.61667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1538
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 46
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/St_Kitts"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Saint Kitts and Nevis"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "KN",
+    "altnames": "Charlestown,NEV"
+}

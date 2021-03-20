@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5220359",
+    "name": "York Haven, United States",
+    "description": "Pennsylvania, York County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5220359",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5220359.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 40.11093
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -76.7158
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 700
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 119
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/New_York"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

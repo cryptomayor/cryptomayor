@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor687824",
+    "name": "Zalesnoye, Ukraine",
+    "description": "Luhansk",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor687824",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor687824.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 48.03104
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 38.80934
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2539
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 275
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Kiev"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Ukraine"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "UA",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3520000",
+    "name": "San Agustin de las Juntas, Mexico",
+    "description": "Oaxaca, San Agust\u00edn de las Juntas",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3520000",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3520000.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 17.01211
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -96.7118
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 6923
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1536
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "San Agustin,San Agustin de las Juntas,San Agust\u00edn,San Agust\u00edn de las Juntas"
+}

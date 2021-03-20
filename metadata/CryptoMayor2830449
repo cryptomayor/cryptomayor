@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2830449",
+    "name": "Spiesheim, Germany",
+    "description": "Rheinland-Pfalz",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2830449",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2830449.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 49.81028
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 8.1275
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1012
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 205
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Berlin"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Germany"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "DE",
+    "altnames": null
+}

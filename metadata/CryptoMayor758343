@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor758343",
+    "name": "Stare Babice, Poland",
+    "description": "Mazovia, Powiat warszawski zachodni",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor758343",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor758343.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 52.26028
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 20.83403
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1268
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 97
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Warsaw"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Poland"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "PL",
+    "altnames": "Babice Stare,Stare Babice"
+}

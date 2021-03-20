@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3682281",
+    "name": "Funza, Colombia",
+    "description": "Cundinamarca, Funza",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3682281",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3682281.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 4.71638
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -74.21195
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 54421
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2548
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Bogota"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Colombia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "CO",
+    "altnames": "Funza"
+}

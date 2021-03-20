@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3605258",
+    "name": "Los Tangos, Honduras",
+    "description": "Cop\u00e1n",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3605258",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3605258.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 15.15
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -88.68333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1424
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 437
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Tegucigalpa"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Honduras"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "HN",
+    "altnames": "Los Tangos"
+}

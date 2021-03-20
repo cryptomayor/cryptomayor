@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5686153",
+    "name": "Whitehall, United States",
+    "description": "Montana, Jefferson County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5686153",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5686153.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 45.87076
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -112.09749
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1094
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1330
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Denver"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

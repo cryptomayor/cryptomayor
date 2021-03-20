@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor7874480",
+    "name": "Morro da Cruz, Brazil",
+    "description": "Santa Catarina, Florian\u00f3polis",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor7874480",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor7874480.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -27.5849
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -48.53562
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 5000
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 156
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Sao_Paulo"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Brazil"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "BR",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4023070",
+    "name": "San Isidro de la Estacada, Mexico",
+    "description": "Guanajuato, Dolores Hidalgo Cuna de la Independencia Nacional",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4023070",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4023070.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 21.14746
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -100.68473
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1054
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1999
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": null
+}

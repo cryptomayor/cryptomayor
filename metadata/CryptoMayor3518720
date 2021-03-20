@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3518720",
+    "name": "San Juan Cacahuatepec, Mexico",
+    "description": "Oaxaca, San Juan Cacahuatepec",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3518720",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3518720.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 16.61532
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -98.15501
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 4236
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 424
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Cacahuatepec,San Juan Cacahuatepec"
+}

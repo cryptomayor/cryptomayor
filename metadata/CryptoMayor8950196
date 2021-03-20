@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8950196",
+    "name": "Mattine, Italy",
+    "description": "Campania, Provincia di Salerno",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8950196",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8950196.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 40.38581
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 15.02489
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 562
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 14
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "Mattine"
+}

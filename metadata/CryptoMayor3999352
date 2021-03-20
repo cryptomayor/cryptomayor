@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3999352",
+    "name": "Las Pilas, Mexico",
+    "description": "Nayarit, Rosamorada",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3999352",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3999352.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 22.03444
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -105.16306
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 689
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 38
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mazatlan"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "La Pila,Las Pilas"
+}

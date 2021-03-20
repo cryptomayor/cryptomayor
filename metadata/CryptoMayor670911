@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor670911",
+    "name": "Piatra, Romania",
+    "description": "Bistri\u0163a-N\u0103s\u0103ud, Comuna Chiuza",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor670911",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor670911.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.24875
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 24.2657
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 551
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 283
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": null
+}

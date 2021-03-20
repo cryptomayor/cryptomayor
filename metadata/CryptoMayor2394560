@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2394560",
+    "name": "Djougou, Benin",
+    "description": "Donga",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2394560",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2394560.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 9.70853
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 1.66598
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 237040
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 444
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Africa/Porto-Novo"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Benin"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AF"
+        }
+    ],
+    "country_code": "BJ",
+    "altnames": "DJA,Djougou,Jugu"
+}

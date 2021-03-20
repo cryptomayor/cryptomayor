@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3070514",
+    "name": "Mladotice, Czechia",
+    "description": "Plze\u0148sk\u00fd kraj, Okres Plze\u0148-sever",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3070514",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3070514.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 49.98524
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 13.36439
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 552
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 365
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Prague"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Czechia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "CZ",
+    "altnames": "Mlatz"
+}

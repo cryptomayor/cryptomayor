@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4915543",
+    "name": "Washburn, United States",
+    "description": "Illinois, Woodford County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4915543",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4915543.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 40.9192
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -89.2912
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1128
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 210
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Chicago"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

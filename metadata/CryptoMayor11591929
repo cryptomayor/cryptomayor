@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor11591929",
+    "name": "Markstein, Austria",
+    "description": "Carinthia, Politischer Bezirk Feldkirchen",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor11591929",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor11591929.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 46.69629
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 14.11408
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 539
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 568
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Vienna"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Austria"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "AT",
+    "altnames": null
+}

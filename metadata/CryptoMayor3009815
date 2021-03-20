@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3009815",
+    "name": "La Courtine, France",
+    "description": "Nouvelle-Aquitaine, Creuse",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3009815",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3009815.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 45.70102
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 2.26341
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1130
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 774
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "La Courtine"
+}

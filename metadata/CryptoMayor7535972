@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor7535972",
+    "name": "Wilczyce, Poland",
+    "description": "Lower Silesia, Powiat wroc\u0142awski",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor7535972",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor7535972.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 51.12944
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 17.15472
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2000
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 123
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Warsaw"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Poland"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "PL",
+    "altnames": null
+}

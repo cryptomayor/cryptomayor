@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor11748511",
+    "name": "Hail Creek, Australia",
+    "description": "Queensland, Isaac",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor11748511",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor11748511.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -21.56842
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 148.41594
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 602
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 264
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Brisbane"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": null
+}

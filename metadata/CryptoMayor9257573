@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor9257573",
+    "name": "Beira Rio, Brazil",
+    "description": "Bahia, Oliveira dos Brejinhos",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor9257573",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor9257573.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -12.25438
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -42.75529
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3500
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 443
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Bahia"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Brazil"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "BR",
+    "altnames": null
+}

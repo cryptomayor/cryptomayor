@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3194552",
+    "name": "Negoslavci, Croatia",
+    "description": "Vukovar-Sirmium, Negoslavci",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3194552",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3194552.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 45.27944
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 18.99667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1473
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 107
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Zagreb"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Croatia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "HR",
+    "altnames": "Negoslavci"
+}

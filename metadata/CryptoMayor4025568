@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4025568",
+    "name": "Cerro Colorado de Ocampo, Mexico",
+    "description": "Michoac\u00e1n, Ju\u00e1rez",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4025568",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4025568.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.31712
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -100.46538
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1091
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1245
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Cerro Colorado,Cerro Colorado de Ocampo"
+}

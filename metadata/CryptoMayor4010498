@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4010498",
+    "name": "El Centro, Mexico",
+    "description": "Zacatecas, Fresnillo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4010498",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4010498.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 23.38919
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -103.30475
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 784
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2210
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "El Centro"
+}

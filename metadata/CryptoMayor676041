@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor676041",
+    "name": "Hondol, Romania",
+    "description": "Hunedoara, Comuna Certeju de Sus",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor676041",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor676041.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 45.98675
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 22.98626
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 598
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 342
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": null
+}

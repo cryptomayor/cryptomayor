@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor940424",
+    "name": "Wesselsbron, South Africa",
+    "description": "Orange Free State, Lejweleputswa District Municipality",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor940424",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor940424.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -27.8549
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 26.36583
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 42552
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1315
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Africa/Johannesburg"
+        },
+        {
+            "trait_type": "Country",
+            "value": "South Africa"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AF"
+        }
+    ],
+    "country_code": "ZA",
+    "altnames": "Wesselsbron"
+}

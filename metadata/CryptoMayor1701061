@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor1701061",
+    "name": "Maravilla, Philippines",
+    "description": "Central Visayas, Province of Cebu",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor1701061",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor1701061.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 10.9011
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 123.8918
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2253
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 6
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Asia/Manila"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Philippines"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AS"
+        }
+    ],
+    "country_code": "PH",
+    "altnames": "Maravilla"
+}

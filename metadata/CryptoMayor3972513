@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3972513",
+    "name": "Francisco I. Madero, Mexico",
+    "description": "Zacatecas, Zacatecas",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3972513",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3972513.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 22.79656
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -102.71725
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 597
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2220
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3465010",
+    "name": "Cunha, Brazil",
+    "description": "S\u00e3o Paulo, Cunha",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3465010",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3465010.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -23.07444
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -44.95972
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 11895
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 953
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Sao_Paulo"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Brazil"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "BR",
+    "altnames": null
+}

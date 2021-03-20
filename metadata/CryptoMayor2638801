@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2638801",
+    "name": "Saint Fergus, United Kingdom",
+    "description": "Scotland, Aberdeenshire",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2638801",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2638801.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 57.55958
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -1.84311
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 750
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 24
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/London"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United Kingdom"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "GB",
+    "altnames": "Saint Fergus"
+}

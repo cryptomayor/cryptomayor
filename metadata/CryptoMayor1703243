@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor1703243",
+    "name": "Malagos, Philippines",
+    "description": "Davao, Province of Davao del Sur",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor1703243",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor1703243.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 7.185
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 125.42222
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 4975
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 358
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Asia/Manila"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Philippines"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AS"
+        }
+    ],
+    "country_code": "PH",
+    "altnames": null
+}

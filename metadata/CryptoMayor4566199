@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4566199",
+    "name": "Marue\u00f1o, Puerto Rico",
+    "description": "Ponce, Marue\u00f1o Barrio",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4566199",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4566199.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.05772
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -66.65603
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 913
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 136
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Puerto_Rico"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Puerto Rico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "PR",
+    "altnames": "Marueno"
+}

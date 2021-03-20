@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2483000",
+    "name": "Robbah, Algeria",
+    "description": "El Oued",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2483000",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2483000.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 33.27967
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 6.90984
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 30446
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 90
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Africa/Algiers"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Algeria"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AF"
+        }
+    ],
+    "country_code": "DZ",
+    "altnames": "Robbah"
+}

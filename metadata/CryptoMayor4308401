@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4308401",
+    "name": "Silver Grove, United States",
+    "description": "Kentucky, Campbell County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4308401",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4308401.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 39.03451
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -84.39022
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1120
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 154
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/New_York"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

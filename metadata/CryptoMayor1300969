@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor1300969",
+    "name": "Paungde, Myanmar",
+    "description": "Bago, Pyay District",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor1300969",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor1300969.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.49167
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 95.50591
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 36971
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 35
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Asia/Yangon"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Myanmar"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AS"
+        }
+    ],
+    "country_code": "MM",
+    "altnames": "Paung-deh,Paungde"
+}

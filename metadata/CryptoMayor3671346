@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3671346",
+    "name": "Puerto Yuca, Colombia",
+    "description": "Meta, Puerto Rico",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3671346",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3671346.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 2.93833
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -73.20833
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 5029
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 212
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Bogota"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Colombia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "CO",
+    "altnames": "Puerto Rico,Puerto Yuca"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8859129",
+    "name": "Las Trojas, Mexico",
+    "description": "Guanajuato, Comonfort",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8859129",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8859129.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.71111
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -100.78083
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1442
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1804
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Las Trojas"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2960104",
+    "name": "Schieren, Luxembourg",
+    "description": "Diekirch, Schieren",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2960104",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2960104.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 49.83056
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 6.09861
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1397
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 213
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Luxembourg"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Luxembourg"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "LU",
+    "altnames": "Schieren"
+}

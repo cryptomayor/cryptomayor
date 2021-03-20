@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2661144",
+    "name": "Colombier, Switzerland",
+    "description": "Vaud, Morges District",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2661144",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2661144.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 46.55709
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 6.47284
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 522
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 531
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Zurich"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Switzerland"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "CH",
+    "altnames": null
+}

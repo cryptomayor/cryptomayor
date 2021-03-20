@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor727598",
+    "name": "Roman, Bulgaria",
+    "description": "Vratsa, Obshtina Roman",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor727598",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor727598.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 43.15
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 23.91667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3571
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 221
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Sofia"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Bulgaria"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "BG",
+    "altnames": "Roman,\u0420\u043e\u043c\u0430\u043d"
+}

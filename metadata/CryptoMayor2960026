@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2960026",
+    "name": "Uebersyren, Luxembourg",
+    "description": "Luxembourg, Schuttrange",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2960026",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2960026.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 49.6319
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 6.2771
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 616
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 258
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Luxembourg"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Luxembourg"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "LU",
+    "altnames": "Uebersyren"
+}

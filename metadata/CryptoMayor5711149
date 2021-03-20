@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5711149",
+    "name": "Altamont, United States",
+    "description": "Oregon, Klamath County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5711149",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5711149.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 42.20681
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -121.73722
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 19257
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1259
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Los_Angeles"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

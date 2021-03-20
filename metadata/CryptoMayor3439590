@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3439590",
+    "name": "Villa Sara, Uruguay",
+    "description": "Treinta y Tres",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3439590",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3439590.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -33.2534
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -54.41947
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1071
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 37
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Montevideo"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Uruguay"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "UY",
+    "altnames": "Villa Sara"
+}

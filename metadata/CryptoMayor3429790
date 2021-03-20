@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3429790",
+    "name": "Puerto Eldorado, Argentina",
+    "description": "Misiones, Departamento de Eldorado",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3429790",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3429790.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -26.40843
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -54.69463
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 54189
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 102
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Argentina/Cordoba"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Argentina"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "AR",
+    "altnames": "Eldorado,Puerto Eldorado"
+}

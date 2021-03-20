@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3072661",
+    "name": "Krmel\u00edn, Czechia",
+    "description": "Moravskoslezsk\u00fd, Okres Fr\u00fddek-M\u00edstek",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3072661",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3072661.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 49.72914
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 18.23541
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1853
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 261
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Prague"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Czechia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "CZ",
+    "altnames": null
+}

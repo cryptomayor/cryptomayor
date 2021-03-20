@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3589646",
+    "name": "San Pedro Ayampuc, Guatemala",
+    "description": "Guatemala, Municipio de San Pedro Ayampuc",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3589646",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3589646.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 14.77943
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -90.45318
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 46803
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1192
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Guatemala"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Guatemala"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "GT",
+    "altnames": "San Pedro Ayampuc"
+}

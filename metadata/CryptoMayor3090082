@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3090082",
+    "name": "Olza, Poland",
+    "description": "Silesia, Powiat wodzis\u0142awski",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3090082",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3090082.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 49.95393
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 18.3391
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1699
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 193
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Warsaw"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Poland"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "PL",
+    "altnames": null
+}

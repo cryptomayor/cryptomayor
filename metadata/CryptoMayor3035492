@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3035492",
+    "name": "Bachant, France",
+    "description": "Hauts-de-France, North",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3035492",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3035492.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 50.2154
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 3.86835
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2415
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 143
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Bachant"
+}

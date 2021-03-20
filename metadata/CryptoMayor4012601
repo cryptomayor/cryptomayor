@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4012601",
+    "name": "Coyuquilla Sur (Coyuquilla Viejo), Mexico",
+    "description": "Guerrero, Petatl\u00e1n",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4012601",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4012601.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 17.35861
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -101.06944
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 548
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 19
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": null
+}

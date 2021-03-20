@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2989981",
+    "name": "Nouic, France",
+    "description": "Nouvelle-Aquitaine, Haute-Vienne",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2989981",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2989981.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 46.06021
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 0.91919
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 505
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 254
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Nouic"
+}

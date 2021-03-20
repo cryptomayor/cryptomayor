@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8580675",
+    "name": "Risdon Vale, Australia",
+    "description": "Tasmania, Clarence",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8580675",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8580675.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -42.81242
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 147.35654
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2870
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 45
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Hobart"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": "Risdon Vale"
+}

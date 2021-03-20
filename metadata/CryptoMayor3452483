@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3452483",
+    "name": "Prado, Brazil",
+    "description": "Bahia, Prado",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3452483",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3452483.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -17.34111
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -39.22083
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 15464
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 11
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Bahia"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Brazil"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "BR",
+    "altnames": "PDF"
+}

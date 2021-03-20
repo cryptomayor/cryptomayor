@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8358875",
+    "name": "Mission Beach, Australia",
+    "description": "Queensland, Hinchinbrook",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8358875",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8358875.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -17.86885
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 146.10392
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1271
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 23
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Brisbane"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": "Mission Beach"
+}

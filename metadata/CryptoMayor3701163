@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3701163",
+    "name": "Santa Marta, Panama",
+    "description": "Chiriqu\u00ed, Distrito de Bugaba",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3701163",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3701163.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 8.52289
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -82.70113
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1952
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 170
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Panama"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Panama"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "PA",
+    "altnames": "Santa Marta"
+}

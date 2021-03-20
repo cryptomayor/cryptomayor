@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4017773",
+    "name": "Bacoachi, Mexico",
+    "description": "Sonora, Bacoachi",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4017773",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4017773.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 30.63168
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -109.96867
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1090
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1053
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Hermosillo"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Bacoachi,Bacoachic"
+}

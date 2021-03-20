@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3526725",
+    "name": "Ixcatepec, Mexico",
+    "description": "Veracruz, Ixcatepec",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3526725",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3526725.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 21.23695
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -98.00689
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3975
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 208
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Ixcatepec,Santa Maria Ixcatepec"
+}

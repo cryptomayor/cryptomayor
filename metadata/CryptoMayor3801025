@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3801025",
+    "name": "Tamazola, Mexico",
+    "description": "Oaxaca, Santiago Tamazola",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3801025",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3801025.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 17.6702
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -98.22084
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2001
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1784
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Santiago Tamazola,Tamazola"
+}

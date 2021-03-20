@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3726540",
+    "name": "Dessalines, Haiti",
+    "description": "Artibonite, Arrondissement de Dessalines",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3726540",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3726540.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.26177
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -72.51611
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 12288
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 26
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Port-au-Prince"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Haiti"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "HT",
+    "altnames": "Desalin,Dessalines,Marchand"
+}

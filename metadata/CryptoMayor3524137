@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3524137",
+    "name": "Los Cacaos, Mexico",
+    "description": "Chiapas, Acacoyagua",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3524137",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3524137.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 15.38947
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -92.65685
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 845
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 453
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Los Cacaos"
+}

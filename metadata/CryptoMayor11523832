@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor11523832",
+    "name": "Newcastle city centre, Australia",
+    "description": "New South Wales, Newcastle",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor11523832",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor11523832.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -32.92885
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 151.7774
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3031
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 47
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Sydney"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": null
+}

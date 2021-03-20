@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6159232",
+    "name": "Summerland, Canada",
+    "description": "British Columbia, Regional District of Okanagan-Similkameen",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6159232",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6159232.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 49.59977
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -119.66911
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 6292
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 475
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Vancouver"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Canada"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "CA",
+    "altnames": null
+}

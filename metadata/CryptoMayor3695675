@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3695675",
+    "name": "La Peca, Peru",
+    "description": "Amazonas, Provincia de Bagua",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3695675",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3695675.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -5.61111
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -78.435
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 27045
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 897
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Lima"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Peru"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "PE",
+    "altnames": "La Peca,La Peca Nueva"
+}

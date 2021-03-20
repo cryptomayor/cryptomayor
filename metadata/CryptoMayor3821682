@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3821682",
+    "name": "Las Compuertas, Mexico",
+    "description": "Guerrero, Coyuca de Ben\u00edtez",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3821682",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3821682.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 17.19559
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -100.0084
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1101
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 900
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Las Compuertas"
+}

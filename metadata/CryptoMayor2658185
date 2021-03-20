@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2658185",
+    "name": "Varen, Switzerland",
+    "description": "Valais, Leuk District",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2658185",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2658185.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 46.3186
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 7.60743
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1203
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 759
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Zurich"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Switzerland"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "CH",
+    "altnames": null
+}

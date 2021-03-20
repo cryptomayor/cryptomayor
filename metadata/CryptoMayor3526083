@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3526083",
+    "name": "La Capilla, Mexico",
+    "description": "Hidalgo, Jaltoc\u00e1n",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3526083",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3526083.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 21.15181
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -98.52452
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 666
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 158
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "La Capilla"
+}

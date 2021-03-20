@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3178391",
+    "name": "Collegiove, Italy",
+    "description": "Latium, Provincia di Rieti",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3178391",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3178391.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 42.17506
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 13.03844
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 167
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 980
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "Collegiove"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3524410",
+    "name": "San Pedro Leapi, Mexico",
+    "description": "Oaxaca, San Carlos Yautepec",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3524410",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3524410.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 16.33387
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -96.12795
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 515
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1574
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Leapi,San Pedro,San Pedro Leapi"
+}

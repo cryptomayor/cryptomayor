@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2734215",
+    "name": "Seia, Portugal",
+    "description": "Guarda, Seia",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2734215",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2734215.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 40.4151
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -7.70859
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 7082
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 551
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Lisbon"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Portugal"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "PT",
+    "altnames": "Seia"
+}

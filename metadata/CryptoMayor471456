@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor471456",
+    "name": "Vostryakovo, Russia",
+    "description": "Moscow Oblast",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor471456",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor471456.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 55.66667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 37.45
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 30000
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 182
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Moscow"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Russia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RU",
+    "altnames": "Vostrjakovo,Vostryakovo,\u0412\u043e\u0441\u0442\u0440\u044f\u043a\u043e\u0432\u043e"
+}

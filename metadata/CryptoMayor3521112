@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3521112",
+    "name": "Progreso, Mexico",
+    "description": "Puebla, Piaxtla",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3521112",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3521112.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.03748
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -98.31122
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1121
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 949
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "El Progreso,Progreso"
+}

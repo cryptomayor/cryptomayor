@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor241150",
+    "name": "Takamaka, Seychelles",
+    "description": "Takamaka",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor241150",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor241150.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -4.76667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 55.5
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2580
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 272
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Indian/Mahe"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Seychelles"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AF"
+        }
+    ],
+    "country_code": "SC",
+    "altnames": null
+}

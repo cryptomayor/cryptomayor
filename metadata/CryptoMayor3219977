@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3219977",
+    "name": "Cargnacco, Italy",
+    "description": "Friuli Venezia Giulia, Udine",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3219977",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3219977.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 46.004
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 13.235
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 900
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 73
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": null
+}

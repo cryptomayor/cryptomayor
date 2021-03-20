@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4006618",
+    "name": "Esmeralda, Mexico",
+    "description": "Durango, G\u00f3mez Palacio",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4006618",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4006618.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 25.74326
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -103.43097
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2249
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1113
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Monterrey"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Esmeralda"
+}

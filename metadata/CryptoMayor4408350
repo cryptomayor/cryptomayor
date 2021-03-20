@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4408350",
+    "name": "Shelbyville, United States",
+    "description": "Missouri, Shelby County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4408350",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4408350.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 39.80587
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -92.04156
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 526
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 234
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Chicago"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

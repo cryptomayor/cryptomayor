@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor785201",
+    "name": "Sveti Nikole, North Macedonia",
+    "description": "Sveti Nikole",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor785201",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor785201.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 41.86956
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 21.95274
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 13292
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 297
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Skopje"
+        },
+        {
+            "trait_type": "Country",
+            "value": "North Macedonia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "MK",
+    "altnames": "Kilisseli,Sveti Nikola,Sveti Nikole"
+}

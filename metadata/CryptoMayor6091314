@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6091314",
+    "name": "Notre-Dame-de-Gr\u00e2ce, Canada",
+    "description": "Quebec, Montr\u00e9al",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6091314",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6091314.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 45.47675
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -73.61432
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 67000
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 84
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Toronto"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Canada"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "CA",
+    "altnames": "NDG"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor666592",
+    "name": "Socetu, Romania",
+    "description": "Teleorman, Comuna Stejaru",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor666592",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor666592.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 44.19502
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 24.85421
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1086
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 126
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": null
+}

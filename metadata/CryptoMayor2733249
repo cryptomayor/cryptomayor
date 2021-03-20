@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2733249",
+    "name": "Valbom, Portugal",
+    "description": "Porto, Gondomar",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2733249",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2733249.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 41.12921
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -8.56199
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 14443
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 45
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Lisbon"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Portugal"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "PT",
+    "altnames": null
+}

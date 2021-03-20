@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor668360",
+    "name": "Sabasa, Romania",
+    "description": "Neam\u0163, Comuna Borca",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor668360",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor668360.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.20174
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 25.8176
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2166
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 644
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": null
+}

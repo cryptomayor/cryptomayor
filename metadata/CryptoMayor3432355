@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3432355",
+    "name": "La Leonesa, Argentina",
+    "description": "Chaco, Departamento de Bermejo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3432355",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3432355.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -27.03786
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -58.70347
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 10067
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 60
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Argentina/Cordoba"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Argentina"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "AR",
+    "altnames": "La Leonesa"
+}

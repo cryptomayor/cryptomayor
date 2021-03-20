@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4031110",
+    "name": "Fale old settlement, Tokelau",
+    "description": "Fakaofo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4031110",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4031110.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -9.38516
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -171.24675
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 120
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 7
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Pacific/Fakaofo"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Tokelau"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "TK",
+    "altnames": "Fakaofu Village,Fale"
+}

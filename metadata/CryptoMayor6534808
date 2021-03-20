@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6534808",
+    "name": "Calvisi, Italy",
+    "description": "Calabria, Provincia di Cosenza",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6534808",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6534808.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 39.12739
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 16.3059
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 513
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 651
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3800314",
+    "name": "El Arador, Mexico",
+    "description": "Oaxaca, San Lorenzo Texmel\u00facan",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3800314",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3800314.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 16.54111
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -97.18194
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1533
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1352
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "El Arador"
+}

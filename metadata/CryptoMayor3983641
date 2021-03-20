@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3983641",
+    "name": "Santiago de Cuenda, Mexico",
+    "description": "Guanajuato, Santa Cruz de Juventino Rosas",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3983641",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3983641.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.59956
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -100.99405
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 6524
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1741
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Santiago,Santiago Cuenda,Santiago de Cuenda"
+}

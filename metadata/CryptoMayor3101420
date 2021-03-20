@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3101420",
+    "name": "Ciech\u00f3w, Poland",
+    "description": "Lower Silesia, Powiat \u015bredzki",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3101420",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3101420.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 51.13218
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 16.56773
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1500
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 142
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Warsaw"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Poland"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "PL",
+    "altnames": "Ciechow,Ciech\u00f3w"
+}

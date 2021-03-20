@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8862573",
+    "name": "Patatehel, Mexico",
+    "description": "Chiapas, Chil\u00f3n",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8862573",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8862573.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 17.17222
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -92.1675
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 558
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 670
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Patatehel"
+}

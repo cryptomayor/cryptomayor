@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor716343",
+    "name": "Porcsalma, Hungary",
+    "description": "Szabolcs-Szatm\u00e1r-Bereg",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor716343",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor716343.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.88333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 22.56667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2770
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 118
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Budapest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Hungary"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "HU",
+    "altnames": "Porcsalma"
+}

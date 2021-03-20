@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2634346",
+    "name": "West Meon, United Kingdom",
+    "description": "England, Hampshire",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2634346",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2634346.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 51.0124
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -1.08833
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 724
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 88
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/London"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United Kingdom"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "GB",
+    "altnames": "West Meon"
+}

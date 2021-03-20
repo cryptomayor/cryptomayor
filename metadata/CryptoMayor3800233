@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3800233",
+    "name": "Las Conchas, Mexico",
+    "description": "Oaxaca, San Miguel Chimalapa",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3800233",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3800233.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 16.66252
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -94.71547
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 943
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 230
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Las Conchas"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3674931",
+    "name": "Medina, Colombia",
+    "description": "Cundinamarca, Medina",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3674931",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3674931.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 4.51005
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -73.34982
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3098
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 536
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Bogota"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Colombia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "CO",
+    "altnames": "MND,Medina"
+}

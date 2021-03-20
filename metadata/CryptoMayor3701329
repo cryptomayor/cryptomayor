@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3701329",
+    "name": "San Miguelito, Panama",
+    "description": "Panam\u00e1, Distrito San Miguelito",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3701329",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3701329.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 9.05032
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -79.47068
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 321501
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 57
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Panama"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Panama"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "PA",
+    "altnames": "San Miguel,San Miguelito"
+}

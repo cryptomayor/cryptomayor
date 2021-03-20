@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5320800",
+    "name": "Whiteriver, United States",
+    "description": "Arizona, Navajo County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5320800",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5320800.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 33.83699
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -109.96427
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 4104
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1599
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Phoenix"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": "WTR,Whiteriver"
+}

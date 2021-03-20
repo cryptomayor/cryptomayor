@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3008636",
+    "name": "Laissac, France",
+    "description": "Occitanie, Aveyron",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3008636",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3008636.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 44.38097
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 2.82271
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1543
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 596
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Laissac"
+}

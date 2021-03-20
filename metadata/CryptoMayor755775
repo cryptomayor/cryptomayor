@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor755775",
+    "name": "Wierzchos\u0142awice, Poland",
+    "description": "Lesser Poland, Powiat tarnowski",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor755775",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor755775.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 50.02478
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 20.85677
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3000
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 193
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Warsaw"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Poland"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "PL",
+    "altnames": null
+}

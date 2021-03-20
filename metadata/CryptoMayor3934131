@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3934131",
+    "name": "Ocoruro, Peru",
+    "description": "Cusco, Provincia de Espinar",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3934131",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3934131.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -15.0525
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -71.12889
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 158
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 4102
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Lima"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Peru"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "PE",
+    "altnames": null
+}

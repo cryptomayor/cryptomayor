@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor901766",
+    "name": "Namwala, Zambia",
+    "description": "Southern",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor901766",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor901766.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -15.75042
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 26.43839
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 4450
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 999
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Africa/Lusaka"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Zambia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AF"
+        }
+    ],
+    "country_code": "ZM",
+    "altnames": "Namwala"
+}

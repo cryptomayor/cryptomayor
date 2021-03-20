@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8858161",
+    "name": "Valle Dorado Inn, Mexico",
+    "description": "Jalisco, Tlajomulco de Z\u00fa\u00f1iga",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8858161",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8858161.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.52444
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -103.36194
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 9966
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1533
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Valle Dorado Inn"
+}

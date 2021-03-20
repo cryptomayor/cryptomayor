@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2698094",
+    "name": "Kyrkhult, Sweden",
+    "description": "Blekinge, Olofstr\u00f6ms Kommun",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2698094",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2698094.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 56.35
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 14.58333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 980
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 135
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Stockholm"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Sweden"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "SE",
+    "altnames": "Kyrkhult"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor671659",
+    "name": "Osica de Jos, Romania",
+    "description": "Olt, Comuna Osica de Jos",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor671659",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor671659.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 44.24439
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 24.27926
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1430
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 99
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": "Osica de Jos"
+}

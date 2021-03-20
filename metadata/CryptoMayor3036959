@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3036959",
+    "name": "Arignac, France",
+    "description": "Occitanie, Ari\u00e8ge",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3036959",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3036959.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 42.87081
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 1.59997
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 616
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 520
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Arignac"
+}

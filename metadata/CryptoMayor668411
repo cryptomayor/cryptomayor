@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor668411",
+    "name": "Ruscova, Romania",
+    "description": "Maramure\u015f, Comuna Ru\u015fcova",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor668411",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor668411.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.79289
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 24.28546
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 5183
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 419
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": null
+}

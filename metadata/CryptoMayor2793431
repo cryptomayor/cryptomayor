@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2793431",
+    "name": "Landelies, Belgium",
+    "description": "Wallonia, Province du Hainaut",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2793431",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2793431.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 50.38001
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 4.35076
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1174
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 127
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Brussels"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Belgium"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "BE",
+    "altnames": "Montigny-le-Tilleul (Landelies)"
+}

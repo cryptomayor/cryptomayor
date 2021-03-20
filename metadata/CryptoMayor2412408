@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2412408",
+    "name": "Nioro, Gambia",
+    "description": "Lower River",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2412408",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2412408.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 13.35
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -15.75
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1746
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 38
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Africa/Banjul"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Gambia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AF"
+        }
+    ],
+    "country_code": "GM",
+    "altnames": null
+}

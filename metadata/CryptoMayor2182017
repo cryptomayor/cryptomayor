@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2182017",
+    "name": "Taipa, New Zealand",
+    "description": "Northland, Far North District",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2182017",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2182017.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -34.99604
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 173.46665
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1731
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 8
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Pacific/Auckland"
+        },
+        {
+            "trait_type": "Country",
+            "value": "New Zealand"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "NZ",
+    "altnames": null
+}

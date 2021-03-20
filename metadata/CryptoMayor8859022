@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8859022",
+    "name": "Colonia Pedro Mar\u00eda Anaya, Mexico",
+    "description": "Guanajuato, Celaya",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8859022",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8859022.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.52611
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -100.87778
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1543
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1750
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Colonia Pedro Maria Anaya,Colonia Pedro Mar\u00eda Anaya"
+}

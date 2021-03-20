@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3687913",
+    "name": "California, Colombia",
+    "description": "Santander, California",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3687913",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3687913.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 7.34776
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -72.9458
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 573
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2422
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Bogota"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Colombia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "CO",
+    "altnames": "California"
+}

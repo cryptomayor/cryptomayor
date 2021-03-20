@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor673997",
+    "name": "Malu, Romania",
+    "description": "Giurgiu, Comuna Malu",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor673997",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor673997.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 43.81518
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 25.81863
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3055
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 25
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": "Malu,Malul"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor11592113",
+    "name": "Comrie, United Kingdom",
+    "description": "Scotland, Fife",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor11592113",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor11592113.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 56.0853
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -3.57712
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 850
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 76
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/London"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United Kingdom"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "GB",
+    "altnames": null
+}

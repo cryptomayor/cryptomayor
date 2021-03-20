@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor9973374",
+    "name": "Red Hill, Australia",
+    "description": "Australian Capital Territory",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor9973374",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor9973374.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -35.32624
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 149.11906
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3085
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 638
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Sydney"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": null
+}

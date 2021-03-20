@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor1621842",
+    "name": "Watuapi, Indonesia",
+    "description": "East Nusa Tenggara",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor1621842",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor1621842.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -8.6122
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 121.4203
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 0
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 44
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Asia/Makassar"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Indonesia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AS"
+        }
+    ],
+    "country_code": "ID",
+    "altnames": "Watoeapi,Watuapi"
+}

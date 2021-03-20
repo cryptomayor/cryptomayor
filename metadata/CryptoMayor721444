@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor721444",
+    "name": "Demecser, Hungary",
+    "description": "Szabolcs-Szatm\u00e1r-Bereg",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor721444",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor721444.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 48.11648
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 21.92624
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 4558
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 100
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Budapest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Hungary"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "HU",
+    "altnames": "Demecser"
+}

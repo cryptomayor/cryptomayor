@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4008077",
+    "name": "El Refugio, Mexico",
+    "description": "Guanajuato, Pur\u00edsima del Rinc\u00f3n",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4008077",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4008077.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.96333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -101.89694
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 756
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1752
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": null
+}

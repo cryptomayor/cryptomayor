@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4029418",
+    "name": "Santa Catarina, Mexico",
+    "description": "Quer\u00e9taro, Quer\u00e9taro",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4029418",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4029418.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.77678
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -100.45233
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1607
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1981
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Santa Catarina"
+}

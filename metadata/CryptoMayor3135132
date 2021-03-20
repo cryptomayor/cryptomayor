@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3135132",
+    "name": "Svelgen, Norway",
+    "description": "Vestland, Bremanger",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3135132",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3135132.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 61.76976
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 5.29544
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1173
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 140
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Oslo"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Norway"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "NO",
+    "altnames": null
+}

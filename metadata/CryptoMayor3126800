@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3126800",
+    "name": "Campins, Spain",
+    "description": "Catalonia, Prov\u00edncia de Barcelona",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3126800",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3126800.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 41.71667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 2.46667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 353
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 255
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Madrid"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Spain"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "ES",
+    "altnames": null
+}

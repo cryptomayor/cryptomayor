@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3245082",
+    "name": "\u00c5r\u00e5s, Norway",
+    "description": "Vestland, Austrheim",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3245082",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3245082.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 60.77741
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 4.93274
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 550
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 30
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Oslo"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Norway"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "NO",
+    "altnames": null
+}

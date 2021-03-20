@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6691017",
+    "name": "Greenhills, Ireland",
+    "description": "Leinster, South Dublin",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6691017",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6691017.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 53.33467
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -6.30302
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 6876
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 23
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Dublin"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Ireland"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IE",
+    "altnames": null
+}

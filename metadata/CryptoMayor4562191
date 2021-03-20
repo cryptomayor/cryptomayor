@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4562191",
+    "name": "Westwood, United States",
+    "description": "Pennsylvania, Chester County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4562191",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4562191.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 39.97177
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -75.85328
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 950
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 113
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/New_York"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

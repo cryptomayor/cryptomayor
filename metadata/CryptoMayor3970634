@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3970634",
+    "name": "Vicam, Mexico",
+    "description": "Sonora, Guaymas",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3970634",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3970634.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 27.64354
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -110.29351
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 8837
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 13
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Hermosillo"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Vicam"
+}

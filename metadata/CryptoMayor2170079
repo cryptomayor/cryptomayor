@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2170079",
+    "name": "Cranbourne, Australia",
+    "description": "Victoria, Casey",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2170079",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2170079.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -38.11342
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 145.28326
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 19825
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 67
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Melbourne"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": "Cranbourne"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8604827",
+    "name": "Cedar Valley, United States",
+    "description": "Utah, Utah County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8604827",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8604827.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 40.3332
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -112.08115
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 871
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1523
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Denver"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

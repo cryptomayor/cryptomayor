@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor668287",
+    "name": "Sadova, Romania",
+    "description": "Dolj, Comuna Sadova",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor668287",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor668287.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 43.9
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 23.95
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 8277
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 85
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": "Sadova"
+}

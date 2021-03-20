@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5130102",
+    "name": "Otisville, United States",
+    "description": "New York, Orange County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5130102",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5130102.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 41.47343
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -74.53849
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1046
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 266
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/New_York"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

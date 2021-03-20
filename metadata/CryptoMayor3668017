@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3668017",
+    "name": "Simijaca, Colombia",
+    "description": "Cundinamarca, Simijaca",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3668017",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3668017.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 5.50291
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -73.85227
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 4767
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2563
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Bogota"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Colombia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "CO",
+    "altnames": "Simijaca"
+}

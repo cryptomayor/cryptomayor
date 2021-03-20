@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor160950",
+    "name": "Bukonyo, Tanzania",
+    "description": "Mara",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor160950",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor160950.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -1.95
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 32.93333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 4051
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1146
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Africa/Dar_es_Salaam"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Tanzania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AF"
+        }
+    ],
+    "country_code": "TZ",
+    "altnames": "Bukonyo"
+}

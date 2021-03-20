@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2186363",
+    "name": "Muriwai Beach, New Zealand",
+    "description": "Auckland, Auckland",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2186363",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2186363.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -36.83659
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 174.43298
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2402
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 79
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Pacific/Auckland"
+        },
+        {
+            "trait_type": "Country",
+            "value": "New Zealand"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "NZ",
+    "altnames": "Muriwai"
+}

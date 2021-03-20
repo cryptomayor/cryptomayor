@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3973015",
+    "name": "La Casita, Mexico",
+    "description": "Zacatecas, Fresnillo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3973015",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3973015.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 23.39562
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -103.25605
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 574
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2227
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "La Casita"
+}

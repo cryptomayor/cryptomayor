@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor768903",
+    "name": "Kobylnica, Poland",
+    "description": "Mazovia, Powiat garwoli\u0144ski",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor768903",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor768903.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 51.64551
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 21.57681
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 522
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 106
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Warsaw"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Poland"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "PL",
+    "altnames": null
+}

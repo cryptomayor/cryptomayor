@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2807868",
+    "name": "Winnerath, Germany",
+    "description": "Rheinland-Pfalz",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2807868",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2807868.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 50.42886
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 6.87658
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 201
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 445
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Berlin"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Germany"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "DE",
+    "altnames": null
+}

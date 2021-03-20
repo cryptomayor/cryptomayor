@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor11002162",
+    "name": "Marrakai, Australia",
+    "description": "Northern Territory",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor11002162",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor11002162.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -12.75053
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 131.48056
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 568
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 27
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Darwin"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": null
+}

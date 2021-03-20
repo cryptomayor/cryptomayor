@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6113466",
+    "name": "Princeville, Canada",
+    "description": "Nova Scotia",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6113466",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6113466.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 45.76684
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -61.29853
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 5571
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 43
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Halifax"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Canada"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "CA",
+    "altnames": null
+}

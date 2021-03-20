@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3533312",
+    "name": "El Aguacate, Mexico",
+    "description": "Veracruz, Hueyapan de Ocampo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3533312",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3533312.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.19808
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -94.97053
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2030
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 450
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Aguacate,El Aguacate"
+}

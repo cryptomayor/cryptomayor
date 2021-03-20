@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3861494",
+    "name": "Chicoana, Argentina",
+    "description": "Salta, Departamento de Chicoana",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3861494",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3861494.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -25.10502
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -65.53473
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 8468
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1238
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Argentina/Salta"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Argentina"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "AR",
+    "altnames": "Chicoana"
+}

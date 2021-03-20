@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3711513",
+    "name": "El Alto de Capira, Panama",
+    "description": "Panam\u00e1 Oeste, Distrito de Capira",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3711513",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3711513.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 8.7324
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -79.88764
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 585
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 160
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Panama"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Panama"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "PA",
+    "altnames": "El Alto,El Alto de Capira"
+}

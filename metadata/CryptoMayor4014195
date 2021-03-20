@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4014195",
+    "name": "Chiqueritos, Mexico",
+    "description": "Sinaloa, Culiac\u00e1n",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4014195",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4014195.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 24.17974
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -107.0389
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 584
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 44
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mazatlan"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Chiquerito,Chiqueritos"
+}

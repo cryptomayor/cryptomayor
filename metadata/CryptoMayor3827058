@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3827058",
+    "name": "San Juanico Sector Uno, Mexico",
+    "description": "M\u00e9xico, Acambay de Ru\u00edz Casta\u00f1eda",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3827058",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3827058.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.93458
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -99.76778
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1080
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2636
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "San Juanico Sector I,San Juanico Sector Uno"
+}

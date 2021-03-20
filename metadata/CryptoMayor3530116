@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3530116",
+    "name": "San Luis Coyotzingo, Mexico",
+    "description": "Puebla, Huejotzingo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3530116",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3530116.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.19818
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -98.43716
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1822
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2299
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Coyotzingo,San Luis,San Luis Coyotzingo"
+}

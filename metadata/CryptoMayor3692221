@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3692221",
+    "name": "Santa Cruz, Peru",
+    "description": "Loreto, Provincia de Alto Amazonas",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3692221",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3692221.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -5.55
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -75.8
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 0
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 164
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Lima"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Peru"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "PE",
+    "altnames": null
+}

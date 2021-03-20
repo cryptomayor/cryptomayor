@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor1337379",
+    "name": "Pemagatshel, Bhutan",
+    "description": "Pemagatshel",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor1337379",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor1337379.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 27.03795
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 91.40305
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 13864
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1207
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Asia/Thimphu"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Bhutan"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AS"
+        }
+    ],
+    "country_code": "BT",
+    "altnames": "Pemagatsel,Pemagatshel"
+}

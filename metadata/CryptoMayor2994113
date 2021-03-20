@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2994113",
+    "name": "Meursault, France",
+    "description": "Bourgogne-Franche-Comt\u00e9, Cote d'Or",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2994113",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2994113.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 46.97822
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 4.76952
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1655
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 249
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Meursault"
+}

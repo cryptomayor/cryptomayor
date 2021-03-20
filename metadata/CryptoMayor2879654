@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2879654",
+    "name": "Legde, Germany",
+    "description": "Brandenburg",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2879654",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2879654.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 52.91884
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 11.96325
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 752
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 26
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Berlin"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Germany"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "DE",
+    "altnames": null
+}

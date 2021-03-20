@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3864375",
+    "name": "Bella Vista, Argentina",
+    "description": "Tucuman, Departamento de Leales",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3864375",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3864375.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -27.03424
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -65.30196
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 15126
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 366
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Argentina/Tucuman"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Argentina"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "AR",
+    "altnames": "Bella Vista"
+}

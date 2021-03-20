@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3018292",
+    "name": "Fleury, France",
+    "description": "Grand Est, Moselle",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3018292",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3018292.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 49.04181
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 6.19329
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1164
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 215
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Fleury"
+}

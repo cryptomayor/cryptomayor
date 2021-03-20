@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2401578",
+    "name": "Bitam, Gabon",
+    "description": "Woleu-Ntem",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2401578",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2401578.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 2.07597
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 11.50065
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 10297
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 575
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Africa/Libreville"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Gabon"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AF"
+        }
+    ],
+    "country_code": "GA",
+    "altnames": "BMM,Bitam"
+}

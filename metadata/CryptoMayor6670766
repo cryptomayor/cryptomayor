@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6670766",
+    "name": "Maco, Peru",
+    "description": "Junin, Provincia de Tarma",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6670766",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6670766.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -11.48565
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -75.55074
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 932
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 3679
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Lima"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Peru"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "PE",
+    "altnames": null
+}

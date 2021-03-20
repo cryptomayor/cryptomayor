@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4562148",
+    "name": "West Grove, United States",
+    "description": "Pennsylvania, Chester County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4562148",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4562148.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 39.82205
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -75.82744
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2859
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 122
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/New_York"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

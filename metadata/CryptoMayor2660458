@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2660458",
+    "name": "Gsteig, Switzerland",
+    "description": "Bern, Interlaken-Oberhasli District",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2660458",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2660458.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 46.66509
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 7.87299
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 946
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 612
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Zurich"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Switzerland"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "CH",
+    "altnames": null
+}

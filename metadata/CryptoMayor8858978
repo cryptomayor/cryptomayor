@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8858978",
+    "name": "Primero de Mayo, Mexico",
+    "description": "Puebla, Puebla",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8858978",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8858978.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.08167
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -98.09778
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1599
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2337
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Primero de Mayo"
+}

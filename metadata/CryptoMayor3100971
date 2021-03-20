@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3100971",
+    "name": "Czerwonak, Poland",
+    "description": "Greater Poland, Powiat pozna\u0144ski",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3100971",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3100971.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 52.46459
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 16.98169
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 5432
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 61
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Warsaw"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Poland"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "PL",
+    "altnames": "Czerwonak"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8950233",
+    "name": "Dogana, Italy",
+    "description": "Tuscany, Province of Florence",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8950233",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8950233.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 43.6158
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 10.95078
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 550
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 47
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "Dogana"
+}

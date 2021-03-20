@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6951042",
+    "name": "Pergusa, Italy",
+    "description": "Sicily, Enna",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6951042",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6951042.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 37.5238
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 14.3059
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 953
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 698
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": null
+}

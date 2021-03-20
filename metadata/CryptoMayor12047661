@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor12047661",
+    "name": "Rejon ulicy Borowskiej-Po\u0142udnie, Poland",
+    "description": "Lower Silesia, Wroc\u0142aw",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor12047661",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor12047661.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 51.0766
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 17.02582
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2663
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 127
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Warsaw"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Poland"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "PL",
+    "altnames": null
+}

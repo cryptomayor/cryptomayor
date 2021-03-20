@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3818931",
+    "name": "San Isidro el Organal, Mexico",
+    "description": "Puebla, Chietla",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3818931",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3818931.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.53667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -98.6225
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 558
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1119
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": null
+}

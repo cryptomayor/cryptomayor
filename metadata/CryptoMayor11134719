@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor11134719",
+    "name": "Bimbaletes Atlas, Mexico",
+    "description": "Aguascalientes, Asientos",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor11134719",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor11134719.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 22.24582
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -102.03502
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 743
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2032
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Bimbaletes Atlas,Tanque de la Vieja"
+}

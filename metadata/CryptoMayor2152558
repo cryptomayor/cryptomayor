@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2152558",
+    "name": "Preston, Australia",
+    "description": "Victoria, Darebin",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2152558",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2152558.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -37.75
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 145.01667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 32499
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 61
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Melbourne"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": "Preston"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2064173",
+    "name": "One Tree Hill, Australia",
+    "description": "South Australia, Playford",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2064173",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2064173.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -34.7
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 138.76667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1072
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 260
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Adelaide"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": "One Tree Hill"
+}

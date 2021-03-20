@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6086673",
+    "name": "Neepawa, Canada",
+    "description": "Manitoba",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6086673",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6086673.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 50.22892
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -99.46642
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3151
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 374
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Winnipeg"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Canada"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "CA",
+    "altnames": null
+}

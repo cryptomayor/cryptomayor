@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3859000",
+    "name": "El Aguilar, Argentina",
+    "description": "Jujuy, Departamento de Humahuaca",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3859000",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3859000.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -23.21572
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -65.68005
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3655
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 4040
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Argentina/Jujuy"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Argentina"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "AR",
+    "altnames": "Aguilar,El Aguilar"
+}

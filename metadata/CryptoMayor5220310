@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5220310",
+    "name": "Yeagertown, United States",
+    "description": "Pennsylvania, Mifflin County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5220310",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5220310.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 40.64313
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -77.58055
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1050
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 179
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/New_York"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

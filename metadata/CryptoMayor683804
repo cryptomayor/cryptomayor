@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor683804",
+    "name": "Bratia din Vale, Romania",
+    "description": "V\u00e2lcea, Comuna Galicea",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor683804",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor683804.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 44.9577
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 24.28447
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 529
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 220
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": null
+}

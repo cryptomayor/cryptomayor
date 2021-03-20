@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3529569",
+    "name": "Guadalupe, Mexico",
+    "description": "Tamaulipas, Matamoros",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3529569",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3529569.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 25.9257
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -97.58532
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 742
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 13
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Matamoros"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Ejido Guadalupe,Guadalupe"
+}

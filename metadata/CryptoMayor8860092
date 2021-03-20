@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8860092",
+    "name": "El Progreso, Mexico",
+    "description": "Puebla, Chichiquila",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8860092",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8860092.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.16444
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -97.04917
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 948
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1948
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "El Progreso"
+}

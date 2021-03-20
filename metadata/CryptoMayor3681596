@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3681596",
+    "name": "Guamal, Colombia",
+    "description": "Magdalena, Guamal",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3681596",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3681596.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 9.14334
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -74.22384
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 9016
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 28
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Bogota"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Colombia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "CO",
+    "altnames": "GAA,Guamal"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4013081",
+    "name": "Las Compuertas, Mexico",
+    "description": "Sinaloa, Ahome",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4013081",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4013081.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 25.84202
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -109.0198
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 4156
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 16
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mazatlan"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Compuerta,Las Compuertas"
+}

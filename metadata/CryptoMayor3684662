@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3684662",
+    "name": "El Castillo, Colombia",
+    "description": "Meta, El Castillo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3684662",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3684662.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 3.56363
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -73.79488
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2581
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 350
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Bogota"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Colombia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "CO",
+    "altnames": "El Castillo"
+}

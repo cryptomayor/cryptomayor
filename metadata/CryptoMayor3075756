@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3075756",
+    "name": "Hlohovec, Czechia",
+    "description": "South Moravian, Okres B\u0159eclav",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3075756",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3075756.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 48.77399
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 16.7623
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1315
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 177
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Prague"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Czechia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "CZ",
+    "altnames": null
+}

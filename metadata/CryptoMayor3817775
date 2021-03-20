@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3817775",
+    "name": "San Francisco Mazapa, Mexico",
+    "description": "M\u00e9xico, San Mart\u00edn de las Pir\u00e1mides",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3817775",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3817775.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.69142
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -98.83442
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3365
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2294
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Francisco Mazapa,San Francisco Mazapa"
+}

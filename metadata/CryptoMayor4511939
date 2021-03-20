@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4511939",
+    "name": "Five Points, United States",
+    "description": "Ohio, Warren County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4511939",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4511939.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 39.56867
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -84.19299
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1824
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 302
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/New_York"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

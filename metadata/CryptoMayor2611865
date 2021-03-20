@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2611865",
+    "name": "Tarm, Denmark",
+    "description": "Central Jutland, Ringk\u00f8bing-Skjern Kommune",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2611865",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2611865.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 55.90861
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 8.53041
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 4080
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 8
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Copenhagen"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Denmark"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "DK",
+    "altnames": "Tarm"
+}

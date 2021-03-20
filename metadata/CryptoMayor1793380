@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor1793380",
+    "name": "Tangkou, China",
+    "description": "Fujian",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor1793380",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor1793380.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 26.95417
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 119.01278
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 4000
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 805
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Asia/Shanghai"
+        },
+        {
+            "trait_type": "Country",
+            "value": "China"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AS"
+        }
+    ],
+    "country_code": "CN",
+    "altnames": null
+}

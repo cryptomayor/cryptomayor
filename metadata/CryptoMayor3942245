@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3942245",
+    "name": "Corani, Peru",
+    "description": "Puno, Provincia de Carabaya",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3942245",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3942245.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -13.86871
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -70.60418
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 340
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 4201
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Lima"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Peru"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "PE",
+    "altnames": null
+}

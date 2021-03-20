@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8858274",
+    "name": "Palomar, Mexico",
+    "description": "Jalisco, Tlajomulco de Z\u00fa\u00f1iga",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8858274",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8858274.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.5925
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -103.46056
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 4837
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1803
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Palomar"
+}

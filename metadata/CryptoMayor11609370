@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor11609370",
+    "name": "Oberhehenfeld, Austria",
+    "description": "Upper Austria, Politischer Bezirk V\u00f6cklabruck",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor11609370",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor11609370.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.92859
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 13.62485
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 830
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 518
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Vienna"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Austria"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "AT",
+    "altnames": null
+}

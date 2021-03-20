@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3934290",
+    "name": "Asentamiento Humano Nicolas de Pierola, Peru",
+    "description": "Lima region, Lima",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3934290",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3934290.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -11.93573
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -76.70611
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 5800
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1016
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Lima"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Peru"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "PE",
+    "altnames": "Asentamiento Humano Nicolas de Pierola"
+}

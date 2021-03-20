@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3525200",
+    "name": "La Pesca, Mexico",
+    "description": "Tamaulipas, Soto la Marina",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3525200",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3525200.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 23.7866
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -97.77712
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1764
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 6
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Monterrey"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Pesca"
+}

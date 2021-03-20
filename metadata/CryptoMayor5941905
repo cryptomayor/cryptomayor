@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5941905",
+    "name": "Dorset Park, Canada",
+    "description": "Ontario, Toronto county",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5941905",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5941905.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 43.75386
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -79.28215
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 25003
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 164
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Toronto"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Canada"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "CA",
+    "altnames": null
+}

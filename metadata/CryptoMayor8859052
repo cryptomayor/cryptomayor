@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8859052",
+    "name": "Chixtontic, Mexico",
+    "description": "Chiapas, Tenejapa",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8859052",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8859052.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 16.8908
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -92.45793
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1512
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1410
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Chixtontic"
+}

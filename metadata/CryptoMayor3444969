@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3444969",
+    "name": "Visconde do Rio Branco, Brazil",
+    "description": "Minas Gerais, Visconde do Rio Branco",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3444969",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3444969.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -21.01028
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -42.84056
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 29009
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 343
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Sao_Paulo"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Brazil"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "BR",
+    "altnames": "Rio Branco"
+}

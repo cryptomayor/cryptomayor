@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4007143",
+    "name": "El Trapichillo, Mexico",
+    "description": "Nayarit, Tepic",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4007143",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4007143.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 21.57256
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -104.98281
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 884
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 685
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mazatlan"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "El Trapichillo"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3070536",
+    "name": "Mlade\u010d, Czechia",
+    "description": "Olomouck\u00fd, Okres Olomouc",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3070536",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3070536.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 49.70583
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 17.01952
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 787
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 242
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Prague"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Czechia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "CZ",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3821925",
+    "name": "Tenamazapa, Mexico",
+    "description": "Guerrero, Tlacoapa",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3821925",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3821925.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 17.21606
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -98.82533
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 840
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1399
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Tenamazapa"
+}

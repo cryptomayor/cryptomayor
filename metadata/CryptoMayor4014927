@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4014927",
+    "name": "El Sauz de Cebolletas, Mexico",
+    "description": "Guanajuato, Coroneo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4014927",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4014927.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.26277
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -100.37516
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 637
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2475
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Cebolleta,El Sauz de Cebolletas,La Cebolleta"
+}

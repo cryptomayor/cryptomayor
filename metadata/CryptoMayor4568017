@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4568017",
+    "name": "Sabana Hoyos, Puerto Rico",
+    "description": "Arecibo, Sabana Hoyos Barrio",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4568017",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4568017.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.43384
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -66.61378
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1823
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 98
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Puerto_Rico"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Puerto Rico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "PR",
+    "altnames": null
+}

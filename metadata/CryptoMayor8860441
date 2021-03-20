@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8860441",
+    "name": "San Baltazar, Mexico",
+    "description": "Puebla, Tecamachalco",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8860441",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8860441.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.785
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -97.75528
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 858
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1990
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "San Baltazar"
+}

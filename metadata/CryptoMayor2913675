@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2913675",
+    "name": "Gundheim, Germany",
+    "description": "Rheinland-Pfalz",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2913675",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2913675.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 49.67583
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 8.23778
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 985
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 141
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Berlin"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Germany"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "DE",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6534379",
+    "name": "Mioglia, Italy",
+    "description": "Liguria, Provincia di Savona",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6534379",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6534379.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 44.49214
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 8.41435
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 282
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 345
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": null
+}

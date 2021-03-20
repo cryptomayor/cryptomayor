@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3181340",
+    "name": "Cabella Ligure, Italy",
+    "description": "Piedmont, Provincia di Alessandria",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3181340",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3181340.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 44.67491
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 9.09607
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 356
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 485
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "Cabella Ligure"
+}

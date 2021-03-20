@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2058682",
+    "name": "Wembley, Australia",
+    "description": "Western Australia, Cambridge",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2058682",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2058682.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -31.93308
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 115.81783
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 11094
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 20
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Perth"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": "Wembley"
+}

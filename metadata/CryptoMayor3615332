@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3615332",
+    "name": "Aguas del Padre, Honduras",
+    "description": "Comayagua",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3615332",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3615332.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 14.56667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -87.88333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1104
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1249
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Tegucigalpa"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Honduras"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "HN",
+    "altnames": "Aguas del Padre"
+}

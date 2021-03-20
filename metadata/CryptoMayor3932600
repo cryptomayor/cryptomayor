@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3932600",
+    "name": "Pazos, Peru",
+    "description": "Huancavelica, Provincia de Tayacaja",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3932600",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3932600.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -12.26667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -75.1
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 0
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 3947
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Lima"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Peru"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "PE",
+    "altnames": "Pasos,Pazos"
+}

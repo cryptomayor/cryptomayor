@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4897654",
+    "name": "Itasca, United States",
+    "description": "Illinois, DuPage County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4897654",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4897654.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 41.97503
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -88.00729
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 8798
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 218
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Chicago"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

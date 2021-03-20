@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4993272",
+    "name": "Fowlerville, United States",
+    "description": "Michigan, Livingston County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4993272",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4993272.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 42.66059
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -84.07301
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2895
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 277
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Detroit"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

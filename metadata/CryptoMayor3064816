@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3064816",
+    "name": "Studenec, Czechia",
+    "description": "Vyso\u010dina, Okres T\u0159eb\u00ed\u010d",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3064816",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3064816.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 49.20012
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 16.06481
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 555
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 444
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Prague"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Czechia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "CZ",
+    "altnames": null
+}

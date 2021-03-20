@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3676591",
+    "name": "Liborina, Colombia",
+    "description": "Antioquia, Liborina",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3676591",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3676591.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 6.6779
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -75.81218
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2373
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 699
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Bogota"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Colombia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "CO",
+    "altnames": "Liborina"
+}

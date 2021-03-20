@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4025021",
+    "name": "Janambo, Mexico",
+    "description": "M\u00e9xico",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4025021",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4025021.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.20642
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -101.52644
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1245
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1823
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Janambo"
+}

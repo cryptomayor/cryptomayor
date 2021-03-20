@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3053918",
+    "name": "Csorna, Hungary",
+    "description": "Gy\u0151r-Moson-Sopron",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3053918",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3053918.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.61155
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 17.25012
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 10825
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 118
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Budapest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Hungary"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "HU",
+    "altnames": "Csorna"
+}

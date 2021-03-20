@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor680425",
+    "name": "Coverca, Romania",
+    "description": "Suceava, Comuna Panaci",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor680425",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor680425.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.23109
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 25.39529
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 850
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 939
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": null
+}

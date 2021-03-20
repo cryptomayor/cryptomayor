@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3999210",
+    "name": "Trincheras, Mexico",
+    "description": "Sonora, Trincheras",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3999210",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3999210.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 30.39806
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -111.53019
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1166
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 505
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Hermosillo"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Las Trincheras,Trincheras"
+}

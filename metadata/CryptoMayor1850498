@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor1850498",
+    "name": "Tatsuno, Japan",
+    "description": "Nagano, Kamiina-gun",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor1850498",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor1850498.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 35.98426
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 137.99721
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 21499
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 726
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Asia/Tokyo"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Japan"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AS"
+        }
+    ],
+    "country_code": "JP",
+    "altnames": null
+}

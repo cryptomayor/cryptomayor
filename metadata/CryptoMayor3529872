@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3529872",
+    "name": "El Custodio, Mexico",
+    "description": "San Luis Potos\u00ed, Ciudad del Ma\u00edz",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3529872",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3529872.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 22.65154
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -99.96955
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 563
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1018
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Custodio,El Custodio"
+}

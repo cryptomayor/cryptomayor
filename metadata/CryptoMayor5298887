@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5298887",
+    "name": "Houck, United States",
+    "description": "Arizona, Apache County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5298887",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5298887.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 35.28308
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -109.20704
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1024
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1845
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Denver"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

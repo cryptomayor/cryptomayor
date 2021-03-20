@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3529465",
+    "name": "El Alberto, Mexico",
+    "description": "Hidalgo, Ixmiquilpan",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3529465",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3529465.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.41483
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -99.22692
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 834
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1807
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Alberto,El Alberto"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3081946",
+    "name": "Wilk\u00f3w, Poland",
+    "description": "Opole Voivodeship, Powiat namys\u0142owski",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3081946",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3081946.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 51.10158
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 17.66284
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 900
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 158
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Warsaw"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Poland"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "PL",
+    "altnames": null
+}

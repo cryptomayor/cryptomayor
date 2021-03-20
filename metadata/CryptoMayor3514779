@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3514779",
+    "name": "Verapaz, Mexico",
+    "description": "Chiapas, Frontera Comalapa",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3514779",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3514779.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 15.71166
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -92.06199
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2237
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 702
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Verapaz"
+}

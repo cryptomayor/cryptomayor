@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor306112",
+    "name": "Kozan, Turkey",
+    "description": "Adana",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor306112",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor306112.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 37.45517
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 35.81573
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 88115
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 140
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Istanbul"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Turkey"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AS"
+        }
+    ],
+    "country_code": "TR",
+    "altnames": "Flaviopolis,Kozan,Sis"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8862611",
+    "name": "El Refugio, Mexico",
+    "description": "Michoac\u00e1n, P\u00e1tzcuaro",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8862611",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8862611.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.47056
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -101.49083
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 555
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2391
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "El Refugio"
+}

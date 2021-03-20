@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4004129",
+    "name": "Jamaica, Mexico",
+    "description": "Guanajuato, Dolores Hidalgo Cuna de la Independencia Nacional",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4004129",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4004129.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 21.14364
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -100.7343
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1196
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1967
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Jamaica"
+}

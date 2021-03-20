@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8858472",
+    "name": "Rancho Verde, Mexico",
+    "description": "Baja California, Ensenada",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8858472",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8858472.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 31.91611
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -116.58833
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2758
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 84
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Tijuana"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Rancho Verde"
+}

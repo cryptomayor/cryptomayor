@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3175764",
+    "name": "Grotte Santo Stefano, Italy",
+    "description": "Latium, Provincia di Viterbo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3175764",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3175764.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 42.51691
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 12.17226
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2802
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 292
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3981460",
+    "name": "Tlatlaya, Mexico",
+    "description": "M\u00e9xico, Tlatlaya",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3981460",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3981460.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.61773
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -100.20779
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 572
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1826
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Tlatlaya"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4898630",
+    "name": "Kirkland, United States",
+    "description": "Illinois, DeKalb County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4898630",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4898630.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 42.09253
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -88.85121
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1734
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 235
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Chicago"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

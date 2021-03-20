@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3518286",
+    "name": "San Miguel Balderas, Mexico",
+    "description": "Morelos",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3518286",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3518286.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.10943
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -99.65165
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 4866
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2857
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Balderas,San Miguel,San Miguel Balderas"
+}

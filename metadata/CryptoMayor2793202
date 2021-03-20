@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2793202",
+    "name": "Lauwe, Belgium",
+    "description": "Flanders, Provincie West-Vlaanderen",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2793202",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2793202.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 50.79479
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 3.1869
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 8392
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 21
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Brussels"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Belgium"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "BE",
+    "altnames": "Lauwe"
+}

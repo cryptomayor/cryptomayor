@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3519109",
+    "name": "San Isidro Apango, Mexico",
+    "description": "Oaxaca, San Pedro Pochutla",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3519109",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3519109.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 15.80952
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -96.35856
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1030
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 208
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Apango,San Isidro Apango"
+}

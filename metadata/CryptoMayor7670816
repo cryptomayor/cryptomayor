@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor7670816",
+    "name": "Sonsorol Village, Palau",
+    "description": "Sonsorol",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor7670816",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor7670816.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 5.32608
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 132.21943
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 30
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 7
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Pacific/Palau"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Palau"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "PW",
+    "altnames": "Dongosaro,Sonsorol"
+}

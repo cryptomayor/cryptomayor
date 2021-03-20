@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4018010",
+    "name": "Atotonilco, Mexico",
+    "description": "San Luis Potos\u00ed, Ciudad Fern\u00e1ndez",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4018010",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4018010.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 21.99286
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -100.44219
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 580
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1312
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Atotonilco"
+}

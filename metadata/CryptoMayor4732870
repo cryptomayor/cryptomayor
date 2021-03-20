@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4732870",
+    "name": "South Alamo, United States",
+    "description": "Texas, Hidalgo County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4732870",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4732870.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 26.15702
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -98.10862
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3361
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 33
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Chicago"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

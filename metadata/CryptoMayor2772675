@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2772675",
+    "name": "Lend, Austria",
+    "description": "Salzburg, Politischer Bezirk Zell am See",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2772675",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2772675.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.29856
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 13.05176
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 603
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 640
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Vienna"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Austria"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "AT",
+    "altnames": null
+}

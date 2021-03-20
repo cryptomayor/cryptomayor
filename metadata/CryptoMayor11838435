@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor11838435",
+    "name": "La Haute-Saint-Charles, Canada",
+    "description": "Quebec, Capitale-Nationale",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor11838435",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor11838435.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 46.89028
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -71.37222
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 74070
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 151
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Toronto"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Canada"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "CA",
+    "altnames": null
+}

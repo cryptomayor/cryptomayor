@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2722665",
+    "name": "Bergvik, Sweden",
+    "description": "G\u00e4vleborg, S\u00f6derhamns Kommun",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2722665",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2722665.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 61.25349
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 16.82749
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 719
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 93
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Stockholm"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Sweden"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "SE",
+    "altnames": "Bergvik"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3995050",
+    "name": "Nava, Mexico",
+    "description": "Coahuila, Nava",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3995050",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3995050.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 28.42071
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -100.76565
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 22192
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 329
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Monterrey"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Nava"
+}

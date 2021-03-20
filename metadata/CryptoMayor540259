@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor540259",
+    "name": "Krym, Russia",
+    "description": "Rostov",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor540259",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor540259.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.30025
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 39.51637
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 4475
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 48
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Moscow"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Russia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RU",
+    "altnames": "Krym,\u041a\u0440\u044b\u043c"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2784242",
+    "name": "Waarloos, Belgium",
+    "description": "Flanders, Provincie Antwerpen",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2784242",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2784242.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 51.10597
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 4.45482
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1808
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 25
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Brussels"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Belgium"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "BE",
+    "altnames": "Waarloos,Waerloos"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor1485020",
+    "name": "Znamenskoye, Russia",
+    "description": "Omsk",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor1485020",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor1485020.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 57.12806
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 73.82821
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 13300
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 68
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Asia/Omsk"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Russia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RU",
+    "altnames": "Znamenskoe,Znamenskoje,Znamenskoye,\u0417\u043d\u0430\u043c\u0435\u043d\u0441\u043a\u043e\u0435"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8949281",
+    "name": "San Rocco, Italy",
+    "description": "Piedmont, Provincia di Cuneo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8949281",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8949281.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 44.39653
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 7.4723
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1205
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 557
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "San Rocco"
+}

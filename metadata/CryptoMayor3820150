@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3820150",
+    "name": "Pativilca, Peru",
+    "description": "Lambayeque, Provincia de Ferre\u00f1afe",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3820150",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3820150.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -6.45675
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -79.66559
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 760
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 107
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Lima"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Peru"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "PE",
+    "altnames": null
+}

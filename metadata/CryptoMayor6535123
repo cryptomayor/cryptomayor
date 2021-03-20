@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6535123",
+    "name": "Dosso del Liro, Italy",
+    "description": "Lombardy, Provincia di Como",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6535123",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6535123.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 46.16399
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 9.27294
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 275
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 649
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": null
+}

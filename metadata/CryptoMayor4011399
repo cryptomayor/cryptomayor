@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4011399",
+    "name": "Ejutla, Mexico",
+    "description": "Jalisco, Ejutla",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4011399",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4011399.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.9054
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -104.16174
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1414
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1136
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Ejutla"
+}

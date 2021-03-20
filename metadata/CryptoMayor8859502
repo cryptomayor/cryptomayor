@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8859502",
+    "name": "Santa Cruz Texmalaquilla, Mexico",
+    "description": "Puebla, Atzitzintla",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8859502",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8859502.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.94306
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -97.2875
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1190
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 3119
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Santa Cruz Texmalaquilla"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3439378",
+    "name": "Ayolas, Paraguay",
+    "description": "Misiones, Ayolas",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3439378",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3439378.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -27.38421
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -56.83953
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 12061
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 64
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Asuncion"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Paraguay"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "PY",
+    "altnames": "AYO,Ayolas,Juan de Ayolas"
+}

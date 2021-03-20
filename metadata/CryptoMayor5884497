@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5884497",
+    "name": "Amigo Beach, Canada",
+    "description": "Ontario, Simcoe County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5884497",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5884497.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 44.6919
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -79.39317
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1545
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 237
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Toronto"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Canada"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "CA",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3694263",
+    "name": "Olleros, Peru",
+    "description": "Amazonas, Provincia de Chachapoyas",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3694263",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3694263.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -6.04861
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -77.64583
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 104
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 3139
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Lima"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Peru"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "PE",
+    "altnames": null
+}

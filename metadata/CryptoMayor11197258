@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor11197258",
+    "name": "Santa Rosa Finca, Mexico",
+    "description": "Quer\u00e9taro",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor11197258",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor11197258.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.66882
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -99.96642
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 925
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1936
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Santa Rosa Finca"
+}

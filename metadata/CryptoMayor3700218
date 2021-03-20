@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3700218",
+    "name": "Vallerriquito, Panama",
+    "description": "Los Santos, Distrito de Las Tablas",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3700218",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3700218.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 7.62163
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -80.31975
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 196
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 200
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Panama"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Panama"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "PA",
+    "altnames": "Valle Riquito,Vallerriquito"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2657964",
+    "name": "Wohlen, Switzerland",
+    "description": "Bern, Bern-Mittelland District",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2657964",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2657964.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 46.97118
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 7.35685
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 9159
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 546
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Zurich"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Switzerland"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "CH",
+    "altnames": null
+}

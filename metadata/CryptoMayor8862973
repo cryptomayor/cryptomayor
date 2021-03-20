@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8862973",
+    "name": "Barrio Tercero, Mexico",
+    "description": "Veracruz, Mixtla de Altamirano",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8862973",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8862973.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.5875
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -96.99611
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 523
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1937
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Barrio Tercero"
+}

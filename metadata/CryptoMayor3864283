@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3864283",
+    "name": "Bernasconi, Argentina",
+    "description": "La Pampa, Departamento de Hucal",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3864283",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3864283.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -37.90459
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -63.7424
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1781
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 164
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Argentina/Salta"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Argentina"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "AR",
+    "altnames": null
+}

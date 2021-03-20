@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2771698",
+    "name": "Meiningen, Austria",
+    "description": "Vorarlberg, Politischer Bezirk Feldkirch",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2771698",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2771698.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.29891
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 9.57862
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2245
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 426
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Vienna"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Austria"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "AT",
+    "altnames": null
+}

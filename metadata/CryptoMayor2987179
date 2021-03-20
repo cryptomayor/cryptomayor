@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2987179",
+    "name": "Pignans, France",
+    "description": "Provence-Alpes-C\u00f4te d'Azur, Var",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2987179",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2987179.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 43.30071
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 6.2265
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2987
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 175
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Pignans"
+}

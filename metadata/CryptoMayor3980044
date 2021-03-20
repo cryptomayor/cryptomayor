@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3980044",
+    "name": "Vista Hermosa, Mexico",
+    "description": "Jalisco, Tamazula de Gordiano",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3980044",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3980044.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.69391
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -103.33933
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3490
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1177
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": null
+}

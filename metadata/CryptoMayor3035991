@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3035991",
+    "name": "Aussillon, France",
+    "description": "Occitanie, Tarn",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3035991",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3035991.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 43.49897
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 2.36313
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 7309
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 252
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Aussillon"
+}

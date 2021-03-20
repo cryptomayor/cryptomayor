@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2413533",
+    "name": "Essau, Gambia",
+    "description": "North Bank",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2413533",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2413533.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 13.48389
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -16.53472
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 5907
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 12
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Africa/Banjul"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Gambia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AF"
+        }
+    ],
+    "country_code": "GM",
+    "altnames": "Essau"
+}

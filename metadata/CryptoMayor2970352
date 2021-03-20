@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2970352",
+    "name": "Vaux-en-Beaujolais, France",
+    "description": "Auvergne-Rh\u00f4ne-Alpes, Rh\u00f4ne",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2970352",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2970352.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 46.05613
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 4.59183
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 818
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 380
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Vaux,Vaux-en-Beaujolais"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2781184",
+    "name": "Burgfried, Austria",
+    "description": "Salzburg, Politischer Bezirk Hallein",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2781184",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2781184.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.68004
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 13.11175
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3358
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 448
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Vienna"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Austria"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "AT",
+    "altnames": null
+}

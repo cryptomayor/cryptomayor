@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3589398",
+    "name": "Santa Cruz Naranjo, Guatemala",
+    "description": "Santa Rosa",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3589398",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3589398.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 14.38806
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -90.36972
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 6254
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1174
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Guatemala"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Guatemala"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "GT",
+    "altnames": "Santa Cruz,Santa Cruz Naranjo"
+}

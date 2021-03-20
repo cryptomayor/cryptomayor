@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor583512",
+    "name": "Akusha, Russia",
+    "description": "Dagestan",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor583512",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor583512.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 42.26885
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 47.34114
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 4810
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1394
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Moscow"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Russia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RU",
+    "altnames": "Akusha,Akusja,\u0410\u043a\u0443\u0448\u0430"
+}

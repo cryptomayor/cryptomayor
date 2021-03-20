@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3167808",
+    "name": "San Pio delle Camere, Italy",
+    "description": "Abruzzo, Provincia dell' Aquila",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3167808",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3167808.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 42.28423
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 13.6557
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 345
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 763
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "San Pio delle Camere"
+}

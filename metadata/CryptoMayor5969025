@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5969025",
+    "name": "Haines Junction, Canada",
+    "description": "Yukon",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5969025",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5969025.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 60.75216
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -137.51082
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1148
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 599
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Whitehorse"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Canada"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "CA",
+    "altnames": "YHT"
+}

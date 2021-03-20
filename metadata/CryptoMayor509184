@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor509184",
+    "name": "Pizhanka, Russia",
+    "description": "Kirov",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor509184",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor509184.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 57.46042
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 48.542
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3900
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 122
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Kirov"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Russia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RU",
+    "altnames": "Pizhanka,Pizjanka,\u041f\u0438\u0436\u0430\u043d\u043a\u0430"
+}

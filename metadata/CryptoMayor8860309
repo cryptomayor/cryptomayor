@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8860309",
+    "name": "Milpoleta, Mexico",
+    "description": "Chiapas, Chamula",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8860309",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8860309.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 16.7725
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -92.66083
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 889
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2394
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Milpoleta"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5808432",
+    "name": "Riverton, United States",
+    "description": "Washington, King County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5808432",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5808432.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.48427
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -122.29457
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 6407
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 105
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Los_Angeles"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8861747",
+    "name": "Aparceros, Mexico",
+    "description": "Tabasco, Nacajuca",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8861747",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8861747.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.01179
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -92.96747
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 647
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 7
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Aparceros"
+}

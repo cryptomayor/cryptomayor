@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4012083",
+    "name": "Cuxpala, Mexico",
+    "description": "Jalisco, Tala",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4012083",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4012083.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.55935
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -103.6451
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1369
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1508
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": null
+}

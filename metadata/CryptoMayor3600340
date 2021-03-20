@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3600340",
+    "name": "Villa de San Antonio, Honduras",
+    "description": "Comayagua",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3600340",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3600340.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 14.31667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -87.61667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 5390
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 596
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Tegucigalpa"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Honduras"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "HN",
+    "altnames": "La Villa de San Antonio,San Antonio,Villa San Antonio,Villa de San Antonio"
+}

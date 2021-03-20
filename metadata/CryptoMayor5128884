@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5128884",
+    "name": "North Amityville, United States",
+    "description": "New York, Suffolk County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5128884",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5128884.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 40.6976
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -73.42512
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 17862
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 12
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/New_York"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

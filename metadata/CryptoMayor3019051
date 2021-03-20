@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3019051",
+    "name": "Farbus, France",
+    "description": "Hauts-de-France, Pas-de-Calais",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3019051",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3019051.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 50.35632
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 2.8248
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 559
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 86
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Farbus"
+}

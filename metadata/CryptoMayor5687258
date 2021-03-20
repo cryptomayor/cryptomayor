@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5687258",
+    "name": "Worden, United States",
+    "description": "Montana, Yellowstone County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5687258",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5687258.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 45.95996
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -108.16095
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 577
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 901
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Denver"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4004454",
+    "name": "Ibarra, Mexico",
+    "description": "Michoac\u00e1n, Brise\u00f1as",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4004454",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4004454.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.22967
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -102.62373
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1799
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1527
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Ibarra"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3622884",
+    "name": "Mercedes, Costa Rica",
+    "description": "San Jos\u00e9, P\u00e9rez Zeled\u00f3n",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3622884",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3622884.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 9.2627
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -83.58202
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 5467
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 597
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Costa_Rica"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Costa Rica"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "CR",
+    "altnames": "Mercedes"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2789551",
+    "name": "Oudegem, Belgium",
+    "description": "Flanders, Provincie Oost-Vlaanderen",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2789551",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2789551.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 51.01017
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 4.06195
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 4061
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 5
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Brussels"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Belgium"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "BE",
+    "altnames": "Audegem,Oudegem"
+}

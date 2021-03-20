@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2770540",
+    "name": "Niederottensheim, Austria",
+    "description": "Upper Austria, Politischer Bezirk Urfahr-Umgebung",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2770540",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2770540.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 48.33919
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 14.1855
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 502
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 270
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Vienna"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Austria"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "AT",
+    "altnames": null
+}

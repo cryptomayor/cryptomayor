@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8859487",
+    "name": "Las Yerbitas [Aserradero], Mexico",
+    "description": "Chihuahua, Guadalupe y Calvo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8859487",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8859487.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 26.08025
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -106.77969
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1200
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2669
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Chihuahua"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Las Yerbitas [Aserradero]"
+}

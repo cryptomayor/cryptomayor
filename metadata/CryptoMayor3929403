@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3929403",
+    "name": "San Miguel, Peru",
+    "description": "Ayacucho, Provincia de La Mar",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3929403",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3929403.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -13.0125
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -73.98083
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 8400
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2667
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Lima"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Peru"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "PE",
+    "altnames": "San Miguel"
+}

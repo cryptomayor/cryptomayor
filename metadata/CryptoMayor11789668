@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor11789668",
+    "name": "Aeugst am Albis, Switzerland",
+    "description": "Zurich, Bezirk Affoltern",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor11789668",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor11789668.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.26703
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 8.48539
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 0
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 695
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Zurich"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Switzerland"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "CH",
+    "altnames": null
+}

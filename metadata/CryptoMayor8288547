@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8288547",
+    "name": "G\u00e5rdsten, Sweden",
+    "description": "V\u00e4stra G\u00f6taland, G\u00f6teborgs stad",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8288547",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8288547.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 57.8048
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 12.02883
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 8025
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 103
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Stockholm"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Sweden"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "SE",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8860571",
+    "name": "Colonia Sonora, Mexico",
+    "description": "Morelos, Tetecala",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8860571",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8860571.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.73528
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -99.41194
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 827
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1007
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Colonia Sonora"
+}

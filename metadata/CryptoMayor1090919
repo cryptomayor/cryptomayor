@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor1090919",
+    "name": "Kavani, Comoros",
+    "description": "Anjouan",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor1090919",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor1090919.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -12.19194
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 44.26944
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2160
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 160
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Indian/Comoro"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Comoros"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AF"
+        }
+    ],
+    "country_code": "KM",
+    "altnames": null
+}

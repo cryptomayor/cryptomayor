@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3070204",
+    "name": "Muka\u0159ov, Czechia",
+    "description": "Central Bohemia, Okres Praha-v\u00fdchod",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3070204",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3070204.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 49.99115
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 14.74155
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1297
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 432
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Prague"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Czechia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "CZ",
+    "altnames": "Mukarschow"
+}

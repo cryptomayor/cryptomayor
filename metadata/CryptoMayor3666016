@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3666016",
+    "name": "Villa Caro, Colombia",
+    "description": "Norte de Santander, Villa Caro",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3666016",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3666016.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 7.91427
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -72.97144
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 0
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1595
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Bogota"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Colombia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "CO",
+    "altnames": "San Pedro,Villa Capo,Villa Caro"
+}

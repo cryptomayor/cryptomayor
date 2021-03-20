@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6295521",
+    "name": "Z\u00fcrich (Kreis 5), Switzerland",
+    "description": "Zurich, Bezirk Z\u00fcrich",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6295521",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6295521.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.38767
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 8.52152
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 11737
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 405
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Zurich"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Switzerland"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "CH",
+    "altnames": "Industriequartier"
+}

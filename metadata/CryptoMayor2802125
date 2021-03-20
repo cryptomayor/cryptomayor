@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2802125",
+    "name": "Bersillies-l'Abbaye, Belgium",
+    "description": "Wallonia, Province du Hainaut",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2802125",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2802125.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 50.26186
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 4.14845
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 878
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 145
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Brussels"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Belgium"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "BE",
+    "altnames": "Erquelinnes (Bersillies-l'Abbaye)"
+}

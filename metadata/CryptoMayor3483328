@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3483328",
+    "name": "El Control, Mexico",
+    "description": "Tamaulipas, Matamoros",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3483328",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3483328.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 25.95867
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -97.81281
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3136
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 24
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Matamoros"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Control Cik,El Control"
+}

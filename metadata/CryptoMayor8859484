@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8859484",
+    "name": "Zequentic, Mexico",
+    "description": "Chiapas, Zinacant\u00e1n",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8859484",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8859484.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 16.71694
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -92.82667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1201
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1854
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Zequentic"
+}

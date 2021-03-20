@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3585856",
+    "name": "El Tr\u00e1nsito, El Salvador",
+    "description": "San Miguel",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3585856",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3585856.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 13.35
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -88.35
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 9485
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 119
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/El_Salvador"
+        },
+        {
+            "trait_type": "Country",
+            "value": "El Salvador"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "SV",
+    "altnames": "El Transito,El Tr\u00e1nsito"
+}

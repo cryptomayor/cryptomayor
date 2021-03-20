@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor312504",
+    "name": "Hasanbeyli, Turkey",
+    "description": "Osmaniye",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor312504",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor312504.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 37.12838
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 36.54608
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 6315
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 723
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Istanbul"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Turkey"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AS"
+        }
+    ],
+    "country_code": "TR",
+    "altnames": "Hasanbeyli"
+}

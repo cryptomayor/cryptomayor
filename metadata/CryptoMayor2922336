@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2922336",
+    "name": "Gatow, Germany",
+    "description": "Berlin",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2922336",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2922336.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 52.48324
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 13.18285
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3722
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 38
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Berlin"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Germany"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "DE",
+    "altnames": "Berlin-Gatow"
+}

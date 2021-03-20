@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2168607",
+    "name": "Doncaster, Australia",
+    "description": "Victoria, Manningham",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2168607",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2168607.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -37.78828
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 145.12373
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 20728
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 108
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Melbourne"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": "Doncaster"
+}

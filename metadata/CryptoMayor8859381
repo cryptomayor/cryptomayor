@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8859381",
+    "name": "Higuera de los Vega, Mexico",
+    "description": "Sinaloa, Mocorito",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8859381",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8859381.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 25.655
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -107.95778
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1256
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 181
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mazatlan"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Higuera de los Vega,La Higuera,Las Higueras"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2781567",
+    "name": "Brandenberg, Austria",
+    "description": "Tyrol, Politischer Bezirk Kufstein",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2781567",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2781567.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.49053
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 11.89459
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1158
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 918
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Vienna"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Austria"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "AT",
+    "altnames": "Brandenberg"
+}

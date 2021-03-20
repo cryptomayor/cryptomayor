@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor314665",
+    "name": "Gemerek, Turkey",
+    "description": "Sivas",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor314665",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor314665.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 39.18342
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 36.07189
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 16916
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1208
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Istanbul"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Turkey"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AS"
+        }
+    ],
+    "country_code": "TR",
+    "altnames": "Gemerek"
+}

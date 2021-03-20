@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3904793",
+    "name": "Santa Rosa, Bolivia",
+    "description": "El Beni",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3904793",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3904793.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -14.16667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -66.88333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 4459
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 167
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/La_Paz"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Bolivia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "BO",
+    "altnames": "SRB,Santa Rosa"
+}

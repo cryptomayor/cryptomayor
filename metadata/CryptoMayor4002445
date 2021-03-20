@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4002445",
+    "name": "La Estancia, Mexico",
+    "description": "Sonora, Aconchi",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4002445",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4002445.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 29.79381
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -110.20955
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 713
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 606
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Hermosillo"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Estancia,Estancia Aconchi,Estancia Ac\u00f3nchi,La Estancia"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6292033",
+    "name": "Breitenmatt, Switzerland",
+    "description": "Zurich, Bezirk Hinwil",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6292033",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6292033.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.27655
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 8.87504
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 650
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 645
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Zurich"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Switzerland"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "CH",
+    "altnames": null
+}

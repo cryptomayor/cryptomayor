@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor773014",
+    "name": "Dorohusk, Poland",
+    "description": "Lublin, Che\u0142m County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor773014",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor773014.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 51.15475
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 23.80325
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 516
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 174
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Warsaw"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Poland"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "PL",
+    "altnames": null
+}

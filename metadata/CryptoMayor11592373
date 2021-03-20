@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor11592373",
+    "name": "Gurgl, Austria",
+    "description": "Tyrol, Politischer Bezirk Imst",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor11592373",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor11592373.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 46.87762
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 11.03439
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 521
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1887
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Vienna"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Austria"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "AT",
+    "altnames": null
+}

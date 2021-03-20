@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5123280",
+    "name": "Kensington, United States",
+    "description": "New York, Kings County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5123280",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5123280.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 40.64621
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -73.97069
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 39120
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 14
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/New_York"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

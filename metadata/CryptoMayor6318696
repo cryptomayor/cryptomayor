@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6318696",
+    "name": "Sinop, Brazil",
+    "description": "Mato Grosso, Sinop",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6318696",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6318696.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -11.86417
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -55.5025
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 116013
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 378
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Cuiaba"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Brazil"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "BR",
+    "altnames": "OPS"
+}

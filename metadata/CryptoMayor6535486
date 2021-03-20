@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6535486",
+    "name": "Sale San Giovanni, Italy",
+    "description": "Piedmont, Provincia di Cuneo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6535486",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6535486.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 44.39914
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 8.07794
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 34
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 586
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": null
+}

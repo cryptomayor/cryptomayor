@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5832481",
+    "name": "Mills, United States",
+    "description": "Wyoming, Natrona County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5832481",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5832481.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 42.84052
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -106.36586
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3785
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1564
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Denver"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

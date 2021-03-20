@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3583747",
+    "name": "San Francisco, El Salvador",
+    "description": "Moraz\u00e1n",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3583747",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3583747.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 13.7
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -88.1
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 16152
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 270
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/El_Salvador"
+        },
+        {
+            "trait_type": "Country",
+            "value": "El Salvador"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "SV",
+    "altnames": "Gotera,San Francisco,San Francisco Gotera"
+}

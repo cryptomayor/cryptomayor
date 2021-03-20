@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3030314",
+    "name": "Bressey-sur-Tille, France",
+    "description": "Bourgogne-Franche-Comt\u00e9, Cote d'Or",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3030314",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3030314.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.30824
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 5.183
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 565
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 211
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Bressey,Bressey-sur-Tille"
+}

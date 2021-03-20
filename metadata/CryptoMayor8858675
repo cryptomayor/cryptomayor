@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8858675",
+    "name": "Barrio de Guadalupe, Mexico",
+    "description": "M\u00e9xico, Chalco",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8858675",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8858675.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.23054
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -98.9309
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2136
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2238
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Barrio de Guadalupe"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3981075",
+    "name": "Tres Mezquites, Mexico",
+    "description": "M\u00e9xico, Villa Guerrero",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3981075",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3981075.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.26203
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -101.62735
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1966
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1690
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Tres Mezquites"
+}

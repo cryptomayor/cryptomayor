@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3948165",
+    "name": "El Algarrobal, Peru",
+    "description": "Moquegua, Provincia de Ilo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3948165",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3948165.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -17.62278
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -71.26778
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 38
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 125
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Lima"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Peru"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "PE",
+    "altnames": "Algarrobal,El Algarrobal"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2765077",
+    "name": "Siezenheim, Austria",
+    "description": "Salzburg, Politischer Bezirk Salzburg-Umgebung",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2765077",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2765077.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.81529
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 12.99039
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2951
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 427
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Vienna"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Austria"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "AT",
+    "altnames": "Stezenheim"
+}

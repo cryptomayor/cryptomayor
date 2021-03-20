@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3824665",
+    "name": "Tecuantepec, Mexico",
+    "description": "Veracruz, Zozocolco de Hidalgo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3824665",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3824665.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.14488
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -97.49999
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 512
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 125
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Tecuantepec"
+}

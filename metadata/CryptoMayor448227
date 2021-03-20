@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor448227",
+    "name": "Pader, Uganda",
+    "description": "Northern Region, Agago District",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor448227",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor448227.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 3.05
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 33.21667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 11600
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1061
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Africa/Kampala"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Uganda"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AF"
+        }
+    ],
+    "country_code": "UG",
+    "altnames": null
+}

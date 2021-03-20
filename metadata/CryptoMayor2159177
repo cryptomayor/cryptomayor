@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2159177",
+    "name": "Macleod, Australia",
+    "description": "Victoria, Banyule",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2159177",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2159177.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -37.73333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 145.06667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 9606
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 56
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Melbourne"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": null
+}

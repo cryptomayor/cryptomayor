@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8859766",
+    "name": "Miravalle, Mexico",
+    "description": "Aguascalientes, Jes\u00fas Mar\u00eda",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8859766",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8859766.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 21.9725
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -102.31139
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1071
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1870
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Miravalle"
+}

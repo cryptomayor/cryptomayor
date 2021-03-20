@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4563249",
+    "name": "Carrizales, Puerto Rico",
+    "description": "Hatillo, Carrizales Barrio",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4563249",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4563249.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.48189
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -66.7899
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2556
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 32
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Puerto_Rico"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Puerto Rico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "PR",
+    "altnames": null
+}

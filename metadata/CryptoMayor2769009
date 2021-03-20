@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2769009",
+    "name": "Pettenbach, Austria",
+    "description": "Upper Austria, Politischer Bezirk Kirchdorf an der Krems",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2769009",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2769009.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.96016
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 14.01692
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1506
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 486
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Vienna"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Austria"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "AT",
+    "altnames": null
+}

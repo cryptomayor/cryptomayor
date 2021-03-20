@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3466900",
+    "name": "Carmo do Rio Verde, Brazil",
+    "description": "Goi\u00e1s, Carmo do Rio Verde",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3466900",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3466900.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -15.35361
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -49.7075
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 6053
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 611
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Sao_Paulo"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Brazil"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "BR",
+    "altnames": null
+}

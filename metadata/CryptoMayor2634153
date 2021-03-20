@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2634153",
+    "name": "Whimple, United Kingdom",
+    "description": "England, Devon",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2634153",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2634153.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 50.76649
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -3.35655
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1173
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 51
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/London"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United Kingdom"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "GB",
+    "altnames": null
+}

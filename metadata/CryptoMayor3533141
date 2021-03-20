@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3533141",
+    "name": "Ahuajutla, Mexico",
+    "description": "Guerrero",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3533141",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3533141.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 17.43043
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -98.29029
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1215
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1677
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Ahuajutla"
+}

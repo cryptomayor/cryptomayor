@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor684541",
+    "name": "Bobeica, Romania",
+    "description": "Suceava, Comuna Izvoarele Sucevei",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor684541",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor684541.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.72652
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 25.1343
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 557
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1072
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": null
+}

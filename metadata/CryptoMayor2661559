@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2661559",
+    "name": "Benken, Switzerland",
+    "description": "Zurich, Bezirk Andelfingen",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2661559",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2661559.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.65276
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 8.65391
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 601
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 420
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Zurich"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Switzerland"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "CH",
+    "altnames": "Benken ZH"
+}

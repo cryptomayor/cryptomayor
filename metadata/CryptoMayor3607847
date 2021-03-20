@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3607847",
+    "name": "La Guacamaya, Honduras",
+    "description": "Yoro",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3607847",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3607847.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 15.25
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -87.8
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2525
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1356
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Tegucigalpa"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Honduras"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "HN",
+    "altnames": null
+}

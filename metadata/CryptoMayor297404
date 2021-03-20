@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor297404",
+    "name": "Yayvantepe, Turkey",
+    "description": "Mardin",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor297404",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor297404.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 37.30131
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 41.52061
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1813
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 912
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Istanbul"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Turkey"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AS"
+        }
+    ],
+    "country_code": "TR",
+    "altnames": "Kartmin,Katmin,Yayvantepe"
+}

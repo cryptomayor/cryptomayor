@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2143940",
+    "name": "West Tamworth, Australia",
+    "description": "New South Wales, Tamworth Municipality",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2143940",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2143940.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -31.10236
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 150.91447
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 5259
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 411
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Sydney"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": "West Tamworth"
+}

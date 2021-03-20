@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor933498",
+    "name": "Maapi, Botswana",
+    "description": "Central",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor933498",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor933498.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -22.75785
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 27.35001
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1275
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 938
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Africa/Gaborone"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Botswana"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AF"
+        }
+    ],
+    "country_code": "BW",
+    "altnames": "Maapi"
+}

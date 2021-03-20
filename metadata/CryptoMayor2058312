@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2058312",
+    "name": "Williams, Australia",
+    "description": "Western Australia, Williams",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2058312",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2058312.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -33.02803
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 116.87923
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 912
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 270
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Perth"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": "Williams"
+}

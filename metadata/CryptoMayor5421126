@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5421126",
+    "name": "Ellicott, United States",
+    "description": "Colorado, El Paso County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5421126",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5421126.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 38.83833
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -104.38691
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1131
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1838
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Denver"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

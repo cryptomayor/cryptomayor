@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8861264",
+    "name": "Nuevo Valle (Ex-Hacienda del Valle), Mexico",
+    "description": "Jalisco, Atotonilco el Alto",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8861264",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8861264.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.47083
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -102.58778
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 706
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1608
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Nuevo Valle (Ex-Hacienda del Valle)"
+}

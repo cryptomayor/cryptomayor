@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8861567",
+    "name": "El Aguaje (La Albarada), Mexico",
+    "description": "Chiapas, San Cristobal De Casas",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8861567",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8861567.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 16.68722
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -92.59028
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2318
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "El Aguaje (La Albarada)"
+}

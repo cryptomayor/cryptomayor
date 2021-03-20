@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8863223",
+    "name": "Loma del Izote (Mata Planta), Mexico",
+    "description": "Veracruz, Tierra Blanca",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8863223",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8863223.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.62389
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -96.60389
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 505
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 186
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Loma del Izote (Mata Planta)"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8096113",
+    "name": "The Acreage, United States",
+    "description": "Florida, Palm Beach County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8096113",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8096113.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 26.79404
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -80.26749
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 38704
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 15
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/New_York"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

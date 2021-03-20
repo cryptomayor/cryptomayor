@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5180449",
+    "name": "Big Run, United States",
+    "description": "Pennsylvania, Jefferson County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5180449",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5180449.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 40.96701
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -78.87837
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 613
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 393
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/New_York"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

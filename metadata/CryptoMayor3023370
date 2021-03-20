@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3023370",
+    "name": "Couchey, France",
+    "description": "Bourgogne-Franche-Comt\u00e9, Cote d'Or",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3023370",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3023370.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.25991
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 4.98257
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1224
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 278
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Couchey"
+}

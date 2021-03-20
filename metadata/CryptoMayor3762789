@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3762789",
+    "name": "Boca del Monte, Mexico",
+    "description": "Veracruz, Santiago Sochiapan",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3762789",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3762789.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 17.61462
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -95.7312
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1101
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 162
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Boca del Monte"
+}

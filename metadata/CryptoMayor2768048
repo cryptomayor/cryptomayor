@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2768048",
+    "name": "Rainfeld, Austria",
+    "description": "Lower Austria, Politischer Bezirk Lilienfeld",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2768048",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2768048.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 48.04745
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 15.71079
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 816
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 382
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Vienna"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Austria"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "AT",
+    "altnames": null
+}

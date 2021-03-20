@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3030037",
+    "name": "Brillon, France",
+    "description": "Hauts-de-France, North",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3030037",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3030037.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 50.435
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 3.32891
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 719
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 20
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Brillon"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3006439",
+    "name": "La Selle-la-Forge, France",
+    "description": "Normandy, Orne",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3006439",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3006439.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 48.73295
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -0.54103
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1320
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 214
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "La Selle,La Selle-la-Forge"
+}

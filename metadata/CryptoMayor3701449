@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3701449",
+    "name": "San Jos\u00e9, Panama",
+    "description": "Panam\u00e1 Oeste, Distrito Arraij\u00e1n",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3701449",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3701449.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 8.93333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -79.73333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3982
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 20
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Panama"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Panama"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "PA",
+    "altnames": null
+}

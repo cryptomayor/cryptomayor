@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5561894",
+    "name": "Cottonwood, United States",
+    "description": "California, Shasta County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5561894",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5561894.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 40.38571
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -122.28084
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3316
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 132
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Los_Angeles"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

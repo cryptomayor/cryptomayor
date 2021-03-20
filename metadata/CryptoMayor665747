@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor665747",
+    "name": "Surani, Romania",
+    "description": "Prahova, Comuna Surani",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor665747",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor665747.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 45.2
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 26.16667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1838
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 362
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": "Surani"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3006758",
+    "name": "La Rochette, France",
+    "description": "Auvergne-Rh\u00f4ne-Alpes, Savoy",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3006758",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3006758.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 45.45758
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 6.11356
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3405
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 381
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "La Rochette"
+}

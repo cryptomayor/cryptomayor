@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3163941",
+    "name": "Voze, Italy",
+    "description": "Liguria, Provincia di Savona",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3163941",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3163941.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 44.21365
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 8.39553
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 520
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 206
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": null
+}

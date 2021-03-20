@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor11102123",
+    "name": "Los Laureles, Argentina",
+    "description": "Santa Fe, General Obligado Department",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor11102123",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor11102123.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -29.36847
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -59.73634
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1519
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 50
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Argentina/Buenos_Aires"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Argentina"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "AR",
+    "altnames": null
+}

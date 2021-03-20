@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5112703",
+    "name": "Churchville, United States",
+    "description": "New York, Monroe County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5112703",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5112703.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 43.10423
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -77.88445
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2032
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 179
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/New_York"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3003138",
+    "name": "Le Nayrac, France",
+    "description": "Occitanie, Aveyron",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3003138",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3003138.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 44.61285
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 2.66303
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 591
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 701
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Le Nayrac"
+}

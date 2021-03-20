@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor11609983",
+    "name": "Char Golora, Bangladesh",
+    "description": "Dhaka, Manikganj",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor11609983",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor11609983.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 23.82037
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 90.12175
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 5000
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 9
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Asia/Dhaka"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Bangladesh"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AS"
+        }
+    ],
+    "country_code": "BD",
+    "altnames": null
+}

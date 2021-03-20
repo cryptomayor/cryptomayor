@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor11537089",
+    "name": "Lomas de Tenopalco, Mexico",
+    "description": "M\u00e9xico",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor11537089",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor11537089.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.70232
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -99.11237
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3288
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2299
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Lomas de Tenopalco"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3574116",
+    "name": "Mon Repos, Trinidad and Tobago",
+    "description": "San Fernando",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3574116",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3574116.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 10.27979
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -61.4459
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 56380
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 37
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Port_of_Spain"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Trinidad and Tobago"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "TT",
+    "altnames": "Mon Repos"
+}

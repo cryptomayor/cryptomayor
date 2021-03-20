@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3976859",
+    "name": "Santa Teresita, Mexico",
+    "description": "Sinaloa, Sinaloa",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3976859",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3976859.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 25.76975
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -108.66052
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 614
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 33
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mazatlan"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Santa Teresita"
+}

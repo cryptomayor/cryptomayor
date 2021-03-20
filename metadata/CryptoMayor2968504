@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2968504",
+    "name": "Villenouvelle, France",
+    "description": "Occitanie, Upper Garonne",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2968504",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2968504.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 43.43568
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 1.66281
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1050
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 175
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Villenouvelle"
+}

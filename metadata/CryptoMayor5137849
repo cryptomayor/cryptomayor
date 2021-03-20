@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5137849",
+    "name": "Sheepshead Bay, United States",
+    "description": "New York, Kings County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5137849",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5137849.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 40.59122
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -73.94458
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 122534
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 4
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/New_York"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

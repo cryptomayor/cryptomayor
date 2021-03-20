@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3172569",
+    "name": "Morro d'Oro, Italy",
+    "description": "Abruzzo, Provincia di Teramo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3172569",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3172569.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 42.66291
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 13.92129
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 335
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 208
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "Morro d'Oro"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3879123",
+    "name": "Nacimiento, Chile",
+    "description": "Biob\u00edo, Provincia de Biob\u00edo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3879123",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3879123.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -37.50253
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -72.67307
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 21220
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 95
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Santiago"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Chile"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "CL",
+    "altnames": "Nacimiento"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor733055",
+    "name": "Borovets, Bulgaria",
+    "description": "Kyustendil, Obshtina Kocherinovo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor733055",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor733055.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 42.10566
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 23.02003
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 800
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 389
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Sofia"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Bulgaria"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "BG",
+    "altnames": "Borovec,Borovets,Borovetz,Borowez,\u0411\u043e\u0440\u043e\u0432\u0435\u0446"
+}

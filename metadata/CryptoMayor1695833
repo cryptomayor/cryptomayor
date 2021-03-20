@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor1695833",
+    "name": "Pamplona, Philippines",
+    "description": "Bicol, Province of Camarines Sur",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor1695833",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor1695833.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 13.5916
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 123.0816
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 4884
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 9
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Asia/Manila"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Philippines"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AS"
+        }
+    ],
+    "country_code": "PH",
+    "altnames": "Pamplona"
+}

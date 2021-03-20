@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4002828",
+    "name": "La Colorada, Mexico",
+    "description": "Sonora, La Colorada",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4002828",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4002828.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 28.80348
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -110.57994
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 274
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 387
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Hermosillo"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "La Colorada"
+}

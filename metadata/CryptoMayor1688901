@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor1688901",
+    "name": "San Nicolas, Philippines",
+    "description": "Western Visayas, Province of Iloilo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor1688901",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor1688901.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 10.68444
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 122.49556
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2396
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 5
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Asia/Manila"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Philippines"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AS"
+        }
+    ],
+    "country_code": "PH",
+    "altnames": "San Nicolas"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3515275",
+    "name": "Tonalapa, Mexico",
+    "description": "Puebla, Tetela de Ocampo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3515275",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3515275.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.81361
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -97.88056
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 573
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1919
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": null
+}

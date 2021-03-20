@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3536640",
+    "name": "Santo Domingo, Cuba",
+    "description": "Villa Clara",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3536640",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3536640.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 22.58677
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -80.24261
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 45476
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 51
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Havana"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Cuba"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "CU",
+    "altnames": "Santo Domingo"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3525950",
+    "name": "La Concordia, Mexico",
+    "description": "Chiapas, La Concordia",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3525950",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3525950.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 16.11774
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -92.69018
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 7641
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 549
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "La Concordia,Nueva Concordia"
+}

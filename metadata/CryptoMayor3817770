@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3817770",
+    "name": "San Miguel Atepoxco, Mexico",
+    "description": "Morelos",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3817770",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3817770.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.74498
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -98.74038
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1231
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2415
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "San Miguel Atepoxco"
+}

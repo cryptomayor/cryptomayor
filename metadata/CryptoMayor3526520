@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3526520",
+    "name": "Jicaltepec, Mexico",
+    "description": "Veracruz, Nautla",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3526520",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3526520.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.16945
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -96.84911
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 852
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 12
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Jicaltepec"
+}

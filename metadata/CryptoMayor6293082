@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6293082",
+    "name": "Thalwil / Nord, Switzerland",
+    "description": "Zurich, Bezirk Horgen",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6293082",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6293082.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.29748
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 8.55634
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1751
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 470
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Zurich"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Switzerland"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "CH",
+    "altnames": "Nord"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5546040",
+    "name": "Rocky Ridge, United States",
+    "description": "Utah, Juab County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5546040",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5546040.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 39.92495
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -111.82716
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 773
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1523
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Denver"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8862732",
+    "name": "El Anonal, Mexico",
+    "description": "Chiapas, Frontera Comalapa",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8862732",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8862732.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 15.68806
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -92.12917
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 544
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 670
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "El Anonal"
+}

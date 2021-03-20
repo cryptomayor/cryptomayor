@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2076528",
+    "name": "Birdwood, Australia",
+    "description": "South Australia, Adelaide Hills",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2076528",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2076528.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -34.81826
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 138.96478
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1290
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 390
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Adelaide"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": "Birdwood"
+}

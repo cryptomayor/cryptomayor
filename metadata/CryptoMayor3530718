@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3530718",
+    "name": "Chumayel, Mexico",
+    "description": "Yucat\u00e1n, Chumayel",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3530718",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3530718.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.42833
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -89.30111
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3135
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 29
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Merida"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": null
+}

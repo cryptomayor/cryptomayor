@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3815738",
+    "name": "Maravillas, Mexico",
+    "description": "Chiapas, Simojovel",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3815738",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3815738.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 17.13674
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -92.55774
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1204
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 609
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Maravillas"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3517991",
+    "name": "San Pedro Ixtlahuaca, Mexico",
+    "description": "Oaxaca, San Pedro Ixtlahuaca",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3517991",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3517991.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 17.0636
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -96.81841
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2751
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1644
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Ixtlahuaca,San Pedro,San Pedro Ixtlahuaca"
+}

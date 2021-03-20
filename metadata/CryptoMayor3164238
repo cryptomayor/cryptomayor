@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3164238",
+    "name": "Villaga, Italy",
+    "description": "Veneto, Provincia di Vicenza",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3164238",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3164238.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 45.40273
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 11.53468
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 151
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 33
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "Villaga"
+}

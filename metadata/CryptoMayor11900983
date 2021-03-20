@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor11900983",
+    "name": "Puerto Libertador, Colombia",
+    "description": "C\u00f3rdoba",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor11900983",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor11900983.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 7.8894
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -75.67015
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 0
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 112
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Bogota"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Colombia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "CO",
+    "altnames": "Puerto Libertador"
+}

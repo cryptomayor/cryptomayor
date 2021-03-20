@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3516509",
+    "name": "Soyataco, Mexico",
+    "description": "Tabasco, Jalpa de M\u00e9ndez",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3516509",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3516509.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.20995
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -93.0743
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 4046
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 9
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Soyataco"
+}

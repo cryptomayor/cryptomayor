@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3792376",
+    "name": "Ciudad Bol\u00edvar, Colombia",
+    "description": "Antioquia, Ciudad Bol\u00edvar",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3792376",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3792376.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 5.85389
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -76.02528
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 16225
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1346
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Bogota"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Colombia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "CO",
+    "altnames": "Ciudad Bolivar,Ciudad Bol\u00edvar"
+}

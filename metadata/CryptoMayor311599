@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor311599",
+    "name": "\u0130kizce, Turkey",
+    "description": "Ankara",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor311599",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor311599.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 39.59516
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 32.66097
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 0
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1120
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Istanbul"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Turkey"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AS"
+        }
+    ],
+    "country_code": "TR",
+    "altnames": "Ikizce,\u0130kizce"
+}

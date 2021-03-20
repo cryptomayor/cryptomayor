@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3830353",
+    "name": "Annape, Peru",
+    "description": "Lambayeque, Provincia de Lambayeque",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3830353",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3830353.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -6.52345
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -80.0023
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 654
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 24
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Lima"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Peru"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "PE",
+    "altnames": null
+}

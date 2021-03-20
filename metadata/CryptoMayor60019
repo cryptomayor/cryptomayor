@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor60019",
+    "name": "Eyl, Somalia",
+    "description": "Nugaal",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor60019",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor60019.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 7.9803
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 49.8164
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 18904
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 47
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Africa/Mogadishu"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Somalia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AF"
+        }
+    ],
+    "country_code": "SO",
+    "altnames": "Ayl,Ceel,Eeyl,Eil,Eyl,HCM"
+}

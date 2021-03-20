@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor686059",
+    "name": "Atid, Romania",
+    "description": "Harghita, Comuna Atid",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor686059",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor686059.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 46.45
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 25.05
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2797
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 442
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": "Atid,Eted"
+}

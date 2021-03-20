@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3610555",
+    "name": "El Rancho, Honduras",
+    "description": "Cort\u00e9s",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3610555",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3610555.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 15.66667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -87.95
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1101
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 89
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Tegucigalpa"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Honduras"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "HN",
+    "altnames": null
+}

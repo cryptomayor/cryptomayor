@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3600642",
+    "name": "Toy\u00f3s, Honduras",
+    "description": "Yoro",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3600642",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3600642.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 15.55
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -87.65
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2530
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 61
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Tegucigalpa"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Honduras"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "HN",
+    "altnames": null
+}

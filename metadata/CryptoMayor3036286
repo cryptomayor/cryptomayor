@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3036286",
+    "name": "Aucamville, France",
+    "description": "Occitanie, Tarn-et-Garonne",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3036286",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3036286.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 43.80324
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 1.21476
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 846
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 135
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Aucamville"
+}

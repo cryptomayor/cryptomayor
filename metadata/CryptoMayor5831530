@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5831530",
+    "name": "Marbleton, United States",
+    "description": "Wyoming, Sublette County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5831530",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5831530.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 42.55355
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -110.10932
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1090
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2095
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Denver"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

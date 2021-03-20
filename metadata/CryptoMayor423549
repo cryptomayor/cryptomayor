@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor423549",
+    "name": "Rumonge, Burundi",
+    "description": "Rumonge, Commune of Rumonge",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor423549",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor423549.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -3.9736
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 29.4386
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 6074
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 790
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Africa/Bujumbura"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Burundi"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AF"
+        }
+    ],
+    "country_code": "BI",
+    "altnames": "Rumonge"
+}

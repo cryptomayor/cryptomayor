@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5097839",
+    "name": "Borough of Far Hills, United States",
+    "description": "New Jersey, Somerset County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5097839",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5097839.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 40.69038
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -74.62155
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 919
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 77
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/New_York"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

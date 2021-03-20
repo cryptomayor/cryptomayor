@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2795634",
+    "name": "Hoevenen, Belgium",
+    "description": "Flanders, Provincie Antwerpen",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2795634",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2795634.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 51.30604
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 4.40203
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 8473
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 3
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Brussels"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Belgium"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "BE",
+    "altnames": "Hoevenen"
+}

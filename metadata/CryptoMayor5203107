@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5203107",
+    "name": "New Bethlehem, United States",
+    "description": "Pennsylvania, Clarion County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5203107",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5203107.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 41.00173
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -79.33143
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 941
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 328
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/New_York"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

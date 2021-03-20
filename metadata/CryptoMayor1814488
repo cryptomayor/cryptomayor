@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor1814488",
+    "name": "Dadengzhuang, China",
+    "description": "Tianjin",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor1814488",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor1814488.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 39.48639
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 117.6175
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 550
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 4
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Asia/Shanghai"
+        },
+        {
+            "trait_type": "Country",
+            "value": "China"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AS"
+        }
+    ],
+    "country_code": "CN",
+    "altnames": "Dadengzhuang"
+}

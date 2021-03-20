@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4847555",
+    "name": "Badger, United States",
+    "description": "Iowa, Webster County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4847555",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4847555.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 42.61441
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -94.14607
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 550
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 350
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Chicago"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

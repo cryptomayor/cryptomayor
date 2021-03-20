@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor632539",
+    "name": "Vampula, Finland",
+    "description": "Satakunta, Pori",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor632539",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor632539.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 61.01667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 22.7
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1743
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 75
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Helsinki"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Finland"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FI",
+    "altnames": "Vambula"
+}

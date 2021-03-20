@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4915977",
+    "name": "West Dundee, United States",
+    "description": "Illinois, Kane County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4915977",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4915977.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 42.09808
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -88.28286
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 7395
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 236
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Chicago"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": "Dundee,West Dundee"
+}

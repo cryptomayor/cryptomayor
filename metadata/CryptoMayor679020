@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor679020",
+    "name": "Draxini, Romania",
+    "description": "Boto\u015fani, Comuna B\u0103lu\u015feni",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor679020",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor679020.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.65
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 26.81667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1815
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 163
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": null
+}

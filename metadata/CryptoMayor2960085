@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2960085",
+    "name": "Schouweiler, Luxembourg",
+    "description": "Capellen, Dippach",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2960085",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2960085.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 49.5825
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 5.95639
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1090
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 331
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Luxembourg"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Luxembourg"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "LU",
+    "altnames": "Schouweiler"
+}

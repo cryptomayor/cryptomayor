@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8729093",
+    "name": "Terrero, Mexico",
+    "description": "Veracruz, Tantoyuca",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8729093",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8729093.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 21.45667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -98.27917
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 589
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 117
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Terrero"
+}

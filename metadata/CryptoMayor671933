@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor671933",
+    "name": "Ogrezeni, Romania",
+    "description": "Giurgiu, Comuna Ogrezeni",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor671933",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor671933.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 44.41972
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 25.76833
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 4893
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 103
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": "Ogrezeni"
+}

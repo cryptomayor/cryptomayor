@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor727069",
+    "name": "Slivnitsa, Bulgaria",
+    "description": "Sofia, Obshtina Slivnitsa",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor727069",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor727069.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 42.85182
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 23.03792
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 7545
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 591
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Sofia"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Bulgaria"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "BG",
+    "altnames": "Slivica,Slivnica,Slivnitsa,Slivnitza,Sliwniza,\u0421\u043b\u0438\u0432\u043d\u0438\u0446\u0430"
+}

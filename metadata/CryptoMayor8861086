@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8861086",
+    "name": "Reforma, Mexico",
+    "description": "Morelos, Cuautla",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8861086",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8861086.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.78222
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -98.93417
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 736
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1314
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Reforma"
+}

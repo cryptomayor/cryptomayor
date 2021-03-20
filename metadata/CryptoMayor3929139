@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3929139",
+    "name": "Santa Rosa, Peru",
+    "description": "Lima region, Lima",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3929139",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3929139.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -11.79917
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -77.17333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 0
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 31
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Lima"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Peru"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "PE",
+    "altnames": null
+}

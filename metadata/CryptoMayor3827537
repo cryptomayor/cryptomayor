@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3827537",
+    "name": "San Miguel Vindho, Mexico",
+    "description": "Hidalgo, Tula de Allende",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3827537",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3827537.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.99447
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -99.31782
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 7988
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2134
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "San Miguel Vindho"
+}

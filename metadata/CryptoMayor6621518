@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6621518",
+    "name": "Vogelkwartier, Netherlands",
+    "description": "Gelderland, Gemeente Apeldoorn",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6621518",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6621518.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 52.19777
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 5.96721
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 4975
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 18
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Amsterdam"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Netherlands"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "NL",
+    "altnames": null
+}

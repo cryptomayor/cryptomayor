@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor676344",
+    "name": "Hamba, Romania",
+    "description": "Sibiu, Comuna \u015eura Mare",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor676344",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor676344.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 45.8633
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 24.19721
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 645
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 467
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": null
+}

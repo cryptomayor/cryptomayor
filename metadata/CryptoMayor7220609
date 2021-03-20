@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor7220609",
+    "name": "Desert Edge, United States",
+    "description": "California, Riverside County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor7220609",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor7220609.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 33.92417
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -116.44139
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3822
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 298
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Los_Angeles"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3072819",
+    "name": "Krchleby, Czechia",
+    "description": "Central Bohemia, Okres Nymburk",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3072819",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3072819.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 50.23916
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 15.02271
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 725
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 200
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Prague"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Czechia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "CZ",
+    "altnames": "Skrchleb"
+}

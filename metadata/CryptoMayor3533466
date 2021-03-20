@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3533466",
+    "name": "Acapetahua, Mexico",
+    "description": "Chiapas, Acapetahua",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3533466",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3533466.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 15.28189
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -92.68987
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 6194
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 33
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Acapetagua,Acapetahua,Acapeteahua"
+}

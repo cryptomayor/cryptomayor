@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor11978235",
+    "name": "Enmore, Australia",
+    "description": "New South Wales, Inner West",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor11978235",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor11978235.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -33.9005
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 151.17314
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3880
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Sydney"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": null
+}

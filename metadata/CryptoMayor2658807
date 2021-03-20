@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2658807",
+    "name": "Sankt Peterzell, Switzerland",
+    "description": "Saint Gallen, Wahlkreis Toggenburg",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2658807",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2658807.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.31782
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 9.17599
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1207
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 718
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Zurich"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Switzerland"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "CH",
+    "altnames": "Sankt Peterzell,St. Peterzell"
+}

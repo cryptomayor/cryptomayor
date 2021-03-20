@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4194111",
+    "name": "Fair Oaks, United States",
+    "description": "Georgia, Cobb County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4194111",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4194111.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 33.91649
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -84.54465
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 8225
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 343
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/New_York"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2658191",
+    "name": "Vals Platz, Switzerland",
+    "description": "Grisons, Region Surselva",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2658191",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2658191.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 46.61647
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 9.18025
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1006
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1258
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Zurich"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Switzerland"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "CH",
+    "altnames": "Platz,Val,Vals,Vals Platz"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3815629",
+    "name": "Zaragoza, Mexico",
+    "description": "Chiapas, Ocosingo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3815629",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3815629.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 17.00906
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -91.64033
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1163
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1117
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Zaragoza"
+}

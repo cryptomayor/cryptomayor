@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3613528",
+    "name": "Ciudad Choluteca, Honduras",
+    "description": "Choluteca",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3613528",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3613528.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 13.30028
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -87.19083
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 75872
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 53
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Tegucigalpa"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Honduras"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "HN",
+    "altnames": "Chollolteca,Choluteca,Ciudad Choluteca"
+}

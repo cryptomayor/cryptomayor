@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor725283",
+    "name": "Zlatitsa, Bulgaria",
+    "description": "Sofia, Obshtina Zlatitsa",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor725283",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor725283.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 42.71667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 24.13333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 5786
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 692
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Sofia"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Bulgaria"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "BG",
+    "altnames": "Slatiza,Zlatica,Zlatitsa,Zlatitza,Zlatiza,\u0417\u043b\u0430\u0442\u0438\u0446\u0430"
+}

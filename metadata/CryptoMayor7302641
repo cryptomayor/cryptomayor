@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor7302641",
+    "name": "Tacoma, Australia",
+    "description": "New South Wales, Central Coast",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor7302641",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor7302641.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -33.28794
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 151.46236
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 614
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Sydney"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": null
+}

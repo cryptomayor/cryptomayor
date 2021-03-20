@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8468896",
+    "name": "Ulsteinvik weather pws station, Norway",
+    "description": "M\u00f8re og Romsdal",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8468896",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8468896.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 62.34338
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 5.84385
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 5000
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 60
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Oslo"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Norway"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "NO",
+    "altnames": "Ulsteinvik veret,Ulsteinvik weather,ulsteinvik vaeret,ulsteinvik v\u00e6ret"
+}

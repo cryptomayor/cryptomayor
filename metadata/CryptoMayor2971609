@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2971609",
+    "name": "Troisvilles, France",
+    "description": "Hauts-de-France, North",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2971609",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2971609.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 50.10498
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 3.46997
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 803
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 119
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Troisvilles"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2735093",
+    "name": "Rio Mau, Portugal",
+    "description": "Porto, Vila do Conde",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2735093",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2735093.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 41.40422
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -8.67994
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2681
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 59
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Lisbon"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Portugal"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "PT",
+    "altnames": null
+}

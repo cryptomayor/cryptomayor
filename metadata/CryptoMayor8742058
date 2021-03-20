@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8742058",
+    "name": "Las Placetas, Mexico",
+    "description": "Veracruz, Chicontepec",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8742058",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8742058.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 21.0327
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -98.01378
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 599
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 144
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Las Placetas"
+}

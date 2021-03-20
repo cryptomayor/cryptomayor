@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3984210",
+    "name": "Santa Luc\u00eda, Mexico",
+    "description": "San Luis Potos\u00ed, Villa de Ramos",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3984210",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3984210.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 22.7851
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -101.91868
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 865
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2167
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": null
+}

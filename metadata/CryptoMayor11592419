@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor11592419",
+    "name": "Kirchenviertel, Austria",
+    "description": "Styria, Politischer Bezirk Weiz",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor11592419",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor11592419.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.48563
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 15.72075
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 773
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 747
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Vienna"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Austria"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "AT",
+    "altnames": null
+}

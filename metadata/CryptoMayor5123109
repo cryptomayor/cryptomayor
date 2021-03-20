@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5123109",
+    "name": "Kaser, United States",
+    "description": "New York, Rockland County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5123109",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5123109.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 41.12121
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -74.06709
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 5131
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 174
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/New_York"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3935261",
+    "name": "Mariposa, Peru",
+    "description": "Junin, Provincia de Satipo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3935261",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3935261.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -11.40571
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -74.75198
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 510
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1223
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Lima"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Peru"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "PE",
+    "altnames": null
+}

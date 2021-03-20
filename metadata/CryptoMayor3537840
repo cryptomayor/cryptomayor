@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3537840",
+    "name": "Santa Cruz del Sur, Cuba",
+    "description": "Camag\u00fcey",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3537840",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3537840.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.71633
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -77.99816
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 34601
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 7
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Havana"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Cuba"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "CU",
+    "altnames": "Santa Cruz del Sur"
+}

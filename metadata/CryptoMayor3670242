@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3670242",
+    "name": "San Alberto, Colombia",
+    "description": "Cesar, San Alberto",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3670242",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3670242.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 7.76107
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -73.3922
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 10627
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 118
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Bogota"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Colombia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "CO",
+    "altnames": "San Alberto"
+}

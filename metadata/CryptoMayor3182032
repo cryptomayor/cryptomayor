@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3182032",
+    "name": "Bigolino, Italy",
+    "description": "Veneto, Provincia di Treviso",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3182032",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3182032.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 45.86669
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 12.01693
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1541
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 174
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": null
+}

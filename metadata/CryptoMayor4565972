@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4565972",
+    "name": "Las Ochenta, Puerto Rico",
+    "description": "Salinas, R\u00edo Jueyes Barrio",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4565972",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4565972.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 17.98469
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -66.31795
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1199
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 14
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Puerto_Rico"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Puerto Rico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "PR",
+    "altnames": null
+}

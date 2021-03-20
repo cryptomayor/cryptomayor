@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2063604",
+    "name": "Pemberton, Australia",
+    "description": "Western Australia, Manjimup",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2063604",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2063604.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -34.44311
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 116.03689
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1016
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 125
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Perth"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": "Pemberton"
+}

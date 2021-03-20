@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4017582",
+    "name": "Ban\u00e1michi, Mexico",
+    "description": "Sonora, Ban\u00e1michi",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4017582",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4017582.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 30.0074
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -110.21585
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1238
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 678
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Hermosillo"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Banamichi,Ban\u00e1michi"
+}

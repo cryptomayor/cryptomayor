@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3529691",
+    "name": "Dos R\u00edos, Mexico",
+    "description": "Veracruz, Emiliano Zapata",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3529691",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3529691.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.48417
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -96.79944
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1307
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 937
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": null
+}

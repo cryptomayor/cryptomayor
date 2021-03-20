@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor671027",
+    "name": "Petid, Romania",
+    "description": "Bihor, Comuna Cociuba Mare",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor671027",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor671027.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 46.71843
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 22.07731
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 732
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 136
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": null
+}

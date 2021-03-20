@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8859804",
+    "name": "La Mezquitera, Mexico",
+    "description": "Jalisco, Zapotlanejo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8859804",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8859804.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.55833
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -103.1125
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1056
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1463
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "La Mezquitera"
+}

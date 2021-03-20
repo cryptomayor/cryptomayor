@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3861405",
+    "name": "Chimpay, Argentina",
+    "description": "Rio Negro, Departamento de Avellaneda",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3861405",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3861405.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -39.16482
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -66.14236
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3905
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 158
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Argentina/Salta"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Argentina"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "AR",
+    "altnames": "Chimpay"
+}

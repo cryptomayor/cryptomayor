@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4852519",
+    "name": "Conrad, United States",
+    "description": "Iowa, Grundy County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4852519",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4852519.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 42.22471
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -92.87465
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1100
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 308
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Chicago"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

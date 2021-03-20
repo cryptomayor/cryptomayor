@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3177692",
+    "name": "Cupello, Italy",
+    "description": "Abruzzo, Provincia di Chieti",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3177692",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3177692.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 42.06936
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 14.67054
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3670
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 282
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "Cupello"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3177818",
+    "name": "Creto, Italy",
+    "description": "Trentino-Alto Adige, Provincia autonoma di Trento",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3177818",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3177818.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 45.9411
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 10.64027
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 804
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 523
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": null
+}

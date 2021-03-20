@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8348438",
+    "name": "Woodpark, Australia",
+    "description": "New South Wales, Cumberland",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8348438",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8348438.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -33.84137
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 150.96055
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1515
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 43
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Sydney"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": null
+}

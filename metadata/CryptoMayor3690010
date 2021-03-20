@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3690010",
+    "name": "Amalfi, Colombia",
+    "description": "Antioquia, Amalfi",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3690010",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3690010.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 6.91016
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -75.07764
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 9733
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1544
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Bogota"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Colombia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "CO",
+    "altnames": "AFI,Amalfi"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6122230",
+    "name": "Ridgetown, Canada",
+    "description": "Ontario, Chatham-Kent",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6122230",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6122230.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 42.43536
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -81.88733
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3002
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 209
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Toronto"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Canada"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "CA",
+    "altnames": null
+}

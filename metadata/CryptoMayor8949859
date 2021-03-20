@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8949859",
+    "name": "Vico, Italy",
+    "description": "Campania",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8949859",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8949859.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 40.87342
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 14.5685
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 695
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 151
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "Vico"
+}

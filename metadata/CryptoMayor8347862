@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8347862",
+    "name": "Sandover, Australia",
+    "description": "Northern Territory, Barkly",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8347862",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8347862.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -21.95965
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 135.5128
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 653
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 382
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Darwin"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": null
+}

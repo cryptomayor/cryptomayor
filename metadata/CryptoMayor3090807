@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3090807",
+    "name": "Nowa Brze\u017anica, Poland",
+    "description": "\u0141\u00f3d\u017a Voivodeship, Powiat paj\u0119cza\u0144ski",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3090807",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3090807.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 51.0812
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 19.18342
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 750
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 202
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Warsaw"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Poland"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "PL",
+    "altnames": null
+}

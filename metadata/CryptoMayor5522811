@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5522811",
+    "name": "Happy, United States",
+    "description": "Texas, Swisher County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5522811",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5522811.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 34.74367
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -101.85463
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 656
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1100
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Chicago"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

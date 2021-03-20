@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8949066",
+    "name": "San Salvo Marina, Italy",
+    "description": "Abruzzo, Provincia di Chieti",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8949066",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8949066.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 42.07037
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 14.76597
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1725
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 4
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "Salvo Marina,San Salvo Marina"
+}

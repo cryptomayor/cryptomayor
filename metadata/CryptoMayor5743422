@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5743422",
+    "name": "North Portland, United States",
+    "description": "Oregon, Multnomah County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5743422",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5743422.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 45.61039
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -122.70343
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 7000
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 13
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Los_Angeles"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

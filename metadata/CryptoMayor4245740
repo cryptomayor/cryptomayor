@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4245740",
+    "name": "Noble, United States",
+    "description": "Illinois, Richland County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4245740",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4245740.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 38.69755
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -88.22365
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 668
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 145
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Chicago"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2780285",
+    "name": "Eibesthal, Austria",
+    "description": "Lower Austria, Politischer Bezirk Mistelbach",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2780285",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2780285.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 48.58333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 16.6
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 760
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 245
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Vienna"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Austria"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "AT",
+    "altnames": null
+}

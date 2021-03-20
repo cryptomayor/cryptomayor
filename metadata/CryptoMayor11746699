@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor11746699",
+    "name": "Oberg\u00e4u, Austria",
+    "description": "Salzburg, Politischer Bezirk Hallein",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor11746699",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor11746699.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.58955
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 13.17621
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1292
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 474
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Vienna"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Austria"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "AT",
+    "altnames": null
+}

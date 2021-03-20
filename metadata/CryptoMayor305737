@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor305737",
+    "name": "Kuluncak, Turkey",
+    "description": "Malatya",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor305737",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor305737.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 38.87656
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 37.66279
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 8495
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1243
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Istanbul"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Turkey"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AS"
+        }
+    ],
+    "country_code": "TR",
+    "altnames": "Kuluncak"
+}

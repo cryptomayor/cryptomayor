@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3429801",
+    "name": "Puerto Bermejo, Argentina",
+    "description": "Chaco, Departamento de Bermejo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3429801",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3429801.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -26.92739
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -58.50917
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1832
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 54
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Argentina/Cordoba"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Argentina"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "AR",
+    "altnames": "Bermejo,Puerto Bermejo,Timbo"
+}

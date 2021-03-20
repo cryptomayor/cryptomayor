@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor9515301",
+    "name": "San Antonio Arenillas, Mexico",
+    "description": "Puebla, Puebla",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor9515301",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor9515301.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.94957
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -98.17702
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 527
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2072
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "San Antonio Arenillas"
+}

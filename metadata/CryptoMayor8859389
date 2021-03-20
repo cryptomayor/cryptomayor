@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8859389",
+    "name": "La Providencia, Mexico",
+    "description": "Baja California, Ensenada",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8859389",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8859389.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 30.96889
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -116.15861
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1253
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 49
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Tijuana"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "La Providencia"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8859410",
+    "name": "El Porvenir, Mexico",
+    "description": "Veracruz, C\u00f3rdoba",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8859410",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8859410.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.92083
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -96.92583
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1243
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 902
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "El Porvenir"
+}

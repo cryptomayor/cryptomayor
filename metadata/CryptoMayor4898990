@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4898990",
+    "name": "Lake Catherine, United States",
+    "description": "Illinois, Lake County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4898990",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4898990.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 42.47919
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -88.13342
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1379
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 230
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Chicago"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

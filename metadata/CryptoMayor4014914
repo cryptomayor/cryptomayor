@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4014914",
+    "name": "Cedral, Mexico",
+    "description": "San Luis Potos\u00ed, Cedral",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4014914",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4014914.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 23.82099
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -100.72527
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 11468
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1705
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Cedral"
+}

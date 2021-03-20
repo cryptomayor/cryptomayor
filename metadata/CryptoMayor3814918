@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3814918",
+    "name": "Emiliano Zapata, Mexico",
+    "description": "Tlaxcala, Emiliano Zapata",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3814918",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3814918.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.55861
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -97.91667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2843
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2915
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": null
+}

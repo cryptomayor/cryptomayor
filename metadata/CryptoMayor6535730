@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6535730",
+    "name": "Cossogno, Italy",
+    "description": "Piedmont, Provincia Verbano-Cusio-Ossola",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6535730",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6535730.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 45.96408
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 8.50962
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 497
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 390
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": null
+}

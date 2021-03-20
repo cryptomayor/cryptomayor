@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor10345356",
+    "name": "Logan, United Kingdom",
+    "description": "Scotland, East Ayrshire",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor10345356",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor10345356.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 55.45466
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -4.23514
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1220
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 164
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/London"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United Kingdom"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "GB",
+    "altnames": null
+}

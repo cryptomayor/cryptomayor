@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4008224",
+    "name": "El Quince, Mexico",
+    "description": "Jalisco, El Salto",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4008224",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4008224.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.54387
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -103.28467
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 17669
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1525
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "El Quince"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2784102",
+    "name": "Wanne, Belgium",
+    "description": "Wallonia, Province de Li\u00e8ge",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2784102",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2784102.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 50.355
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 5.92083
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 739
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 475
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Brussels"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Belgium"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "BE",
+    "altnames": "Wanne"
+}

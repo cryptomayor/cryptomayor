@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3985618",
+    "name": "San Luis del Cordero, Mexico",
+    "description": "Durango, San Luis del Cordero",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3985618",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3985618.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 25.4151
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -104.27844
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1584
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1495
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Monterrey"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "San Luis del Cordero"
+}

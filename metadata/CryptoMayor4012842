@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4012842",
+    "name": "Coroneo, Mexico",
+    "description": "Guanajuato, Coroneo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4012842",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4012842.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.20001
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -100.36546
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 4024
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2277
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Coroneo"
+}

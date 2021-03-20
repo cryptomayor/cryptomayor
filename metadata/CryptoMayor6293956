@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6293956",
+    "name": "Winterberg, Switzerland",
+    "description": "Zurich, Bezirk Pf\u00e4ffikon",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6293956",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6293956.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.45652
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 8.69428
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 694
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 569
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Zurich"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Switzerland"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "CH",
+    "altnames": "Winterberg,Winterberg ZH"
+}

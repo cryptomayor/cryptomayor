@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4547969",
+    "name": "Piedmont, United States",
+    "description": "Oklahoma, Canadian County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4547969",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4547969.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 35.642
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -97.74643
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 7118
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 368
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Chicago"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

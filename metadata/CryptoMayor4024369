@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4024369",
+    "name": "Chamacua, Mexico",
+    "description": "Guanajuato, Abasolo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4024369",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4024369.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.67444
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -101.56775
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 726
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1704
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Chamacua"
+}

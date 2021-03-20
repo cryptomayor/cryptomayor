@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3991404",
+    "name": "Puerto de Carroza, Mexico",
+    "description": "Quer\u00e9taro",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3991404",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3991404.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.89862
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -100.41164
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1260
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2135
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Puerto Carroza,Puerto de Carroza"
+}

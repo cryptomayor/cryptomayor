@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor1605467",
+    "name": "Tha Yang, Thailand",
+    "description": "Phetchaburi",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor1605467",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor1605467.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 12.95772
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 99.90555
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 42602
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 11
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Asia/Bangkok"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Thailand"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AS"
+        }
+    ],
+    "country_code": "TH",
+    "altnames": "Amphoe Tha Yang,Ban Tha Yang"
+}

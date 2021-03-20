@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2636112",
+    "name": "Temple Sowerby, United Kingdom",
+    "description": "England, Cumbria",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2636112",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2636112.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 54.6347
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -2.60187
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 528
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 110
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/London"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United Kingdom"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "GB",
+    "altnames": "Temple Sowerby"
+}

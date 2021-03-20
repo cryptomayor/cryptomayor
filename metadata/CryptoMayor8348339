@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8348339",
+    "name": "Brooklyn, Australia",
+    "description": "Tasmania, Burnie",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8348339",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8348339.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -41.07223
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 145.90731
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 542
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 102
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Hobart"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": null
+}

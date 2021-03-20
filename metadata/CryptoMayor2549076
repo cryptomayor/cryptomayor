@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2549076",
+    "name": "Ezzhiliga, Morocco",
+    "description": "Rabat-Sal\u00e9-K\u00e9nitra, Khemisset",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2549076",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2549076.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 33.3
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -6.53
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 0
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 718
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Africa/Casablanca"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Morocco"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AF"
+        }
+    ],
+    "country_code": "MA",
+    "altnames": null
+}

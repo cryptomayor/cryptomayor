@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2261740",
+    "name": "Vendas Novas, Portugal",
+    "description": "\u00c9vora, Vendas Novas",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2261740",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2261740.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 38.67706
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -8.45792
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 11248
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 148
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Lisbon"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Portugal"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "PT",
+    "altnames": "Vendas Novas"
+}

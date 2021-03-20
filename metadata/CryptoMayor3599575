@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3599575",
+    "name": "Barillas, Guatemala",
+    "description": "Huehuetenango, Municipio de Barillas",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3599575",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3599575.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 15.80361
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -91.31583
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 14100
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1462
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Guatemala"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Guatemala"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "GT",
+    "altnames": "Barillas"
+}

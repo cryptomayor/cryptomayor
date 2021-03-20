@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3172605",
+    "name": "Moresco, Italy",
+    "description": "The Marches, Province of Fermo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3172605",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3172605.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 43.08666
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 13.73041
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 305
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 398
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "Moresco"
+}

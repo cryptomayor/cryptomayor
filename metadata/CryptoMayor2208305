@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2208305",
+    "name": "Dee Why, Australia",
+    "description": "New South Wales, Northern Beaches",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2208305",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2208305.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -33.7511
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 151.28886
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 21145
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": -9999
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Sydney"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": "Dee why"
+}

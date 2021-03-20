@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor1694964",
+    "name": "Pantao, Philippines",
+    "description": "Bicol, Province of Albay",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor1694964",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor1694964.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 13.1944
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 123.3271
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 6864
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 7
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Asia/Manila"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Philippines"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AS"
+        }
+    ],
+    "country_code": "PH",
+    "altnames": "Panta,Pantao"
+}

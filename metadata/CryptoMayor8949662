@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8949662",
+    "name": "Torre, Italy",
+    "description": "Tuscany, Province of Arezzo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8949662",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8949662.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 43.47943
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 11.56409
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 801
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 261
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "Torre"
+}

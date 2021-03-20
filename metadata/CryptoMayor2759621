@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2759621",
+    "name": "Asten, Netherlands",
+    "description": "North Brabant, Gemeente Asten",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2759621",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2759621.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 51.40417
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 5.74861
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 9535
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 27
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Amsterdam"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Netherlands"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "NL",
+    "altnames": "Aste,Asten"
+}

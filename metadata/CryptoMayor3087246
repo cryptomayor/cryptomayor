@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3087246",
+    "name": "Regulice, Poland",
+    "description": "Lesser Poland, Powiat chrzanowski",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3087246",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3087246.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 50.08314
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 19.52785
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1882
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 263
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Warsaw"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Poland"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "PL",
+    "altnames": null
+}

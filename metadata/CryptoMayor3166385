@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3166385",
+    "name": "Sorano, Italy",
+    "description": "Tuscany, Provincia di Grosseto",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3166385",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3166385.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 42.68118
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 11.71943
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 779
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 409
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": null
+}

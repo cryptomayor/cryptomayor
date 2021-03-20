@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor663008",
+    "name": "Veza, Romania",
+    "description": "Alba, Municipiul Blaj",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor663008",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor663008.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 46.16747
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 23.9247
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1568
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 245
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": null
+}

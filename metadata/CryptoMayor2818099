@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2818099",
+    "name": "Userin, Germany",
+    "description": "Mecklenburg-Vorpommern",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2818099",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2818099.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 53.33866
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 12.98
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 801
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 58
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Berlin"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Germany"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "DE",
+    "altnames": null
+}

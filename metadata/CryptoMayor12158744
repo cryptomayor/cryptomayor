@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor12158744",
+    "name": "Nuevo Sullana, Peru",
+    "description": "Piura, Provincia de Sullana",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor12158744",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor12158744.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -4.92108
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -80.72695
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 5484
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 62
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Lima"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Peru"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "PE",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3528046",
+    "name": "El Tejar, Mexico",
+    "description": "Veracruz, Medell\u00edn",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3528046",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3528046.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.07433
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -96.16097
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 11168
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 15
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3821706",
+    "name": "El Conchero, Mexico",
+    "description": "Guerrero, Coyuca de Ben\u00edtez",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3821706",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3821706.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 16.94266
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -99.96233
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1429
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 12
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "El Conchero"
+}

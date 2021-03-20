@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5242599",
+    "name": "Websterville, United States",
+    "description": "Vermont, Washington County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5242599",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5242599.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 44.16062
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -72.46955
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 550
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 403
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/New_York"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": "Upper Websterville,Websterville"
+}

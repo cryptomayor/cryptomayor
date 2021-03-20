@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3678672",
+    "name": "La Jagua del Pilar, Colombia",
+    "description": "La Guajira, La Jagua del Pilar",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3678672",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3678672.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 10.51061
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -73.07178
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 894
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 250
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Bogota"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Colombia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "CO",
+    "altnames": "La Jagua,La Jagua del Pilar"
+}

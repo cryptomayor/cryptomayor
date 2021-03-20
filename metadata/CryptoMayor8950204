@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8950204",
+    "name": "Fiumara, Italy",
+    "description": "Sicily, Messina",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8950204",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8950204.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 38.15266
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 14.85331
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 560
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 69
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "Fiumara"
+}

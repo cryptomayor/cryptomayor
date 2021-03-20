@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor11745869",
+    "name": "Ilparpa, Australia",
+    "description": "Northern Territory, Alice Springs",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor11745869",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor11745869.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -23.75228
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 133.81785
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 599
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 569
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Darwin"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": null
+}

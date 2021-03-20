@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3167851",
+    "name": "San Pietro, Italy",
+    "description": "Trentino-Alto Adige, Bolzano",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3167851",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3167851.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 46.64133
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 11.68277
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 614
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1128
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor679185",
+    "name": "Docani, Romania",
+    "description": "Vaslui, Comuna Vinderei",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor679185",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor679185.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 46.14121
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 27.75231
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 678
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 171
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": null
+}

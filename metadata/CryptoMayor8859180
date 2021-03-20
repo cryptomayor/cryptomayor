@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8859180",
+    "name": "Atotonilco, Mexico",
+    "description": "Michoac\u00e1n, Contepec",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8859180",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8859180.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.94111
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -100.22306
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1401
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2322
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Atotonilco"
+}

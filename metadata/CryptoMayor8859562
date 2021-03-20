@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8859562",
+    "name": "El \u00c1mbar, Mexico",
+    "description": "Chiapas, Jitotol",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8859562",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8859562.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 17.025
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -92.83417
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1157
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1605
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "El Ambar,El \u00c1mbar"
+}

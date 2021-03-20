@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5433549",
+    "name": "Orchard Mesa, United States",
+    "description": "Colorado, Mesa County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5433549",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5433549.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 39.04304
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -108.55232
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 6836
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1421
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Denver"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8604483",
+    "name": "Blagovetschenskaya, Russia",
+    "description": "Krasnodarskiy",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8604483",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8604483.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 45.0553
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 37.13276
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2780
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 14
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Moscow"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Russia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RU",
+    "altnames": null
+}

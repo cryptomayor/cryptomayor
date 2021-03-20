@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8675522",
+    "name": "Santa F\u00e9, Mexico",
+    "description": "Baja California, Ensenada",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8675522",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8675522.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 30.67984
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -115.97653
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2632
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 18
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Tijuana"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Santa Fe,Santa F\u00e9"
+}

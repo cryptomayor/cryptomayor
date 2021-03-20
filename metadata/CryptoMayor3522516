@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3522516",
+    "name": "Osumacinta, Mexico",
+    "description": "Chiapas, Osumacinta",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3522516",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3522516.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 16.93611
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -93.09028
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2023
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 404
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Nuevo Usumacinta,Osumacinta,Usumacinta"
+}

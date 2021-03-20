@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6137404",
+    "name": "Saint-Andr\u00e9-Avellin, Canada",
+    "description": "Quebec, Outaouais",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6137404",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6137404.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 45.7168
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -75.06599
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1903
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 177
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Toronto"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Canada"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "CA",
+    "altnames": null
+}

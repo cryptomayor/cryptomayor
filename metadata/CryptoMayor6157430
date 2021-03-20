@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6157430",
+    "name": "Stoney Point, Canada",
+    "description": "Ontario",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6157430",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6157430.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 44.26681
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -79.53292
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1087
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 216
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Toronto"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Canada"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "CA",
+    "altnames": null
+}

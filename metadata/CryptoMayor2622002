@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2622002",
+    "name": "Forlev, Denmark",
+    "description": "Zealand, Slagelse Kommune",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2622002",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2622002.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 55.37445
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 11.25966
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2058
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 11
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Copenhagen"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Denmark"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "DK",
+    "altnames": null
+}

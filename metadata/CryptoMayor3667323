@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3667323",
+    "name": "Tello, Colombia",
+    "description": "Huila, Tello",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3667323",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3667323.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 3.06694
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -75.13778
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 4868
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 581
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Bogota"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Colombia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "CO",
+    "altnames": "Tello"
+}

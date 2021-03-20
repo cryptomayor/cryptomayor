@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor776440",
+    "name": "Baniocha, Poland",
+    "description": "Mazovia, Powiat piaseczy\u0144ski",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor776440",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor776440.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 52.01653
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 21.13984
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 4000
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 109
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Warsaw"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Poland"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "PL",
+    "altnames": null
+}

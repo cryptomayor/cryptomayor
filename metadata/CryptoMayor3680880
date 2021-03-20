@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3680880",
+    "name": "Herveo, Colombia",
+    "description": "Tolima, Herveo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3680880",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3680880.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 5.08004
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -75.17556
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3490
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1976
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Bogota"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Colombia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "CO",
+    "altnames": "Herbeo,Herveo"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3996168",
+    "name": "Mesa del Nayar, Mexico",
+    "description": "Nayarit, Del Nayar",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3996168",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3996168.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 22.2177
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -104.65352
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1729
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1392
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mazatlan"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Mesa del Nayar"
+}

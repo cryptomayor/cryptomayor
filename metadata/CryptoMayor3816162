@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3816162",
+    "name": "La Libertad, Mexico",
+    "description": "Chiapas, Chenalh\u00f3",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3816162",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3816162.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 16.90465
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -92.56673
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 897
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1863
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "La Libertad"
+}

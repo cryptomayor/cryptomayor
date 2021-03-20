@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4000432",
+    "name": "La Ribera, Mexico",
+    "description": "Jalisco, Ayotl\u00e1n",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4000432",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4000432.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.34908
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -102.28273
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 7780
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1555
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "La Ribera,La Rivera"
+}

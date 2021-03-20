@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5789668",
+    "name": "Central Park, United States",
+    "description": "Washington, Grays Harbor County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5789668",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5789668.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 46.97343
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -123.69239
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2685
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 43
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Los_Angeles"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

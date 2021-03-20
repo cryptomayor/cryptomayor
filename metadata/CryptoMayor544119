@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor544119",
+    "name": "Kosino, Russia",
+    "description": "Kirov",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor544119",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor544119.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 58.41272
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 51.27819
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2330
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 126
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Kirov"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Russia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RU",
+    "altnames": "Kosino,\u041a\u043e\u0441\u0438\u043d\u043e"
+}

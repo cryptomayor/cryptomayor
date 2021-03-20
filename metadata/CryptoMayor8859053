@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8859053",
+    "name": "La Ca\u00f1ada, Mexico",
+    "description": "M\u00e9xico, Temoaya",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8859053",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8859053.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.48639
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -99.59889
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1512
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2772
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "La Canada,La Ca\u00f1ada"
+}

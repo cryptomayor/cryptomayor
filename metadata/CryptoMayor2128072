@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2128072",
+    "name": "Shiraoi, Japan",
+    "description": "Hokkaido, Shiraoi-gun",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2128072",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2128072.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 42.55
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 141.35
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 20804
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 5
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Asia/Tokyo"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Japan"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AS"
+        }
+    ],
+    "country_code": "JP",
+    "altnames": "Shiraoi"
+}

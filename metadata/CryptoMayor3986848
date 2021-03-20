@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3986848",
+    "name": "San Ignacio, Mexico",
+    "description": "Coahuila, San Pedro",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3986848",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3986848.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 25.73643
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -103.09049
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2062
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1108
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Monterrey"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "San Ignacio"
+}

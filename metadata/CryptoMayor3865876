@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3865876",
+    "name": "Aminga, Argentina",
+    "description": "La Rioja, Departamento de Castro Barros",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3865876",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3865876.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -28.84771
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -66.93024
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 0
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1388
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Argentina/La_Rioja"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Argentina"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "AR",
+    "altnames": "Aminga"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3095964",
+    "name": "Kobiernice, Poland",
+    "description": "Silesia, Bielsko County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3095964",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3095964.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 49.85497
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 19.21646
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3455
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 288
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Warsaw"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Poland"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "PL",
+    "altnames": null
+}

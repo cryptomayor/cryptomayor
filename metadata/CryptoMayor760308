@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor760308",
+    "name": "Rossosz, Poland",
+    "description": "Lublin, Powiat bialski",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor760308",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor760308.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 51.85836
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 23.1374
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 0
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 145
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Warsaw"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Poland"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "PL",
+    "altnames": null
+}

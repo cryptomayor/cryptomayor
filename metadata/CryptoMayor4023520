@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4023520",
+    "name": "La Ci\u00e9nega, Mexico",
+    "description": "Guanajuato, San Luis de la Paz",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4023520",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4023520.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 21.3005
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -100.48027
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1673
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2064
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "La Cienega,La Ci\u00e9nega"
+}

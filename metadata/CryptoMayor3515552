@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3515552",
+    "name": "La Tinaja, Mexico",
+    "description": "Veracruz, Emiliano Zapata",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3515552",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3515552.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.51618
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -96.75578
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 968
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 908
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "La Tinaja,Tinajitas"
+}

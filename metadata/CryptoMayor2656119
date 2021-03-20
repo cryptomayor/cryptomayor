@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2656119",
+    "name": "Beadnell, United Kingdom",
+    "description": "England, Northumberland",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2656119",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2656119.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 55.5567
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -1.6325
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 408
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 8
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/London"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United Kingdom"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "GB",
+    "altnames": null
+}

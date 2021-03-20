@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2073528",
+    "name": "Crafers, Australia",
+    "description": "South Australia, Adelaide Hills",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2073528",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2073528.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -35.0
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 138.7
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1905
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 559
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Adelaide"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": "Crafers"
+}

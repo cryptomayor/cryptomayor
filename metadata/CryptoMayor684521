@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor684521",
+    "name": "Bobohalma, Romania",
+    "description": "Mure\u015f, Municipiul T\u00e2rn\u00e3veni",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor684521",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor684521.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 46.35191
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 24.23166
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1480
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 362
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": null
+}

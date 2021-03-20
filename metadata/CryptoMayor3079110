@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3079110",
+    "name": "Bohuslavice, Czechia",
+    "description": "Olomouck\u00fd, Okres Prost\u011bjov",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3079110",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3079110.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 49.62085
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 16.95755
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 513
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 406
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Prague"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Czechia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "CZ",
+    "altnames": null
+}

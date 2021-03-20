@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3166133",
+    "name": "Stio, Italy",
+    "description": "Campania, Provincia di Salerno",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3166133",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3166133.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 40.3102
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 15.25153
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 522
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 677
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "Stio"
+}

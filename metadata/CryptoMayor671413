@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor671413",
+    "name": "Panaci, Romania",
+    "description": "Suceava, Comuna Panaci",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor671413",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor671413.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.26667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 25.38333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2308
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 914
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": "Panaci"
+}

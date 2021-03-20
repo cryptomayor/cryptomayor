@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3999162",
+    "name": "Las Varas, Mexico",
+    "description": "Nayarit, Compostela",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3999162",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3999162.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 21.18021
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -105.13595
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 14077
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 27
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mazatlan"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Las Varas"
+}

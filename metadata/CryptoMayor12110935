@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor12110935",
+    "name": "Petritor - West, Germany",
+    "description": "Lower Saxony",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor12110935",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor12110935.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 52.26609
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 10.49382
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3508
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 72
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Berlin"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Germany"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "DE",
+    "altnames": null
+}

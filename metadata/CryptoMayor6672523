@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6672523",
+    "name": "Pucayacu, Peru",
+    "description": "Huanuco, Provincia de Leoncio Prado",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6672523",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6672523.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -8.76256
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -76.11459
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 776
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 554
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Lima"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Peru"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "PE",
+    "altnames": null
+}

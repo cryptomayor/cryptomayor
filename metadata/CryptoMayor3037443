@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3037443",
+    "name": "Antigny, France",
+    "description": "Nouvelle-Aquitaine, Vienne",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3037443",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3037443.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 46.53506
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 0.85366
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 638
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 115
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Antigny"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor10043037",
+    "name": "Daglish, Australia",
+    "description": "Western Australia, Subiaco",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor10043037",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor10043037.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -31.95177
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 115.8088
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1399
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 27
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Perth"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": null
+}

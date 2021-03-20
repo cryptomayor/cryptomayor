@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2528659",
+    "name": "Tiflet, Morocco",
+    "description": "Rabat-Sal\u00e9-K\u00e9nitra, Khemisset",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2528659",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2528659.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 33.89469
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -6.30649
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 70010
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 340
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Africa/Casablanca"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Morocco"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AF"
+        }
+    ],
+    "country_code": "MA",
+    "altnames": null
+}

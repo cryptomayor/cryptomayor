@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4001610",
+    "name": "La Libertad, Mexico",
+    "description": "Sonora, Pitiquito",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4001610",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4001610.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 29.91313
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -112.69179
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2782
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 24
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Hermosillo"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "La Libertad,Puerto Libertad,Puerto de la Libertad"
+}

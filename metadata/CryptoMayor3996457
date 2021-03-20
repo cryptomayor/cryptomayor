@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3996457",
+    "name": "Masiaca, Mexico",
+    "description": "Sonora, Navojoa",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3996457",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3996457.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 26.76427
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -109.23496
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1514
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 74
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Hermosillo"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Masiaca"
+}

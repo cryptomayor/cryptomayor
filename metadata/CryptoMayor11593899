@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor11593899",
+    "name": "Zirknitz, Austria",
+    "description": "Styria, Politischer Bezirk Deutschlandsberg",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor11593899",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor11593899.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 46.94924
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 15.26087
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 525
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 341
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Vienna"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Austria"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "AT",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5131826",
+    "name": "Poestenkill, United States",
+    "description": "New York, Rensselaer County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5131826",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5131826.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 42.69036
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -73.56456
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1061
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 149
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/New_York"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

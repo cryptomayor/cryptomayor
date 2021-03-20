@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8859037",
+    "name": "Monte Alegre, Mexico",
+    "description": "Hidalgo, Tula de Allende",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8859037",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8859037.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.9825
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -99.34139
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1521
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2077
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Monte Alegre"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8348423",
+    "name": "Mundingburra, Australia",
+    "description": "Queensland, Townsville",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8348423",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8348423.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -19.29851
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 146.79352
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3567
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 11
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Brisbane"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": null
+}

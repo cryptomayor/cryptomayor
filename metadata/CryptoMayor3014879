@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3014879",
+    "name": "Granges-sur-Lot, France",
+    "description": "Nouvelle-Aquitaine, Lot-et-Garonne",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3014879",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3014879.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 44.37632
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 0.46521
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 562
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 41
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Granges,Granges-sur-Lot"
+}

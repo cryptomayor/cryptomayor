@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3824083",
+    "name": "Monte Alto, Mexico",
+    "description": "Veracruz, Cosoleacaque",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3824083",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3824083.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 17.89809
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -94.62655
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 539
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 22
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Monte Alto"
+}

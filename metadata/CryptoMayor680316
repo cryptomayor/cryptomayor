@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor680316",
+    "name": "Crasna, Romania",
+    "description": "S\u0103laj, Comuna Crasna",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor680316",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor680316.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.16667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 22.9
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 6233
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 302
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": "Crasna"
+}

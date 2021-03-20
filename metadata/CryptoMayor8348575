@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8348575",
+    "name": "Greenfield Park, Australia",
+    "description": "New South Wales, Fairfield",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8348575",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8348575.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -33.87461
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 150.89189
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 5078
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 59
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Sydney"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4440837",
+    "name": "Petal, United States",
+    "description": "Mississippi, Forrest County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4440837",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4440837.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 31.34656
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -89.26006
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 10701
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 52
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Chicago"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

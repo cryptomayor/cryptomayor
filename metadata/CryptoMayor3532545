@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3532545",
+    "name": "Axochiapan, Mexico",
+    "description": "Morelos, Axochiapan",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3532545",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3532545.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.50246
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -98.75358
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 17508
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1039
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Axochiapan"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3818572",
+    "name": "Las Balsas, Mexico",
+    "description": "Puebla, Francisco Z. Mena",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3818572",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3818572.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.70333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -97.78438
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 505
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 226
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Las Balsas"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5610946",
+    "name": "Tyhee, United States",
+    "description": "Idaho, Bannock County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5610946",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5610946.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 42.95158
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -112.46637
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1123
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1360
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Boise"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

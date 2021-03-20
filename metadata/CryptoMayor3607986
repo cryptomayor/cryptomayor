@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3607986",
+    "name": "La Entrada, Honduras",
+    "description": "Cop\u00e1n",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3607986",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3607986.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 15.05
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -88.73333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 14705
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 509
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Tegucigalpa"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Honduras"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "HN",
+    "altnames": "La Entrada"
+}

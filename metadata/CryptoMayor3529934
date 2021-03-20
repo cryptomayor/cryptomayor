@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3529934",
+    "name": "Paso Morelos, Mexico",
+    "description": "Guerrero, Huitzuco de los Figueroa",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3529934",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3529934.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.22123
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -99.20984
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1111
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1108
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Cuetlajuche,Cuetlajuchi,Paso Morelos"
+}

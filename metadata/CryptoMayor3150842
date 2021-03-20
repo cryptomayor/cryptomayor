@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3150842",
+    "name": "Jevnaker, Norway",
+    "description": "Viken, Jevnaker",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3150842",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3150842.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 60.23979
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 10.38709
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 4308
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 150
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Oslo"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Norway"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "NO",
+    "altnames": null
+}

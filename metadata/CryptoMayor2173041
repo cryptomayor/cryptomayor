@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2173041",
+    "name": "Burringbar, Australia",
+    "description": "New South Wales, Tweed",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2173041",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2173041.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -28.4358
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 153.47324
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 832
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 42
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Sydney"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": "Burringbar"
+}

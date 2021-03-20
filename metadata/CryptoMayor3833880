@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3833880",
+    "name": "Trenel, Argentina",
+    "description": "La Pampa, Departamento de Trenel",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3833880",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3833880.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -35.69837
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -64.13218
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3426
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 179
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Argentina/Salta"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Argentina"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "AR",
+    "altnames": "Trenel"
+}

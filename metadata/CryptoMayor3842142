@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3842142",
+    "name": "Pampa del Infierno, Argentina",
+    "description": "Chaco, Departamento de Almirante Brown",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3842142",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3842142.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -26.50517
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -61.17436
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 8176
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 126
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Argentina/Cordoba"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Argentina"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "AR",
+    "altnames": "Pampa del Infierno"
+}

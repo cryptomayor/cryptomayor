@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor7280708",
+    "name": "Colonia del Valle, Mexico",
+    "description": "Mexico City, Benito Ju\u00e1rez",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor7280708",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor7280708.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.38611
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -99.16204
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 250000
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2247
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Col del valle,Col. del Valle,del Valle"
+}

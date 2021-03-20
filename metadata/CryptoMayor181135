@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor181135",
+    "name": "Rongai, Kenya",
+    "description": "Nakuru",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor181135",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor181135.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -0.17344
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 35.86313
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 30471
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1874
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Africa/Nairobi"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Kenya"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AF"
+        }
+    ],
+    "country_code": "KE",
+    "altnames": "Rongai"
+}

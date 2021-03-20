@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2658324",
+    "name": "Tr\u00e9lex, Switzerland",
+    "description": "Vaud, Nyon District",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2658324",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2658324.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 46.41538
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 6.20813
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1092
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 499
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Zurich"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Switzerland"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "CH",
+    "altnames": null
+}

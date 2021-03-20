@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4146219",
+    "name": "Archer, United States",
+    "description": "Florida, Alachua County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4146219",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4146219.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 29.52997
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -82.519
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1173
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 24
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/New_York"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

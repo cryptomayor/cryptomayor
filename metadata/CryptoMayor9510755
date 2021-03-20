@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor9510755",
+    "name": "San Miguel del Brete, Mexico",
+    "description": "Guanajuato, Irapuato",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor9510755",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor9510755.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.55187
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -101.43922
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 572
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1713
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "San Miguel del Brete"
+}

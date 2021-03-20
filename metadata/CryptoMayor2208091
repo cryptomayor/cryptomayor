@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2208091",
+    "name": "Waitara, New Zealand",
+    "description": "Taranaki, New Plymouth District",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2208091",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2208091.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -39.00158
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 174.23836
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 6318
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 8
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Pacific/Auckland"
+        },
+        {
+            "trait_type": "Country",
+            "value": "New Zealand"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "NZ",
+    "altnames": "Waitara"
+}

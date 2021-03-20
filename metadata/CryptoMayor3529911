@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3529911",
+    "name": "Cuitl\u00e1huac, Mexico",
+    "description": "Veracruz, Cuitl\u00e1huac",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3529911",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3529911.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.81429
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -96.72281
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 13651
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 378
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Cuitlahuac,Cuitl\u00e1huac,San Juan de la Punta"
+}

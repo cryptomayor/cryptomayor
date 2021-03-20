@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor12188857",
+    "name": "Tor Vergata, Italy",
+    "description": "Latium, Citt\u00e0 metropolitana di Roma Capitale",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor12188857",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor12188857.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 41.84749
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 12.61946
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1691
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 75
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "Tor Vergata"
+}

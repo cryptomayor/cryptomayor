@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2974295",
+    "name": "Sommelonne, France",
+    "description": "Grand Est, Meuse",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2974295",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2974295.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 48.67151
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 5.03625
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 506
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 171
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Sommelonne"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5412030",
+    "name": "Applewood, United States",
+    "description": "Colorado, Jefferson County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5412030",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5412030.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 39.75778
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -105.1625
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 7160
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1707
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Denver"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

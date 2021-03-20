@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3926160",
+    "name": "Vilcacoto, Peru",
+    "description": "Junin, Provincia de Huancayo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3926160",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3926160.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -12.01531
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -75.18125
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 539
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 3438
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Lima"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Peru"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "PE",
+    "altnames": null
+}

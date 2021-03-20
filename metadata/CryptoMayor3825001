@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3825001",
+    "name": "Lindavista, Mexico",
+    "description": "Veracruz, Jos\u00e9 Azueta",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3825001",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3825001.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.08899
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -95.77597
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3121
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 85
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Linda Vista,Lindavista"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2965570",
+    "name": "Castlerea, Ireland",
+    "description": "Connaught, Roscommon",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2965570",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2965570.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 53.77258
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -8.50307
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1985
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 75
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Dublin"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Ireland"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IE",
+    "altnames": "An Caislean Riabhach,An Caisle\u00e1n Riabhach,Castlerea,Castlereagh"
+}

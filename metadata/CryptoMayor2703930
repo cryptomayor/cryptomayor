@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2703930",
+    "name": "Idala, Sweden",
+    "description": "Sk\u00e5ne, Lunds Kommun",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2703930",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2703930.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 55.62
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 13.5
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 739
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 52
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Stockholm"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Sweden"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "SE",
+    "altnames": null
+}

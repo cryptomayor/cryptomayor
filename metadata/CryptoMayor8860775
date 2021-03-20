@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8860775",
+    "name": "Piedra de Agua, Mexico",
+    "description": "Veracruz, Jilotepec",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8860775",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8860775.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.60389
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -96.96306
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 786
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1531
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Piedra de Agua"
+}

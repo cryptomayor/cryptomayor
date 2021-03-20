@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2017364",
+    "name": "Russkiy, Russia",
+    "description": "Primorskiy (Maritime) Kray",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2017364",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2017364.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 43.0224
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 131.8601
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 5080
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 49
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Asia/Vladivostok"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Russia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RU",
+    "altnames": "Russkij,Russkiy,\u0420\u0443\u0441\u0441\u043a\u0438\u0439"
+}

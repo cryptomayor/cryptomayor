@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor7304383",
+    "name": "Cuesta Blanca, Argentina",
+    "description": "Cordoba, Departamento de Punilla",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor7304383",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor7304383.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -31.48658
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -64.5715
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3200
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 756
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Argentina/Cordoba"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Argentina"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "AR",
+    "altnames": null
+}

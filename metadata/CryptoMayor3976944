@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3976944",
+    "name": "Tepic, Mexico",
+    "description": "Sinaloa, El Fuerte",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3976944",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3976944.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 26.25306
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -108.9355
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 523
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 35
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mazatlan"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Tepic"
+}

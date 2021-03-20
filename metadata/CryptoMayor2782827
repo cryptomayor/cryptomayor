@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2782827",
+    "name": "Albersdorf, Austria",
+    "description": "Styria, Politischer Bezirk Weiz",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2782827",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2782827.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.12166
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 15.69826
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1172
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 368
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Vienna"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Austria"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "AT",
+    "altnames": null
+}

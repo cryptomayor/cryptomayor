@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor501405",
+    "name": "Romanovskaya, Russia",
+    "description": "Rostov",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor501405",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor501405.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.5426
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 42.0285
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 6885
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 18
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Moscow"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Russia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RU",
+    "altnames": "Romanovskaja,Romanovskaya,Romanovskaya-na-Donu,Rynok-Romanovskiy,\u0420\u043e\u043c\u0430\u043d\u043e\u0432\u0441\u043a\u0430\u044f"
+}

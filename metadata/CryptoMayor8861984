@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8861984",
+    "name": "Real de la Joya, Mexico",
+    "description": "Guanajuato, Le\u00f3n",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8861984",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8861984.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 21.1525
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -101.75889
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 618
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1979
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Real de la Joya"
+}

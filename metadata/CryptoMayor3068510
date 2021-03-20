@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3068510",
+    "name": "Pavlov, Czechia",
+    "description": "Olomouck\u00fd, Okres \u0160umperk",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3068510",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3068510.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 49.74279
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 16.87925
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 592
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 350
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Prague"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Czechia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "CZ",
+    "altnames": null
+}

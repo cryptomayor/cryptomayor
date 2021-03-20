@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3522169",
+    "name": "San Vicente Palapa, Mexico",
+    "description": "Guerrero, Tepecoacuilco de Trujano",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3522169",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3522169.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.3243
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -99.41104
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1130
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 856
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Palapa,San Vicente Palapa"
+}

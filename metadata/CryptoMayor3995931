@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3995931",
+    "name": "Milagros, Mexico",
+    "description": "Zacatecas, Ojocaliente",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3995931",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3995931.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 22.49986
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -102.18365
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1339
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2158
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Milagros"
+}

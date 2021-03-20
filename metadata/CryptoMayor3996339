@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3996339",
+    "name": "Maytorena, Mexico",
+    "description": "Sonora, Empalme",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3996339",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3996339.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 28.07603
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -110.7474
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 780
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 44
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Hermosillo"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Maytorena"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6534332",
+    "name": "Monastero Bormida, Italy",
+    "description": "Piedmont, Provincia di Asti",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6534332",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6534332.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 44.64854
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 8.32664
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 601
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 195
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": null
+}

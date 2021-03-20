@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2638099",
+    "name": "Shebbear, United Kingdom",
+    "description": "England, Devon",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2638099",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2638099.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 50.86255
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -4.21446
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 707
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 154
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/London"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United Kingdom"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "GB",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3816987",
+    "name": "Texcaltic, Mexico",
+    "description": "Chiapas, Frontera Hidalgo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3816987",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3816987.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 14.7955
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -92.18737
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1743
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 86
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Tescaltic,Texcaltic"
+}

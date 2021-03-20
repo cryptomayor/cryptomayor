@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor1785066",
+    "name": "Zhangwan, China",
+    "description": "Fujian",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor1785066",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor1785066.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 26.71139
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 119.59194
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 6590
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 19
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Asia/Shanghai"
+        },
+        {
+            "trait_type": "Country",
+            "value": "China"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AS"
+        }
+    ],
+    "country_code": "CN",
+    "altnames": "Chang-wan,Zhangwan"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2901353",
+    "name": "Hohenweiden, Germany",
+    "description": "Saxony-Anhalt",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2901353",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2901353.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 51.41907
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 11.93855
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 830
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 80
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Berlin"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Germany"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "DE",
+    "altnames": null
+}

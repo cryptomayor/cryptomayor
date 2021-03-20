@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor682005",
+    "name": "Chi\u0219laca, Romania",
+    "description": "Arad, Comuna Craiva",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor682005",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor682005.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 46.55459
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 21.96205
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 703
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 130
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": null
+}

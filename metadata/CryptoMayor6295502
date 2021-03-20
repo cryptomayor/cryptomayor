@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6295502",
+    "name": "Z\u00fcrich (Kreis 5) / Gewerbeschule, Switzerland",
+    "description": "Zurich, Bezirk Z\u00fcrich",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6295502",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6295502.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.38481
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 8.53011
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 9891
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 419
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Zurich"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Switzerland"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "CH",
+    "altnames": "Gewerbeschule"
+}

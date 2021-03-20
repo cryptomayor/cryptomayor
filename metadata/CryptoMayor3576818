@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3576818",
+    "name": "Cap Estate, Saint Lucia",
+    "description": "Gros-Islet, Cap Estate/Saddlec Back",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3576818",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3576818.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 14.09956
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -60.94346
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 677
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 51
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/St_Lucia"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Saint Lucia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "LC",
+    "altnames": "Cap Estate"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5512985",
+    "name": "Stagecoach, United States",
+    "description": "Nevada, Lyon County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5512985",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5512985.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 39.3738
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -119.37406
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1874
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1326
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Los_Angeles"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

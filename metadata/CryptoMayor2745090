@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2745090",
+    "name": "Wagenborgen, Netherlands",
+    "description": "Groningen, Gemeente Delfzijl",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2745090",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2745090.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 53.25583
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 6.93333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1695
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Amsterdam"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Netherlands"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "NL",
+    "altnames": null
+}

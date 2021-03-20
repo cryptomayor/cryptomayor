@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3525461",
+    "name": "La Loma, Mexico",
+    "description": "Hidalgo, Tepetitl\u00e1n",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3525461",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3525461.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.16959
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -99.37882
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1100
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2033
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "La Loma,Loma"
+}

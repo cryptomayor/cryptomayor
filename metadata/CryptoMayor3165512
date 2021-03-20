@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3165512",
+    "name": "Torlino Vimercati, Italy",
+    "description": "Lombardy, Provincia di Cremona",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3165512",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3165512.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 45.41747
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 9.59476
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 265
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 89
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "Torlino"
+}

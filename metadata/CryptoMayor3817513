@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3817513",
+    "name": "Las Vueltas, Mexico",
+    "description": "M\u00e9xico, Coatepec Harinas",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3817513",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3817513.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.90274
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -99.85582
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 814
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2435
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Las Vueltas"
+}

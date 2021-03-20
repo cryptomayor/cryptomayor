@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5870502",
+    "name": "Nunapitchuk, United States",
+    "description": "Alaska, Bethel Census Area",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5870502",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5870502.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 60.89694
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -162.45944
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 523
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Nome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": "NUP,Nunapicuaq,Nunapitchuk,Nunatpichak"
+}

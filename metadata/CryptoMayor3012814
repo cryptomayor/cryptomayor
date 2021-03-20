@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3012814",
+    "name": "Incheville, France",
+    "description": "Normandy, Seine-Maritime",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3012814",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3012814.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 50.01239
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 1.49438
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1475
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 30
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Incheville"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3988421",
+    "name": "Rosamorada, Mexico",
+    "description": "Nayarit, Rosamorada",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3988421",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3988421.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 22.12208
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -105.2064
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3620
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 23
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mazatlan"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Rosamorada"
+}

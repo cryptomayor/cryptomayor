@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3945432",
+    "name": "Caritamaya, Peru",
+    "description": "Puno, Provincia de Puno",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3945432",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3945432.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -16.00799
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -69.75606
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 540
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 3831
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Lima"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Peru"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "PE",
+    "altnames": null
+}

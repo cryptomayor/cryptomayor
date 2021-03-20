@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3931408",
+    "name": "Pullo, Peru",
+    "description": "Ayacucho, Provincia de Parinacochas",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3931408",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3931408.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -15.20936
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -73.82971
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 567
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 3046
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Lima"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Peru"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "PE",
+    "altnames": null
+}

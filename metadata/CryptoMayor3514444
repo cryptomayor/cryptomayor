@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3514444",
+    "name": "Xochipala, Mexico",
+    "description": "Guerrero, Eduardo Neri",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3514444",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3514444.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 17.8118
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -99.63977
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3620
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1070
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Xochilapa,Xochipala"
+}

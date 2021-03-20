@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3974149",
+    "name": "Los Zacatones, Mexico",
+    "description": "San Luis Potos\u00ed, Villa de Ramos",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3974149",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3974149.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 22.96139
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -102.05556
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 5913
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2051
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": null
+}

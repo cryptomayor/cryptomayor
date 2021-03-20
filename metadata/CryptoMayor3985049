@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3985049",
+    "name": "Apulco, Mexico",
+    "description": "Zacatecas, Apulco",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3985049",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3985049.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 21.38824
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -102.68219
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1526
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1795
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Apulco,San Pedro Apulco"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3623008",
+    "name": "Los Chiles, Costa Rica",
+    "description": "Alajuela, Los Chiles",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3623008",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3623008.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 11.03333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -84.71667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3342
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 42
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Costa_Rica"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Costa Rica"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "CR",
+    "altnames": "LSL,Los Chiles"
+}

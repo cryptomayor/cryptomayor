@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3381117",
+    "name": "Macouria, French Guiana",
+    "description": "Guyane, Guyane",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3381117",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3381117.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 4.91216
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -52.37432
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 8773
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 14
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Cayenne"
+        },
+        {
+            "trait_type": "Country",
+            "value": "French Guiana"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "GF",
+    "altnames": "Macouria"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3013579",
+    "name": "Heimersdorf, France",
+    "description": "Grand Est, Haut-Rhin",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3013579",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3013579.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.5722
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 7.24142
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 657
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 356
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Heimersdorf"
+}

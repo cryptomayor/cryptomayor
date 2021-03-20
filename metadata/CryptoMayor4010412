@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4010412",
+    "name": "El Chico, Mexico",
+    "description": "Jalisco, Casimiro Castillo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4010412",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4010412.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.56373
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -104.55764
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 851
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 291
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "El Chico"
+}

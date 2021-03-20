@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6534987",
+    "name": "Cella Dati, Italy",
+    "description": "Lombardy, Provincia di Cremona",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6534987",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6534987.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 45.09527
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 10.22148
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 203
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 34
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": null
+}

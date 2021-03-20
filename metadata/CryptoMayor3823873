@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3823873",
+    "name": "Xiquila, Mexico",
+    "description": "Veracruz, Mariano Escobedo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3823873",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3823873.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.95472
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -97.19472
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 640
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2166
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": null
+}

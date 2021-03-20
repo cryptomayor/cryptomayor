@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor1494500",
+    "name": "Poltavka, Russia",
+    "description": "Omsk",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor1494500",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor1494500.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 54.36629
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 71.76319
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 7103
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 126
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Asia/Omsk"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Russia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RU",
+    "altnames": "Poltavka,\u041f\u043e\u043b\u0442\u0430\u0432\u043a\u0430"
+}

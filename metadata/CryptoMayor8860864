@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8860864",
+    "name": "La Providencia, Mexico",
+    "description": "Puebla, Chilchotla",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8860864",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8860864.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.30889
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -97.20389
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 771
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2688
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "La Providencia"
+}

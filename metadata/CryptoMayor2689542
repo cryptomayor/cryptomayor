@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2689542",
+    "name": "Nogersund, Sweden",
+    "description": "Blekinge",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2689542",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2689542.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 56.0
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 14.73333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 532
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": -9999
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Stockholm"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Sweden"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "SE",
+    "altnames": "Nogersund"
+}

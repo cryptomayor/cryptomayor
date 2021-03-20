@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor300141",
+    "name": "Sulusaray, Turkey",
+    "description": "Tokat",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor300141",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor300141.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 39.99389
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 36.08404
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 4037
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1037
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Istanbul"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Turkey"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AS"
+        }
+    ],
+    "country_code": "TR",
+    "altnames": "Ciftlik,Sulusaray,\u00c7iftlik"
+}

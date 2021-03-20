@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8950085",
+    "name": "Basciano, Italy",
+    "description": "Latium, Provincia di Frosinone",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8950085",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8950085.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 41.70268
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 13.37554
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 599
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 290
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "Basciano"
+}

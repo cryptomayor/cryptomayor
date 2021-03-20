@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2996101",
+    "name": "Maransin, France",
+    "description": "Nouvelle-Aquitaine, Gironde",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2996101",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2996101.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 45.07148
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -0.26847
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 959
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 55
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Maransin"
+}

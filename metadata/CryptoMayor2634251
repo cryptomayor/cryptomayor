@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2634251",
+    "name": "West Thurrock, United Kingdom",
+    "description": "England, Borough of Thurrock",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2634251",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2634251.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 51.47828
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 0.27672
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 7795
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 14
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/London"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United Kingdom"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "GB",
+    "altnames": null
+}

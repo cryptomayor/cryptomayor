@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3518018",
+    "name": "San Pedro Atoyac, Mexico",
+    "description": "Oaxaca, San Pedro Atoyac",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3518018",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3518018.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 16.49005
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -97.98585
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2527
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 243
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Atoyac,San Pedro,San Pedro Atoyac"
+}

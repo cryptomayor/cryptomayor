@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8581480",
+    "name": "Tre Fontane, Italy",
+    "description": "Sicily, Trapani",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8581480",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8581480.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 37.56989
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 12.72423
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1263
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 12
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5128163",
+    "name": "Munsons Corners, United States",
+    "description": "New York, Cortland County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5128163",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5128163.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 42.58229
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -76.2091
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2728
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 360
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/New_York"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

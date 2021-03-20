@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3170483",
+    "name": "Poggio Berni, Italy",
+    "description": "Emilia-Romagna, Provincia di Rimini",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3170483",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3170483.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 44.02639
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 12.40944
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 155
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 151
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "Poggio Berni"
+}

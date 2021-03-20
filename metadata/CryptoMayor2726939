@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2726939",
+    "name": "Alfta, Sweden",
+    "description": "G\u00e4vleborg, Ovan\u00e5kers Kommun",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2726939",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2726939.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 61.34675
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 16.07499
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2348
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 94
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Stockholm"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Sweden"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "SE",
+    "altnames": null
+}

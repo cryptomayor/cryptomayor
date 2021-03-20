@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4024157",
+    "name": "Jocoqui, Mexico",
+    "description": "Guanajuato, Apaseo el Grande",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4024157",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4024157.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.58201
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -100.6987
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3056
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1771
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Jocoque,Jocoqui"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4012696",
+    "name": "Costa Azul, Mexico",
+    "description": "Sinaloa, Angostura",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4012696",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4012696.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 25.10183
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -108.13735
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1466
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 7
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mazatlan"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Costa Azul"
+}

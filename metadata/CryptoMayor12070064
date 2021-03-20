@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor12070064",
+    "name": "Arenella, Italy",
+    "description": "Campania",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor12070064",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor12070064.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 40.85734
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 14.2228
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 67634
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 233
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": null
+}

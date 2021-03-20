@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor11086693",
+    "name": "Teacalco, Mexico",
+    "description": "Morelos, Amacuzac",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor11086693",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor11086693.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.61728
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -99.45229
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 761
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 995
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Teacalco"
+}

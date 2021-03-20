@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3908263",
+    "name": "Paurito, Bolivia",
+    "description": "Santa Cruz",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3908263",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3908263.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -17.88333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -62.96667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2191
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 361
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/La_Paz"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Bolivia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "BO",
+    "altnames": "Paurito"
+}

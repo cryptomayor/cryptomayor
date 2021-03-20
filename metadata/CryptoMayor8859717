@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8859717",
+    "name": "La Corregidora, Mexico",
+    "description": "Nayarit, Tepic",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8859717",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8859717.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 21.44417
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -104.81222
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1089
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 959
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mazatlan"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "La Corregidora"
+}

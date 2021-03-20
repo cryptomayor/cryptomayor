@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4990327",
+    "name": "Dansville, United States",
+    "description": "Michigan, Ingham County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4990327",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4990327.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 42.55587
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -84.3033
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 556
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 297
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Detroit"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8858245",
+    "name": "Galaxia la Noria, Mexico",
+    "description": "Jalisco, Tlajomulco de Z\u00fa\u00f1iga",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8858245",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8858245.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.45722
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -103.41889
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 5681
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1565
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Galaxia la Noria"
+}

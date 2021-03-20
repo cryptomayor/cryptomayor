@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor625917",
+    "name": "Lotva, Belarus",
+    "description": "Mogilev",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor625917",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor625917.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 54.1013
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 30.2639
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1000
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 202
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Minsk"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Belarus"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "BY",
+    "altnames": "Lotva,\u041b\u043e\u0442\u0432\u0430"
+}

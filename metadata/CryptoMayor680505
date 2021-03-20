@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor680505",
+    "name": "Cotiglet, Romania",
+    "description": "Bihor, Comuna Ceica",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor680505",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor680505.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 46.88963
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 22.20152
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 594
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 189
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": null
+}

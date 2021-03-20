@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3938531",
+    "name": "Iberia, Peru",
+    "description": "Madre de Dios, Provincia de Tahuaman\u00fa",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3938531",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3938531.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -11.40613
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -69.49267
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 4386
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 215
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Lima"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Peru"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "PE",
+    "altnames": "IBP,Iberia"
+}

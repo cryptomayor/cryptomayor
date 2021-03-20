@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor935146",
+    "name": "Les Trois-Bassins, Reunion",
+    "description": "R\u00e9union, R\u00e9union",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor935146",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor935146.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -21.1
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 55.3
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 7114
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 801
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Indian/Reunion"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Reunion"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AF"
+        }
+    ],
+    "country_code": "RE",
+    "altnames": "Les Trois-Bassins"
+}

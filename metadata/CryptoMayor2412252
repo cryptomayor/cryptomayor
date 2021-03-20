@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2412252",
+    "name": "Saba, Gambia",
+    "description": "North Bank",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2412252",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2412252.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 13.51639
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -16.04917
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1974
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 15
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Africa/Banjul"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Gambia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AF"
+        }
+    ],
+    "country_code": "GM",
+    "altnames": null
+}

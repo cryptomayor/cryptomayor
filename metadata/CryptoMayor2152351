@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2152351",
+    "name": "Pyramid Hill, Australia",
+    "description": "Victoria, Loddon",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2152351",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2152351.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -36.05583
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 144.11467
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 555
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 93
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Melbourne"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": "Pyramid,Pyramid Hill"
+}

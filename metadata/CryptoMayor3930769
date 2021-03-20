@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3930769",
+    "name": "Quince Mil, Peru",
+    "description": "Cusco, Provincia de Quispicanchis",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3930769",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3930769.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -13.23092
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -70.75401
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 0
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 642
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Lima"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Peru"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "PE",
+    "altnames": "UMI"
+}

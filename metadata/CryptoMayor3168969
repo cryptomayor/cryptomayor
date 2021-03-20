@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3168969",
+    "name": "Rosa, Italy",
+    "description": "Friuli Venezia Giulia, Pordenone",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3168969",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3168969.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 45.93056
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 12.87083
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 13443
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 35
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "Rosa"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3030238",
+    "name": "Bretteville-l'Orgueilleuse, France",
+    "description": "Normandy, Calvados",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3030238",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3030238.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 49.21189
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -0.51428
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2298
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 55
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Bretteville,Bretteville-l'Orgueilleuse"
+}

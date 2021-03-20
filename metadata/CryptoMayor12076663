@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor12076663",
+    "name": "Pepper Creek, Canada",
+    "description": "New Brunswick, York County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor12076663",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor12076663.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 45.95286
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -66.59038
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 802
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 40
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Moncton"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Canada"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "CA",
+    "altnames": null
+}

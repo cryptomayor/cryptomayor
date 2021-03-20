@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3991567",
+    "name": "Pueblo Nuevo, Mexico",
+    "description": "Guanajuato, Pueblo Nuevo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3991567",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3991567.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.52516
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -101.37196
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3741
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1710
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Pueblo Nuevo"
+}

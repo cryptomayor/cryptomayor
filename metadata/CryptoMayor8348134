@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8348134",
+    "name": "Bray Park, Australia",
+    "description": "New South Wales, Tweed",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8348134",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8348134.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -28.34137
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 153.37605
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 789
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 19
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Sydney"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": null
+}

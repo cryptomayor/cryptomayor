@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6534466",
+    "name": "Assago, Italy",
+    "description": "Lombardy, Citt\u00e0 metropolitana di Milano",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6534466",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6534466.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 45.40887
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 9.12565
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 7917
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 107
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": null
+}

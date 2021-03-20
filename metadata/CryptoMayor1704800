@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor1704800",
+    "name": "Maan, Philippines",
+    "description": "Soccsksargen, Province of Sarangani",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor1704800",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor1704800.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 5.93389
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 124.73556
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3450
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 14
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Asia/Manila"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Philippines"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AS"
+        }
+    ],
+    "country_code": "PH",
+    "altnames": "Maan"
+}

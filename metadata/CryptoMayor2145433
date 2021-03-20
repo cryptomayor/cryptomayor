@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2145433",
+    "name": "Upper Orara, Australia",
+    "description": "New South Wales, Coffs Harbour",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2145433",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2145433.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -30.28333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 153.0
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 821
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 133
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Sydney"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": null
+}

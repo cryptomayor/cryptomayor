@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4023640",
+    "name": "Puerto de Sandoval, Mexico",
+    "description": "Guanajuato, San Felipe",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4023640",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4023640.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 21.52056
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -101.11152
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 671
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1971
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Puerto Sandoval,Puerto de Sandoval"
+}

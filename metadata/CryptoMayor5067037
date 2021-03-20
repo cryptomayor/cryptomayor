@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5067037",
+    "name": "Dodge, United States",
+    "description": "Nebraska, Dodge County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5067037",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5067037.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 41.72111
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -96.88281
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 597
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 428
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Chicago"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2662706",
+    "name": "Virserum, Sweden",
+    "description": "Kalmar, Hultsfreds Kommun",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2662706",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2662706.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 57.31667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 15.58333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1769
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 129
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Stockholm"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Sweden"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "SE",
+    "altnames": "Virserum"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2271945",
+    "name": "Almargem, Portugal",
+    "description": "Lisbon, Sintra",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2271945",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2271945.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 38.84485
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -9.27315
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 8271
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 267
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Lisbon"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Portugal"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "PT",
+    "altnames": "Almargem,Almargem do Bispo"
+}

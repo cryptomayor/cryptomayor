@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3516123",
+    "name": "Tectuapan, Mexico",
+    "description": "Chiapas, Pichucalco",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3516123",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3516123.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 17.44712
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -93.15984
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 833
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 104
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Tectuapan"
+}

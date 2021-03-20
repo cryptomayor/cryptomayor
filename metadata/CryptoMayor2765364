@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2765364",
+    "name": "Schweizersberg, Austria",
+    "description": "Upper Austria, Politischer Bezirk Kirchdorf an der Krems",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2765364",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2765364.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.716
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 14.28197
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 525
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 784
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Vienna"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Austria"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "AT",
+    "altnames": null
+}

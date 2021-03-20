@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3865830",
+    "name": "Ancasti, Argentina",
+    "description": "Catamarca, Departamento de Ancasti",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3865830",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3865830.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -28.81247
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -65.50145
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3082
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 883
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Argentina/Catamarca"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Argentina"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "AR",
+    "altnames": "Ancasti"
+}

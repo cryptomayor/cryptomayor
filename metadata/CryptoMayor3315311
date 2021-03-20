@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3315311",
+    "name": "Beaumont, Ireland",
+    "description": "Leinster, Dublin City",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3315311",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3315311.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 53.38721
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -6.22713
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 8609
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 6
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Dublin"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Ireland"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IE",
+    "altnames": "Beaumont"
+}

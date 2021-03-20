@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3947092",
+    "name": "Aucallama, Peru",
+    "description": "Lima region, Provincia de Huaral",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3947092",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3947092.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -11.55778
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -77.18083
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 0
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 140
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Lima"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Peru"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "PE",
+    "altnames": null
+}

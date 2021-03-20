@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2987675",
+    "name": "Petit-Landau, France",
+    "description": "Grand Est, Haut-Rhin",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2987675",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2987675.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.73085
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 7.51934
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 625
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 229
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Klein-Landau,Landau-Klein,Petit-Landau"
+}

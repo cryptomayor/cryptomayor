@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3832260",
+    "name": "Yerba Buena, Argentina",
+    "description": "Tucuman, Departamento de Yerba Buena",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3832260",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3832260.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -26.81667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -65.31667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 50783
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 515
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Argentina/Tucuman"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Argentina"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "AR",
+    "altnames": "Yerba Buena"
+}

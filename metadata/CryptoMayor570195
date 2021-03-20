@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor570195",
+    "name": "Bystritsa, Russia",
+    "description": "Kirov",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor570195",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor570195.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 58.5283
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 49.21595
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 597
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 119
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Kirov"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Russia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RU",
+    "altnames": "Bystrica,Bystrits,Bystritsa,\u0411\u044b\u0441\u0442\u0440\u0438\u0446\u0430"
+}

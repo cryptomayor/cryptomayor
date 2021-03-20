@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor185939",
+    "name": "Muhoroni, Kenya",
+    "description": "Kisumu",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor185939",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor185939.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -0.15816
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 35.19645
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 15217
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1462
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Africa/Nairobi"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Kenya"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AF"
+        }
+    ],
+    "country_code": "KE",
+    "altnames": "Muhoroni"
+}

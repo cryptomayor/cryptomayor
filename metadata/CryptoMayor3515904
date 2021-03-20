@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3515904",
+    "name": "Tepeaca, Mexico",
+    "description": "Puebla, Tepeaca",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3515904",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3515904.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.96688
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -97.8998
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 27449
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2244
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Tepeaca,Tepeaca de Negrete"
+}

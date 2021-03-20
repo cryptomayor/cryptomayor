@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3528958",
+    "name": "El Fraile, Mexico",
+    "description": "Nuevo Le\u00f3n, Montemorelos",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3528958",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3528958.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 25.35752
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -99.93308
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 557
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 346
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Monterrey"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "El Fraile"
+}

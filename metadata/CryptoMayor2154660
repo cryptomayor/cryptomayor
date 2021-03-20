@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2154660",
+    "name": "Oakdale, Australia",
+    "description": "New South Wales, Wollondilly",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2154660",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2154660.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -34.0793
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 150.5132
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1813
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 414
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Sydney"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": "Oakdale"
+}

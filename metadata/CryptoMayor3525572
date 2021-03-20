@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3525572",
+    "name": "La Joya, Mexico",
+    "description": "Chiapas, Tapachula",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3525572",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3525572.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 14.86419
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -92.25611
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 683
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 114
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Joyas,La Joya"
+}

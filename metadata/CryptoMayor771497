@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor771497",
+    "name": "Granica, Poland",
+    "description": "Mazovia, Powiat pruszkowski",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor771497",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor771497.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 52.13359
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 20.80313
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1110
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 100
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Warsaw"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Poland"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "PL",
+    "altnames": null
+}

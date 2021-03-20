@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8859043",
+    "name": "Fraccionamiento la Virgen, Mexico",
+    "description": "Tlaxcala, Panotla",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8859043",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8859043.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.32306
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -98.27389
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1518
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2240
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Fraccionamiento la Virgen"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8858270",
+    "name": "Las Torres, Mexico",
+    "description": "Nuevo Le\u00f3n, Salinas Victoria",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8858270",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8858270.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 25.95167
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -100.31806
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 4925
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 453
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Monterrey"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Las Torres"
+}

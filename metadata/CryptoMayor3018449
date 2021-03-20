@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3018449",
+    "name": "Fitou, France",
+    "description": "Occitanie, Aude",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3018449",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3018449.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 42.89301
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 2.97708
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 715
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 69
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": null
+}

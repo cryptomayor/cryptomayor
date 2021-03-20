@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8859045",
+    "name": "Guadalupe Victoria, Mexico",
+    "description": "Puebla, Ocotepec",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8859045",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8859045.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.55972
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -97.66
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1517
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2436
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Guadalupe Victoria"
+}

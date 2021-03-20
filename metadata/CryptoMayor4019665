@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4019665",
+    "name": "Cinco de Mayo (Agua Blanca), Mexico",
+    "description": "Sinaloa, Guasave",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4019665",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4019665.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 25.63432
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -108.58347
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 540
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 19
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mazatlan"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": null
+}

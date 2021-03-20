@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor674580",
+    "name": "Lozna, Romania",
+    "description": "Boto\u015fani, Comuna Lozna",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor674580",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor674580.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.95144
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 26.27723
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1021
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 311
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4736700",
+    "name": "Thrall, United States",
+    "description": "Texas, Williamson County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4736700",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4736700.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 30.59048
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -97.29694
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 920
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 173
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Chicago"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3986952",
+    "name": "San Gabriel, Mexico",
+    "description": "Zacatecas, Fresnillo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3986952",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3986952.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 23.30012
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -102.9913
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 778
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2045
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "San Gabriel"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3668594",
+    "name": "Santana, Colombia",
+    "description": "Boyac\u00e1, Santana",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3668594",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3668594.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 6.0575
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -73.48112
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2091
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1593
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Bogota"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Colombia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "CO",
+    "altnames": "Santana"
+}

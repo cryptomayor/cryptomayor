@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3044909",
+    "name": "Szany, Hungary",
+    "description": "Gy\u0151r-Moson-Sopron",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3044909",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3044909.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.46423
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 17.30402
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2300
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 121
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Budapest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Hungary"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "HU",
+    "altnames": "Szany"
+}

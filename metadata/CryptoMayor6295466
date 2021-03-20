@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6295466",
+    "name": "Z\u00fcrich (Kreis 7) / Looren, Switzerland",
+    "description": "Zurich, Bezirk Z\u00fcrich",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6295466",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6295466.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.364
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 8.59396
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 509
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 610
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Zurich"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Switzerland"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "CH",
+    "altnames": "Looren"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor663227",
+    "name": "Vama, Romania",
+    "description": "Suceava, Comuna Vama",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor663227",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor663227.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.56667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 25.68333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 5995
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 649
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": null
+}

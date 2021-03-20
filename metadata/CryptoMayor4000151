@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4000151",
+    "name": "Las Ca\u00f1as, Mexico",
+    "description": "Guanajuato, San Miguel de Allende",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4000151",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4000151.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 21.05625
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -100.72628
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 779
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1977
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Las Canas,Las Ca\u00f1as"
+}

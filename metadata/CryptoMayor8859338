@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8859338",
+    "name": "Colonia 3 de Mayo (La Cruz), Mexico",
+    "description": "M\u00e9xico, Apaxco",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8859338",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8859338.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.98083
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -99.16361
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1279
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2222
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Colonia 3 de Mayo (La Cruz)"
+}

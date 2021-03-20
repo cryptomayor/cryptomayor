@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8863211",
+    "name": "Manzana Tercera Loma de Hidalgo, Mexico",
+    "description": "M\u00e9xico, Jiquipilco",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8863211",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8863211.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.59028
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -99.655
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 505
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2564
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Manzana Tercera Loma de Hidalgo"
+}

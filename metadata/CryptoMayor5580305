@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5580305",
+    "name": "Niwot, United States",
+    "description": "Colorado, Boulder County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5580305",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5580305.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 40.10387
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -105.17082
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 4006
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1558
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Denver"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": "Modoc,Niwot"
+}

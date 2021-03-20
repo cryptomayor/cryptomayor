@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3999519",
+    "name": "La Soledad, Mexico",
+    "description": "Guanajuato, Irapuato",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3999519",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3999519.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.60792
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -101.41558
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1261
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1716
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "La Soledad,Soledad"
+}

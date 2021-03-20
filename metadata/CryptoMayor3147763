@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3147763",
+    "name": "Lena, Norway",
+    "description": "Innlandet, \u00d8stre Toten",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3147763",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3147763.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 60.67391
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 10.81317
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1092
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 226
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Oslo"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Norway"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "NO",
+    "altnames": "Lena"
+}

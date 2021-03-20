@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2703005",
+    "name": "Johannishus, Sweden",
+    "description": "Blekinge, Ronneby Kommun",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2703005",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2703005.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 56.21667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 15.41667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 766
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 33
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Stockholm"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Sweden"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "SE",
+    "altnames": "Johannishus"
+}

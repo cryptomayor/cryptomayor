@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor933887",
+    "name": "Boatlaname, Botswana",
+    "description": "",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor933887",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor933887.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -23.6
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 25.83333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 853
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1050
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Africa/Gaborone"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Botswana"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AF"
+        }
+    ],
+    "country_code": "BW",
+    "altnames": "Boatlaname"
+}

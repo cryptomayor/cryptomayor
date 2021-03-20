@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3532975",
+    "name": "Alto Lucero, Mexico",
+    "description": "Veracruz, Alto Lucero de Guti\u00e9rrez Barrios",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3532975",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3532975.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.62442
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -96.73409
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 4693
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1119
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Alto Lucero,Alto del Lucero"
+}

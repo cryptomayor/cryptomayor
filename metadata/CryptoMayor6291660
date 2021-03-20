@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6291660",
+    "name": "Regensdorf / Zentrum, Switzerland",
+    "description": "Zurich, Bezirk Dielsdorf",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6291660",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6291660.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.43076
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 8.46898
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 650
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 445
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Zurich"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Switzerland"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "CH",
+    "altnames": "Zentrum"
+}

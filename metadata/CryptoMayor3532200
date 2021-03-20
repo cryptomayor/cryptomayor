@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3532200",
+    "name": "Boca del Monte, Mexico",
+    "description": "Oaxaca, San Juan Guichicovi",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3532200",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3532200.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 17.06228
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -95.01677
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 649
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 111
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Boca del Monte"
+}

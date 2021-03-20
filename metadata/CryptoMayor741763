@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor741763",
+    "name": "Maltepe, Turkey",
+    "description": "Istanbul",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor741763",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor741763.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 40.93567
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 29.15507
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 427040
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 150
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Istanbul"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Turkey"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AS"
+        }
+    ],
+    "country_code": "TR",
+    "altnames": null
+}

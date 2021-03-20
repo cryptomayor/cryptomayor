@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor1308052",
+    "name": "Myawadi, Myanmar",
+    "description": "Kayin, Myawaddy District",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor1308052",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor1308052.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 16.68911
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 98.50893
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 45000
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 206
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Asia/Yangon"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Myanmar"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AS"
+        }
+    ],
+    "country_code": "MM",
+    "altnames": "Myawadi"
+}

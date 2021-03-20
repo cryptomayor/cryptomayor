@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3801323",
+    "name": "Paso Canoa, Mexico",
+    "description": "Oaxaca, San Juan Bautista Tuxtepec",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3801323",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3801323.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.01274
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -96.23786
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1155
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 53
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Paso Canoa,Raso Canoa"
+}

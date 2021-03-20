@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8860869",
+    "name": "El Vainillo, Mexico",
+    "description": "Sinaloa, Mazatl\u00e1n",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8860869",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8860869.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 23.20611
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -106.26111
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 770
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 20
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mazatlan"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "El Vainillo"
+}

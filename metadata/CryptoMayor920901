@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor920901",
+    "name": "Chama, Zambia",
+    "description": "Muchinga",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor920901",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor920901.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -11.21303
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 33.1521
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 4061
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 765
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Africa/Lusaka"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Zambia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AF"
+        }
+    ],
+    "country_code": "ZM",
+    "altnames": "Chama"
+}

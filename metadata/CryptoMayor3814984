@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3814984",
+    "name": "Casa Blanca, Mexico",
+    "description": "Tlaxcala, Tlaxco",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3814984",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3814984.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.66249
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -98.241
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 696
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2643
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Casa Blanca"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5303705",
+    "name": "Marana, United States",
+    "description": "Arizona, Pima County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5303705",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5303705.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 32.43674
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -111.22538
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 41315
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 603
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Phoenix"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": "MZJ"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2145158",
+    "name": "Violet Town, Australia",
+    "description": "Victoria, Strathbogie",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2145158",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2145158.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -36.63608
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 145.71506
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 829
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 179
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Melbourne"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": "Violet Town"
+}

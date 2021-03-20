@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8859177",
+    "name": "Villa Rotaria, Mexico",
+    "description": "Guerrero, T\u00e9cpan de Galeana",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8859177",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8859177.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 17.19444
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -100.66917
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1404
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 23
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Villa Rotaria"
+}

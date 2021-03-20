@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8347699",
+    "name": "Ashbury, Australia",
+    "description": "New South Wales, Canterbury-Bankstown",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8347699",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8347699.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -33.89785
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 151.1196
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3285
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 41
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Sydney"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": null
+}

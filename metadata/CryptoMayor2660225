@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2660225",
+    "name": "Jenins, Switzerland",
+    "description": "Grisons, Region Landquart",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2660225",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2660225.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.00149
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 9.55657
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 745
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 645
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Zurich"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Switzerland"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "CH",
+    "altnames": "Gianin,Jenins"
+}

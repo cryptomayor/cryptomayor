@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6403617",
+    "name": "Raura, Peru",
+    "description": "Huanuco, Lauricocha",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6403617",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6403617.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -10.45053
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -76.75248
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 537
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 4652
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Lima"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Peru"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "PE",
+    "altnames": null
+}

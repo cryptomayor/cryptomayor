@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2144033",
+    "name": "Westcourt, Australia",
+    "description": "Queensland, Western Downs",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2144033",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2144033.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -26.8
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 150.15
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3177
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 290
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Brisbane"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": null
+}

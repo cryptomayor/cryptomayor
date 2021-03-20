@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8859588",
+    "name": "Las Mercedes [Agropecuaria], Mexico",
+    "description": "Sonora, San Miguel de Horcasitas",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8859588",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8859588.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 29.36389
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -110.95167
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1147
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 407
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Hermosillo"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Las Mercedes [Agropecuaria]"
+}

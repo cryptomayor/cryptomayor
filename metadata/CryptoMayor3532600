@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3532600",
+    "name": "Atlaxco, Mexico",
+    "description": "Puebla, Chichiquila",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3532600",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3532600.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.18713
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -97.08959
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 829
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1828
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Atlaxco"
+}

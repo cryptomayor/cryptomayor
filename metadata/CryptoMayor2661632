@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2661632",
+    "name": "Ballwil, Switzerland",
+    "description": "Lucerne, Hochdorf District",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2661632",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2661632.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.15371
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 8.32233
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2284
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 502
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Zurich"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Switzerland"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "CH",
+    "altnames": "Ballwil"
+}

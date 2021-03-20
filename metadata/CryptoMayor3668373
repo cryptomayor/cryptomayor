@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3668373",
+    "name": "Santo Domingo, Colombia",
+    "description": "Antioquia, Santo Domingo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3668373",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3668373.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 6.47282
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -75.16547
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2873
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1968
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Bogota"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Colombia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "CO",
+    "altnames": "Santo Domingo"
+}

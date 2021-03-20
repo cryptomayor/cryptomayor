@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3532601",
+    "name": "Atlautla, Mexico",
+    "description": "M\u00e9xico, Atlautla",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3532601",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3532601.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.02188
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -98.77859
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 10967
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2365
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Atlautla,Atlautla de Victoria,San Miguel Atlautla"
+}

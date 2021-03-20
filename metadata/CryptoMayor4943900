@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4943900",
+    "name": "Middlefield, United States",
+    "description": "Massachusetts, Hampshire County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4943900",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4943900.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 42.34842
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -73.0151
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 551
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 516
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/New_York"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

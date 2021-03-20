@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor311962",
+    "name": "Honaz, Turkey",
+    "description": "Denizli",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor311962",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor311962.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 37.7573
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 29.26996
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 7974
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 559
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Istanbul"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Turkey"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AS"
+        }
+    ],
+    "country_code": "TR",
+    "altnames": "Chonai,Honaz"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor1021360",
+    "name": "Ballito, South Africa",
+    "description": "KwaZulu-Natal, iLembe District Municipality",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor1021360",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor1021360.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -29.53897
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 31.21439
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 17218
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 51
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Africa/Johannesburg"
+        },
+        {
+            "trait_type": "Country",
+            "value": "South Africa"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AF"
+        }
+    ],
+    "country_code": "ZA",
+    "altnames": "Ballitoville"
+}

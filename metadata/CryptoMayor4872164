@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4872164",
+    "name": "Preston, United States",
+    "description": "Iowa, Jackson County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4872164",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4872164.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 42.0503
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -90.41402
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1012
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 196
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Chicago"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

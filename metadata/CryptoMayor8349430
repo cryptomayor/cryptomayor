@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8349430",
+    "name": "Mansfield Park, Australia",
+    "description": "South Australia, Port Adelaide Enfield",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8349430",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8349430.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -34.85655
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 138.55186
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 4136
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 6
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Adelaide"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": null
+}

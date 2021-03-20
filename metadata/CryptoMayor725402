@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor725402",
+    "name": "Zemen, Bulgaria",
+    "description": "Pernik, Obshtina Zemen",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor725402",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor725402.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 42.47889
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 22.74917
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2107
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 600
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Sofia"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Bulgaria"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "BG",
+    "altnames": "Belovo,Bjelovo,Byelovo,Semen,Zemen,\u0417\u0435\u043c\u0435\u043d"
+}

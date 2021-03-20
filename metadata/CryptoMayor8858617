@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8858617",
+    "name": "El Curtidor, Mexico",
+    "description": "M\u00e9xico, Zinacantepec",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8858617",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8858617.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.29167
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -99.835
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2301
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2903
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "El Curtidor"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor719555",
+    "name": "Kaba, Hungary",
+    "description": "Hajd\u00fa-Bihar",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor719555",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor719555.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.35
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 21.28333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 6392
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 86
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Budapest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Hungary"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "HU",
+    "altnames": "Kaba"
+}

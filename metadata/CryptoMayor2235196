@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2235196",
+    "name": "Bafang, Cameroon",
+    "description": "West",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2235196",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2235196.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 5.15705
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 10.1771
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 80688
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1179
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Africa/Douala"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Cameroon"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AF"
+        }
+    ],
+    "country_code": "CM",
+    "altnames": "Bafang"
+}

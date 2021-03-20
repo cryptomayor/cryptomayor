@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4026943",
+    "name": "Los Llanos de Temalhuac\u00e1n (Los Llanos), Mexico",
+    "description": "Guerrero, La Uni\u00f3n de Isidoro Montes de Oca",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4026943",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4026943.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 17.86611
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -101.73556
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 889
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 42
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": null
+}

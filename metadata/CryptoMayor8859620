@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8859620",
+    "name": "El Cuitzillo Grande, Mexico",
+    "description": "Michoac\u00e1n, Tar\u00edmbaro",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8859620",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8859620.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.77972
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -101.11694
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1130
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1858
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "El Cuitzillo Grande"
+}

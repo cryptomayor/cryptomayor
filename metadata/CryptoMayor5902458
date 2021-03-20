@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5902458",
+    "name": "Black Diamond, Canada",
+    "description": "Alberta, Black Diamond",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5902458",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5902458.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 50.68771
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -114.23241
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3663
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1181
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Edmonton"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Canada"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "CA",
+    "altnames": null
+}

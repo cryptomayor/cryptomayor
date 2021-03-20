@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor192869",
+    "name": "Keroka, Kenya",
+    "description": "Nyamira",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor192869",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor192869.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -0.77612
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 34.94678
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 4143
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2126
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Africa/Nairobi"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Kenya"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AF"
+        }
+    ],
+    "country_code": "KE",
+    "altnames": "Keroka"
+}

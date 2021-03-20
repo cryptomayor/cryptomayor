@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor11048318",
+    "name": "Sector 2, Romania",
+    "description": "Bucure\u015fti, Municipiul Bucure\u015fti",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor11048318",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor11048318.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 44.4528
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 26.13321
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 345370
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 80
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": "Sectorul 2"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3994245",
+    "name": "Ojo Seco, Mexico",
+    "description": "Guanajuato, Celaya",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3994245",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3994245.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.38687
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -100.79659
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1571
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1819
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Ojo Seco"
+}

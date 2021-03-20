@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3460225",
+    "name": "Jaguarari, Brazil",
+    "description": "Bahia, Jaguarari",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3460225",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3460225.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -10.26389
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -40.19583
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 22612
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 660
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Bahia"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Brazil"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "BR",
+    "altnames": "Jaguarary"
+}

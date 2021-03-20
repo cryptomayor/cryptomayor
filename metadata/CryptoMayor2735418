@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2735418",
+    "name": "Real, Portugal",
+    "description": "Braga, Braga",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2735418",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2735418.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 41.55841
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -8.4433
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 11700
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 74
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Lisbon"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Portugal"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "PT",
+    "altnames": null
+}

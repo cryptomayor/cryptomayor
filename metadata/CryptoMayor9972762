@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor9972762",
+    "name": "Hurstville, Australia",
+    "description": "New South Wales, Georges River",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor9972762",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor9972762.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -33.9677
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 151.10149
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 29744
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 80
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Sydney"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": null
+}

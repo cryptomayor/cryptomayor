@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3763531",
+    "name": "La Hormiga, Colombia",
+    "description": "Putumayo, Valle del Guamuez",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3763531",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3763531.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 0.4258
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -76.90558
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 0
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 566
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Bogota"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Colombia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "CO",
+    "altnames": "La Hormiga"
+}

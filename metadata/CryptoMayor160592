@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor160592",
+    "name": "Chanika, Tanzania",
+    "description": "Tanga, Handeni Town",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor160592",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor160592.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -5.41667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 38.01667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 30905
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 673
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Africa/Dar_es_Salaam"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Tanzania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AF"
+        }
+    ],
+    "country_code": "TZ",
+    "altnames": "Chanika"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor229024",
+    "name": "Mpigi, Uganda",
+    "description": "Central Region, Mpigi District",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor229024",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor229024.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 0.225
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 32.31361
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 11082
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1265
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Africa/Kampala"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Uganda"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AF"
+        }
+    ],
+    "country_code": "UG",
+    "altnames": null
+}

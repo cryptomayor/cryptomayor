@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8949941",
+    "name": "Pintura, Italy",
+    "description": "The Marches, Provincia di Macerata",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8949941",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8949941.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 43.30536
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 13.58082
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 659
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 150
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "Pintura"
+}

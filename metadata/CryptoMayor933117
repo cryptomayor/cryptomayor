@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor933117",
+    "name": "Sebina, Botswana",
+    "description": "North-East",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor933117",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor933117.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -20.86667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 27.25
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3030
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1071
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Africa/Gaborone"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Botswana"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AF"
+        }
+    ],
+    "country_code": "BW",
+    "altnames": "Sebina"
+}

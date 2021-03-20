@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4025586",
+    "name": "La Palma, Mexico",
+    "description": "Michoac\u00e1n, Zit\u00e1cuaro",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4025586",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4025586.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.39854
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -100.38053
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 840
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1749
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "La Palma"
+}

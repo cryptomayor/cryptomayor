@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3595224",
+    "name": "Jerez, Guatemala",
+    "description": "Jutiapa, Municipio de Jerez",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3595224",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3595224.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 14.09083
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -89.7511
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 4421
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 680
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Guatemala"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Guatemala"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "GT",
+    "altnames": "Jerez"
+}

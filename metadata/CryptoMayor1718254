@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor1718254",
+    "name": "Carriedo, Philippines",
+    "description": "Bicol, Province of Sorsogon",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor1718254",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor1718254.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 12.9344
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 124.105
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2091
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 15
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Asia/Manila"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Philippines"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AS"
+        }
+    ],
+    "country_code": "PH",
+    "altnames": "Carriedo"
+}

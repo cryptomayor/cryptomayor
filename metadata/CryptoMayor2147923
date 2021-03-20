@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2147923",
+    "name": "Summerholm, Australia",
+    "description": "Queensland, Lockyer Valley",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2147923",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2147923.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -27.61667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 152.45
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 641
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 149
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Brisbane"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": "Summerholm"
+}

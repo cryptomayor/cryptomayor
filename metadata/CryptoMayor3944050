@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3944050",
+    "name": "Chichas, Peru",
+    "description": "Arequipa, Provincia de Condesuyos",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3944050",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3944050.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -15.5475
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -72.91861
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 185
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2152
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Lima"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Peru"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "PE",
+    "altnames": null
+}

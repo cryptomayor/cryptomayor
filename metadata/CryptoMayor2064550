@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2064550",
+    "name": "Northam, Australia",
+    "description": "Western Australia, Northam",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2064550",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2064550.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -31.64932
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 116.67423
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 6517
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 155
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Perth"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": "Northam"
+}

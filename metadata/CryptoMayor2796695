@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2796695",
+    "name": "Halle, Belgium",
+    "description": "Flanders, Provincie Antwerpen",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2796695",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2796695.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 51.24075
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 4.64327
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 7200
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 11
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Brussels"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Belgium"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "BE",
+    "altnames": "Zoersel (Halle)"
+}

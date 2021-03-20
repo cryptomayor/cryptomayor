@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3141121",
+    "name": "Roverud, Norway",
+    "description": "Innlandet, Kongsvinger",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3141121",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3141121.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 60.25342
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 12.05225
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 865
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 155
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Oslo"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Norway"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "NO",
+    "altnames": "Roverud"
+}

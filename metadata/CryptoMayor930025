@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor930025",
+    "name": "Dedza, Malawi",
+    "description": "Central Region, Dedza District",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor930025",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor930025.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -14.3779
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 34.33322
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 15608
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1608
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Africa/Blantyre"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Malawi"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AF"
+        }
+    ],
+    "country_code": "MW",
+    "altnames": "Dedza"
+}

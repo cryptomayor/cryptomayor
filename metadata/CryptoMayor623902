@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor623902",
+    "name": "Osveya, Belarus",
+    "description": "Vitebsk",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor623902",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor623902.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 56.0147
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 28.11049
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1300
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 140
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Minsk"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Belarus"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "BY",
+    "altnames": "Asveja,Osveja,Osveya,\u041e\u0441\u0432\u0435\u044f"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6535501",
+    "name": "Castelnuovo Belbo, Italy",
+    "description": "Piedmont, Provincia di Asti",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6535501",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6535501.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 44.8011
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 8.41236
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 681
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 125
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": null
+}

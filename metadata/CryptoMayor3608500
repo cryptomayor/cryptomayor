@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3608500",
+    "name": "Jutiquile, Honduras",
+    "description": "Olancho",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3608500",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3608500.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 14.71667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -86.08333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3585
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 363
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Tegucigalpa"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Honduras"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "HN",
+    "altnames": "Jutiquile"
+}

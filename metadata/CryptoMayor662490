@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor662490",
+    "name": "Voivozi, Romania",
+    "description": "Bihor, Comuna \u015eimian",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor662490",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor662490.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.46957
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 22.04033
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 545
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 121
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": null
+}

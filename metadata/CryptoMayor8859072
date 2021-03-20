@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8859072",
+    "name": "San Antonio, Mexico",
+    "description": "Puebla, Xiutetelco",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8859072",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8859072.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.75611
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -97.35694
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1490
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2432
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "San Antonio"
+}

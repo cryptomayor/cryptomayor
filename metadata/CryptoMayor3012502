@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3012502",
+    "name": "Janville, France",
+    "description": "Centre, Eure-et-Loir",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3012502",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3012502.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 48.20284
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 1.8802
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1757
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 134
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Janville"
+}

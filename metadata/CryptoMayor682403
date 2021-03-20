@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor682403",
+    "name": "Ceptura de Sus, Romania",
+    "description": "Prahova, Comuna Ceptura",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor682403",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor682403.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 45.01667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 26.31667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 5204
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 222
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": null
+}

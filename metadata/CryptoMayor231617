@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor231617",
+    "name": "Kibale, Uganda",
+    "description": "Western Region, Kibale District",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor231617",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor231617.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 0.8
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 31.06667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 5200
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1367
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Africa/Kampala"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Uganda"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AF"
+        }
+    ],
+    "country_code": "UG",
+    "altnames": null
+}

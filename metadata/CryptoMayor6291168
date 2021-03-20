@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6291168",
+    "name": "Embrach / B\u00e4chli, Switzerland",
+    "description": "Zurich, Bezirk B\u00fclach",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6291168",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6291168.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.512
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 8.59528
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 734
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 426
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Zurich"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Switzerland"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "CH",
+    "altnames": "Baechli,B\u00e4chli"
+}

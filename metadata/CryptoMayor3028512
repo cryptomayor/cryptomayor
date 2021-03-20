@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3028512",
+    "name": "Carrouges, France",
+    "description": "Normandy, Orne",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3028512",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3028512.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 48.56743
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -0.14564
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 758
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 333
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Carrouges"
+}

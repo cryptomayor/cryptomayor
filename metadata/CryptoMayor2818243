@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2818243",
+    "name": "Urbach, Germany",
+    "description": "Thuringia",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2818243",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2818243.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 51.29468
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 10.6054
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1013
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 336
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Berlin"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Germany"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "DE",
+    "altnames": null
+}

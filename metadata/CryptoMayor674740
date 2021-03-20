@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor674740",
+    "name": "Lipia, Romania",
+    "description": "Buz\u0103u, Comuna Merei",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor674740",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor674740.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 45.1397
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 26.73505
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1870
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 99
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": null
+}

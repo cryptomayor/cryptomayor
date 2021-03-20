@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2190299",
+    "name": "Hanmer Springs, New Zealand",
+    "description": "Canterbury, Hurunui District",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2190299",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2190299.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -42.51667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 172.81667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 784
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 391
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Pacific/Auckland"
+        },
+        {
+            "trait_type": "Country",
+            "value": "New Zealand"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "NZ",
+    "altnames": "Hanmer"
+}

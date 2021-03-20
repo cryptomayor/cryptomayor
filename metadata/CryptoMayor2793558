@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2793558",
+    "name": "La Hestre, Belgium",
+    "description": "Wallonia, Province du Hainaut",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2793558",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2793558.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 50.47556
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 4.24739
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 4890
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 167
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Brussels"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Belgium"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "BE",
+    "altnames": "La Hestre"
+}

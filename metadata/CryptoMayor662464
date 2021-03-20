@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor662464",
+    "name": "Vorona Mare, Romania",
+    "description": "Boto\u015fani, Comuna Vorona",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor662464",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor662464.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.55613
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 26.61586
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 703
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 278
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": null
+}

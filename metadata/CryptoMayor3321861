@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3321861",
+    "name": "Zaubertal, Austria",
+    "description": "Upper Austria, Politischer Bezirk Linz-Land",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3321861",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3321861.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 48.30398
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 14.25433
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 815
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 315
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Vienna"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Austria"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "AT",
+    "altnames": null
+}

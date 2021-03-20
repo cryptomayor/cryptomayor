@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5145253",
+    "name": "Yorktown Heights, United States",
+    "description": "New York, Westchester County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5145253",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5145253.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 41.27093
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -73.77763
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1781
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 155
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/New_York"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": "Underhill,Yorktown Heights"
+}

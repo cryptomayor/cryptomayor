@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor1800965",
+    "name": "Mawu, China",
+    "description": "Gansu",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor1800965",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor1800965.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 34.42639
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 104.91472
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 11015
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2058
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Asia/Shanghai"
+        },
+        {
+            "trait_type": "Country",
+            "value": "China"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AS"
+        }
+    ],
+    "country_code": "CN",
+    "altnames": "Ma-wu-chen,Mawu"
+}

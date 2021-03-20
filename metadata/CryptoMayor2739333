@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2739333",
+    "name": "Foz do Sousa, Portugal",
+    "description": "Porto, Gondomar",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2739333",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2739333.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 41.09668
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -8.50184
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 6315
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 48
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Lisbon"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Portugal"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "PT",
+    "altnames": "Foz do Sousa"
+}

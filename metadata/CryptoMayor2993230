@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2993230",
+    "name": "Mons, France",
+    "description": "Occitanie, Upper Garonne",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2993230",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2993230.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 43.6124
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 1.57207
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1224
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 219
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Mons"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8860889",
+    "name": "Vista Real y Country Club, Mexico",
+    "description": "Quer\u00e9taro, Corregidora",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8860889",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8860889.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.52222
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -100.4025
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 767
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2038
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Vista Real y Country Club"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3852629",
+    "name": "La Banda, Argentina",
+    "description": "Santiago del Estero, Departamento de Banda",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3852629",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3852629.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -27.73348
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -64.24278
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 0
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 193
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Argentina/Cordoba"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Argentina"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "AR",
+    "altnames": "La Banda"
+}

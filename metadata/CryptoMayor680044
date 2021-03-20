@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor680044",
+    "name": "Cuci, Romania",
+    "description": "Neam\u0163, Comuna Bozieni",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor680044",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor680044.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 46.82819
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 27.19789
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 831
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 188
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": null
+}

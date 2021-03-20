@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3929909",
+    "name": "Sama Grande, Peru",
+    "description": "Tacna, Provincia de Tacna",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3929909",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3929909.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -17.79102
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -70.49952
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 826
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 520
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Lima"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Peru"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "PE",
+    "altnames": null
+}

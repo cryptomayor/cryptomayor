@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3823935",
+    "name": "El Naranjo, Mexico",
+    "description": "Veracruz, Mecayapan",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3823935",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3823935.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.13707
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -94.77169
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 644
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 51
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "El Naranjo"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3991590",
+    "name": "El Pueblito, Mexico",
+    "description": "Durango, Durango",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3991590",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3991590.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 23.96879
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -104.7182
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 613
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1891
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Monterrey"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "El Pueblito,Pueblito"
+}

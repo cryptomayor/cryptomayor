@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3518246",
+    "name": "San Miguel Reyes, Mexico",
+    "description": "Oaxaca, Putla Villa de Guerrero",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3518246",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3518246.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 16.92141
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -97.89315
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 813
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 768
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Reyes,San Miguel Reyes"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3061400",
+    "name": "Zlat\u00e1 Koruna, Czechia",
+    "description": "Jiho\u010desk\u00fd kraj, Okres \u010cesk\u00fd Krumlov",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3061400",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3061400.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 48.85477
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 14.36954
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 680
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 470
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Prague"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Czechia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "CZ",
+    "altnames": null
+}

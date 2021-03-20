@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3442098",
+    "name": "La Paz, Uruguay",
+    "description": "Canelones, La Paz",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3442098",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3442098.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -34.76031
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -56.2259
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 19913
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 57
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Montevideo"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Uruguay"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "UY",
+    "altnames": "La Paz"
+}

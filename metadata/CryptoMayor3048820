@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3048820",
+    "name": "Letenye, Hungary",
+    "description": "Zala",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3048820",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3048820.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 46.43301
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 16.72583
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 4527
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 148
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Budapest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Hungary"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "HU",
+    "altnames": "Letenye"
+}

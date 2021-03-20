@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6050218",
+    "name": "La Scie, Canada",
+    "description": "Newfoundland and Labrador",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6050218",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6050218.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 49.94995
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -55.59811
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 970
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 30
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/St_Johns"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Canada"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "CA",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2654334",
+    "name": "Bunbury, United Kingdom",
+    "description": "England, Cheshire East",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2654334",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2654334.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 53.11559
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -2.65151
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1195
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 70
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/London"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United Kingdom"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "GB",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3073299",
+    "name": "Konice, Czechia",
+    "description": "Olomouck\u00fd, Okres Prost\u011bjov",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3073299",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3073299.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 49.5903
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 16.88911
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2931
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 426
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Prague"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Czechia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "CZ",
+    "altnames": "Konitz"
+}

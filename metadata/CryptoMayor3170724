@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3170724",
+    "name": "Corciano-Pigge, Italy",
+    "description": "Umbria, Provincia di Perugia",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3170724",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3170724.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 42.85
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 12.75
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 515
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 220
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "Pigge"
+}

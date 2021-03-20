@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8949953",
+    "name": "Miradolo, Italy",
+    "description": "Piedmont, Torino",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8949953",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8949953.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 44.87381
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 7.304
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 656
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 384
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "Miradolo"
+}

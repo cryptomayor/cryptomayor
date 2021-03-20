@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4100808",
+    "name": "Bearden, United States",
+    "description": "Arkansas, Ouachita County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4100808",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4100808.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 33.72455
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -92.61571
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 897
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 77
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Chicago"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

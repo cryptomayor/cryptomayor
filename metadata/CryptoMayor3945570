@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3945570",
+    "name": "Caral, Peru",
+    "description": "Lima region, Barranca",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3945570",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3945570.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -10.88872
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -77.50359
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 628
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 439
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Lima"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Peru"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "PE",
+    "altnames": "Cacal,Caral,Caral Hacienda"
+}

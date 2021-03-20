@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3177202",
+    "name": "Fara San Martino, Italy",
+    "description": "Abruzzo, Provincia di Chieti",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3177202",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3177202.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 42.09248
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 14.20896
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1506
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 422
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "Fara San Martino"
+}

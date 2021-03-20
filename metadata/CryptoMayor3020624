@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3020624",
+    "name": "Durrenbach, France",
+    "description": "Grand Est, Bas-Rhin",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3020624",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3020624.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 48.89681
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 7.76769
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1062
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 171
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Durrenbach"
+}

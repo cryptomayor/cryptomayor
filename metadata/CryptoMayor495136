@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor495136",
+    "name": "Shchukino, Russia",
+    "description": "Moscow",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor495136",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor495136.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 55.8
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 37.45
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 102000
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 153
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Moscow"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Russia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RU",
+    "altnames": "Shchukino,Shhukino,\u0429\u0443\u043a\u0438\u043d\u043e"
+}

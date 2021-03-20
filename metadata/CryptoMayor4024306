@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4024306",
+    "name": "El Carrizalito, Mexico",
+    "description": "Guanajuato, Irapuato",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4024306",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4024306.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.70371
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -101.32439
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2492
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1728
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "El Carrizalito"
+}

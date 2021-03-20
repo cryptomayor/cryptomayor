@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3762708",
+    "name": "La Mina, Mexico",
+    "description": "Oaxaca, San Juan Bautista Tuxtepec",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3762708",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3762708.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 17.98689
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -96.09978
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1480
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 50
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "La Mina"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6061979",
+    "name": "Lumsden, Canada",
+    "description": "Saskatchewan",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6061979",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6061979.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 50.65009
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -104.86783
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1477
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 496
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Regina"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Canada"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "CA",
+    "altnames": null
+}

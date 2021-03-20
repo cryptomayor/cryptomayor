@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3110696",
+    "name": "San Emiliano, Spain",
+    "description": "Castille and Le\u00f3n, Provincia de Le\u00f3n",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3110696",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3110696.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 42.97164
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -6.00075
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 762
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1181
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Madrid"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Spain"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "ES",
+    "altnames": "San Emiliano"
+}

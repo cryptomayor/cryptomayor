@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor12069992",
+    "name": "Gawler city centre, Australia",
+    "description": "South Australia, Gawler",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor12069992",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor12069992.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -34.59632
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 138.74392
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 657
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 78
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Adelaide"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": null
+}

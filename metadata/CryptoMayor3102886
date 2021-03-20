@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3102886",
+    "name": "Borkowice, Poland",
+    "description": "Opole Voivodeship, Powiat brzeski",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3102886",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3102886.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 50.74107
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 17.7158
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 588
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 157
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Warsaw"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Poland"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "PL",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3525318",
+    "name": "Nueva Morelia, Mexico",
+    "description": "Chiapas, Amatenango de la Frontera",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3525318",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3525318.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 15.61784
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -92.14517
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1032
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 664
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "La Nueva,Nueva Morelia"
+}

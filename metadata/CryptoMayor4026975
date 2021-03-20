@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4026975",
+    "name": "Los Almendros, Mexico",
+    "description": "Guerrero, Zihuatanejo de Azueta",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4026975",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4026975.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 17.61167
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -101.43917
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1198
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 32
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": null
+}

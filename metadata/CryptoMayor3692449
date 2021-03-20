@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3692449",
+    "name": "San Juan, Peru",
+    "description": "Cajamarca, Provincia de Cajamarca",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3692449",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3692449.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -7.29043
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -78.49931
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 908
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2075
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Lima"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Peru"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "PE",
+    "altnames": null
+}

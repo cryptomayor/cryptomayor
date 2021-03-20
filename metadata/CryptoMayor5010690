@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5010690",
+    "name": "Sparta, United States",
+    "description": "Michigan, Kent County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5010690",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5010690.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 43.16086
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -85.71004
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 4311
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 230
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Detroit"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

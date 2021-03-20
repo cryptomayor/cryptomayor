@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor438401",
+    "name": "Balarmudu, Turkey",
+    "description": "Hatay",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor438401",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor438401.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 36.64483
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 36.40836
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 676
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 343
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Istanbul"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Turkey"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AS"
+        }
+    ],
+    "country_code": "TR",
+    "altnames": "Balarmudu"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8861836",
+    "name": "Ladrillera Pescador, Mexico",
+    "description": "Baja California, Playas de Rosarito",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8861836",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8861836.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 32.25
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -116.93556
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 636
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 84
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Tijuana"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Ladrillera Pescador"
+}

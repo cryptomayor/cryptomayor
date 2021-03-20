@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3319579",
+    "name": "Kolsass, Austria",
+    "description": "Tyrol, Politischer Bezirk Innsbruck Land",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3319579",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3319579.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.3
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 11.63333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1626
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 555
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Vienna"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Austria"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "AT",
+    "altnames": null
+}

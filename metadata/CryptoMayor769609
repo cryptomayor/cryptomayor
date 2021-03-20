@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor769609",
+    "name": "Kamionka Wielka, Poland",
+    "description": "Lesser Poland, Powiat nowos\u0105decki",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor769609",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor769609.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 49.56848
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 20.82364
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2925
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 447
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Warsaw"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Poland"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "PL",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor9348769",
+    "name": "Segundo Frente, Cuba",
+    "description": "Santiago de Cuba",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor9348769",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor9348769.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.41384
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -75.49635
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 0
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 221
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Havana"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Cuba"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "CU",
+    "altnames": null
+}

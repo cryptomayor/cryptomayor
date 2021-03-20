@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3824798",
+    "name": "Costa de Oro, Mexico",
+    "description": "Veracruz, San Andr\u00e9s Tuxtla",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3824798",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3824798.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.68937
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -95.17625
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 501
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 26
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Arroyo de Oro,Costa de Oro"
+}

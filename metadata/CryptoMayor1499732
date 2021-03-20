@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor1499732",
+    "name": "Malougrenevo, Russia",
+    "description": "Altai Krai",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor1499732",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor1499732.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 52.5568
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 85.33908
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1500
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 170
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Asia/Barnaul"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Russia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RU",
+    "altnames": null
+}

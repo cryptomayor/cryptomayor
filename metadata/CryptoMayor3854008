@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3854008",
+    "name": "Huerta Grande, Argentina",
+    "description": "Cordoba, Departamento de Punilla",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3854008",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3854008.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -31.07524
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -64.49063
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 5630
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 997
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Argentina/Cordoba"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Argentina"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "AR",
+    "altnames": "Huerta Grande"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3814306",
+    "name": "El Tepeyac, Mexico",
+    "description": "Hidalgo, Cuautepec de Hinojosa",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3814306",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3814306.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.05073
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -98.31063
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1602
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2270
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "El Tepeyac,Tepeyac"
+}

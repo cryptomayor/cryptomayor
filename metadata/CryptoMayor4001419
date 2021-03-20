@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4001419",
+    "name": "La Merced, Mexico",
+    "description": "Guanajuato, Ac\u00e1mbaro",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4001419",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4001419.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.02969
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -100.81052
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 582
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1905
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "La Merced"
+}

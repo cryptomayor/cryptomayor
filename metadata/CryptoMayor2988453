@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2988453",
+    "name": "Parsac, France",
+    "description": "Nouvelle-Aquitaine, Creuse",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2988453",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2988453.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 46.20246
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 2.15154
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 595
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 390
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Parsac"
+}

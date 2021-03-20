@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor1309937",
+    "name": "Pyin Oo Lwin, Myanmar",
+    "description": "Mandalay, Pyin Oo Lwin District",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor1309937",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor1309937.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 22.03501
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 96.45683
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 117303
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1088
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Asia/Yangon"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Myanmar"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AS"
+        }
+    ],
+    "country_code": "MM",
+    "altnames": "Maymo,Maymyo,Meimyu,Memyo,Pyin Oo Lwin"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3515202",
+    "name": "Totolapa, Mexico",
+    "description": "Chiapas, Totolapa",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3515202",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3515202.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 16.54357
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -92.68019
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 4596
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 655
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Totolapa"
+}

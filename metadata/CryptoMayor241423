@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor241423",
+    "name": "Bel Ombre, Seychelles",
+    "description": "Bel Ombre",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor241423",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor241423.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -4.61667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 55.41667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 4163
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 16
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Indian/Mahe"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Seychelles"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AF"
+        }
+    ],
+    "country_code": "SC",
+    "altnames": "Bel Ombre,Belle Ombre"
+}

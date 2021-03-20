@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8860886",
+    "name": "Los Olmos, Mexico",
+    "description": "Nuevo Le\u00f3n, Pesquer\u00eda",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8860886",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8860886.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 25.73306
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -100.14
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 767
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 394
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Monterrey"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Los Olmos"
+}

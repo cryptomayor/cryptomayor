@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3515685",
+    "name": "Tezoyuca, Mexico",
+    "description": "Morelos, Emiliano Zapata",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3515685",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3515685.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.80498
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -99.20212
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 4555
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1216
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Tezoyuca"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3030902",
+    "name": "Bournezeau, France",
+    "description": "Pays de la Loire, Vend\u00e9e",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3030902",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3030902.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 46.6356
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -1.17222
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2755
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 82
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Bournezeau"
+}

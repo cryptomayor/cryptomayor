@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3516526",
+    "name": "Soteapan, Mexico",
+    "description": "Veracruz, Soteapan",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3516526",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3516526.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.23391
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -94.87296
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 5118
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 450
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Soleapan,Soteapan"
+}

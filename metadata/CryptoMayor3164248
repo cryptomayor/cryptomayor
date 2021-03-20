@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3164248",
+    "name": "Villafontana, Italy",
+    "description": "Veneto, Provincia di Verona",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3164248",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3164248.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 45.29299
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 11.08492
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 590
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 29
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": null
+}

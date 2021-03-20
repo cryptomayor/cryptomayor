@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2659326",
+    "name": "Oberweningen, Switzerland",
+    "description": "Zurich, Bezirk Dielsdorf",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2659326",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2659326.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.50226
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 8.40702
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 919
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 476
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Zurich"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Switzerland"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "CH",
+    "altnames": null
+}

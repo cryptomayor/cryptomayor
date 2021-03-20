@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3763578",
+    "name": "Mesetas, Colombia",
+    "description": "Meta, Mesetas",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3763578",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3763578.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 3.38463
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -74.04424
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 4163
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 550
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Bogota"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Colombia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "CO",
+    "altnames": "Mesetas"
+}

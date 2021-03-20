@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3019763",
+    "name": "Escource, France",
+    "description": "Nouvelle-Aquitaine, Landes",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3019763",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3019763.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 44.16411
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -1.0334
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 654
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 59
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": null
+}

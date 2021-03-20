@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8348020",
+    "name": "Kialla, Australia",
+    "description": "Victoria, Greater Shepparton",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8348020",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8348020.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -36.44729
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 145.41422
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 6608
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 117
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Melbourne"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": null
+}

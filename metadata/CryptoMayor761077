@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor761077",
+    "name": "Przychojec, Poland",
+    "description": "Subcarpathia, Powiat le\u017cajski",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor761077",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor761077.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 50.29822
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 22.40147
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1000
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 166
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Warsaw"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Poland"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "PL",
+    "altnames": null
+}

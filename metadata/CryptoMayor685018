@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor685018",
+    "name": "Berezeni, Romania",
+    "description": "Vaslui, Comuna Berezeni",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor685018",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor685018.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 46.37611
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 28.14778
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 5590
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 39
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": "Berezeni"
+}

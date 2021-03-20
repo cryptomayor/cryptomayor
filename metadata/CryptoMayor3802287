@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3802287",
+    "name": "El Tular, Mexico",
+    "description": "Tabasco, Cunduac\u00e1n",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3802287",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3802287.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.15429
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -93.3382
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2300
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 18
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "El Tular"
+}

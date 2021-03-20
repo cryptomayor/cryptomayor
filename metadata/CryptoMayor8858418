@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8858418",
+    "name": "Prados de San Juan, Mexico",
+    "description": "M\u00e9xico, Acolman de Nezahualc\u00f3yotl",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8858418",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8858418.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.63998
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -98.97519
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3081
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2385
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Prados de San Juan"
+}

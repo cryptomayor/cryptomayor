@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6090579",
+    "name": "North Saanich, Canada",
+    "description": "British Columbia, Capital Regional District",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6090579",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6090579.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 48.66634
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -123.41933
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 11089
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 11
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Vancouver"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Canada"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "CA",
+    "altnames": null
+}

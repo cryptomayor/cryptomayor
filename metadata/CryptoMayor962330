@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor962330",
+    "name": "Richmond, South Africa",
+    "description": "KwaZulu-Natal, uMgungundlovu District Municipality",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor962330",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor962330.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -29.87196
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 30.27235
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 32445
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 883
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Africa/Johannesburg"
+        },
+        {
+            "trait_type": "Country",
+            "value": "South Africa"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AF"
+        }
+    ],
+    "country_code": "ZA",
+    "altnames": "Richmond"
+}

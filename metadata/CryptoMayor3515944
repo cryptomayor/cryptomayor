@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3515944",
+    "name": "Los Reyes Teolco, Mexico",
+    "description": "Puebla, Cohuecan",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3515944",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3515944.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.73932
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -98.69453
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 910
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1713
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Los Reyes Teolco,Teolco"
+}

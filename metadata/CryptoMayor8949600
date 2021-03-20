@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8949600",
+    "name": "Scarcelli, Italy",
+    "description": "Sicily, Messina",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8949600",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8949600.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 38.20527
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 15.43164
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 868
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 128
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "Scarcelli"
+}

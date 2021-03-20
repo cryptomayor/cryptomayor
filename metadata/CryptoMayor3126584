@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3126584",
+    "name": "Canet de Mar, Spain",
+    "description": "Catalonia, Prov\u00edncia de Barcelona",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3126584",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3126584.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 41.59054
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 2.58116
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 14123
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 31
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Madrid"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Spain"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "ES",
+    "altnames": "Canet de Mar"
+}

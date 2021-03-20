@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6535867",
+    "name": "Cavagnolo, Italy",
+    "description": "Piedmont, Torino",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6535867",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6535867.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 45.15175
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 8.04903
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2281
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 194
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": null
+}

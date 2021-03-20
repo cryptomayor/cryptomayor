@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3578575",
+    "name": "Port-Louis, Guadeloupe",
+    "description": "Guadeloupe, Guadeloupe",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3578575",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3578575.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 16.41749
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -61.53045
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 5515
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 6
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Guadeloupe"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Guadeloupe"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "GP",
+    "altnames": "Port-Louis"
+}

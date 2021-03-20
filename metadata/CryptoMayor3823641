@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3823641",
+    "name": "Cabo Verde, Mexico",
+    "description": "Veracruz, Veracruz",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3823641",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3823641.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.17237
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -96.30053
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 870
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 26
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Cabo Verde"
+}

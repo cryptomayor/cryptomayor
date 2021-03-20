@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3914763",
+    "name": "Huarina, Bolivia",
+    "description": "La Paz",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3914763",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3914763.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -16.2
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -68.63333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1616
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 3840
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/La_Paz"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Bolivia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "BO",
+    "altnames": "Huarina"
+}

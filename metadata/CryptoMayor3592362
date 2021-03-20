@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3592362",
+    "name": "Morales, Guatemala",
+    "description": "Izabal, Municipio de Morales",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3592362",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3592362.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 15.47225
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -88.8407
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 18994
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 39
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Guatemala"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Guatemala"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "GT",
+    "altnames": "Morales"
+}

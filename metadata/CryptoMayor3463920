@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3463920",
+    "name": "Esplanada, Brazil",
+    "description": "Bahia, Esplanada",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3463920",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3463920.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -11.79611
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -37.945
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 18859
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 156
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Bahia"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Brazil"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "BR",
+    "altnames": null
+}

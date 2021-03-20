@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8948820",
+    "name": "Santa Lucia, Italy",
+    "description": "Tuscany, Provincia di Pistoia",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8948820",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8948820.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 43.88296
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 10.70307
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3985
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 46
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "Santa Lucia"
+}

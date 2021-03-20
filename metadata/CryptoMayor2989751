@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2989751",
+    "name": "Odars, France",
+    "description": "Occitanie, Upper Garonne",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2989751",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2989751.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 43.52329
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 1.5889
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 672
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 231
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Odars"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8862104",
+    "name": "Santa Cruz, Mexico",
+    "description": "Veracruz, Tequila",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8862104",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8862104.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.72861
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -97.07778
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 605
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1813
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Santa Cruz"
+}

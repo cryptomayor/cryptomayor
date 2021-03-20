@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2703827",
+    "name": "Iggesund, Sweden",
+    "description": "G\u00e4vleborg, Hudiksvalls Kommun",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2703827",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2703827.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 61.64219
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 17.07477
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3419
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 30
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Stockholm"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Sweden"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "SE",
+    "altnames": "Iggesund,Iggesunds Bruk"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor11266183",
+    "name": "Yecapixteca, Mexico",
+    "description": "Morelos",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor11266183",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor11266183.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.8823
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -98.90272
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1110
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1501
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Yecapixteca"
+}

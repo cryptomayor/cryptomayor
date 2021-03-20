@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor1504716",
+    "name": "Kanashevo, Russia",
+    "description": "Chelyabinsk",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor1504716",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor1504716.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 55.2169
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 62.0634
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3244
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 180
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Asia/Yekaterinburg"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Russia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RU",
+    "altnames": "Kanashevo,Kanasjevo,\u041a\u0430\u043d\u0430\u0448\u0435\u0432\u043e"
+}

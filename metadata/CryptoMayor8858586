@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8858586",
+    "name": "Palma Grande, Mexico",
+    "description": "Nayarit, Tuxpan",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8858586",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8858586.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 21.99333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -105.38944
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2399
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 7
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mazatlan"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Palma Grande"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor770395",
+    "name": "Jarcz\u00f3w, Poland",
+    "description": "Lublin, Powiat tomaszowski",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor770395",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor770395.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 50.42438
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 23.58576
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 876
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 237
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Warsaw"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Poland"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "PL",
+    "altnames": null
+}

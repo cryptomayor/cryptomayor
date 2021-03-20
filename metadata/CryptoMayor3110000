@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3110000",
+    "name": "Santa Cecilia del Alcor, Spain",
+    "description": "Castille and Le\u00f3n, Provincia de Palencia",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3110000",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3110000.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 41.93227
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -4.65546
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 149
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 858
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Madrid"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Spain"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "ES",
+    "altnames": "Santa Cecilia del Alcor"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor1706598",
+    "name": "Liboro, Philippines",
+    "description": "Bicol, Province of Camarines Sur",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor1706598",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor1706598.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 13.8245
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 122.7295
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 6028
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 4
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Asia/Manila"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Philippines"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AS"
+        }
+    ],
+    "country_code": "PH",
+    "altnames": "Liboro"
+}

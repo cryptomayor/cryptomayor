@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3800498",
+    "name": "San Juan Lachao, Mexico",
+    "description": "Oaxaca, San Juan Lachao",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3800498",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3800498.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 16.15891
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -97.12449
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1195
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 597
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Pueblo Nuevo,San Juan Lachao"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3598462",
+    "name": "Chiquimulilla, Guatemala",
+    "description": "Santa Rosa, Municipio de Chiquimulilla",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3598462",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3598462.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 14.0838
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -90.38547
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 12842
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 285
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Guatemala"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Guatemala"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "GT",
+    "altnames": "Chiquimulilla"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor671236",
+    "name": "P\u0103uleasca, Romania",
+    "description": "Teleorman, Comuna Frumoasa",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor671236",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor671236.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 43.81258
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 25.45711
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 786
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 26
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": null
+}

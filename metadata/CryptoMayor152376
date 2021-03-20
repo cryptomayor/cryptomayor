@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor152376",
+    "name": "Mwadui, Tanzania",
+    "description": "Shinyanga, Kishapu District",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor152376",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor152376.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -3.55
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 33.6
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 23296
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1215
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Africa/Dar_es_Salaam"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Tanzania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AF"
+        }
+    ],
+    "country_code": "TZ",
+    "altnames": "MWN,Mwadui"
+}

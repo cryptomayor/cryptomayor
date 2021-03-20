@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor684131",
+    "name": "Borze\u0219ti, Romania",
+    "description": "Boto\u015fani, Comuna Ungureni",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor684131",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor684131.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.91111
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 26.75489
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 600
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 95
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5170013",
+    "name": "Saint Paris, United States",
+    "description": "Ohio, Champaign County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5170013",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5170013.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 40.12839
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -83.95966
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2089
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 367
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/New_York"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": "New Paris,Paris,Saint Paris,St. Paris"
+}

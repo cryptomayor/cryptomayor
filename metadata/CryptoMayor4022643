@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4022643",
+    "name": "Las Delicias, Mexico",
+    "description": "Nuevo Le\u00f3n, Galeana",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4022643",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4022643.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 24.89713
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -100.64391
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 509
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1923
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Monterrey"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Las Delicias"
+}

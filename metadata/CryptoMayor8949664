@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8949664",
+    "name": "Castellazzo, Italy",
+    "description": "Lombardy, Citt\u00e0 metropolitana di Milano",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8949664",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8949664.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 45.47371
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 8.94438
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 800
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 139
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "Castellazzo"
+}

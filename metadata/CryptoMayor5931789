@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5931789",
+    "name": "Cranberry Portage, Canada",
+    "description": "Manitoba",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5931789",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5931789.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 54.58623
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -101.37797
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 771
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 305
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Winnipeg"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Canada"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "CA",
+    "altnames": null
+}

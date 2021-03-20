@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3985297",
+    "name": "San Nicol\u00e1s Tolentino, Mexico",
+    "description": "M\u00e9xico, Valle de Bravo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3985297",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3985297.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.18472
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -100.24111
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1399
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1529
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": null
+}

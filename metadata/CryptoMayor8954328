@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8954328",
+    "name": "Centrale, Italy",
+    "description": "Trentino-Alto Adige, Provincia autonoma di Trento",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8954328",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8954328.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 46.16118
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 11.30293
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 141
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1075
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "Centrale"
+}

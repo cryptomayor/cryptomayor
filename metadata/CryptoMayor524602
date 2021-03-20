@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor524602",
+    "name": "Mugi, Russia",
+    "description": "Dagestan",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor524602",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor524602.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 42.29944
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 47.42077
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3377
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1515
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Moscow"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Russia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RU",
+    "altnames": "Mugi,\u041c\u0443\u0433\u0438"
+}

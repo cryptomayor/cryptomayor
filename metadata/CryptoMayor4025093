@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4025093",
+    "name": "Irimbo, Mexico",
+    "description": "Michoac\u00e1n, Irimbo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4025093",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4025093.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.70083
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -100.47847
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3019
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2193
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Irimbo"
+}

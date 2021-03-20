@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6534380",
+    "name": "Plodio, Italy",
+    "description": "Liguria, Provincia di Savona",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6534380",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6534380.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 44.35394
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 8.24725
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 52
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 471
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": null
+}

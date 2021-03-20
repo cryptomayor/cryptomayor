@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5645114",
+    "name": "Circle, United States",
+    "description": "Montana, McCone County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5645114",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5645114.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.41667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -105.59222
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 613
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 744
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Denver"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

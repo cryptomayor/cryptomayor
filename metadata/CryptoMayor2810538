@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2810538",
+    "name": "Westend, Germany",
+    "description": "Berlin",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2810538",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2810538.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 52.51708
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 13.27636
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 38501
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 60
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Berlin"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Germany"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "DE",
+    "altnames": "Berlin-Westend"
+}

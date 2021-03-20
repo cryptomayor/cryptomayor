@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3068789",
+    "name": "Ost\u0159et\u00edn, Czechia",
+    "description": "Pardubick\u00fd, Okres Pardubice",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3068789",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3068789.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 50.04462
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 16.03037
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 955
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 256
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Prague"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Czechia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "CZ",
+    "altnames": "Wostretin,Wost\u0159etin"
+}

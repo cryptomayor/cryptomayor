@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3013473",
+    "name": "Herbsheim, France",
+    "description": "Grand Est, Bas-Rhin",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3013473",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3013473.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 48.34945
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 7.63059
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 809
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 157
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Herbsheim"
+}

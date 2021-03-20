@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor300603",
+    "name": "Sivrice, Turkey",
+    "description": "Mardin",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor300603",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor300603.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 37.27675
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 41.33569
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1467
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 953
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Istanbul"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Turkey"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AS"
+        }
+    ],
+    "country_code": "TR",
+    "altnames": "Sivrice"
+}

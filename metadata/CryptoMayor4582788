@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4582788",
+    "name": "Inman, United States",
+    "description": "South Carolina, Spartanburg County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4582788",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4582788.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 35.04706
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -82.09011
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2273
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 301
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/New_York"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

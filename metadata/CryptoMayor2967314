@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2967314",
+    "name": "Wittersheim, France",
+    "description": "Grand Est, Bas-Rhin",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2967314",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2967314.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 48.78179
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 7.6582
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 532
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 201
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Wittersheim"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8859551",
+    "name": "El Escribano, Mexico",
+    "description": "Tabasco, Para\u00edso",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8859551",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8859551.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.41028
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -93.22167
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1162
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 5
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "El Escribano"
+}

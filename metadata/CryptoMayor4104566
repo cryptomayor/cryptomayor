@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4104566",
+    "name": "Caraway, United States",
+    "description": "Arkansas, Craighead County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4104566",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4104566.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 35.75813
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -90.32232
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1270
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 69
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Chicago"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3929765",
+    "name": "Sancos, Peru",
+    "description": "Ayacucho, Provincia de Lucanas",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3929765",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3929765.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -15.06256
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -73.95193
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 526
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2998
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Lima"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Peru"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "PE",
+    "altnames": "Sancos"
+}

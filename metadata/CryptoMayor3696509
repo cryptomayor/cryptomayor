@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3696509",
+    "name": "Huamachuco, Peru",
+    "description": "La Libertad, Sanchez Carrion",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3696509",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3696509.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -7.8
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -78.06667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 21768
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 3341
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Lima"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Peru"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "PE",
+    "altnames": "Huamachuco"
+}

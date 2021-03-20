@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4023985",
+    "name": "San Felipe Quiriceo, Mexico",
+    "description": "Guanajuato, Valle de Santiago",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4023985",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4023985.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.44303
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -101.2896
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1033
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1721
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Felipe,San Felipe,San Felipe Quiriceo"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3125480",
+    "name": "Cella, Spain",
+    "description": "Aragon, Provincia de Teruel",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3125480",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3125480.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 40.45325
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -1.2875
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2820
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1043
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Madrid"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Spain"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "ES",
+    "altnames": "Cella"
+}

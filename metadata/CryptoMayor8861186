@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8861186",
+    "name": "La Ceiba, Mexico",
+    "description": "Tabasco, Macuspana",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8861186",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8861186.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 17.78194
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -92.45417
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 720
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 21
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "La Ceiba"
+}

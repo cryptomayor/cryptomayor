@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8862882",
+    "name": "San Jacinto, Mexico",
+    "description": "Puebla, Amozoc",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8862882",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8862882.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.05556
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -98.06639
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 531
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2316
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "San Jacinto"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4173124",
+    "name": "Sky Lake, United States",
+    "description": "Florida, Orange County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4173124",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4173124.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 28.45723
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -81.39146
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 6153
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 33
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/New_York"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

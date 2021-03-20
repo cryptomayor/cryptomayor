@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3514110",
+    "name": "Zapoapan de Amapan, Mexico",
+    "description": "Veracruz, Hueyapan de Ocampo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3514110",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3514110.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.23778
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -95.18452
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1043
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 50
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Amapan,Zapoapan,Zapoapan de Amapan"
+}

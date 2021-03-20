@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3072642",
+    "name": "Krop\u00e1\u010dova Vrutice, Czechia",
+    "description": "Central Bohemia, Okres Mlad\u00e1 Boleslav",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3072642",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3072642.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 50.33053
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 14.71738
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 775
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 223
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Prague"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Czechia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "CZ",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2709927",
+    "name": "Gullringen, Sweden",
+    "description": "Kalmar, Vimmerby Kommun",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2709927",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2709927.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 57.8
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 15.7
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 503
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 138
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Stockholm"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Sweden"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "SE",
+    "altnames": "Gullringen"
+}

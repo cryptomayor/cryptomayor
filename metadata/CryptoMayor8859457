@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8859457",
+    "name": "Lucio Blanco (Los Gavilanes), Mexico",
+    "description": "Guanajuato, Le\u00f3n",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8859457",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8859457.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 21.11528
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -101.55111
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1218
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1920
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Lucio Blanco (Los Gavilanes)"
+}

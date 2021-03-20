@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8348409",
+    "name": "Abbotsbury, Australia",
+    "description": "New South Wales, Fairfield",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8348409",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8348409.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -33.8701
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 150.86119
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 4252
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 78
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Sydney"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6062563",
+    "name": "Macamic, Canada",
+    "description": "Quebec, Abitibi-T\u00e9miscamingue",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6062563",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6062563.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 48.75018
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -78.99962
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1559
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 283
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Toronto"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Canada"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "CA",
+    "altnames": null
+}

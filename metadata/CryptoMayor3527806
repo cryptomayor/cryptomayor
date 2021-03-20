@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3527806",
+    "name": "Epazoyucan, Mexico",
+    "description": "Hidalgo, Epazoyucan",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3527806",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3527806.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.01801
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -98.63623
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3168
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2465
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Epazoyuca,Epazoyucan"
+}

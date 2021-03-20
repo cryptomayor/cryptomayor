@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3070058",
+    "name": "Nal\u017eovice, Czechia",
+    "description": "Central Bohemia, Okres P\u0159\u00edbram",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3070058",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3070058.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 49.69859
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 14.37075
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 515
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 343
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Prague"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Czechia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "CZ",
+    "altnames": null
+}

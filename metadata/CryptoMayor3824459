@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3824459",
+    "name": "Calaco, Mexico",
+    "description": "Veracruz, Benito Ju\u00e1rez",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3824459",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3824459.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.8865
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -98.18563
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 623
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 375
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Calaco"
+}

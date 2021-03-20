@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8862908",
+    "name": "Colonia los Alcanfores, Mexico",
+    "description": "M\u00e9xico, Zumpango",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8862908",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8862908.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.82541
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -99.01665
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 528
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2269
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Colonia los Alcanfores"
+}

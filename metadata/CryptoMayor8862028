@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8862028",
+    "name": "La Escondidita, Mexico",
+    "description": "Guanajuato, San Luis de la Paz",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8862028",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8862028.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 21.30056
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -100.62528
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 613
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1991
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "La Escondidita"
+}

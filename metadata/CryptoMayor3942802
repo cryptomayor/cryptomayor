@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3942802",
+    "name": "Colcha, Peru",
+    "description": "Cusco, Provincia de Paruro",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3942802",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3942802.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -13.85194
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -71.80333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 194
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2809
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Lima"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Peru"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "PE",
+    "altnames": null
+}

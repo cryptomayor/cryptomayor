@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4262618",
+    "name": "Orleans, United States",
+    "description": "Indiana, Orange County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4262618",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4262618.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 38.66172
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -86.45166
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2129
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 193
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Indiana/Indianapolis"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

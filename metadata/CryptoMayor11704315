@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor11704315",
+    "name": "South Murwillumbah, Australia",
+    "description": "New South Wales, Tweed",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor11704315",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor11704315.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -28.33895
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 153.40004
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1126
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 10
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Sydney"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": null
+}

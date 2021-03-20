@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2523250",
+    "name": "Santo Stefano di Camastra, Italy",
+    "description": "Sicily, Messina",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2523250",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2523250.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 38.01295
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 14.35142
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 4392
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 85
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "Santo Stefano di Camastra"
+}

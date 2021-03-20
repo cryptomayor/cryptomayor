@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2864936",
+    "name": "Neuhof, Germany",
+    "description": "Hesse, Regierungsbezirk Kassel",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2864936",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2864936.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 50.45313
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 9.6175
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 11422
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 275
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Berlin"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Germany"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "DE",
+    "altnames": null
+}

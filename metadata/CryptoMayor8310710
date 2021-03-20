@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8310710",
+    "name": "Green Point, Australia",
+    "description": "New South Wales, Mid-Coast",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8310710",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8310710.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -32.2493
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 152.5176
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 516
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 5
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Sydney"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": "Green Point"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3530600",
+    "name": "Ciudad Cuauht\u00e9moc, Mexico",
+    "description": "Chiapas, Frontera Comalapa",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3530600",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3530600.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 15.66587
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -92.00388
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2325
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 707
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Ciudad Cuauhtemoc,Ciudad Cuauht\u00e9moc,Cuauhtemoc,El Ocotal,Ocotal"
+}

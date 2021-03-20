@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8863021",
+    "name": "Colonia Municipal, Mexico",
+    "description": "Tabasco, Teapa",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8863021",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8863021.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 17.59202
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -92.98008
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 518
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 23
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Colonia Municipal"
+}

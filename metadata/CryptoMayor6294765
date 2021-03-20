@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6294765",
+    "name": "Elgg / Neu-Elgg, Switzerland",
+    "description": "Zurich, Bezirk Winterthur",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6294765",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6294765.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.50166
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 8.86366
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 940
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 544
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Zurich"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Switzerland"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "CH",
+    "altnames": "Neu-Elgg"
+}

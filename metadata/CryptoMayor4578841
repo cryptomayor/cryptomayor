@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4578841",
+    "name": "Forest Acres, United States",
+    "description": "South Carolina, Richland County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4578841",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4578841.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 34.01932
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -80.98981
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 10615
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 76
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/New_York"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

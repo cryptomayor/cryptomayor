@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8348036",
+    "name": "Junction Hill, Australia",
+    "description": "New South Wales, Clarence Valley",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8348036",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8348036.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -29.64113
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 152.92491
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1335
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 30
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Sydney"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6535030",
+    "name": "Voghiera, Italy",
+    "description": "Emilia-Romagna, Provincia di Ferrara",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6535030",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6535030.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 44.75558
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 11.75182
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1158
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 5
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": null
+}

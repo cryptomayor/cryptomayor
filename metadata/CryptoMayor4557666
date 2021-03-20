@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4557666",
+    "name": "East Berlin, United States",
+    "description": "Pennsylvania, Adams County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4557666",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4557666.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 39.9376
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -76.97859
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1534
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 129
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/New_York"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": "Berlin,East Berlin"
+}

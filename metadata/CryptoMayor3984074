@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3984074",
+    "name": "Santa Mar\u00eda del R\u00edo, Mexico",
+    "description": "San Luis Potos\u00ed, Santa Mar\u00eda del R\u00edo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3984074",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3984074.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 21.79615
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -100.73815
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 13099
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1736
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Rio,Santa Maria del Rio,Santa Mar\u00eda del R\u00edo"
+}

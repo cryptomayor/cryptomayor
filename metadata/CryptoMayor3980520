@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3980520",
+    "name": "Veinte de Noviembre, Mexico",
+    "description": "Michoac\u00e1n, Par\u00e1cuaro",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3980520",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3980520.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.0692
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -102.24852
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 699
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 400
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Veinte de Noviembre"
+}

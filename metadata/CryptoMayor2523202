@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2523202",
+    "name": "Scandale, Italy",
+    "description": "Calabria, Provincia di Crotone",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2523202",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2523202.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 39.12339
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 16.96185
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2866
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 372
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "Scandale"
+}

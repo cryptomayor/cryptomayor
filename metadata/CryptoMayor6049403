@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6049403",
+    "name": "Langham, Canada",
+    "description": "Saskatchewan",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6049403",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6049403.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 52.3668
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -106.96793
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1070
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 512
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Regina"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Canada"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "CA",
+    "altnames": null
+}

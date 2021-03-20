@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2780759",
+    "name": "Dorfwerfen, Austria",
+    "description": "Salzburg, Politischer Bezirk Sankt Johann im Pongau",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2780759",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2780759.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.45872
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 13.20603
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 773
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 681
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Vienna"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Austria"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "AT",
+    "altnames": null
+}

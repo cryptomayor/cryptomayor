@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8348562",
+    "name": "Huntingdale, Australia",
+    "description": "Victoria, Monash",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8348562",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8348562.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -37.90766
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 145.10847
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1826
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 80
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Melbourne"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": null
+}

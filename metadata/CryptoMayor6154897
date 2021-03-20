@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6154897",
+    "name": "St. Adolphe, Canada",
+    "description": "Manitoba",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6154897",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6154897.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 49.6744
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -97.11124
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1362
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 234
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Winnipeg"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Canada"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "CA",
+    "altnames": null
+}

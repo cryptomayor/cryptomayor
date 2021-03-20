@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8860051",
+    "name": "Barrio Segundo, Mexico",
+    "description": "Veracruz, Mixtla de Altamirano",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8860051",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8860051.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.59611
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -96.98806
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 962
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1694
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Barrio Segundo"
+}

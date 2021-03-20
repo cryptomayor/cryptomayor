@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3669156",
+    "name": "San Pedro, Colombia",
+    "description": "Valle del Cauca, San Pedro",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3669156",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3669156.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 3.99445
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -76.22885
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 5473
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 988
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Bogota"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Colombia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "CO",
+    "altnames": "San Pedro"
+}

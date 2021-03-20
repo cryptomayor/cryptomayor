@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor12110960",
+    "name": "Querumer Forst, Germany",
+    "description": "Lower Saxony",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor12110960",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor12110960.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 52.30453
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 10.56407
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2252
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 90
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Berlin"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Germany"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "DE",
+    "altnames": null
+}

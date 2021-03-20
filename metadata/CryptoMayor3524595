@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3524595",
+    "name": "Las Truchas, Mexico",
+    "description": "Veracruz, Altotonga",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3524595",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3524595.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.78566
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -97.08579
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 684
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 939
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Las Truchas,Truchas"
+}

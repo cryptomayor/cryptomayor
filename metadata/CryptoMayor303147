@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor303147",
+    "name": "Otlukbeli, Turkey",
+    "description": "Erzincan",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor303147",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor303147.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 39.97
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 40.01872
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3669
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1735
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Istanbul"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Turkey"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AS"
+        }
+    ],
+    "country_code": "TR",
+    "altnames": "Karakulak,Otlukbeli"
+}

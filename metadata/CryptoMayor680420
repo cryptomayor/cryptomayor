@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor680420",
+    "name": "Covrigi, Romania",
+    "description": "Gorj, Comuna V\u0103giule\u015fti",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor680420",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor680420.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 44.73825
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 23.14921
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1184
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 214
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": null
+}

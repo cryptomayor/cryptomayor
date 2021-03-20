@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2803474",
+    "name": "Zwota, Germany",
+    "description": "Saxony",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2803474",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2803474.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 50.35103
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 12.42241
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1541
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 596
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Berlin"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Germany"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "DE",
+    "altnames": "Zwota"
+}

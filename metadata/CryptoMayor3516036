@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3516036",
+    "name": "Temimilco, Mexico",
+    "description": "Veracruz, Altotonga",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3516036",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3516036.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.80397
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -97.09503
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 706
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 937
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Temimilco"
+}

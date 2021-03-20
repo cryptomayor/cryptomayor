@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3219185",
+    "name": "Vallonga, Italy",
+    "description": "Veneto, Provincia di Padova",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3219185",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3219185.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 45.27248
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 12.0786
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1298
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 3
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": null
+}

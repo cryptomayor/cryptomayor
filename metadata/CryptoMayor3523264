@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3523264",
+    "name": "Mextepec, Mexico",
+    "description": "M\u00e9xico, Almoloya de Ju\u00e1rez",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3523264",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3523264.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.46118
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -99.89126
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3424
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2604
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Mextepec,Nextepec"
+}

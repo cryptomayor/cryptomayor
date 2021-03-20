@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2992653",
+    "name": "Montesquiou, France",
+    "description": "Occitanie, Gers",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2992653",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2992653.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 43.57845
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 0.3287
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 600
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 213
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Mont-Osse,Montesquiou"
+}

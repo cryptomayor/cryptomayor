@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4043804",
+    "name": "Agat Village, Guam",
+    "description": "Agat",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4043804",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4043804.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 13.38855
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 144.65852
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 5656
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 0
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Pacific/Guam"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Guam"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "GU",
+    "altnames": "Hagat,H\u00e5gat"
+}

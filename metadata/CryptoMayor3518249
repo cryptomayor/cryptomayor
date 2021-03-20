@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3518249",
+    "name": "San Miguel Quetzaltepec, Mexico",
+    "description": "Oaxaca, San Miguel Quetzaltepec",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3518249",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3518249.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 16.9738
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -95.76045
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3860
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1203
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Quetzaltepec,Quezaltepec,San Miguel,San Miguel Quetzaltepec"
+}

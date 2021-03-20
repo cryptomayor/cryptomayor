@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor7260760",
+    "name": "Alamosa East, United States",
+    "description": "Colorado, Alamosa County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor7260760",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor7260760.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 37.47735
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -105.84217
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1458
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2297
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Denver"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": "Alamosa East,Alamosa East CDP"
+}

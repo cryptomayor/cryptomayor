@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor1708724",
+    "name": "Kinalansan, Philippines",
+    "description": "Bicol, Province of Camarines Sur",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor1708724",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor1708724.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 13.7036
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 123.5531
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2137
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 7
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Asia/Manila"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Philippines"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AS"
+        }
+    ],
+    "country_code": "PH",
+    "altnames": "Guinalansan,Kinalansan,Quinalansan"
+}

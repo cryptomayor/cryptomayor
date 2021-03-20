@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3815601",
+    "name": "El Ed\u00e9n, Mexico",
+    "description": "Chiapas, Palenque",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3815601",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3815601.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 17.27363
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -91.55835
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 764
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 83
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "El Eden,El Ed\u00e9n,Nuevo Eden,Nuevo Ed\u00e9n"
+}

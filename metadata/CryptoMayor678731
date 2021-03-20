@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor678731",
+    "name": "Dumbrava, Romania",
+    "description": "Satu Mare, Ora\u0219 Livada",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor678731",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor678731.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.84418
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 23.0806
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1019
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 131
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": null
+}

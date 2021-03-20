@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor1717454",
+    "name": "Cervantes, Philippines",
+    "description": "Western Visayas, Province of Negros Occidental",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor1717454",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor1717454.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 10.8726
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 123.5209
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2520
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 8
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Asia/Manila"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Philippines"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AS"
+        }
+    ],
+    "country_code": "PH",
+    "altnames": "Cervantes"
+}

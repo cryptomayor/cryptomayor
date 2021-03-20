@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3946820",
+    "name": "Barranca, Peru",
+    "description": "Lima region, Barranca",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3946820",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3946820.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -10.75
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -77.76667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 46290
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 52
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Lima"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Peru"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "PE",
+    "altnames": "Barranca"
+}

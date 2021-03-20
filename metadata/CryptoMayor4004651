@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4004651",
+    "name": "Huaxtla, Mexico",
+    "description": "Jalisco, El Arenal",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4004651",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4004651.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.73179
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -103.66291
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2039
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1420
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Huastla,Huaxtla"
+}

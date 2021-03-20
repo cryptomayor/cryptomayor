@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3515443",
+    "name": "Tlalixcoyan, Mexico",
+    "description": "Veracruz, Tlalixcoyan",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3515443",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3515443.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.80222
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -96.06056
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3335
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 11
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3824571",
+    "name": "Polutla, Mexico",
+    "description": "Veracruz, Papantla",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3824571",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3824571.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.52799
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -97.25884
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1152
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 144
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Polutla"
+}

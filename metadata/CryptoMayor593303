@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor593303",
+    "name": "Venta, Lithuania",
+    "description": "Siauliai, Akmen\u0117s Rajonas",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor593303",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor593303.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 56.19162
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 22.69528
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3270
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 72
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Vilnius"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Lithuania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "LT",
+    "altnames": "Venta"
+}

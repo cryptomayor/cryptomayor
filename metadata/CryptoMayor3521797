@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3521797",
+    "name": "Paso Real de la Victoria, Mexico",
+    "description": "Tabasco, Centro",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3521797",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3521797.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.13694
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -92.87463
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 740
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 10
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Paso Real,Paso Real de la Victoria"
+}

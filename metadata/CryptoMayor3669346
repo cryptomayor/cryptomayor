@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3669346",
+    "name": "San Marcos, Colombia",
+    "description": "Sucre, San Marcos",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3669346",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3669346.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 8.65972
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -75.12809
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 36549
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 25
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Bogota"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Colombia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "CO",
+    "altnames": "SRS,San Marcos"
+}

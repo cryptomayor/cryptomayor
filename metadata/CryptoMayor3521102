@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3521102",
+    "name": "Progreso de Zaragoza, Mexico",
+    "description": "Veracruz",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3521102",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3521102.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.2749
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -97.71163
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2474
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 182
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "El Plan,Progreso de Zaragoza"
+}

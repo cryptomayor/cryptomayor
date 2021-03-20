@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2169101",
+    "name": "Delungra, Australia",
+    "description": "New South Wales, Inverell",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2169101",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2169101.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -29.65404
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 150.83005
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 642
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 604
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Sydney"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": "Delungra"
+}

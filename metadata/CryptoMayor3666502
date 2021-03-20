@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3666502",
+    "name": "Ulloa, Colombia",
+    "description": "Valle del Cauca, Ulloa",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3666502",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3666502.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 4.70444
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -75.74028
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2621
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1353
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Bogota"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Colombia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "CO",
+    "altnames": "Ulloa"
+}

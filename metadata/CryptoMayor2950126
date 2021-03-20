@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2950126",
+    "name": "Bermbach, Germany",
+    "description": "Thuringia",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2950126",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2950126.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 50.67775
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 10.59631
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 609
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 515
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Berlin"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Germany"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "DE",
+    "altnames": null
+}

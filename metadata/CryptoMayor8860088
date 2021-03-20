@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8860088",
+    "name": "La Loma, Mexico",
+    "description": "Hidalgo, Tezontepec de Aldama",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8860088",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8860088.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.1775
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -99.26333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 950
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2015
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "La Loma"
+}

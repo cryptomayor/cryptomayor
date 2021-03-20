@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3006574",
+    "name": "La Rue-Saint-Pierre, France",
+    "description": "Hauts-de-France, Oise",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3006574",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3006574.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 49.40984
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 2.2956
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 768
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 62
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "La Rue,La Rue-Saint-Pierre"
+}

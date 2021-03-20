@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor576432",
+    "name": "Bibirevo, Russia",
+    "description": "Moscow",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor576432",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor576432.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 55.88333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 37.6
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 159000
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 155
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Moscow"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Russia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RU",
+    "altnames": "Bibirevo,\u0411\u0438\u0431\u0438\u0440\u0435\u0432\u043e"
+}

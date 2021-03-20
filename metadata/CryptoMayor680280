@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor680280",
+    "name": "Cresuia, Romania",
+    "description": "Bihor, Comuna Cur\u0103\u0163ele",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor680280",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor680280.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 46.70906
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 22.48121
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 542
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 322
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": null
+}

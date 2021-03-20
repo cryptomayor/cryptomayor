@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor785615",
+    "name": "Srem\u010dica, Serbia",
+    "description": "Central Serbia, Belgrade",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor785615",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor785615.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 44.67653
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 20.39232
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 23000
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 225
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Belgrade"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Serbia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RS",
+    "altnames": null
+}

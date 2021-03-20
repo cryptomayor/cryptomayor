@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4004044",
+    "name": "Jayamitla, Mexico",
+    "description": "Jalisco, Ameca",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4004044",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4004044.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.59088
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -104.17846
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 616
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1194
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Jayamitla"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4871799",
+    "name": "Pomeroy, United States",
+    "description": "Iowa, Calhoun County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4871799",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4871799.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 42.55109
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -94.68387
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 625
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 374
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Chicago"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": "Pomerov,Pomeroy"
+}

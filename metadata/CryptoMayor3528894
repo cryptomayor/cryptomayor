@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3528894",
+    "name": "El Higo, Mexico",
+    "description": "Veracruz, El Higo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3528894",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3528894.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 21.76708
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -98.45186
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 8459
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 34
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "El Higo"
+}

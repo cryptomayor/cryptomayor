@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2716281",
+    "name": "Emmaboda, Sweden",
+    "description": "Kalmar, Emmaboda Kommun",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2716281",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2716281.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 56.63268
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 15.53648
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 4818
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 127
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Stockholm"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Sweden"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "SE",
+    "altnames": null
+}

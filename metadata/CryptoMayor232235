@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor232235",
+    "name": "Kapchorwa, Uganda",
+    "description": "Eastern Region, Kapchorwa District",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor232235",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor232235.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 1.40096
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 34.45038
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 11300
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1915
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Africa/Kampala"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Uganda"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AF"
+        }
+    ],
+    "country_code": "UG",
+    "altnames": "Kapchorwa,Sabei,Sebei"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2796047",
+    "name": "Heppignies, Belgium",
+    "description": "Wallonia, Province du Hainaut",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2796047",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2796047.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 50.4846
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 4.4953
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1210
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 166
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Brussels"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Belgium"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "BE",
+    "altnames": "Fleurus (Heppignies)"
+}

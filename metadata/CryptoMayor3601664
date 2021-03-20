@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3601664",
+    "name": "Santa Cruz, Honduras",
+    "description": "El Para\u00edso",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3601664",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3601664.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 13.86667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -86.63333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1430
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 864
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Tegucigalpa"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Honduras"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "HN",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3590475",
+    "name": "San Antonio Aguas Calientes, Guatemala",
+    "description": "Sacatep\u00e9quez",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3590475",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3590475.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 14.54676
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -90.78054
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 7811
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1503
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Guatemala"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Guatemala"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "GT",
+    "altnames": "San Antonio,San Antonio Aguas Calientes"
+}

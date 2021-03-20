@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3527281",
+    "name": "Guadalupe Victoria, Mexico",
+    "description": "Chiapas, Mapastepec",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3527281",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3527281.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 15.50553
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -92.87919
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 604
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 169
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Guadalupe Victoria"
+}

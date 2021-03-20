@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3047942",
+    "name": "Monor, Hungary",
+    "description": "Pest",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3047942",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3047942.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.35133
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 19.44733
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 21720
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 137
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Budapest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Hungary"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "HU",
+    "altnames": "Monor"
+}

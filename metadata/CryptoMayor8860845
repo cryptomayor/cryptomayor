@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8860845",
+    "name": "La Ceiba, Mexico",
+    "description": "Veracruz, Paso de Ovejas",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8860845",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8860845.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.31528
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -96.38278
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 774
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 19
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "La Ceiba"
+}

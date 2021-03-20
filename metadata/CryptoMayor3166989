@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3166989",
+    "name": "Scandiano, Italy",
+    "description": "Emilia-Romagna, Provincia di Reggio Emilia",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3166989",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3166989.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 44.5983
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 10.69558
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 11010
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 95
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "Scandiano"
+}

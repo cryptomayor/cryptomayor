@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3974306",
+    "name": "Santa Matilde, Mexico",
+    "description": "San Luis Potos\u00ed, Santo Domingo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3974306",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3974306.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 23.33005
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -101.835
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 656
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1983
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": null
+}

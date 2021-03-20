@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3447423",
+    "name": "Soledade, Brazil",
+    "description": "Rio Grande do Sul, Soledade",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3447423",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3447423.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -28.81833
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -52.51028
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 24791
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 717
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Sao_Paulo"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Brazil"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "BR",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3689740",
+    "name": "Aranzazu, Colombia",
+    "description": "Caldas, Aranzazu",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3689740",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3689740.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 5.27123
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -75.49044
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 9327
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1900
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Bogota"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Colombia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "CO",
+    "altnames": "Aranzazu"
+}

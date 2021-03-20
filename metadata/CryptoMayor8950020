@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8950020",
+    "name": "Lido di Tarquinia, Italy",
+    "description": "Latium, Provincia di Viterbo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8950020",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8950020.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 42.22322
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 11.70729
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 627
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 0
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "Lido di Tarquinia"
+}

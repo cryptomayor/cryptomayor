@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3935548",
+    "name": "Mallay, Peru",
+    "description": "Lima region, Oyon",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3935548",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3935548.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -10.72277
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -76.87177
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 522
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 3657
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Lima"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Peru"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "PE",
+    "altnames": null
+}

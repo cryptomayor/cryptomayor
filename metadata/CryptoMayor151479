@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor151479",
+    "name": "Njombe, Tanzania",
+    "description": "Njombe, Njombe Town",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor151479",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor151479.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -9.34917
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 34.77167
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 46724
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1676
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Africa/Dar_es_Salaam"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Tanzania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AF"
+        }
+    ],
+    "country_code": "TZ",
+    "altnames": "JOM,Njobe,Njombe"
+}

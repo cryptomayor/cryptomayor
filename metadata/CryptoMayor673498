@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor673498",
+    "name": "Meziad, Romania",
+    "description": "Bihor, Comuna Remetea",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor673498",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor673498.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 46.7409
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 22.42846
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1342
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 250
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3515007",
+    "name": "Tuxtilla, Mexico",
+    "description": "Veracruz, Tuxtilla",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3515007",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3515007.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.23888
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -95.89456
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2130
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 14
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Tuxtilla"
+}

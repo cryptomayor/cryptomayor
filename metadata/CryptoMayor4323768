@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4323768",
+    "name": "Empire, United States",
+    "description": "Louisiana, Plaquemines Parish",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4323768",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4323768.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 29.38772
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -89.59728
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 993
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Chicago"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

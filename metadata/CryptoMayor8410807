@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8410807",
+    "name": "Triyuga, Nepal",
+    "description": "Province 1, Udayapur",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8410807",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8410807.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 26.7919
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 86.699
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 71405
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 165
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Asia/Kathmandu"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Nepal"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AS"
+        }
+    ],
+    "country_code": "NP",
+    "altnames": null
+}

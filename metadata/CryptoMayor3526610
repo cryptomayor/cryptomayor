@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3526610",
+    "name": "Jalcomulco, Mexico",
+    "description": "Veracruz, Jalcomulco",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3526610",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3526610.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.33185
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -96.7625
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2955
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 350
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Jalcomulco,Jalconiulco"
+}

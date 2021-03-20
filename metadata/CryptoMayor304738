@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor304738",
+    "name": "Mazgirt, Turkey",
+    "description": "Tunceli",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor304738",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor304738.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 39.01783
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 39.60064
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2704
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1392
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Istanbul"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Turkey"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AS"
+        }
+    ],
+    "country_code": "TR",
+    "altnames": "Mazgirt,Mazkirt"
+}

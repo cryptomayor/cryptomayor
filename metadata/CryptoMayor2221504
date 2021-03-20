@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2221504",
+    "name": "Tiko, Cameroon",
+    "description": "South-West",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2221504",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2221504.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 4.075
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 9.36005
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 55914
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 33
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Africa/Douala"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Cameroon"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AF"
+        }
+    ],
+    "country_code": "CM",
+    "altnames": "TKC,Tiko"
+}

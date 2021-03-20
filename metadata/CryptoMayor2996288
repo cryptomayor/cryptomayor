@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2996288",
+    "name": "Mametz, France",
+    "description": "Hauts-de-France, Pas-de-Calais",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2996288",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2996288.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 50.63485
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 2.32478
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1779
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 43
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Mametz"
+}

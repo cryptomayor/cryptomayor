@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3164927",
+    "name": "Valduggia, Italy",
+    "description": "Piedmont, Provincia di Vercelli",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3164927",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3164927.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 45.72722
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 8.3273
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1257
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 403
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "Valduggia"
+}

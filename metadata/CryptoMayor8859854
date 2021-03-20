@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8859854",
+    "name": "Puentecillas (Tercera Manzana de Zirahuato), Mexico",
+    "description": "Michoac\u00e1n, Zit\u00e1cuaro",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8859854",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8859854.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.505
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -100.405
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1032
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2039
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Puentecillas (Tercera Manzana de Zirahuato)"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3071426",
+    "name": "Ludkovice, Czechia",
+    "description": "Zl\u00edn, Okres Zl\u00edn",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3071426",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3071426.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 49.11474
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 17.72661
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 687
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 261
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Prague"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Czechia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "CZ",
+    "altnames": null
+}

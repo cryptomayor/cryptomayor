@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor664443",
+    "name": "Turluianu, Romania",
+    "description": "Bac\u0103u, Comuna Bere\u015fti-Tazl\u0103u",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor664443",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor664443.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 46.45298
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 26.64607
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1145
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 303
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": null
+}

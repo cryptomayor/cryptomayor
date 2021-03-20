@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor462861",
+    "name": "Zhostovo, Russia",
+    "description": "Moscow Oblast",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor462861",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor462861.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 56.01667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 37.65
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 600
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 171
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Moscow"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Russia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RU",
+    "altnames": "Zhestovo,Zhostovo"
+}

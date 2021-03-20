@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor1170425",
+    "name": "Mianwali, Pakistan",
+    "description": "Punjab, Mi\u0101nw\u0101li District",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor1170425",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor1170425.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 32.57756
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 71.52847
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 89570
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 208
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Asia/Karachi"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Pakistan"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AS"
+        }
+    ],
+    "country_code": "PK",
+    "altnames": "MWD,Mianwali"
+}

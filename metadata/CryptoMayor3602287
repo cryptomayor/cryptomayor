@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3602287",
+    "name": "San Francisco de Becerra, Honduras",
+    "description": "Olancho",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3602287",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3602287.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 14.63333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -86.1
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2411
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 376
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Tegucigalpa"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Honduras"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "HN",
+    "altnames": "San Francisco Becerra,San Francisco de Becerra"
+}

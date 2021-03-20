@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8862009",
+    "name": "Botidi, Mexico",
+    "description": "M\u00e9xico, Acambay de Ru\u00edz Casta\u00f1eda",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8862009",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8862009.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.96639
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -99.84278
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 615
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2679
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Botidi"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6293904",
+    "name": "Effretikon / Brandenriet / Vogelsang, Switzerland",
+    "description": "Zurich, Bezirk Pf\u00e4ffikon",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6293904",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6293904.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.42121
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 8.68557
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 793
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 533
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Zurich"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Switzerland"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "CH",
+    "altnames": "Brandenriet / Vogelsang"
+}

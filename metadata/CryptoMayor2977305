@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2977305",
+    "name": "Saint-Puy, France",
+    "description": "Occitanie, Gers",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2977305",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2977305.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 43.87628
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 0.46167
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 630
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 150
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Puy-la-Montagne,Saint-Puy"
+}

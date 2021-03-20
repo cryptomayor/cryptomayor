@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2762097",
+    "name": "Wagram, Austria",
+    "description": "Upper Austria, Politischer Bezirk Linz-Land",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2762097",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2762097.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 48.23828
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 14.22996
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1054
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 274
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Vienna"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Austria"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "AT",
+    "altnames": null
+}

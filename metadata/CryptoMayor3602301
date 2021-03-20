@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3602301",
+    "name": "San Francisco, Honduras",
+    "description": "Atl\u00e1ntida",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3602301",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3602301.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 15.65
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -87.05
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2806
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 27
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Tegucigalpa"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Honduras"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "HN",
+    "altnames": null
+}

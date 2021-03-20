@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6077991",
+    "name": "Moose Factory, Canada",
+    "description": "Ontario",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6077991",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6077991.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 51.26689
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -80.61624
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1807
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 0
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Toronto"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Canada"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "CA",
+    "altnames": null
+}

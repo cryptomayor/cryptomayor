@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3832662",
+    "name": "Villa Nueva, Argentina",
+    "description": "Cordoba, Departamento de General San Mart\u00edn",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3832662",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3832662.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -32.43293
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -63.24763
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 16841
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 204
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Argentina/Cordoba"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Argentina"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "AR",
+    "altnames": "Villa Nueva"
+}

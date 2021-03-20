@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2658024",
+    "name": "Weisslingen, Switzerland",
+    "description": "Zurich, Bezirk Pf\u00e4ffikon",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2658024",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2658024.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.43063
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 8.76787
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1975
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 599
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Zurich"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Switzerland"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "CH",
+    "altnames": null
+}

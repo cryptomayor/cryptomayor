@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3003263",
+    "name": "Le Montat, France",
+    "description": "Occitanie, Lot",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3003263",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3003263.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 44.38038
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 1.44848
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 980
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 268
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Le Montat"
+}

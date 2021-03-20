@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4019847",
+    "name": "Abrego, Mexico",
+    "description": "San Luis Potos\u00ed, Guadalc\u00e1zar",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4019847",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4019847.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 22.63939
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -100.37476
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 501
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1656
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": null
+}

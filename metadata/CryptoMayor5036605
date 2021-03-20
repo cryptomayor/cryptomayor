@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5036605",
+    "name": "Marble, United States",
+    "description": "Minnesota, Itasca County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5036605",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5036605.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.32049
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -93.29854
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 693
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 432
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Chicago"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

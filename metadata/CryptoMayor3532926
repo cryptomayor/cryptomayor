@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3532926",
+    "name": "Amatenango de la Frontera, Mexico",
+    "description": "Chiapas, Amatenango de la Frontera",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3532926",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3532926.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 15.43438
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -92.1157
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 781
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 906
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Amatenango,Amatenango de la Frontera,Atenango de la Frontera"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor679296",
+    "name": "Doba, Romania",
+    "description": "Olt, Comuna Ple\u015foiu",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor679296",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor679296.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 44.48679
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 24.24397
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 603
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 137
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": null
+}

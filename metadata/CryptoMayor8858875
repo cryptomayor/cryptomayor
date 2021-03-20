@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8858875",
+    "name": "Los Parques, Mexico",
+    "description": "Nuevo Le\u00f3n, Garc\u00eda",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8858875",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8858875.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 25.79073
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -100.46992
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1749
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 619
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Monterrey"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Los Parques"
+}

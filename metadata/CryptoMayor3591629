@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3591629",
+    "name": "Parramos, Guatemala",
+    "description": "Chimaltenango, Municipio de Parramos",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3591629",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3591629.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 14.60891
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -90.80303
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 9613
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1740
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Guatemala"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Guatemala"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "GT",
+    "altnames": "Parramos"
+}

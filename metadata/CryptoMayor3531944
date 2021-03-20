@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3531944",
+    "name": "Burgos, Mexico",
+    "description": "Tamaulipas, Burgos",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3531944",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3531944.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 24.94722
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -98.79921
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1404
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 167
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Monterrey"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Burgos"
+}

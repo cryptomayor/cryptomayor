@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3017866",
+    "name": "Fontenoy, France",
+    "description": "Hauts-de-France, Aisne",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3017866",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3017866.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 49.40715
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 3.20076
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 547
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 55
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Fontenoy"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3098854",
+    "name": "Gorenice, Poland",
+    "description": "Lesser Poland, Powiat olkuski",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3098854",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3098854.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 50.208
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 19.62038
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1350
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 442
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Warsaw"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Poland"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "PL",
+    "altnames": null
+}

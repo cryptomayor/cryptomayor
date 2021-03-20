@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3090007",
+    "name": "Orle, Poland",
+    "description": "Pomerania, Powiat wejherowski",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3090007",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3090007.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 54.64022
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 18.17057
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1373
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 29
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Warsaw"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Poland"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "PL",
+    "altnames": "Worle"
+}

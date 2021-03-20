@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor668288",
+    "name": "Sadina, Romania",
+    "description": "Giurgiu, Comuna Roata De Jos",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor668288",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor668288.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 44.41143
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 25.52953
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1437
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 103
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": null
+}

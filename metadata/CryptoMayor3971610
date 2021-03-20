@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3971610",
+    "name": "El Diamante (La Retranca), Mexico",
+    "description": "Sonora, Caborca",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3971610",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3971610.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 30.84556
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -112.63972
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1374
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 125
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Hermosillo"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": null
+}

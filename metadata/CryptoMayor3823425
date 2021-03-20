@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3823425",
+    "name": "Tlaltetela, Mexico",
+    "description": "Veracruz, Tlaltetela",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3823425",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3823425.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.31421
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -96.90105
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 4528
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 977
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Tlaltetela"
+}

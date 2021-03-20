@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2074700",
+    "name": "Caversham, Australia",
+    "description": "Western Australia, Swan",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2074700",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2074700.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -31.88333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 115.96667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 5182
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 4
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Perth"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": "Caversham"
+}

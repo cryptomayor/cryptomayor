@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor669610",
+    "name": "Priseaca, Romania",
+    "description": "Olt, Comuna Priseaca",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor669610",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor669610.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 44.51667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 24.45
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1920
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 218
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": "Priseaca"
+}

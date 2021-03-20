@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3013911",
+    "name": "Harly, France",
+    "description": "Hauts-de-France, Aisne",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3013911",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3013911.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 49.83766
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 3.31001
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1839
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 95
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Harly"
+}

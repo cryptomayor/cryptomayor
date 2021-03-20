@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2206357",
+    "name": "Opunake, New Zealand",
+    "description": "Taranaki, South Taranaki District",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2206357",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2206357.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -39.45556
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 173.85833
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1495
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 32
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Pacific/Auckland"
+        },
+        {
+            "trait_type": "Country",
+            "value": "New Zealand"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "NZ",
+    "altnames": null
+}

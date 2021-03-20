@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8950231",
+    "name": "Sedena, Italy",
+    "description": "Lombardy, Provincia di Brescia",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8950231",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8950231.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 45.48651
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 10.47285
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 550
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 180
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "Sedena"
+}

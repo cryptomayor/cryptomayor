@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3666960",
+    "name": "Toledo, Colombia",
+    "description": "Antioquia, Toledo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3666960",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3666960.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 7.01306
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -75.69528
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 0
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1757
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Bogota"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Colombia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "CO",
+    "altnames": "Toledo"
+}

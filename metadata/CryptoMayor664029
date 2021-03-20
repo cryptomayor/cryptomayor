@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor664029",
+    "name": "Vad, Romania",
+    "description": "Cluj, Comuna Vad",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor664029",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor664029.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.2
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 23.75
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2118
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 428
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": "Vad"
+}

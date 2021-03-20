@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor9036174",
+    "name": "Stazione Morrovalle, Italy",
+    "description": "The Marches, Provincia di Macerata",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor9036174",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor9036174.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 43.28118
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 13.58714
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 610
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 65
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "Stazione Morrovalle"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3030204",
+    "name": "Breuillet, France",
+    "description": "Nouvelle-Aquitaine, Charente-Maritime",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3030204",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3030204.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 45.69155
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -1.0548
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2349
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 22
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Breuillet"
+}

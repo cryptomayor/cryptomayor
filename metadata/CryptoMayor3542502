@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3542502",
+    "name": "Regla, Cuba",
+    "description": "Havana",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3542502",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3542502.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 23.125
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -82.33194
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 44431
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 14
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Havana"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Cuba"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "CU",
+    "altnames": "Regea,Regla"
+}

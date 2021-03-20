@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3985465",
+    "name": "San Miguel el Alto (El Puerto), Mexico",
+    "description": "Michoac\u00e1n, Maravat\u00edo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3985465",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3985465.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.84611
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -100.25861
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 612
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2604
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": null
+}

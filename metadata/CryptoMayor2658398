@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2658398",
+    "name": "Tesserete, Switzerland",
+    "description": "Ticino, Lugano District",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2658398",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2658398.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 46.06813
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 8.96501
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1533
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 537
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Zurich"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Switzerland"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "CH",
+    "altnames": "Tesserete"
+}

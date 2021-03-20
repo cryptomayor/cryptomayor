@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2174853",
+    "name": "Booker Bay, Australia",
+    "description": "New South Wales",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2174853",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2174853.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -33.5125
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 151.3459
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1307
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": -9999
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Sydney"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": "Booker Bay"
+}

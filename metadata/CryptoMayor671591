@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor671591",
+    "name": "Otomani, Romania",
+    "description": "Bihor, Comuna S\u0103lacea",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor671591",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor671591.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.4375
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 22.23771
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 790
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 111
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": null
+}

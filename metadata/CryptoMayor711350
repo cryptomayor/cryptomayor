@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor711350",
+    "name": "Bucha, Ukraine",
+    "description": "Kiev",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor711350",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor711350.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 50.54345
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 30.21201
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 42279
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 135
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Kiev"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Ukraine"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "UA",
+    "altnames": "Bucha,Bychansk,Dachi Bucha,\u0411\u0443\u0447\u0430"
+}

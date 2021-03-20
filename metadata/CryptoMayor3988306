@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3988306",
+    "name": "Sacramento, Mexico",
+    "description": "San Luis Potos\u00ed, Matehuala",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3988306",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3988306.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 23.61408
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -100.67481
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 647
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1638
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Sacramento"
+}

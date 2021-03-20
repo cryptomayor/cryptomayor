@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2164457",
+    "name": "Grenfell, Australia",
+    "description": "New South Wales, Weddin",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2164457",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2164457.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -33.89549
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 148.16438
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2488
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 389
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Sydney"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": "GFE,Grenfell"
+}

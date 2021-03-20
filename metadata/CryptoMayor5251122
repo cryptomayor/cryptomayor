@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5251122",
+    "name": "Eagle, United States",
+    "description": "Wisconsin, Waukesha County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5251122",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5251122.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 42.87946
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -88.47427
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1974
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 289
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Chicago"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": "Eagle,Eagle Center,Pittman"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2160113",
+    "name": "Lindisfarne, Australia",
+    "description": "Tasmania, Clarence",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2160113",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2160113.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -42.84837
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 147.36192
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 5992
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 17
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Hobart"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": "Lindisfarne"
+}

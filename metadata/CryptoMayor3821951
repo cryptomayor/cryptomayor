@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3821951",
+    "name": "Tres Cruces, Mexico",
+    "description": "Guerrero, Acatepec",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3821951",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3821951.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 17.01667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -98.92619
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 738
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1430
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Tres Cruces"
+}

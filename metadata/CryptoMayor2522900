@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2522900",
+    "name": "Torrenova, Italy",
+    "description": "Sicily, Messina",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2522900",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2522900.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 38.09246
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 14.67917
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3854
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 9
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "Torrenova"
+}

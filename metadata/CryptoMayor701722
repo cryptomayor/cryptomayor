@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor701722",
+    "name": "Maryanivka, Ukraine",
+    "description": "Odessa, Shyryayeve Raion",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor701722",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor701722.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.44371
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 30.15011
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1301
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 60
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Kiev"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Ukraine"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "UA",
+    "altnames": "Mar'janivka,Marianivka,\u041c\u0430\u0440'\u044f\u043d\u0456\u0432\u043a\u0430"
+}

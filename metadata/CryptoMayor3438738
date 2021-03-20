@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3438738",
+    "name": "Emboscada, Paraguay",
+    "description": "Cordillera, Emboscada",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3438738",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3438738.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -25.12413
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -57.34807
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 5911
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 186
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Asuncion"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Paraguay"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "PY",
+    "altnames": "Emboscada"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4566498",
+    "name": "Palomas, Puerto Rico",
+    "description": "Yauco, Sus\u00faa Baja Barrio",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4566498",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4566498.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.01358
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -66.87323
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2321
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 44
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Puerto_Rico"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Puerto Rico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "PR",
+    "altnames": null
+}

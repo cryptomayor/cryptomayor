@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3694060",
+    "name": "Palo Blanco, Peru",
+    "description": "Piura, Morropon",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3694060",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3694060.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -5.40207
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -79.80569
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 640
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 195
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Lima"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Peru"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "PE",
+    "altnames": null
+}

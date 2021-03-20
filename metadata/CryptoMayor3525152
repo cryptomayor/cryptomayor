@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3525152",
+    "name": "La Presa, Mexico",
+    "description": "Tamaulipas, Victoria",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3525152",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3525152.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 23.79634
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -99.16868
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 721
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 289
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Monterrey"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "La Presa,Presa"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4000597",
+    "name": "La Punta, Mexico",
+    "description": "Jalisco, Tonal\u00e1",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4000597",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4000597.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.57156
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -103.21147
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 4889
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1567
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": null
+}

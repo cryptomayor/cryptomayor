@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2791178",
+    "name": "Mignault, Belgium",
+    "description": "Wallonia, Province du Hainaut",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2791178",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2791178.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 50.53016
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 4.15758
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1439
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 115
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Brussels"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Belgium"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "BE",
+    "altnames": "Mignault"
+}

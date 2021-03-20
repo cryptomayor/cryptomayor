@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2271438",
+    "name": "Arruda dos Vinhos, Portugal",
+    "description": "Lisbon, Arruda Dos Vinhos",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2271438",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2271438.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 38.98411
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -9.07746
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 6170
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 99
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Lisbon"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Portugal"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "PT",
+    "altnames": "Arruda,Arruda dos Vinhos"
+}

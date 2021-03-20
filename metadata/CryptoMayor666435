@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor666435",
+    "name": "Sopot, Romania",
+    "description": "Dolj, Comuna Sopot",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor666435",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor666435.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 44.41667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 23.5
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 472
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 191
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": null
+}

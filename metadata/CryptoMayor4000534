@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4000534",
+    "name": "La Quemada, Mexico",
+    "description": "Zacatecas, Ca\u00f1itas de Felipe Pescador",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4000534",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4000534.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 23.5103
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -102.81207
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 686
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2040
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "La Quemada"
+}

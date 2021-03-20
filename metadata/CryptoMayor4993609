@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4993609",
+    "name": "Galesburg, United States",
+    "description": "Michigan, Kalamazoo County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4993609",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4993609.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 42.28865
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -85.41806
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2043
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 243
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Detroit"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

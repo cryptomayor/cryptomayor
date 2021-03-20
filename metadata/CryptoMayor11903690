@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor11903690",
+    "name": "Vinosady, Slovakia",
+    "description": "Bratislava, Okres Pezinok",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor11903690",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor11903690.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 48.31142
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 17.29042
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1300
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 145
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bratislava"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Slovakia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "SK",
+    "altnames": null
+}

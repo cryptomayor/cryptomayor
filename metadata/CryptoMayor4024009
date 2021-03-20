@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4024009",
+    "name": "Puerta del Monte, Mexico",
+    "description": "Guanajuato, Salvatierra",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4024009",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4024009.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.25853
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -101.02597
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1136
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1733
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Puerta del Monte"
+}

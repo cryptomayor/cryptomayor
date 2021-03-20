@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3451236",
+    "name": "Rio Casca, Brazil",
+    "description": "Minas Gerais, Rio Casca",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3451236",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3451236.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -20.22611
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -42.65083
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 11769
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 336
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Sao_Paulo"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Brazil"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "BR",
+    "altnames": null
+}

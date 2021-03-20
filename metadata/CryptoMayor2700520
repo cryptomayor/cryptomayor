@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2700520",
+    "name": "Klingsta, Sweden",
+    "description": "V\u00e4sternorrland, Sundsvalls Kommun",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2700520",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2700520.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 62.32693
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 17.21764
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 547
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 81
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Stockholm"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Sweden"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "SE",
+    "altnames": null
+}

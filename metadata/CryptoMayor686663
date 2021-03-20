@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor686663",
+    "name": "Adrian, Romania",
+    "description": "Satu Mare, Ora\u0219 Livada",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor686663",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor686663.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.90369
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 23.12716
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 536
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 131
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": null
+}

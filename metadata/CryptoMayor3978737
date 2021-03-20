@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3978737",
+    "name": "Seis de Octubre, Mexico",
+    "description": "Durango, G\u00f3mez Palacio",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3978737",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3978737.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 25.81361
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -103.57333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1528
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1109
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Monterrey"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Seis de Octubre"
+}

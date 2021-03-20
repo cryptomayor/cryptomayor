@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8729238",
+    "name": "El Lindero, Mexico",
+    "description": "Veracruz, Tantoyuca",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8729238",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8729238.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 21.31278
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -98.22
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1123
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 176
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "El Lindero"
+}

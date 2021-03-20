@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8862598",
+    "name": "Loma Vicente Guerrero, Mexico",
+    "description": "M\u00e9xico, Jiquipilco",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8862598",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8862598.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.58306
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -99.65333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 556
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2557
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Loma Vicente Guerrero"
+}

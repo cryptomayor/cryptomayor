@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3002158",
+    "name": "Les Angles, France",
+    "description": "Occitanie, Gard",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3002158",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3002158.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 43.95452
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 4.76645
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 8318
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 75
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Les Angles"
+}

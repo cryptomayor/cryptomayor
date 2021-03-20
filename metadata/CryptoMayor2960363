@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2960363",
+    "name": "Kopstal, Luxembourg",
+    "description": "Capellen, Kopstal",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2960363",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2960363.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 49.66444
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 6.07306
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 657
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 261
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Luxembourg"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Luxembourg"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "LU",
+    "altnames": "Kopstal"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3801851",
+    "name": "Los Ocotes, Mexico",
+    "description": "Oaxaca, Heroica Ciudad de Ejutla de Crespo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3801851",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3801851.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 16.61477
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -96.71981
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 581
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1533
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Los Ocotes"
+}

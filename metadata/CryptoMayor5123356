@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5123356",
+    "name": "Kiantone, United States",
+    "description": "New York, Chautauqua County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5123356",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5123356.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 42.022
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -79.1981
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1332
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 465
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/New_York"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

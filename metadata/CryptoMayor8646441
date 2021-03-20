@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8646441",
+    "name": "Vicas, Peru",
+    "description": "Lima region, Provincia de Huarochir\u00ed",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8646441",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8646441.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -11.71172
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -76.60179
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 515
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2573
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Lima"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Peru"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "PE",
+    "altnames": null
+}

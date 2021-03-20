@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2143216",
+    "name": "Wombarra, Australia",
+    "description": "New South Wales, Wollongong",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2143216",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2143216.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -34.28333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 150.95
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 837
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 56
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Sydney"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": "Wombarra"
+}

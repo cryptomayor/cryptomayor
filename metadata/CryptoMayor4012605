@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4012605",
+    "name": "Coyula, Mexico",
+    "description": "Jalisco, Tonal\u00e1",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4012605",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4012605.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.65881
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -103.22654
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 29674
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1572
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor474603",
+    "name": "Verkhnyaya Maksakovka, Russia",
+    "description": "Komi",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor474603",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor474603.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 61.63504
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 50.9674
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3827
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 109
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Moscow"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Russia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RU",
+    "altnames": "Verkhnyaya Maksakovka,Verkhnyaya Maksatovka"
+}

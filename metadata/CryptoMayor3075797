@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3075797",
+    "name": "Hlavnice, Czechia",
+    "description": "Moravskoslezsk\u00fd, Okres Opava",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3075797",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3075797.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 49.92439
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 17.72786
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 595
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 390
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Prague"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Czechia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "CZ",
+    "altnames": null
+}

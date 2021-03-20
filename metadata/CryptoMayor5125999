@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5125999",
+    "name": "Mariaville Lake, United States",
+    "description": "New York, Schenectady County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5125999",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5125999.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 42.8248
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -74.12874
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 722
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 396
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/New_York"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

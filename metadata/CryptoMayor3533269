@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3533269",
+    "name": "Agua Dulce, Mexico",
+    "description": "Veracruz, Agua Dulce",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3533269",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3533269.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.13909
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -94.14527
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 36079
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 21
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Agua Dulce"
+}

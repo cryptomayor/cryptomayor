@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3672669",
+    "name": "Paya, Colombia",
+    "description": "Boyac\u00e1, Paya",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3672669",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3672669.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 5.62492
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -72.42345
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 336
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 984
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Bogota"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Colombia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "CO",
+    "altnames": "Paya"
+}

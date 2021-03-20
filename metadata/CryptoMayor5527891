@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5527891",
+    "name": "Paducah, United States",
+    "description": "Texas, Cottle County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5527891",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5527891.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 34.0123
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -100.30206
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1122
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 568
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Chicago"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

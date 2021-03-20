@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3175987",
+    "name": "Gorino, Italy",
+    "description": "Emilia-Romagna, Provincia di Ferrara",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3175987",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3175987.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 44.82294
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 12.34769
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 641
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": -1
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "Gorino,Gorino Ferrarese"
+}

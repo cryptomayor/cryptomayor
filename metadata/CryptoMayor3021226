@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3021226",
+    "name": "Domazan, France",
+    "description": "Occitanie, Gard",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3021226",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3021226.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 43.92988
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 4.65029
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 831
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 113
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Domazan"
+}

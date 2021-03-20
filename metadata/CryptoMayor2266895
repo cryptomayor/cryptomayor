@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2266895",
+    "name": "Machico, Portugal",
+    "description": "Madeira, Machico",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2266895",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2266895.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 32.7162
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -16.76758
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 12567
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 39
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Atlantic/Madeira"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Portugal"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "PT",
+    "altnames": "Machico"
+}

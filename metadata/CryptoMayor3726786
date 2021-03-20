@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3726786",
+    "name": "Delmas 73, Haiti",
+    "description": "Ouest, Arrondissement de Port-au-Prince",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3726786",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3726786.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.54472
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -72.30278
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 382920
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 129
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Port-au-Prince"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Haiti"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "HT",
+    "altnames": null
+}

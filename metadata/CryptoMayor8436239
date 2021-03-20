@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8436239",
+    "name": "Tornimparte, Italy",
+    "description": "Abruzzo, Provincia dell' Aquila",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8436239",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8436239.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 42.29007
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 13.30092
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3042
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 874
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": null
+}

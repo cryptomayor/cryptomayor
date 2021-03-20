@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3710668",
+    "name": "El Higo, Panama",
+    "description": "Panam\u00e1 Oeste, Distrito de San Carlos",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3710668",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3710668.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 8.44731
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -80.03603
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 566
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 68
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Panama"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Panama"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "PA",
+    "altnames": "El Higo"
+}

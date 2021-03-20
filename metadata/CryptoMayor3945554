@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3945554",
+    "name": "Carania, Peru",
+    "description": "Lima region, Provincia de Yauyos",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3945554",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3945554.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -12.34417
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -75.86833
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 233
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 3767
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Lima"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Peru"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "PE",
+    "altnames": null
+}

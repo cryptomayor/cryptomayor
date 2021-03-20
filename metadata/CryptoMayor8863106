@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8863106",
+    "name": "Piedra Labrada, Mexico",
+    "description": "Veracruz, Tatahuicapan de Ju\u00e1rez",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8863106",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8863106.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.40139
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -94.77333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 512
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 130
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Piedra Labrada"
+}

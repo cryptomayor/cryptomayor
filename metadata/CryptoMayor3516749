@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3516749",
+    "name": "Los Sauces, Mexico",
+    "description": "Guerrero, Teloloapan",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3516749",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3516749.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.26656
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -99.83502
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1141
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1617
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Los Sauces,Sauces"
+}

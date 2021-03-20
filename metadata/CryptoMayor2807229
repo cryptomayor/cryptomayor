@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2807229",
+    "name": "Wittmar, Germany",
+    "description": "Lower Saxony",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2807229",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2807229.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 52.12969
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 10.64
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1391
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 122
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Berlin"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Germany"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "DE",
+    "altnames": null
+}

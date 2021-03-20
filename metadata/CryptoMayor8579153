@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8579153",
+    "name": "Venustiano Carranza, Mexico",
+    "description": "Baja California, Playas de Rosarito",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8579153",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8579153.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 32.16637
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -116.8988
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 538
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 56
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Tijuana"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Venustiano Carranza"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor730073",
+    "name": "Kotel, Bulgaria",
+    "description": "Sliven, Obshtina Kotel",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor730073",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor730073.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 42.88333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 26.45
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 6421
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 494
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Sofia"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Bulgaria"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "BG",
+    "altnames": "Kazan,Kotel,\u041a\u043e\u0442\u0435\u043b"
+}

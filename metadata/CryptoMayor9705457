@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor9705457",
+    "name": "Rose Park, Australia",
+    "description": "South Australia, Burnside",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor9705457",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor9705457.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -34.93039
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 138.62825
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1351
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 60
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Adelaide"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": null
+}

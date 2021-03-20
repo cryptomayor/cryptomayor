@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor685346",
+    "name": "Barcea, Romania",
+    "description": "Gala\u0163i, Comuna Barcea",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor685346",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor685346.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 45.75
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 27.46667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 5985
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 23
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": "Barcea"
+}

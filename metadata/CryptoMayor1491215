@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor1491215",
+    "name": "Sovkhoznyy, Russia",
+    "description": "Sverdlovsk",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor1491215",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor1491215.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 56.5599
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 61.426
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3546
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 227
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Asia/Yekaterinburg"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Russia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RU",
+    "altnames": "Sovkhoznyj,Sovkhoznyy,\u0421\u043e\u0432\u0445\u043e\u0437\u043d\u044b\u0439"
+}

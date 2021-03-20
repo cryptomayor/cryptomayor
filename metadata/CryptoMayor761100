@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor761100",
+    "name": "Przybor\u00f3w, Poland",
+    "description": "Subcarpathia, Powiat d\u0119bicki",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor761100",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor761100.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 50.02831
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 21.34051
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 746
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 190
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Warsaw"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Poland"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "PL",
+    "altnames": null
+}

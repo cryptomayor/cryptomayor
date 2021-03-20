@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2814878",
+    "name": "Waldkirchen, Germany",
+    "description": "Saxony",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2814878",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2814878.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 50.59667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 12.37994
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1212
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 427
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Berlin"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Germany"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "DE",
+    "altnames": "Waldkirchen"
+}

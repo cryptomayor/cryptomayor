@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor12149332",
+    "name": "Berrahab, Algeria",
+    "description": "Guelma",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor12149332",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor12149332.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 36.20798
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 7.10265
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1000
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 813
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Africa/Algiers"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Algeria"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AF"
+        }
+    ],
+    "country_code": "DZ",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor7315164",
+    "name": "Avenue B and C, United States",
+    "description": "Arizona, Yuma County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor7315164",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor7315164.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 32.71904
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -114.66005
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 4176
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 42
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Phoenix"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

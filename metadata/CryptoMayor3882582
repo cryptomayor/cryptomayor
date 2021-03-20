@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3882582",
+    "name": "Loncoche, Chile",
+    "description": "Araucan\u00eda, Provincia de Caut\u00edn",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3882582",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3882582.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -39.36708
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -72.63087
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 15590
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 114
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Santiago"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Chile"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "CL",
+    "altnames": "Loncoche"
+}

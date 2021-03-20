@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8862057",
+    "name": "La Aurora, Mexico",
+    "description": "Chiapas, Palenque",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8862057",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8862057.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 17.39444
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -91.93833
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 609
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 312
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "La Aurora"
+}

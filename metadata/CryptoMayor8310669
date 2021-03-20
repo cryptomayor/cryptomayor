@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8310669",
+    "name": "Bawley Point, Australia",
+    "description": "New South Wales, Shoalhaven Shire",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8310669",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8310669.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -35.51557
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 150.39421
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 677
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 20
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Sydney"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": "Bawley Point"
+}

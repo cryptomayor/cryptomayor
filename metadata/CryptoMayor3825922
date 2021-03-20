@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3825922",
+    "name": "Portezuelo, Mexico",
+    "description": "Quer\u00e9taro, Cadereyta de Montes",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3825922",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3825922.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.59518
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -99.73938
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 521
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1911
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Portezuelo"
+}

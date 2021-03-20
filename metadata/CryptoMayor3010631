@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3010631",
+    "name": "La Cambe, France",
+    "description": "Normandy, Calvados",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3010631",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3010631.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 49.34347
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -1.00584
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 542
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 27
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "La Cambe"
+}

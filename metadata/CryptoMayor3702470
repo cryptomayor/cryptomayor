@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3702470",
+    "name": "Pueblo Nuevo, Panama",
+    "description": "Chiriqu\u00ed, Distrito de San Lorenzo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3702470",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3702470.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 8.3029
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -82.10006
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 647
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 10
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Panama"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Panama"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "PA",
+    "altnames": "Pueblo Nuevo"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4023475",
+    "name": "El Rosalito, Mexico",
+    "description": "Guanajuato, San Diego de la Uni\u00f3n",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4023475",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4023475.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 21.37576
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -100.6398
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 778
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2071
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "El Rosalito,Rosalito"
+}

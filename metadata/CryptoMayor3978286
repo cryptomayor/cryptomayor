@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3978286",
+    "name": "Plan de Ayala, Mexico",
+    "description": "Durango, Durango",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3978286",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3978286.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 23.90163
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -104.5372
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 899
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1893
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Monterrey"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Ola de Ayala,Plan de Ayala"
+}

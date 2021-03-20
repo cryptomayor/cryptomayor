@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor685830",
+    "name": "Baia de Fier, Romania",
+    "description": "Gorj, Comuna Baia de Fier",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor685830",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor685830.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 45.16667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 23.76667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 4328
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 557
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": "Baia de Fier"
+}

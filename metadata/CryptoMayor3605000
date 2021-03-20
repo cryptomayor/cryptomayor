@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3605000",
+    "name": "Marcovia, Honduras",
+    "description": "Choluteca",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3605000",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3605000.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 13.28806
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -87.30972
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1928
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 23
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Tegucigalpa"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Honduras"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "HN",
+    "altnames": "Marcovia"
+}

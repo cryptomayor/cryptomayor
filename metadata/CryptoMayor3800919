@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3800919",
+    "name": "Santiago Tenango, Mexico",
+    "description": "Oaxaca, Santiago Tenango",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3800919",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3800919.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 17.32489
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -97.00467
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 448
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2053
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Santiago Tenango"
+}

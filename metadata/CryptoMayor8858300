@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8858300",
+    "name": "Cereso del Hongo, Mexico",
+    "description": "Baja California, Tecate",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8858300",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8858300.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 32.48417
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -116.25056
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 4278
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1167
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Tijuana"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Cereso del Hongo"
+}

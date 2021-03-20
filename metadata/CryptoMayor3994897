@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3994897",
+    "name": "Nogales, Mexico",
+    "description": "Durango, Coneto de Comonfort",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3994897",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3994897.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 24.9813
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -104.72229
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1117
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1907
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Monterrey"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": null
+}

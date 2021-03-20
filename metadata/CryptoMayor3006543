@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3006543",
+    "name": "Lasalle, France",
+    "description": "Occitanie, Gard",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3006543",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3006543.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 44.04573
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 3.85244
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1115
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 313
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Lasalle"
+}

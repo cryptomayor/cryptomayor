@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor11096541",
+    "name": "Francisco Villa, Mexico",
+    "description": "Puebla, Tecamachalco",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor11096541",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor11096541.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.84446
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -97.76336
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1033
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1987
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Francisco Villa"
+}

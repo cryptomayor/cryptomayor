@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor684412",
+    "name": "Bogdana, Romania",
+    "description": "Vaslui, Comuna Bogdana",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor684412",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor684412.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 46.52668
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 27.63278
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 627
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 204
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": null
+}

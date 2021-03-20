@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3821609",
+    "name": "La Ci\u00e9nega, Mexico",
+    "description": "Guerrero, General Heliodoro Castillo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3821609",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3821609.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 17.81829
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -99.87498
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 502
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1414
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8861457",
+    "name": "Los Encinos, Mexico",
+    "description": "Chiapas, Tuxtla Chico",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8861457",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8861457.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 14.88333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -92.23778
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 681
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 149
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Los Encinos"
+}

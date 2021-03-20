@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor683250",
+    "name": "Burca, Romania",
+    "description": "Vrancea, Comuna Vidra",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor683250",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor683250.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 45.91224
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 26.94905
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1434
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 216
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": null
+}

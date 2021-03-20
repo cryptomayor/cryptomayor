@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3520208",
+    "name": "San Roque, Mexico",
+    "description": "Oaxaca, San Pedro Pochutla",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3520208",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3520208.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 15.78682
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -96.46342
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1525
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 199
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Roque,San Roque"
+}

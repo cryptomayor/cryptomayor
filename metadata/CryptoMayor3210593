@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3210593",
+    "name": "Podbrdo, Bosnia and Herzegovina",
+    "description": "Srpska",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3210593",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3210593.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 44.44189
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 17.01495
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 4028
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 780
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Sarajevo"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Bosnia and Herzegovina"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "BA",
+    "altnames": null
+}

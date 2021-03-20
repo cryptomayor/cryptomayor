@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6180266",
+    "name": "White City, Canada",
+    "description": "Saskatchewan",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6180266",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6180266.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 50.43338
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -104.36778
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1813
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 606
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Regina"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Canada"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "CA",
+    "altnames": null
+}

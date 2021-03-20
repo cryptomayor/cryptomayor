@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2161311",
+    "name": "Kingston, Australia",
+    "description": "Tasmania, Kingborough",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2161311",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2161311.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -42.97638
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 147.30351
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 10154
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 50
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Hobart"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": "Kingston"
+}

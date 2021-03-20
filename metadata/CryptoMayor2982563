@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2982563",
+    "name": "Rouillac, France",
+    "description": "Nouvelle-Aquitaine, Charente",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2982563",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2982563.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 45.77553
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -0.06392
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1824
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 111
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Rouillac"
+}

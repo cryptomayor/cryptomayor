@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor12069937",
+    "name": "Saint-Simon, Canada",
+    "description": "New Brunswick, Gloucester County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor12069937",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor12069937.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.73657
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -64.84123
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 700
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 7
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Moncton"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Canada"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "CA",
+    "altnames": "St. Simon"
+}

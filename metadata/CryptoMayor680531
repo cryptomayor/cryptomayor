@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor680531",
+    "name": "Costuleni, Romania",
+    "description": "Ia\u015fi, Comuna Costuleni",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor680531",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor680531.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.03333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 27.85
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 4911
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 96
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": null
+}

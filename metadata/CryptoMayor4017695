@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4017695",
+    "name": "La Bajada del Monte, Mexico",
+    "description": "Sinaloa, El Fuerte",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4017695",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4017695.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 26.33694
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -108.7
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 712
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 70
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mazatlan"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Baja del Monte,Bajada del Monte"
+}

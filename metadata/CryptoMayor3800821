@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3800821",
+    "name": "San Juan Teita, Mexico",
+    "description": "Oaxaca, San Juan Teita",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3800821",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3800821.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 17.09669
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -97.41467
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 595
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1340
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "San Juan,San Juan Teita,Teita"
+}

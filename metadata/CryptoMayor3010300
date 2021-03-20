@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3010300",
+    "name": "La Chapelle-Mouli\u00e8re, France",
+    "description": "Nouvelle-Aquitaine, Vienne",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3010300",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3010300.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 46.65049
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 0.56493
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 550
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 96
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "La Chapelle-Mouliere,La Chapelle-Mouli\u00e8re"
+}

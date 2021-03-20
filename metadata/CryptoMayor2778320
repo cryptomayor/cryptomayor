@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2778320",
+    "name": "Goritschach, Austria",
+    "description": "Carinthia, Villach Stadt",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2778320",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2778320.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 46.61198
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 13.80926
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 609
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 575
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Vienna"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Austria"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "AT",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3678000",
+    "name": "La Primavera, Colombia",
+    "description": "Vichada, La Primavera",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3678000",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3678000.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 5.49056
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -70.40917
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3920
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 118
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Bogota"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Colombia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "CO",
+    "altnames": "LPE,La Primavera"
+}

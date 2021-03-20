@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8859128",
+    "name": "Poblado Chulavista (El Chorizo), Mexico",
+    "description": "Baja California, Ensenada",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8859128",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8859128.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 30.74722
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -116.00306
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1442
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 34
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Tijuana"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Poblado Chulavista (El Chorizo)"
+}

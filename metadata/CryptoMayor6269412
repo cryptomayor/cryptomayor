@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6269412",
+    "name": "East Keswick, United Kingdom",
+    "description": "England, City and Borough of Leeds",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6269412",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6269412.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 53.8943
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -1.45221
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1224
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 58
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/London"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United Kingdom"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "GB",
+    "altnames": null
+}

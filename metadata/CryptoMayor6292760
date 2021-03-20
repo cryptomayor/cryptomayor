@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6292760",
+    "name": "Horgen / Scheller-Stockerstrasse, Switzerland",
+    "description": "Zurich, Bezirk Horgen",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6292760",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6292760.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.26584
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 8.5876
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2690
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 422
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Zurich"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Switzerland"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "CH",
+    "altnames": "Scheller-Stockerstrasse"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5809333",
+    "name": "Salmon Creek, United States",
+    "description": "Washington, Clark County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5809333",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5809333.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 45.71067
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -122.64899
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 19686
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 52
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Los_Angeles"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

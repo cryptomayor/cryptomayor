@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor587775",
+    "name": "Vana-V\u00f5idu, Estonia",
+    "description": "Viljandimaa, Viljandi vald",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor587775",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor587775.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 58.39056
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 25.65417
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 517
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 62
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Tallinn"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Estonia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "EE",
+    "altnames": "Vana-Voidu,Vana-V\u00f5idu"
+}

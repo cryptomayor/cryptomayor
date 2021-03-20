@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2803053",
+    "name": "As, Belgium",
+    "description": "Flanders, Provincie Limburg",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2803053",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2803053.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 51.00755
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 5.58453
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 7250
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 81
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Brussels"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Belgium"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "BE",
+    "altnames": "As,Asch"
+}

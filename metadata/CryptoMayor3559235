@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3559235",
+    "name": "Esperanza, Cuba",
+    "description": "Villa Clara",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3559235",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3559235.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 22.4468
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -80.09711
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 10462
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 99
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Havana"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Cuba"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "CU",
+    "altnames": "Esperanza,La Esperanza"
+}

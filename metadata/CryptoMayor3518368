@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3518368",
+    "name": "San Mateo Sindihui, Mexico",
+    "description": "Oaxaca, San Mateo Sindihui",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3518368",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3518368.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 17.00456
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -97.35066
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1770
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1474
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "San Mateo,San Mateo Sindihui,Sindihui,Xindihui"
+}

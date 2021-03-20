@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5211048",
+    "name": "Scalp Level, United States",
+    "description": "Pennsylvania, Cambria County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5211048",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5211048.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 40.2498
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -78.84891
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 741
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 549
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/New_York"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

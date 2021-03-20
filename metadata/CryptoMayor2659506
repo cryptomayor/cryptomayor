@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2659506",
+    "name": "Nebikon, Switzerland",
+    "description": "Lucerne, Willisau District",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2659506",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2659506.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.19185
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 7.97769
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2241
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 488
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Zurich"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Switzerland"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "CH",
+    "altnames": "Nebikon"
+}

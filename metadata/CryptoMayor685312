@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor685312",
+    "name": "Basarabi, Romania",
+    "description": "Dolj, Municipiul Calafat",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor685312",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor685312.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 44.00561
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 23.00915
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1330
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 64
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8539254",
+    "name": "Seville East, Australia",
+    "description": "Victoria, Yarra Ranges",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8539254",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8539254.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -37.77499
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 145.49728
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 788
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 158
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Melbourne"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": "Seville East"
+}

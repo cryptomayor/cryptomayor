@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3940366",
+    "name": "Quichas, Peru",
+    "description": "Lima region, Oyon",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3940366",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3940366.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -10.57662
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -76.76668
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 654
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 3956
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Lima"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Peru"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "PE",
+    "altnames": "Hacienda Quichas,Quichas"
+}

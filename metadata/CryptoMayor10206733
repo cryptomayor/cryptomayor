@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor10206733",
+    "name": "Contadora, Panama",
+    "description": "Panam\u00e1, Distrito de Balboa",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor10206733",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor10206733.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 8.62483
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -79.03748
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 253
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 26
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Panama"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Panama"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "PA",
+    "altnames": "Contadora"
+}

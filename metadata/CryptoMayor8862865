@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8862865",
+    "name": "Laja del Tubo, Mexico",
+    "description": "Veracruz, Tuxpan",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8862865",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8862865.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.76667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -97.38333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 533
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 42
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Laja del Tubo"
+}

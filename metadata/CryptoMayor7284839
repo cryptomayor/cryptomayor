@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor7284839",
+    "name": "Budapest XXI. ker\u00fclet, Hungary",
+    "description": "Budapest, Budapest XXI.",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor7284839",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor7284839.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.43047
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 19.07098
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 76339
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 105
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Budapest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Hungary"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "HU",
+    "altnames": null
+}

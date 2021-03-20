@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8860214",
+    "name": "La Caudalosa, Mexico",
+    "description": "Veracruz, San Juan Evangelista",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8860214",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8860214.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 17.82083
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -95.0675
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 914
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 139
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "La Caudalosa"
+}

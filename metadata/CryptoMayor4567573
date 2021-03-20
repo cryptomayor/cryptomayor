@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4567573",
+    "name": "Rafael Capo, Puerto Rico",
+    "description": "Hatillo, Campo Alegre Barrio",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4567573",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4567573.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.40717
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -66.78212
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1863
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 186
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Puerto_Rico"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Puerto Rico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "PR",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5143620",
+    "name": "West Albany, United States",
+    "description": "New York, Albany County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5143620",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5143620.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 42.68313
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -73.77845
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 93794
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 59
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/New_York"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": "Spencerville,West Albany"
+}

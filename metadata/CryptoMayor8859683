@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8859683",
+    "name": "Tzinil, Mexico",
+    "description": "Chiapas, Socoltenango",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8859683",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8859683.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 16.25778
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -92.32222
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1106
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1161
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Tzinil"
+}

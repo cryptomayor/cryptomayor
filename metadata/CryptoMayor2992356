@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2992356",
+    "name": "Montjean, France",
+    "description": "Pays de la Loire, Mayenne",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2992356",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2992356.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 48.00577
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -0.9601
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 833
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 90
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Montjean"
+}

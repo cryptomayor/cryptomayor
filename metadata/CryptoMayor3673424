@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3673424",
+    "name": "Pacho, Colombia",
+    "description": "Cundinamarca, Pacho",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3673424",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3673424.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 5.13278
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -74.15977
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 16698
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1783
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Bogota"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Colombia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "CO",
+    "altnames": "Pacho"
+}

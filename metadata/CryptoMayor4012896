@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4012896",
+    "name": "El Corcovado, Mexico",
+    "description": "Jalisco, Autl\u00e1n de Navarro",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4012896",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4012896.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.84525
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -104.28566
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1295
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 902
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Corcovado,El Corcovado"
+}

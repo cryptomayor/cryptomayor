@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3695386",
+    "name": "Licupis, Peru",
+    "description": "Cajamarca, Provincia de Chota",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3695386",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3695386.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -6.42444
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -79.24167
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 193
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 3012
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Lima"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Peru"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "PE",
+    "altnames": null
+}

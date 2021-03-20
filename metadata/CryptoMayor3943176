@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3943176",
+    "name": "Chupamarca, Peru",
+    "description": "Huancavelica, Provincia de Castrovirreyna",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3943176",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3943176.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -13.03333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -75.6
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 274
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 3372
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Lima"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Peru"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "PE",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3985574",
+    "name": "San Marcos, Mexico",
+    "description": "Jalisco, Zacoalco de Torres",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3985574",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3985574.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.31895
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -103.5341
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1249
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1358
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2677419",
+    "name": "Skogsby, Sweden",
+    "description": "Kalmar, M\u00f6rbyl\u00e5nga Kommun",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2677419",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2677419.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 56.63643
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 16.52321
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 948
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 43
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Stockholm"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Sweden"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "SE",
+    "altnames": "Skogsby"
+}

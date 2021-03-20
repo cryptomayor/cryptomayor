@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6535641",
+    "name": "Tufo, Italy",
+    "description": "Campania, Provincia di Avellino",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6535641",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6535641.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 41.01262
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 14.81784
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 691
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 224
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": null
+}

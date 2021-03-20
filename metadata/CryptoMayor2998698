@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2998698",
+    "name": "Leyme, France",
+    "description": "Occitanie, Lot",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2998698",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2998698.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 44.78537
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 1.90045
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1013
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 473
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Leyme"
+}

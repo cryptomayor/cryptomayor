@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor1291193",
+    "name": "Thongwa, Myanmar",
+    "description": "Rangoon, Yangon South District",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor1291193",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor1291193.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 16.75998
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 96.52498
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 52496
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 10
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Asia/Yangon"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Myanmar"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AS"
+        }
+    ],
+    "country_code": "MM",
+    "altnames": "Thon-Khwa,Thongwa"
+}

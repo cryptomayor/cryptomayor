@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor300799",
+    "name": "Sille, Turkey",
+    "description": "Konya",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor300799",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor300799.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 37.92731
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 32.41995
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 0
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1177
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Istanbul"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Turkey"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AS"
+        }
+    ],
+    "country_code": "TR",
+    "altnames": "Sille"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor773957",
+    "name": "Czarna, Poland",
+    "description": "Mazovia, Powiat wo\u0142omi\u0144ski",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor773957",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor773957.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 52.36837
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 21.22627
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 700
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 95
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Warsaw"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Poland"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "PL",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor664593",
+    "name": "Troian, Romania",
+    "description": "V\u00e2lcea, Municipiul R\u00e2mnicu V\u00e2lcea",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor664593",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor664593.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 45.07857
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 24.34912
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 607
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 243
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor183595",
+    "name": "Ngong, Kenya",
+    "description": "Kajiado",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor183595",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor183595.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -1.3527
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 36.6699
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 9519
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1930
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Africa/Nairobi"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Kenya"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AF"
+        }
+    ],
+    "country_code": "KE",
+    "altnames": "Ngong"
+}

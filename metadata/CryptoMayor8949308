@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8949308",
+    "name": "Casate, Italy",
+    "description": "Lombardy, Citt\u00e0 metropolitana di Milano",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8949308",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8949308.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 45.49203
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 8.82776
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1154
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 149
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "Casate"
+}

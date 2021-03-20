@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3532647",
+    "name": "Atasta, Mexico",
+    "description": "Campeche, Carmen",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3532647",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3532647.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.61954
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -92.10326
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2535
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 4
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Merida"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Atasta"
+}

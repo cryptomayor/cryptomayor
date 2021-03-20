@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3591210",
+    "name": "Pochuta, Guatemala",
+    "description": "Chimaltenango, Municipio de Pochuta",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3591210",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3591210.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 14.5445
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -91.08904
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3879
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 953
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Guatemala"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Guatemala"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "GT",
+    "altnames": "Pochuta"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3824909",
+    "name": "Las Limas, Mexico",
+    "description": "Veracruz, Tezonapa",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3824909",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3824909.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.47821
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -96.72489
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 906
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 118
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Las Limas"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2658390",
+    "name": "Thalheim, Switzerland",
+    "description": "Aargau, Bezirk Brugg",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2658390",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2658390.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.43534
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 8.10027
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 805
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 450
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Zurich"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Switzerland"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "CH",
+    "altnames": "Thalheim"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8862189",
+    "name": "El Tabacal, Mexico",
+    "description": "Guerrero, Juan R. Escudero",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8862189",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8862189.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 17.11361
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -99.34306
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 595
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 388
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "El Tabacal"
+}

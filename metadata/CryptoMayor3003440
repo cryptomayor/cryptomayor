@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3003440",
+    "name": "Le Merzer, France",
+    "description": "Brittany, C\u00f4tes-d'Armor",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3003440",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3003440.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 48.57618
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -3.06768
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 840
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 115
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Ar Merzher,Le Merzer"
+}

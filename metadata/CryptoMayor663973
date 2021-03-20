@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor663973",
+    "name": "Vaida, Romania",
+    "description": "Bihor, Comuna Ro\u015fiori",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor663973",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor663973.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.25279
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 21.99477
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 598
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 133
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": null
+}

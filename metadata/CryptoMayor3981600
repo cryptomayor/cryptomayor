@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3981600",
+    "name": "Rancho la Tinaja, Mexico",
+    "description": "Quer\u00e9taro, Quer\u00e9taro",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3981600",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3981600.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.71364
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -100.55961
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 669
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2144
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "La Tinaja de la Estancia,Rancho la Tinaja,Tinaja"
+}

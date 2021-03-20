@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3031537",
+    "name": "Borgo, France",
+    "description": "Corsica, Upper Corsica",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3031537",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3031537.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 42.55488
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 9.42636
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 5538
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 266
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": null
+}

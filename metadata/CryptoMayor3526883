@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3526883",
+    "name": "Huitzilac, Mexico",
+    "description": "Morelos, Huitzilac",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3526883",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3526883.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.02983
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -99.26788
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 4568
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2560
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Huitzilac"
+}

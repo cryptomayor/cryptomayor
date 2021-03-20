@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6166987",
+    "name": "Tisdale, Canada",
+    "description": "Saskatchewan",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6166987",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6166987.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 52.85002
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -104.05096
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2862
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 448
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Regina"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Canada"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "CA",
+    "altnames": "YTT"
+}

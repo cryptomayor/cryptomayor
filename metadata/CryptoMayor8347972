@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8347972",
+    "name": "St George, Australia",
+    "description": "Queensland, Balonne Shire",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8347972",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8347972.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -27.94763
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 148.60986
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3124
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 212
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Brisbane"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": null
+}

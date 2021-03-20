@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3813254",
+    "name": "La Reforma, Mexico",
+    "description": "Hidalgo, Tepehuac\u00e1n de Guerrero",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3813254",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3813254.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 21.07327
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -98.87057
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1212
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 416
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "La Reforma"
+}

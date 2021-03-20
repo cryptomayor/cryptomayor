@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4303861",
+    "name": "Pembroke, United States",
+    "description": "Kentucky, Christian County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4303861",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4303861.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 36.77588
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -87.35556
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 889
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 176
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Chicago"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

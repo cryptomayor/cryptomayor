@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3719008",
+    "name": "Petite Anse, Haiti",
+    "description": "Nord-Ouest, M\u00f2l Sen Nikola",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3719008",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3719008.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.63011
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -73.15499
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1539
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 6
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Port-au-Prince"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Haiti"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "HT",
+    "altnames": "Petite Anse"
+}

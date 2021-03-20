@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3519570",
+    "name": "San Ciro de Acosta, Mexico",
+    "description": "San Luis Potos\u00ed, San Ciro de Acosta",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3519570",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3519570.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 21.65072
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -99.81916
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 7026
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 910
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Pedro Montoya,San Ciro,San Ciro de Acosta"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor9079385",
+    "name": "San Pedro Capula, Mexico",
+    "description": "Hidalgo, Ixmiquilpan",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor9079385",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor9079385.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.51311
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -99.15757
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 509
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1757
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "San Pedro Capula"
+}

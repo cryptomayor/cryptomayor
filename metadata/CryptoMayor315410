@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor315410",
+    "name": "Erkilet, Turkey",
+    "description": "Kayseri",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor315410",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor315410.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 38.82043
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 35.44011
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 0
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1356
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Istanbul"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Turkey"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AS"
+        }
+    ],
+    "country_code": "TR",
+    "altnames": "Erkilet"
+}

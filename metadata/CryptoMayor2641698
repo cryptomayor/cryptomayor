@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2641698",
+    "name": "Newbridge, United Kingdom",
+    "description": "Scotland, City of Edinburgh",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2641698",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2641698.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 55.93333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -3.4
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1013
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 62
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/London"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United Kingdom"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "GB",
+    "altnames": "Newbridge"
+}

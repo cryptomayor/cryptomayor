@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2673847",
+    "name": "Stidsvig, Sweden",
+    "description": "Sk\u00e5ne, Klippans Kommun",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2673847",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2673847.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 56.2
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 13.13333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 730
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 58
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Stockholm"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Sweden"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "SE",
+    "altnames": "Stidsvig"
+}

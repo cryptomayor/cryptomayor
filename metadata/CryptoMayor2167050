@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2167050",
+    "name": "Evans Head, Australia",
+    "description": "New South Wales, Richmond Valley",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2167050",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2167050.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -29.11777
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 153.43072
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3320
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 6
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Sydney"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": "EVH,Evans Head"
+}

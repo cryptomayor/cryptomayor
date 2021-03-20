@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3936010",
+    "name": "Longar, Peru",
+    "description": "Ica, Provincia de Ica",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3936010",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3936010.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -14.00867
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -75.74707
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 548
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 431
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Lima"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Peru"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "PE",
+    "altnames": null
+}

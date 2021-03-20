@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor7667751",
+    "name": "Kharagauli, Georgia",
+    "description": "Imereti",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor7667751",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor7667751.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 42.02137
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 43.19773
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 0
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 310
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Asia/Tbilisi"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Georgia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AS"
+        }
+    ],
+    "country_code": "GE",
+    "altnames": null
+}

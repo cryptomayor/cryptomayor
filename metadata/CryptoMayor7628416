@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor7628416",
+    "name": "Sultangazi, Turkey",
+    "description": "Istanbul",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor7628416",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor7628416.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 41.10652
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 28.86847
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 436935
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 144
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Istanbul"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Turkey"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AS"
+        }
+    ],
+    "country_code": "TR",
+    "altnames": null
+}

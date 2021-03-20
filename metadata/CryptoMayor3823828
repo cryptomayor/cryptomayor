@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3823828",
+    "name": "Trapiche Viejo, Mexico",
+    "description": "Veracruz, Amatl\u00e1n de los Reyes",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3823828",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3823828.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.84306
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -96.94556
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1112
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 790
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": null
+}

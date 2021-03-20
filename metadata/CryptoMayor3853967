@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3853967",
+    "name": "Humahuaca, Argentina",
+    "description": "Jujuy, Departamento de Humahuaca",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3853967",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3853967.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -23.20544
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -65.35048
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 11369
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2970
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Argentina/Jujuy"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Argentina"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "AR",
+    "altnames": "Humahuaca"
+}

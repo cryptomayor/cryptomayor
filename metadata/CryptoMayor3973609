@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3973609",
+    "name": "San Diego, Mexico",
+    "description": "San Luis Potos\u00ed, Rioverde",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3973609",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3973609.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 21.91692
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -100.101
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1065
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1044
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "San Diego"
+}

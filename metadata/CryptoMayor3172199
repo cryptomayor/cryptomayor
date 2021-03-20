@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3172199",
+    "name": "Notaresco, Italy",
+    "description": "Abruzzo, Provincia di Teramo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3172199",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3172199.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 42.65742
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 13.89491
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2656
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 241
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "Notaresco"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3037361",
+    "name": "Apremont, France",
+    "description": "Hauts-de-France, Oise",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3037361",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3037361.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 49.22387
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 2.50804
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 861
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 84
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Apremont"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3824080",
+    "name": "Zaragoza, Mexico",
+    "description": "Veracruz, Zaragoza",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3824080",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3824080.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 17.95783
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -94.64231
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 9639
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 25
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Zaragoza"
+}

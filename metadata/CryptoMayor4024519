@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4024519",
+    "name": "La Gloria, Mexico",
+    "description": "Guanajuato, San Francisco del Rinc\u00f3n",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4024519",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4024519.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.83881
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -101.71497
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 791
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1843
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "La Gloria"
+}

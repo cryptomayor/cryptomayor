@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8858718",
+    "name": "Sierra de Guadalupe, Mexico",
+    "description": "M\u00e9xico, Tultitl\u00e1n",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8858718",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8858718.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.5925
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -99.15944
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2011
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2345
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Sierra de Guadalupe"
+}

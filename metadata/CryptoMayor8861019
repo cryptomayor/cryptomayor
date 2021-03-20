@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8861019",
+    "name": "Loma de los Ingleses, Mexico",
+    "description": "Veracruz, Hueyapan de Ocampo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8861019",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8861019.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.14056
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -95.17472
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 747
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 53
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Loma de los Ingleses"
+}

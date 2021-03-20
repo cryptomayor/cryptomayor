@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8347839",
+    "name": "Kings Park, Australia",
+    "description": "Victoria, Brimbank",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8347839",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8347839.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -37.73397
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 144.77766
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 8126
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 80
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Melbourne"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": null
+}

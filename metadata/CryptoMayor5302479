@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5302479",
+    "name": "Littletown, United States",
+    "description": "Arizona, Pima County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5302479",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5302479.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 32.13036
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -110.87287
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 873
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 830
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Phoenix"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

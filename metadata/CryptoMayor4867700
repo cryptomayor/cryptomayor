@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4867700",
+    "name": "Monona, United States",
+    "description": "Iowa, Clayton County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4867700",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4867700.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 43.05165
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -91.3893
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1500
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 372
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Chicago"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

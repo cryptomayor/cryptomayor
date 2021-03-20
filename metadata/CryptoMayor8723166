@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8723166",
+    "name": "Joya Chica, Mexico",
+    "description": "Veracruz, Ixhuatl\u00e1n de Madero",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8723166",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8723166.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.71056
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -97.99889
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 563
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 167
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Joya Chica"
+}

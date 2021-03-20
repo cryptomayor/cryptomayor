@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor11746753",
+    "name": "Hochpoint, Austria",
+    "description": "Upper Austria, Wels Stadt",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor11746753",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor11746753.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 48.16139
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 14.03838
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1545
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 312
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Vienna"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Austria"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "AT",
+    "altnames": null
+}

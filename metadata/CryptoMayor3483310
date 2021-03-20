@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3483310",
+    "name": "Santa Apolonia, Mexico",
+    "description": "Tamaulipas, R\u00edo Bravo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3483310",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3483310.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 25.64303
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -97.98486
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1288
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 20
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Monterrey"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Santa Apolonia"
+}

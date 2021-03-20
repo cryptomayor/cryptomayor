@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2775619",
+    "name": "Hollenegg, Austria",
+    "description": "Styria, Politischer Bezirk Deutschlandsberg",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2775619",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2775619.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 46.79147
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 15.21345
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 201
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 470
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Vienna"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Austria"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "AT",
+    "altnames": null
+}

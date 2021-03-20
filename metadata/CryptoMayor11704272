@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor11704272",
+    "name": "South Kalgoorlie, Australia",
+    "description": "Western Australia, Kalgoorlie/Boulder",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor11704272",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor11704272.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -30.76507
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 121.47334
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 4811
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 364
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Perth"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": null
+}

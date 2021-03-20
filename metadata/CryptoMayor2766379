@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2766379",
+    "name": "Sankt Ulrich, Austria",
+    "description": "Carinthia, Politischer Bezirk Feldkirchen",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2766379",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2766379.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 46.75
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 14.11667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 572
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 579
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Vienna"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Austria"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "AT",
+    "altnames": null
+}

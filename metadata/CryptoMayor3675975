@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3675975",
+    "name": "Los Patios, Colombia",
+    "description": "Norte de Santander, Los Patios",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3675975",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3675975.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 7.83793
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -72.5037
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 58661
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 395
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Bogota"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Colombia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "CO",
+    "altnames": "Los Patios"
+}

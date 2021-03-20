@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3702464",
+    "name": "Pueblo Nuevo, Panama",
+    "description": "Chiriqu\u00ed, Distrito de Dolega",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3702464",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3702464.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 8.58399
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -82.42282
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 534
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 301
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Panama"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Panama"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "PA",
+    "altnames": null
+}

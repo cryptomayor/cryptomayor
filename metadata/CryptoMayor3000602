@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3000602",
+    "name": "L\u00e9signy, France",
+    "description": "\u00cele-de-France, Seine-et-Marne",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3000602",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3000602.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 48.74374
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 2.61518
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 8421
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 96
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2510686",
+    "name": "Tales, Spain",
+    "description": "Valencia, Prov\u00edncia de Castell\u00f3",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2510686",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2510686.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 39.94844
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -0.30719
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 770
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 248
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Madrid"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Spain"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "ES",
+    "altnames": "Tales"
+}

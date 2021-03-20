@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3030127",
+    "name": "Briatexte, France",
+    "description": "Occitanie, Tarn",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3030127",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3030127.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 43.75237
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 1.90879
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1761
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 143
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Briatexte"
+}

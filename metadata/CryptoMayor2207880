@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2207880",
+    "name": "Neutral Bay, Australia",
+    "description": "New South Wales, North Sydney",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2207880",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2207880.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -33.83784
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 151.2175
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 10250
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 43
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Sydney"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": "Neutral Bay"
+}

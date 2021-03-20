@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2654871",
+    "name": "Brasted, United Kingdom",
+    "description": "England, Kent",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2654871",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2654871.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 51.2766
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 0.11068
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 844
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 90
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/London"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United Kingdom"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "GB",
+    "altnames": null
+}

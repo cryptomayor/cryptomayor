@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor920820",
+    "name": "Chambishi, Zambia",
+    "description": "Copperbelt",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor920820",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor920820.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -12.63247
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 28.05367
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 11073
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1304
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Africa/Lusaka"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Zambia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AF"
+        }
+    ],
+    "country_code": "ZM",
+    "altnames": "Chambezi,Chambishi"
+}

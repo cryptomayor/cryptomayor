@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3530617",
+    "name": "Cintalapa de Figueroa, Mexico",
+    "description": "Chiapas, Cintalapa",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3530617",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3530617.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 16.68393
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -93.71814
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 42467
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 577
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Cintalapa,Cintalapa de Figueroa"
+}

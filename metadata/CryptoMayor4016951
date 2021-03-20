@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4016951",
+    "name": "Bocoyna, Mexico",
+    "description": "Chihuahua, Bocoyna",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4016951",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4016951.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 27.84133
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -107.58918
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 796
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2231
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Chihuahua"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Bocoyna"
+}

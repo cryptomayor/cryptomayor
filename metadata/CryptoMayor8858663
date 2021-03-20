@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8858663",
+    "name": "Colonia Morelos (El Nueve), Mexico",
+    "description": "Hidalgo, Mixquiahuala de Ju\u00e1rez",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8858663",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8858663.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.225
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -99.14111
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2172
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2019
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Colonia Morelos (El Nueve)"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor784222",
+    "name": "Vranjska Banja, Serbia",
+    "description": "Central Serbia, P\u010dinja",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor784222",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor784222.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 42.555
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 21.99222
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 0
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 395
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Belgrade"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Serbia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RS",
+    "altnames": "Banja,Vranjska Banja"
+}

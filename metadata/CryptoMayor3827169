@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3827169",
+    "name": "La Esperanza, Mexico",
+    "description": "M\u00e9xico, Villa del Carb\u00f3n",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3827169",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3827169.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.68377
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -99.51575
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1458
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2820
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "La Esperanza"
+}

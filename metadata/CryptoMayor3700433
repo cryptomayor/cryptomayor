@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3700433",
+    "name": "Tres Quebradas, Panama",
+    "description": "Los Santos, Distrito de Los Santos",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3700433",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3700433.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 7.84018
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -80.4074
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 715
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 65
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Panama"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Panama"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "PA",
+    "altnames": "Tres Quebradas"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6325493",
+    "name": "Kamouraska, Canada",
+    "description": "Quebec, Bas-Saint-Laurent",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6325493",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6325493.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.56593
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -69.86631
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 589
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 4
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Toronto"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Canada"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "CA",
+    "altnames": "Kamouraska"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5772418",
+    "name": "Canyon Rim, United States",
+    "description": "Utah, Salt Lake County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5772418",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5772418.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 40.70661
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -111.82188
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 10062
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1413
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Denver"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

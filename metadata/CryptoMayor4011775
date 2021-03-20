@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4011775",
+    "name": "Dos de Abril, Mexico",
+    "description": "Durango, Guadalupe Victoria",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4011775",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4011775.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 24.26434
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -103.93316
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 531
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2164
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Monterrey"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Dos de Abril"
+}

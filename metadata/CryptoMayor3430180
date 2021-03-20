@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3430180",
+    "name": "Pampa del Indio, Argentina",
+    "description": "Chaco, Departamento de Libertador General San Mart\u00edn",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3430180",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3430180.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -26.04982
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -59.93728
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 11588
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 96
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Argentina/Cordoba"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Argentina"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "AR",
+    "altnames": "Pampa del Indio"
+}

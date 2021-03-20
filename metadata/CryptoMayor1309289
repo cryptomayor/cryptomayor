@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor1309289",
+    "name": "Minbu, Myanmar",
+    "description": "Magway, Minbu District",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor1309289",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor1309289.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.18059
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 94.87595
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 57342
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 49
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Asia/Yangon"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Myanmar"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AS"
+        }
+    ],
+    "country_code": "MM",
+    "altnames": "Minbu"
+}

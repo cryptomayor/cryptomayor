@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2909296",
+    "name": "Haste, Germany",
+    "description": "Lower Saxony",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2909296",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2909296.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 52.38105
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 9.3928
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2800
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 53
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Berlin"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Germany"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "DE",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3825942",
+    "name": "El Cerrito, Mexico",
+    "description": "Quer\u00e9taro, Tequisquiapan",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3825942",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3825942.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.47751
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -99.89599
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 571
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1959
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "El Cerrito"
+}

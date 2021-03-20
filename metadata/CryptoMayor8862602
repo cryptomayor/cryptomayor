@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8862602",
+    "name": "Cuauhtapanaloyan, Mexico",
+    "description": "Puebla, Cuetzalan del Progreso",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8862602",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8862602.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.07294
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -97.45743
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 556
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 371
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Cuauhtapanaloyan"
+}

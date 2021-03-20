@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3516030",
+    "name": "Temoaya, Mexico",
+    "description": "M\u00e9xico, Temoaya",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3516030",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3516030.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.46747
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -99.59407
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3301
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2671
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Santiago,Santiago Temoaya,Temoaya"
+}

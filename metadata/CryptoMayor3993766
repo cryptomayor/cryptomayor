@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3993766",
+    "name": "Palo Alto, Mexico",
+    "description": "Jalisco",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3993766",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3993766.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.16436
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -102.92669
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 834
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1537
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": null
+}

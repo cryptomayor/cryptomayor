@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor668124",
+    "name": "Salva, Romania",
+    "description": "Bistri\u0163a-N\u0103s\u0103ud, Comuna Salva",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor668124",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor668124.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.3
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 24.35
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 4368
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 300
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": "Salva"
+}

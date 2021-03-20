@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6094573",
+    "name": "Osgoode, Canada",
+    "description": "Ontario, Ottawa",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6094573",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6094573.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 45.14887
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -75.59778
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2578
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 102
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Toronto"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Canada"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "CA",
+    "altnames": "Osgoode Village"
+}

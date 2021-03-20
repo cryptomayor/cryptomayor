@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor673594",
+    "name": "Mera, Romania",
+    "description": "Vrancea, Comuna Mera",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor673594",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor673594.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 45.76667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 26.95
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3938
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 218
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": "Miera"
+}

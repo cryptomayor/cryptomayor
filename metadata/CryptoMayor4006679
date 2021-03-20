@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4006679",
+    "name": "La Escalera, Mexico",
+    "description": "Sonora, Huatabampo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4006679",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4006679.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 26.77724
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -109.6504
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 569
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 7
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Hermosillo"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Escalera,La Escalera"
+}

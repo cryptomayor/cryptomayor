@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor11238451",
+    "name": "Schwarzenberg, Austria",
+    "description": "Vorarlberg, Politischer Bezirk Bregenz",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor11238451",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor11238451.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.41415
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 9.85154
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1850
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 703
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Vienna"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Austria"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "AT",
+    "altnames": null
+}

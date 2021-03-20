@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor715422",
+    "name": "Szeghalom, Hungary",
+    "description": "Bekes County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor715422",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor715422.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.03333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 21.16667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 9985
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 83
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Budapest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Hungary"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "HU",
+    "altnames": "Szeghalom"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4564149",
+    "name": "Duque, Puerto Rico",
+    "description": "Naguabo, Duque Barrio",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4564149",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4564149.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.23669
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -65.74172
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1529
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 75
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Puerto_Rico"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Puerto Rico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "PR",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3521327",
+    "name": "Pluma Hidalgo, Mexico",
+    "description": "Oaxaca, Pluma Hidalgo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3521327",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3521327.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 15.92711
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -96.41852
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 587
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1322
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Pluma Hidalgo"
+}

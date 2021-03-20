@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3571375",
+    "name": "Spanish Wells, Bahamas",
+    "description": "Spanish Wells",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3571375",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3571375.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 25.54717
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -76.76405
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1500
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 9
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Nassau"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Bahamas"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "BS",
+    "altnames": "SWL,Spanish Wells,Spanish Wells Settlement"
+}

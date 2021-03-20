@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8861839",
+    "name": "Francisco I. Madero, Mexico",
+    "description": "M\u00e9xico, Atenco",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8861839",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8861839.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.52944
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -98.93444
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 636
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2241
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Francisco I. Madero"
+}

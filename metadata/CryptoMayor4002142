@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4002142",
+    "name": "Laguna Colorada, Mexico",
+    "description": "Sinaloa, Culiac\u00e1n",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4002142",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4002142.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 24.68116
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -107.3097
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 765
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 71
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mazatlan"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Laguna Colorada"
+}

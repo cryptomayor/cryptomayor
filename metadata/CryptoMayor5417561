@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5417561",
+    "name": "Colorado City, United States",
+    "description": "Colorado, Pueblo County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5417561",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5417561.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 37.94529
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -104.83526
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2193
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1788
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Denver"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": "Colorado City,Crow Junction"
+}

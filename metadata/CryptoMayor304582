@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor304582",
+    "name": "Meram, Turkey",
+    "description": "Konya, Meram \u0130l\u00e7esi",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor304582",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor304582.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 37.82985
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 32.46777
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 0
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1030
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Istanbul"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Turkey"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AS"
+        }
+    ],
+    "country_code": "TR",
+    "altnames": "Meram"
+}

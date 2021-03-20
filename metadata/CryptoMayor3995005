@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3995005",
+    "name": "Nazas, Mexico",
+    "description": "Durango, Nazas",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3995005",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3995005.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 25.22462
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -104.11458
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3622
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1253
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Monterrey"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Nazas"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8348431",
+    "name": "Beacon Hill, Australia",
+    "description": "New South Wales, Northern Beaches",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8348431",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8348431.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -33.7528
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 151.25857
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 7308
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 123
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Sydney"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": null
+}

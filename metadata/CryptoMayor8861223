@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8861223",
+    "name": "Barrio Santa Teresa, Mexico",
+    "description": "M\u00e9xico, Tenancingo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8861223",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8861223.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.96585
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -99.60149
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 713
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2019
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Barrio Santa Teresa"
+}

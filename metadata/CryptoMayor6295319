@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6295319",
+    "name": "Geroldswil / Bergacker, Switzerland",
+    "description": "Zurich, Bezirk Dietikon",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6295319",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6295319.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.4257
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 8.40884
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 588
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 456
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Zurich"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Switzerland"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "CH",
+    "altnames": "Bergacker"
+}

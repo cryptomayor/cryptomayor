@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3137959",
+    "name": "Sokna, Norway",
+    "description": "Viken, Ringerike",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3137959",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3137959.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 60.23885
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 9.92806
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 543
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 140
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Oslo"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Norway"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "NO",
+    "altnames": "Sokna"
+}

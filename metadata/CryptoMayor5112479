@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5112479",
+    "name": "Chestertown, United States",
+    "description": "New York, Warren County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5112479",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5112479.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 43.65257
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -73.80096
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 677
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 259
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/New_York"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

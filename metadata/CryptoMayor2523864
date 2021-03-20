@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2523864",
+    "name": "Patti, Italy",
+    "description": "Sicily, Messina",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2523864",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2523864.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 38.14736
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 14.96409
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 9321
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 67
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "Patti"
+}

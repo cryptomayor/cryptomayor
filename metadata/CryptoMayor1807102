@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor1807102",
+    "name": "Huangzhuang, China",
+    "description": "Tianjin",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor1807102",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor1807102.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 39.48167
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 117.51361
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3076
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 0
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Asia/Shanghai"
+        },
+        {
+            "trait_type": "Country",
+            "value": "China"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AS"
+        }
+    ],
+    "country_code": "CN",
+    "altnames": "Huang-chuang,Huang-chuang-chen,Huangzhuang"
+}

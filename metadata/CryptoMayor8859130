@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8859130",
+    "name": "Paraje la Pera, Mexico",
+    "description": "M\u00e9xico, Huixquilucan",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8859130",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8859130.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.38056
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -99.345
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1442
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2700
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Paraje la Pera"
+}

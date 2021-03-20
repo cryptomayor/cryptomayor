@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3516048",
+    "name": "Temax, Mexico",
+    "description": "Yucat\u00e1n, Temax",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3516048",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3516048.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 21.15105
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -88.94039
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 6239
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 13
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Merida"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Temax"
+}

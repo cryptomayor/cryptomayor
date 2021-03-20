@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8860026",
+    "name": "Las Puentes (Guadalupe Victoria), Mexico",
+    "description": "Sinaloa, Navolato",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8860026",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8860026.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 24.5325
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -107.54056
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 972
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 5
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mazatlan"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Las Puentes (Guadalupe Victoria)"
+}

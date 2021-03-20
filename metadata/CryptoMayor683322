@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor683322",
+    "name": "Buleta, Romania",
+    "description": "V\u00e2lcea, Comuna Mih\u0103e\u015fti",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor683322",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor683322.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 45.03978
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 24.25367
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 901
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 231
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": null
+}

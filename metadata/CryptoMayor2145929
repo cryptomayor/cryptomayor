@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2145929",
+    "name": "Tugun, Australia",
+    "description": "Queensland, Gold Coast",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2145929",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2145929.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -28.15
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 153.5
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 6951
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 5
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Brisbane"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": "Tugun"
+}

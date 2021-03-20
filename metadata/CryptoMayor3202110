@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3202110",
+    "name": "Dekanovec, Croatia",
+    "description": "Me\u0111imurska, Op\u0107ina Dekanovec",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3202110",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3202110.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 46.44861
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 16.58472
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 774
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 152
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Zagreb"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Croatia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "HR",
+    "altnames": "Dekanovec"
+}

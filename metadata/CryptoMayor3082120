@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3082120",
+    "name": "Wierzchos\u0142awice, Poland",
+    "description": "Lower Silesia, Powiat jaworski",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3082120",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3082120.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 50.89129
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 16.09197
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 870
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 360
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Warsaw"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Poland"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "PL",
+    "altnames": null
+}

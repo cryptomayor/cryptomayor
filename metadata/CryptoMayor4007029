@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4007029",
+    "name": "Valle de Eureka, Mexico",
+    "description": "Durango, G\u00f3mez Palacio",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4007029",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4007029.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 25.81757
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -103.39686
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 672
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1107
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Monterrey"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "El Valle,Valle de Eureka"
+}

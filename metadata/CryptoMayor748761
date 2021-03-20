@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor748761",
+    "name": "Daday, Turkey",
+    "description": "Kastamonu",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor748761",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor748761.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 41.47866
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 33.46667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 5199
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 869
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Istanbul"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Turkey"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AS"
+        }
+    ],
+    "country_code": "TR",
+    "altnames": "Daday"
+}

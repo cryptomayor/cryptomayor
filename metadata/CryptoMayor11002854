@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor11002854",
+    "name": "Maliuc, Romania",
+    "description": "Tulcea, Comuna Maliuc",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor11002854",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor11002854.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 45.17678
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 29.11334
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 238
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 3
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": null
+}

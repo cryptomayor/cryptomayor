@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2857791",
+    "name": "Offenhausen, Germany",
+    "description": "Bavaria, Regierungsbezirk Mittelfranken",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2857791",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2857791.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 49.44971
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 11.41316
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1616
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 389
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Berlin"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Germany"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "DE",
+    "altnames": null
+}

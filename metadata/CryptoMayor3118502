@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3118502",
+    "name": "Lesaka, Spain",
+    "description": "Navarre",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3118502",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3118502.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 43.25
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -1.7
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2741
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 66
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Madrid"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Spain"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "ES",
+    "altnames": "Lesaca,Lesaka"
+}

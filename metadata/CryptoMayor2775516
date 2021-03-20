@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2775516",
+    "name": "Horn, Austria",
+    "description": "Lower Austria, Politischer Bezirk Horn",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2775516",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2775516.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 48.66274
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 15.65663
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 5494
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 307
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Vienna"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Austria"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "AT",
+    "altnames": "Horn"
+}

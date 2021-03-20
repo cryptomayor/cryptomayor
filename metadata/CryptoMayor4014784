@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4014784",
+    "name": "Cerro Blanco, Mexico",
+    "description": "Nayarit, Santa Mar\u00eda del Oro",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4014784",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4014784.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 21.37864
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -104.6202
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 712
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 972
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mazatlan"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4786667",
+    "name": "South Riding, United States",
+    "description": "Virginia, Loudoun County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4786667",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4786667.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 38.92094
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -77.50388
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 24256
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 101
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/New_York"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

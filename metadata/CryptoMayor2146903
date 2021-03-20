@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2146903",
+    "name": "The Oaks, Australia",
+    "description": "New South Wales, Wollondilly",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2146903",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2146903.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -34.07995
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 150.56998
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2516
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 289
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Sydney"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": "The Oaks"
+}

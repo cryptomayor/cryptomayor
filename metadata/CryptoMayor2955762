@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2955762",
+    "name": "Appel, Germany",
+    "description": "Lower Saxony",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2955762",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2955762.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 53.3906
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 9.74565
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1930
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 30
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Berlin"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Germany"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "DE",
+    "altnames": null
+}

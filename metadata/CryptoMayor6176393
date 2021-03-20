@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6176393",
+    "name": "Warwick, Canada",
+    "description": "Quebec, Centre-du-Qu\u00e9bec",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6176393",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6176393.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 45.95007
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -71.9824
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3340
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 168
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Toronto"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Canada"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "CA",
+    "altnames": null
+}

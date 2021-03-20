@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2180471",
+    "name": "Waharoa, New Zealand",
+    "description": "Waikato, Matamata-Piako District",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2180471",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2180471.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -37.76667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 175.76667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 569
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 54
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Pacific/Auckland"
+        },
+        {
+            "trait_type": "Country",
+            "value": "New Zealand"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "NZ",
+    "altnames": null
+}

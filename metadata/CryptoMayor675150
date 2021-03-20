@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor675150",
+    "name": "Jugureni, Romania",
+    "description": "Prahova, Comuna Jugureni",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor675150",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor675150.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 45.1
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 26.45
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 730
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 451
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": "Jugure,Jugureni"
+}

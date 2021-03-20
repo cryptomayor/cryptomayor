@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3817508",
+    "name": "Agua Amarga, Mexico",
+    "description": "M\u00e9xico, Coatepec Harinas",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3817508",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3817508.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.96335
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -99.75186
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 621
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2510
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Agua Amarga"
+}

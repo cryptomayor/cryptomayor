@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3530285",
+    "name": "Constancia del Rosario, Mexico",
+    "description": "Oaxaca, Constancia del Rosario",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3530285",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3530285.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 17.0382
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -97.94125
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1205
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 763
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Constancia,Constancia del Rosario"
+}

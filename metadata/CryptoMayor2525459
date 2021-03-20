@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2525459",
+    "name": "Calatabiano, Italy",
+    "description": "Sicily, Catania",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2525459",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2525459.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 37.82049
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 15.23069
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 4102
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 55
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "Calatabiano,Calatabianu"
+}

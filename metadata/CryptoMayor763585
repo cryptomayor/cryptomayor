@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor763585",
+    "name": "Nowosielce-Gniewosz, Poland",
+    "description": "Subcarpathia, Powiat sanocki",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor763585",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor763585.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 49.56842
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 22.06947
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1200
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 305
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Warsaw"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Poland"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "PL",
+    "altnames": "Nowosielce,Nowosielce-Gniewosz"
+}

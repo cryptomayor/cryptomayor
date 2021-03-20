@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3014006",
+    "name": "Ham-sous-Varsberg, France",
+    "description": "Grand Est, Moselle",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3014006",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3014006.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 49.18014
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 6.64702
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2790
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 224
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Ham,Ham-sous-Varsberg"
+}

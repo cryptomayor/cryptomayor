@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2718836",
+    "name": "Bua, Sweden",
+    "description": "Halland, Varbergs Kommun",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2718836",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2718836.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 57.2378
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 12.12187
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1792
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 12
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Stockholm"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Sweden"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "SE",
+    "altnames": null
+}

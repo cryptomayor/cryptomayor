@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2523238",
+    "name": "San Vito Lo Capo, Italy",
+    "description": "Sicily, Trapani",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2523238",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2523238.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 38.17395
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 12.73599
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2730
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 11
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "San Vito,San Vito Lo Capo,San Vito lo Cape,San Vito lo Capo"
+}

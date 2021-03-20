@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor672144",
+    "name": "Nucet, Romania",
+    "description": "Prahova, Comuna Chiojdeanca",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor672144",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor672144.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 45.15911
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 26.28768
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 508
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 256
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": null
+}

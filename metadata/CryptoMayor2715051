@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2715051",
+    "name": "Finja, Sweden",
+    "description": "Sk\u00e5ne, H\u00e4ssleholms Kommun",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2715051",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2715051.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 56.16667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 13.68333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 616
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 74
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Stockholm"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Sweden"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "SE",
+    "altnames": "Finja"
+}

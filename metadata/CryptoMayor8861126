@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8861126",
+    "name": "San Miguel, Mexico",
+    "description": "Chiapas, Ocosingo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8861126",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8861126.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 16.79667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -91.85083
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 729
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 873
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "San Miguel"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4018786",
+    "name": "Alhuey, Mexico",
+    "description": "Sinaloa, Angostura",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4018786",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4018786.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 25.37806
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -108.13028
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2686
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 26
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mazatlan"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Alhuey,Alhuey de los Lugos"
+}

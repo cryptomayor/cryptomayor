@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8858181",
+    "name": "Jacarandas, Mexico",
+    "description": "Veracruz, Emiliano Zapata",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8858181",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8858181.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.49556
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -96.85278
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 8351
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1198
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Jacarandas"
+}

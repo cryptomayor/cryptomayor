@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2523385",
+    "name": "Villa San Pietro, Italy",
+    "description": "Sardinia, Provincia di Cagliari",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2523385",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2523385.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 39.03554
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 8.99695
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1756
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 34
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "San Pietro Pula,Villa San Pietro"
+}

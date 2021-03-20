@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor60809",
+    "name": "Diinsoor, Somalia",
+    "description": "Bay, Diinsoor",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor60809",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor60809.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 2.4085
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 42.9771
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 20000
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 311
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Africa/Mogadishu"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Somalia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AF"
+        }
+    ],
+    "country_code": "SO",
+    "altnames": "Dhiinsoor,Diinsoor,Dinsoor,Dinsor"
+}

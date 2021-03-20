@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor1729918",
+    "name": "Avila, Philippines",
+    "description": "Western Visayas, Province of Guimaras",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor1729918",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor1729918.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 10.692
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 122.709
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2349
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 48
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Asia/Manila"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Philippines"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AS"
+        }
+    ],
+    "country_code": "PH",
+    "altnames": "Avila"
+}

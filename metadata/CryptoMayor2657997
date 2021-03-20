@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2657997",
+    "name": "Wikon, Switzerland",
+    "description": "Lucerne, Willisau District",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2657997",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2657997.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.26339
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 7.96801
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1218
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 463
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Zurich"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Switzerland"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "CH",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4568109",
+    "name": "San Isidro, Puerto Rico",
+    "description": "Can\u00f3vanas, Can\u00f3vanas Barrio",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4568109",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4568109.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.39217
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -65.88544
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 8071
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 12
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Puerto_Rico"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Puerto Rico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "PR",
+    "altnames": null
+}

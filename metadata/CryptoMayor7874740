@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor7874740",
+    "name": "Villa Presidente Frei, \u00d1u\u00f1oa, Santiago, Chile, Chile",
+    "description": "Santiago Metropolitan, Provincia de Santiago",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor7874740",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor7874740.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -33.46069
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -70.58024
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 15000
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 606
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Santiago"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Chile"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "CL",
+    "altnames": null
+}

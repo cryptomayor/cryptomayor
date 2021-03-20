@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2779380",
+    "name": "Frankenburg, Austria",
+    "description": "Upper Austria, Politischer Bezirk V\u00f6cklabruck",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2779380",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2779380.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 48.06844
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 13.49065
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2122
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 515
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Vienna"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Austria"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "AT",
+    "altnames": "Frankenburg am Hausruck"
+}

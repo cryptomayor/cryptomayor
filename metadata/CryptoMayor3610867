@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3610867",
+    "name": "El Perico, Honduras",
+    "description": "Choluteca",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3610867",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3610867.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 13.13889
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -87.03222
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 957
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 225
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Tegucigalpa"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Honduras"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "HN",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3816270",
+    "name": "Nuevo M\u00e9xico, Mexico",
+    "description": "Chiapas, Las Margaritas",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3816270",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3816270.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 16.5693
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -92.08508
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 662
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1556
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Nuevo Mexico,Nuevo M\u00e9xico"
+}

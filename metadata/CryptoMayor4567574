@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4567574",
+    "name": "Rafael Gonzalez, Puerto Rico",
+    "description": "Hatillo, Campo Alegre Barrio",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4567574",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4567574.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.42745
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -66.78684
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2325
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 130
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Puerto_Rico"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Puerto Rico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "PR",
+    "altnames": null
+}

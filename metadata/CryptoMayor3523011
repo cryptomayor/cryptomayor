@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3523011",
+    "name": "Mazatlan, Mexico",
+    "description": "Nuevo Le\u00f3n, Montemorelos",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3523011",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3523011.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 25.18909
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -99.82865
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 45108
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 422
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mazatlan"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Montemorelos"
+}

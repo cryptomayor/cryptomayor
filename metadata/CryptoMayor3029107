@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3029107",
+    "name": "Calmont, France",
+    "description": "Occitanie, Aveyron",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3029107",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3029107.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 44.24883
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 2.51201
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1787
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 574
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Calmont"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8564150",
+    "name": "Alpujarra, Colombia",
+    "description": "Tolima, Alpujarra",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8564150",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8564150.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 3.39176
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -74.93344
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 0
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1307
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Bogota"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Colombia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "CO",
+    "altnames": "Alpujarra"
+}

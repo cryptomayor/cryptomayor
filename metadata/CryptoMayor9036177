@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor9036177",
+    "name": "Prignano, Italy",
+    "description": "Emilia-Romagna, Provincia di Modena",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor9036177",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor9036177.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 44.4379
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 10.69118
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 604
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 556
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "Prignano"
+}

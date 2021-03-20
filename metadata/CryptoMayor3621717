@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3621717",
+    "name": "San Pedro, Costa Rica",
+    "description": "San Jos\u00e9, Montes de Oca",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3621717",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3621717.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 9.92829
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -84.05074
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 27477
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1199
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Costa_Rica"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Costa Rica"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "CR",
+    "altnames": "Pedro,San Pedro,San Pedro de Montes de Oca"
+}

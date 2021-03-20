@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2523421",
+    "name": "San Martino, Italy",
+    "description": "Calabria, Provincia di Reggio Calabria",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2523421",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2523421.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 38.36157
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 15.97634
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1704
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 138
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "San Martino"
+}

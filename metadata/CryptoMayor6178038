@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6178038",
+    "name": "Wembley, Canada",
+    "description": "Alberta",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6178038",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6178038.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 55.14995
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -119.13602
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1574
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 729
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Edmonton"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Canada"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "CA",
+    "altnames": null
+}

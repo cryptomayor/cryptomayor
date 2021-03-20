@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8949372",
+    "name": "Tavo, Italy",
+    "description": "Veneto, Provincia di Padova",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8949372",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8949372.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 45.50066
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 11.86079
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1072
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 17
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "Tavo"
+}

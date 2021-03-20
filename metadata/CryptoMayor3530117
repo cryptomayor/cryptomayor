@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3530117",
+    "name": "Coyotillos, Mexico",
+    "description": "Hidalgo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3530117",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3530117.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.9998
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -99.15817
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3084
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2255
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Coyotillos"
+}

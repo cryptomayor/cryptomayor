@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3846258",
+    "name": "Los Cocos, Argentina",
+    "description": "Cordoba",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3846258",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3846258.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -30.92497
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -64.50207
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1035
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1179
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Argentina/Cordoba"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Argentina"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "AR",
+    "altnames": "Los Cocos"
+}

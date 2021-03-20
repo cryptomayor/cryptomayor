@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3998502",
+    "name": "Llano Grande de Milpillas Chico, Mexico",
+    "description": "Durango, Pueblo Nuevo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3998502",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3998502.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 23.41028
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -105.04333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 627
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2176
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Monterrey"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": null
+}

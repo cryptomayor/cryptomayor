@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3179111",
+    "name": "Cercino, Italy",
+    "description": "Lombardy, Provincia di Sondrio",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3179111",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3179111.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 46.15809
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 9.50814
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 138
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 526
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "Cercino"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor7701408",
+    "name": "Las Praderas, Nicaragua",
+    "description": "Jinotega, Municipio de Santa Mar\u00eda de Pantasma",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor7701408",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor7701408.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 13.17
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -85.85
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 7836
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1009
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Managua"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Nicaragua"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "NI",
+    "altnames": null
+}

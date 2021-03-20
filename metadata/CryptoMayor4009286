@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4009286",
+    "name": "El Mentidero, Mexico",
+    "description": "Jalisco, Autl\u00e1n de Navarro",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4009286",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4009286.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.7707
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -104.29313
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1406
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 886
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "El Mentidero"
+}

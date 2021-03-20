@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2157060",
+    "name": "Moonee Beach, Australia",
+    "description": "New South Wales, Coffs Harbour",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2157060",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2157060.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -30.20575
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 153.15293
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1985
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 27
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Sydney"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": null
+}

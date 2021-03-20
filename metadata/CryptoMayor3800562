@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3800562",
+    "name": "Bajos de Chila, Mexico",
+    "description": "Oaxaca, San Pedro Mixtepec -Dto. 22 -",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3800562",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3800562.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 15.92343
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -97.12113
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 5425
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 24
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Bajos de Chila"
+}

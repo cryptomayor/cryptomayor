@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8860744",
+    "name": "La Constancia, Mexico",
+    "description": "Durango, Nombre de Dios",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8860744",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8860744.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 23.91611
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -104.26583
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 790
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1787
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Monterrey"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Constancia,La Constancia"
+}

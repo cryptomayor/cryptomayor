@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor149114",
+    "name": "Usoke, Tanzania",
+    "description": "Tabora, Urambo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor149114",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor149114.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -5.16667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 32.35
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 7295
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1161
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Africa/Dar_es_Salaam"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Tanzania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AF"
+        }
+    ],
+    "country_code": "TZ",
+    "altnames": null
+}

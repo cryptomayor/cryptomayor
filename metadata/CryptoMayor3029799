@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3029799",
+    "name": "Bruges, France",
+    "description": "Nouvelle-Aquitaine, Gironde",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3029799",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3029799.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 44.88287
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -0.61222
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 12650
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 13
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Bruges"
+}

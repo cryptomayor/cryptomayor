@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3131901",
+    "name": "Vevelstad, Norway",
+    "description": "Nordland, Vevelstad",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3131901",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3131901.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 65.6978
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 12.43706
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 0
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 30
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Oslo"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Norway"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "NO",
+    "altnames": null
+}

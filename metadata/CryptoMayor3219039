@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3219039",
+    "name": "Rio San Martino, Italy",
+    "description": "Veneto, Provincia di Venezia",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3219039",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3219039.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 45.59227
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 12.11158
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 866
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 12
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": null
+}

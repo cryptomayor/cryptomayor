@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3013416",
+    "name": "Hermies, France",
+    "description": "Hauts-de-France, Pas-de-Calais",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3013416",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3013416.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 50.11126
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 3.04202
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1159
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 115
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Hermies"
+}

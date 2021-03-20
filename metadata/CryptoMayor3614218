@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3614218",
+    "name": "Cane, Honduras",
+    "description": "La Paz",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3614218",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3614218.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 14.28333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -87.66667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2190
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 659
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Tegucigalpa"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Honduras"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "HN",
+    "altnames": "Cane"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3699514",
+    "name": "Aucayo, Peru",
+    "description": "Loreto, Provincia de Maynas",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3699514",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3699514.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -3.8615
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -73.15184
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 743
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 89
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Lima"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Peru"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "PE",
+    "altnames": "Aucaya,Aucayo"
+}

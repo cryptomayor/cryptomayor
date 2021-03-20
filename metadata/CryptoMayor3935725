@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3935725",
+    "name": "Luricocha, Peru",
+    "description": "Ayacucho, Provincia de Huanta",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3935725",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3935725.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -12.85
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -74.26667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 0
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 3672
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Lima"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Peru"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "PE",
+    "altnames": null
+}

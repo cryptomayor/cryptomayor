@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8949773",
+    "name": "Case del Molino, Italy",
+    "description": "Emilia-Romagna, Provincia di Rimini",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8949773",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8949773.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 43.9917
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 12.60698
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 743
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 27
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "Case del Molino"
+}

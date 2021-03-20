@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8859598",
+    "name": "Chimhucum, Mexico",
+    "description": "Chiapas, Mitontic",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8859598",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8859598.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 16.89
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -92.53139
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1143
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1776
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Chimhucum"
+}

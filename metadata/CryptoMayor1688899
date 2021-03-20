@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor1688899",
+    "name": "San Nicolas, Philippines",
+    "description": "Western Visayas, Province of Capiz",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor1688899",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor1688899.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 11.3213
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 122.5184
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2364
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 53
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Asia/Manila"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Philippines"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AS"
+        }
+    ],
+    "country_code": "PH",
+    "altnames": "San Nicolas"
+}

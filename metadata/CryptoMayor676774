@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor676774",
+    "name": "Greaca, Romania",
+    "description": "Giurgiu, Comuna Greaca",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor676774",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor676774.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 44.10944
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 26.33944
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2796
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 72
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": null
+}

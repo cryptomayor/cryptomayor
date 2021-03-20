@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3821533",
+    "name": "Zacacoyuca, Mexico",
+    "description": "Guerrero, Iguala de la Independencia",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3821533",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3821533.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.25029
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -99.52763
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1526
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 907
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Zacacoyuca"
+}

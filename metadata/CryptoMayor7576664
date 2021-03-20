@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor7576664",
+    "name": "Cabanas de Tavira, Portugal",
+    "description": "Faro, Tavira",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor7576664",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor7576664.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 37.13521
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -7.60048
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1181
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 6
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Lisbon"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Portugal"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "PT",
+    "altnames": null
+}

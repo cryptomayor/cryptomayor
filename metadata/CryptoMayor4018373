@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4018373",
+    "name": "Aquila, Mexico",
+    "description": "Michoac\u00e1n, Aquila",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4018373",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4018373.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.5997
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -103.50454
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1740
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 201
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Aquila"
+}

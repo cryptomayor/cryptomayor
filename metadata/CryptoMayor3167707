@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3167707",
+    "name": "Santa Barbara, Italy",
+    "description": "Campania, Provincia di Salerno",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3167707",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3167707.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 40.17898
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 15.25788
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 541
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 280
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "Santa Barbara"
+}

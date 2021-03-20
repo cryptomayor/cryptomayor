@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4994871",
+    "name": "Grosse Pointe Woods, United States",
+    "description": "Michigan, Wayne County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4994871",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4994871.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 42.44365
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -82.90686
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 15762
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 180
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Detroit"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor12042098",
+    "name": "Salt Spring Island, Canada",
+    "description": "British Columbia, Capital Regional District",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor12042098",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor12042098.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 48.81852
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -123.49061
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 10557
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 122
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Vancouver"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Canada"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "CA",
+    "altnames": "Salt Spring Island"
+}

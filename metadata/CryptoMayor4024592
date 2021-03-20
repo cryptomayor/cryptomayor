@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4024592",
+    "name": "Los Medranos, Mexico",
+    "description": "Guanajuato, Silao de la Victoria",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4024592",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4024592.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.88283
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -101.4364
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1449
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1755
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Los Medranos,Medranos"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3431777",
+    "name": "Las Garcitas, Argentina",
+    "description": "Chaco, Departamento de Sargento Cabral",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3431777",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3431777.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -26.61802
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -59.80135
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 4244
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 86
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Argentina/Cordoba"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Argentina"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "AR",
+    "altnames": "Colonia Las Garcitas,Las Garcitas"
+}

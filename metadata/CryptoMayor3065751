@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3065751",
+    "name": "Sme\u010dno, Czechia",
+    "description": "Central Bohemia, Okres Kladno",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3065751",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3065751.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 50.18844
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 14.04037
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1781
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 374
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Prague"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Czechia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "CZ",
+    "altnames": null
+}

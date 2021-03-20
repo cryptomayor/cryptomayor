@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3733434",
+    "name": "El Dorado, Colombia",
+    "description": "Meta, Puerto Rico",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3733434",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3733434.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 2.77411
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -72.86834
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1011
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 201
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Bogota"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Colombia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "CO",
+    "altnames": "El Dorado"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor686228",
+    "name": "Archid, Romania",
+    "description": "S\u0103laj, Comuna Co\u015feiu",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor686228",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor686228.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.34519
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 23.01353
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 523
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 222
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": null
+}

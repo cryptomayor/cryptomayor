@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor592557",
+    "name": "Alatskivi, Estonia",
+    "description": "Tartu, Peipsi\u00e4\u00e4re vald",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor592557",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor592557.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 58.59806
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 27.13361
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 430
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 48
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Tallinn"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Estonia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "EE",
+    "altnames": "Alatskivi"
+}

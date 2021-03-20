@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor1860563",
+    "name": "Kamiichi, Japan",
+    "description": "Toyama, Nakaniikawa Gun",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor1860563",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor1860563.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 36.7
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 137.36667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 23004
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 42
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Asia/Tokyo"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Japan"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AS"
+        }
+    ],
+    "country_code": "JP",
+    "altnames": "Kamiichi"
+}

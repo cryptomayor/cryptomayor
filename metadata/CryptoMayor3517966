@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3517966",
+    "name": "San Pedro, Mexico",
+    "description": "Chiapas, Salto de Agua",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3517966",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3517966.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 17.39604
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -92.21427
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 539
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 78
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "La Sabana,Sabana,San Pedro,San Pedro Sabana"
+}

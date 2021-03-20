@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3576414",
+    "name": "Vieux Fort, Saint Lucia",
+    "description": "Vieux-Fort, Moule A Chique",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3576414",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3576414.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 13.71667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -60.95
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 4574
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 76
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/St_Lucia"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Saint Lucia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "LC",
+    "altnames": "Vieux Fort"
+}

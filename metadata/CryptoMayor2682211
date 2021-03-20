@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2682211",
+    "name": "Rockneby, Sweden",
+    "description": "Kalmar, Kalmar Kommun",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2682211",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2682211.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 56.80223
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 16.35014
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 898
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 12
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Stockholm"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Sweden"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "SE",
+    "altnames": "Rockneby"
+}

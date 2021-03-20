@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor535270",
+    "name": "Likhobory, Russia",
+    "description": "Moscow",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor535270",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor535270.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 55.85
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 37.56667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 50000
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 147
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Moscow"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Russia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RU",
+    "altnames": "Likhobory,\u041b\u0438\u0445\u043e\u0431\u043e\u0440\u044b"
+}

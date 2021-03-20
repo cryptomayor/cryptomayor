@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6185619",
+    "name": "Youbou, Canada",
+    "description": "British Columbia",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6185619",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6185619.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 48.86632
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -124.20271
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 734
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 183
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Vancouver"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Canada"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "CA",
+    "altnames": null
+}

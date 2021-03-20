@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2184564",
+    "name": "Piopio, New Zealand",
+    "description": "Waikato, Waitomo District",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2184564",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2184564.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -38.46667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 175.01667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 502
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 145
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Pacific/Auckland"
+        },
+        {
+            "trait_type": "Country",
+            "value": "New Zealand"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "NZ",
+    "altnames": null
+}

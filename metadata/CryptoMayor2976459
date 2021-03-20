@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2976459",
+    "name": "Saleux, France",
+    "description": "Hauts-de-France, Somme",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2976459",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2976459.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 49.8563
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 2.23698
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2449
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 33
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Saleux"
+}

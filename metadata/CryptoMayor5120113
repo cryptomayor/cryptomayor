@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5120113",
+    "name": "Harrisville, United States",
+    "description": "New York, Chenango County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5120113",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5120113.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 42.68007
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -75.46295
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 605
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 391
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/New_York"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

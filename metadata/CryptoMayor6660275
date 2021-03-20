@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6660275",
+    "name": "La Pampa, Peru",
+    "description": "Arequipa, Provincia de Arequipa",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6660275",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6660275.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -16.48607
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -71.52366
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 697
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2353
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Lima"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Peru"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "PE",
+    "altnames": null
+}

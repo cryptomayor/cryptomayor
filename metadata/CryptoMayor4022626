@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4022626",
+    "name": "Laguna de Labradores, Mexico",
+    "description": "Nuevo Le\u00f3n, Galeana",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4022626",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4022626.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 24.81684
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -100.11683
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 525
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1729
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Monterrey"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Laguna de Labradores"
+}

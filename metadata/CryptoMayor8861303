@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8861303",
+    "name": "Villa de Guadalupe Victoria, Mexico",
+    "description": "Oaxaca, San Miguel el Grande",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8861303",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8861303.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 17.06972
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -97.61056
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 702
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2504
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Villa de Guadalupe Victoria"
+}

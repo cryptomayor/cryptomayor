@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3713678",
+    "name": "Buenos Aires, Panama",
+    "description": "Panam\u00e1 Oeste, Distrito de Chame",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3713678",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3713678.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 8.63146
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -79.94775
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 496
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 232
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Panama"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Panama"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "PA",
+    "altnames": "Buenos Aires"
+}

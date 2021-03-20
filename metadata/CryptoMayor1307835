@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor1307835",
+    "name": "Myingyan, Myanmar",
+    "description": "Mandalay, Myingyan District",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor1307835",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor1307835.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 21.46002
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 95.3884
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 141713
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 76
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Asia/Yangon"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Myanmar"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AS"
+        }
+    ],
+    "country_code": "MM",
+    "altnames": "Myingan,Myingyan"
+}

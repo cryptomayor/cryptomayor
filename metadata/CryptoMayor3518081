@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3518081",
+    "name": "San Pedro Tlachichilco, Mexico",
+    "description": "Hidalgo, Acaxochitl\u00e1n",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3518081",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3518081.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.16109
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -98.26415
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1896
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2194
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "San Pedro,San Pedro Tlachichilco"
+}

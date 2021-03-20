@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8347692",
+    "name": "Glenfield Park, Australia",
+    "description": "New South Wales, Wagga Wagga",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8347692",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8347692.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -35.13725
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 147.33285
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 5122
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 205
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Sydney"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": null
+}

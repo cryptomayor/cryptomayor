@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor668737",
+    "name": "Roma, Romania",
+    "description": "Boto\u015fani, Comuna Roma",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor668737",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor668737.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.83333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 26.6
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3218
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 128
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": null
+}

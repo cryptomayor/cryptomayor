@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3979954",
+    "name": "Y\u00e9cora, Mexico",
+    "description": "Chihuahua",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3979954",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3979954.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 28.37154
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -108.92781
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2920
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1546
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Hermosillo"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": null
+}

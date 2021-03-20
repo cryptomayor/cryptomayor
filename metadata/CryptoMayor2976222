@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2976222",
+    "name": "Sandouville, France",
+    "description": "Normandy, Seine-Maritime",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2976222",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2976222.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 49.4978
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 0.31748
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 769
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 99
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Sandouville"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2796864",
+    "name": "Guignies, Belgium",
+    "description": "Wallonia, Province du Hainaut",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2796864",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2796864.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 50.54785
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 3.37024
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 754
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 40
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Brussels"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Belgium"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "BE",
+    "altnames": "Guignies"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor11001788",
+    "name": "Urzica, Romania",
+    "description": "Olt, Comuna Urzica",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor11001788",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor11001788.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 43.8567
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 24.28952
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1514
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 86
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": null
+}

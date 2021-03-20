@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8861805",
+    "name": "Colonia Loma Bonita, Mexico",
+    "description": "M\u00e9xico, Toluca",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8861805",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8861805.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.23278
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -99.65917
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 640
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2749
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Colonia Loma Bonita"
+}

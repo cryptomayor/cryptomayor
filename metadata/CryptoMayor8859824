@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8859824",
+    "name": "San Julio, Mexico",
+    "description": "Durango, Tlahualilo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8859824",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8859824.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 25.93639
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -103.42083
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1046
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1099
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Monterrey"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "San Julio"
+}

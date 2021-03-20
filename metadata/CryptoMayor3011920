@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3011920",
+    "name": "Kerbach, France",
+    "description": "Grand Est, Moselle",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3011920",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3011920.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 49.16682
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 6.96549
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1024
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 284
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Kerbach"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8858195",
+    "name": "Tenango de las Flores, Mexico",
+    "description": "Puebla, Huauchinango",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8858195",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8858195.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.20583
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -97.98806
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 7334
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1305
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Tenango de las Flores"
+}

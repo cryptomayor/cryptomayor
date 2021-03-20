@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4024719",
+    "name": "Santas Mar\u00edas, Mexico",
+    "description": "Guanajuato, San Miguel de Allende",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4024719",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4024719.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.8769
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -100.54522
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 964
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2140
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Santa Maria,Santa Mar\u00eda,Santas Marias,Santas Mar\u00edas"
+}

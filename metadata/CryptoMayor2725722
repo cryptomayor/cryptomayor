@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2725722",
+    "name": "Ankarsrum, Sweden",
+    "description": "Kalmar, V\u00e4sterviks Kommun",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2725722",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2725722.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 57.69896
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 16.33407
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1234
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 57
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Stockholm"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Sweden"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "SE",
+    "altnames": "Ankarsrum"
+}

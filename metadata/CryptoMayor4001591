@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4001591",
+    "name": "La Lobe\u00f1a, Mexico",
+    "description": "Zacatecas, Pinos",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4001591",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4001591.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 22.29204
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -101.70098
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 867
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2225
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": null
+}

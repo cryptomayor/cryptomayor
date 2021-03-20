@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8950656",
+    "name": "Covelo, Italy",
+    "description": "Trentino-Alto Adige, Provincia autonoma di Trento",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8950656",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8950656.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 45.97919
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 11.06971
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 440
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 535
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "Covelo"
+}

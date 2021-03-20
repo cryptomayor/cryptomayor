@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor11548423",
+    "name": "Bowburn, United Kingdom",
+    "description": "England, County Durham",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor11548423",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor11548423.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 54.7385
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -1.52521
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3884
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 98
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/London"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United Kingdom"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "GB",
+    "altnames": null
+}

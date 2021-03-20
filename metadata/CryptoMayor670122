@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor670122",
+    "name": "Poiana, Romania",
+    "description": "Suceava, Comuna Zvori\u015ftea",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor670122",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor670122.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.79617
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 26.27614
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 556
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 333
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": null
+}

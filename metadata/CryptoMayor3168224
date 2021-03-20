@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3168224",
+    "name": "San Giuliano del Sannio, Italy",
+    "description": "Molise, Provincia di Campobasso",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3168224",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3168224.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 41.45752
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 14.64169
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 610
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 656
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "San Giuliano del Sannio"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor933880",
+    "name": "Bokspits, Botswana",
+    "description": "",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor933880",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor933880.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -26.9
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 20.7
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 547
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 852
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Africa/Gaborone"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Botswana"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AF"
+        }
+    ],
+    "country_code": "BW",
+    "altnames": "Bokspits"
+}

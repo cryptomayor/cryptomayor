@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3515127",
+    "name": "Tres Lagunas, Mexico",
+    "description": "Quer\u00e9taro, Landa de Matamoros",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3515127",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3515127.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 21.334
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -99.20425
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 611
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1636
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Tres Lagunas"
+}

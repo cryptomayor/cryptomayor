@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4951582",
+    "name": "Southampton, United States",
+    "description": "Massachusetts, Hampshire County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4951582",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4951582.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 42.22926
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -72.73009
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 5481
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 75
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/New_York"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

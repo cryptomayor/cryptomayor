@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3022549",
+    "name": "Cresserons, France",
+    "description": "Normandy, Calvados",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3022549",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3022549.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 49.28701
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -0.35569
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1255
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 30
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Cresserons"
+}

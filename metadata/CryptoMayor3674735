@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3674735",
+    "name": "Miraflores, Colombia",
+    "description": "Boyac\u00e1, Miraflores",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3674735",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3674735.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 5.19608
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -73.14504
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2766
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1518
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Bogota"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Colombia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "CO",
+    "altnames": "Miraflores"
+}

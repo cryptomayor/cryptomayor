@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8950040",
+    "name": "Colle Diana, Italy",
+    "description": "Latium, Provincia di Viterbo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8950040",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8950040.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 42.26009
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 12.21362
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 618
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 378
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "Colle Diana"
+}

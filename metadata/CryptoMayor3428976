@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3428976",
+    "name": "San Javier, Argentina",
+    "description": "Misiones, Departamento de San Javier",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3428976",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3428976.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -27.87427
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -55.13509
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 0
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 112
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Argentina/Cordoba"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Argentina"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "AR",
+    "altnames": "San Javier"
+}

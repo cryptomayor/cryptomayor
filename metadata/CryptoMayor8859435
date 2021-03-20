@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8859435",
+    "name": "Arroyo Chical (Nuevo Arroyo Chicali), Mexico",
+    "description": "Oaxaca, San Miguel Soyaltepec",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8859435",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8859435.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.21611
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -96.33667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1230
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 72
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Arroyo Chical (Nuevo Arroyo Chicali)"
+}

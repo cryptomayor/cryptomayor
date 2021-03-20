@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6177814",
+    "name": "Welcome Beach, Canada",
+    "description": "British Columbia, Sunshine Coast Regional District",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6177814",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6177814.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 49.47959
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -123.89239
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1125
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 81
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Vancouver"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Canada"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "CA",
+    "altnames": null
+}

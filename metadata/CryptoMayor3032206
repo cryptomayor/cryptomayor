@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3032206",
+    "name": "Blond, France",
+    "description": "Nouvelle-Aquitaine, Haute-Vienne",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3032206",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3032206.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 46.04466
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 1.01829
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 737
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 314
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Blond"
+}

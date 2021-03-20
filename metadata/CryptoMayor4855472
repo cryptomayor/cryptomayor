@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4855472",
+    "name": "Elma, United States",
+    "description": "Iowa, Howard County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4855472",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4855472.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 43.24664
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -92.43601
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 539
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 363
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Chicago"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5232415",
+    "name": "Tripp, United States",
+    "description": "South Dakota, Hutchinson County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5232415",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5232415.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 43.22555
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -97.96591
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 630
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 475
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Chicago"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

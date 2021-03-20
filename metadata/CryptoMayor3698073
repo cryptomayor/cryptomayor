@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3698073",
+    "name": "Chuquibamba, Peru",
+    "description": "Amazonas, Provincia de Chachapoyas",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3698073",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3698073.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -6.9347
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -77.85472
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 623
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2825
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Lima"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Peru"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "PE",
+    "altnames": null
+}

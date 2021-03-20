@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8859610",
+    "name": "Los Naranjos Esquipulas, Mexico",
+    "description": "Oaxaca, San Pedro el Alto",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8859610",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8859610.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 15.98167
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -96.45889
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1136
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1377
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Los Naranjos Esquipulas"
+}

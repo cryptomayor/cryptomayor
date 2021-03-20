@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3991528",
+    "name": "El Puente, Mexico",
+    "description": "Nayarit, Santiago Ixcuintla",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3991528",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3991528.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 21.84979
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -105.2466
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 788
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 11
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mazatlan"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "El Puente,Puente de Tuxpan"
+}

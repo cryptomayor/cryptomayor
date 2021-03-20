@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4011512",
+    "name": "Mezquital, Mexico",
+    "description": "Baja California, Mexicali",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4011512",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4011512.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 32.49866
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -114.88982
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 859
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 22
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Tijuana"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Ejido Mezquital,Mezquital"
+}

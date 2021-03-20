@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6295534",
+    "name": "Z\u00fcrich (Kreis 9), Switzerland",
+    "description": "Zurich, Bezirk Z\u00fcrich",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6295534",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6295534.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.38245
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 8.47993
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 44878
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 426
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Zurich"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Switzerland"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "CH",
+    "altnames": null
+}

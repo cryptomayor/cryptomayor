@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8950319",
+    "name": "Aspio, Italy",
+    "description": "The Marches, Provincia di Ancona",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8950319",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8950319.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 43.53401
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 13.50012
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 520
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 39
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "Aspio"
+}

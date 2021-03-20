@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3918937",
+    "name": "Cotoca, Bolivia",
+    "description": "Santa Cruz",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3918937",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3918937.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -17.81667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -63.05
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 18347
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 387
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/La_Paz"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Bolivia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "BO",
+    "altnames": "Cotoca"
+}

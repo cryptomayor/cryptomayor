@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3445782",
+    "name": "Umuarama, Brazil",
+    "description": "Paran\u00e1, Umuarama",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3445782",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3445782.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -23.76639
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -53.325
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 107319
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 443
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Sao_Paulo"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Brazil"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "BR",
+    "altnames": "UMU"
+}

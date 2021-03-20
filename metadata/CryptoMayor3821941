@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3821941",
+    "name": "Lagunillas, Mexico",
+    "description": "Guerrero, Tecoanapa",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3821941",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3821941.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 17.01521
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -99.19498
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1302
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 395
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Lagunilla,Lagunillas"
+}

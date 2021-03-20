@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3821699",
+    "name": "El Puente, Mexico",
+    "description": "Guerrero, Juan R. Escudero",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3821699",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3821699.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 17.15504
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -99.40232
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 724
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 374
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "El Puente,San Jose del Puente,San Jos\u00e9 del Puente"
+}

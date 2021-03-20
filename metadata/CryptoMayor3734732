@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3734732",
+    "name": "Laureles, Colombia",
+    "description": "Tolima, Rovira",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3734732",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3734732.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 4.25917
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -75.3225
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1910
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1724
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Bogota"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Colombia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "CO",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3519707",
+    "name": "Pinada de Arriba, Mexico",
+    "description": "Chiapas, Siltepec",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3519707",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3519707.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 15.6172
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -92.32302
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 699
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1856
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Pinada de Arriba,San Antonio la Pinada"
+}

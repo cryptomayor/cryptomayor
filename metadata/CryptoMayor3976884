@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3976884",
+    "name": "Ejido Cinco de Mayo, Mexico",
+    "description": "Sinaloa, Ahome",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3976884",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3976884.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 25.85055
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -108.95932
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2185
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 21
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mazatlan"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Cinco de Mayo,Ejido Cinco de Mayo"
+}

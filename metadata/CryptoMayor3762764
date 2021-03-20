@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3762764",
+    "name": "El Duraznal, Mexico",
+    "description": "Oaxaca, San Pedro y San Pablo Ayutla",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3762764",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3762764.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 17.03098
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -96.16759
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 518
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1849
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Duraznal,El Duraznal"
+}

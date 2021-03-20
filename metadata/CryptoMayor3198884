@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3198884",
+    "name": "Janjina, Croatia",
+    "description": "Dubrova\u010dko-Neretvanska, Op\u0107ina Janjina",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3198884",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3198884.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 42.92528
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 17.42833
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 203
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 120
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Zagreb"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Croatia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "HR",
+    "altnames": "Iagnina,Janjina"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3167953",
+    "name": "San Miniato, Italy",
+    "description": "Tuscany, Province of Pisa",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3167953",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3167953.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 43.67954
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 10.84975
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 16900
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 125
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": null
+}

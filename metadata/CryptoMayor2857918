@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2857918",
+    "name": "Oelsnitz, Germany",
+    "description": "Saxony",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2857918",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2857918.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 50.72584
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 12.701
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 12268
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 379
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Berlin"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Germany"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "DE",
+    "altnames": "Oelsnitz"
+}

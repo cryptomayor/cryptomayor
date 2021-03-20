@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3532071",
+    "name": "Buenavista, Mexico",
+    "description": "Oaxaca, Santa Mar\u00eda Petapa",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3532071",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3532071.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 16.82114
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -95.06302
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 647
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 255
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Buenavista"
+}

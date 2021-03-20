@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3684266",
+    "name": "El Dovio, Colombia",
+    "description": "Valle del Cauca, El Dovio",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3684266",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3684266.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 4.5079
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -76.23619
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 7942
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1435
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Bogota"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Colombia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "CO",
+    "altnames": "El Dovio"
+}

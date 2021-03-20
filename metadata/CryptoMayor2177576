@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2177576",
+    "name": "Ascot Vale, Australia",
+    "description": "Victoria, Melbourne",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2177576",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2177576.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -37.77988
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 144.92276
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 14587
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 23
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Melbourne"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": "Ascot Vale"
+}

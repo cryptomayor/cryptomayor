@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3946194",
+    "name": "Calapuja, Peru",
+    "description": "Puno, Provincia de Lampa",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3946194",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3946194.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -15.31667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -70.21667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 375
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 3842
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Lima"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Peru"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "PE",
+    "altnames": "Calapuja"
+}

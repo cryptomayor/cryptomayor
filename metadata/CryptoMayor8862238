@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8862238",
+    "name": "Puerta Siete, Mexico",
+    "description": "Veracruz, \u00c1lamo Temapache",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8862238",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8862238.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.94333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -97.70167
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 590
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 31
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Puerta Siete"
+}

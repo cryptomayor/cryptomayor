@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor240210",
+    "name": "Birao, Central African Republic",
+    "description": "Vakaga, Birao",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor240210",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor240210.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 10.28488
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 22.78818
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 10178
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 468
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Africa/Bangui"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Central African Republic"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AF"
+        }
+    ],
+    "country_code": "CF",
+    "altnames": "Birao,IRO"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3995017",
+    "name": "Navolato, Mexico",
+    "description": "Sinaloa, Navolato",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3995017",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3995017.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 24.7661
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -107.70225
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 29153
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 18
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mazatlan"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Navolato"
+}

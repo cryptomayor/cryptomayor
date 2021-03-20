@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6534515",
+    "name": "Taleggio, Italy",
+    "description": "Lombardy, Provincia di Bergamo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6534515",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6534515.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 45.89339
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 9.56485
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 582
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 751
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": null
+}

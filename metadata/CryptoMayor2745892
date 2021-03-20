@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2745892",
+    "name": "Vaassen, Netherlands",
+    "description": "Gelderland, Gemeente Epe",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2745892",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2745892.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 52.28583
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 5.96667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 12719
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 15
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Amsterdam"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Netherlands"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "NL",
+    "altnames": "Vasen"
+}

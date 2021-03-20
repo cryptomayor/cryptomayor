@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3979510",
+    "name": "Delta, Mexico",
+    "description": "Baja California, Mexicali",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3979510",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3979510.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 32.35497
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -115.19617
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 5180
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 11
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Tijuana"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Delta"
+}

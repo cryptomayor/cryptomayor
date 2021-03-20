@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4026756",
+    "name": "Casas Coloradas, Mexico",
+    "description": "M\u00e9xico, Villa Victoria",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4026756",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4026756.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.47321
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -100.0546
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 890
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2588
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Casas Coloradas"
+}

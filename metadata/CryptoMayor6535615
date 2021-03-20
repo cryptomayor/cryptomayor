@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6535615",
+    "name": "Fosciandora, Italy",
+    "description": "Tuscany, Provincia di Lucca",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6535615",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6535615.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 44.11495
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 10.4585
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 161
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 430
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": null
+}

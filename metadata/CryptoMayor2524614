@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2524614",
+    "name": "Nuova Gibellina, Italy",
+    "description": "Sicily, Trapani",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2524614",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2524614.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 37.80704
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 12.86954
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 4260
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 236
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "Gibbellina,Gibellina"
+}

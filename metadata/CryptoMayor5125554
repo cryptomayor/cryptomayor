@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5125554",
+    "name": "Lyons, United States",
+    "description": "New York, Wayne County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5125554",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5125554.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 43.06423
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -76.99025
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3619
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 125
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/New_York"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": "Lyons,The Forks"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3202342",
+    "name": "Crno, Croatia",
+    "description": "Zadarska",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3202342",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3202342.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 44.11417
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 15.29111
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 537
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 73
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Zagreb"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Croatia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "HR",
+    "altnames": "Crno"
+}

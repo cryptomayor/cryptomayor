@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3689833",
+    "name": "Anserma, Colombia",
+    "description": "Risaralda, Gu\u00e1tica",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3689833",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3689833.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 5.33278
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -75.79111
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 25242
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2088
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Bogota"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Colombia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "CO",
+    "altnames": "Anserma"
+}

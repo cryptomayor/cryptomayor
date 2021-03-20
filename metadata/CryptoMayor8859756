@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8859756",
+    "name": "El Tintal, Mexico",
+    "description": "Quintana Roo, L\u00e1zaro C\u00e1rdenas",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8859756",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8859756.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.89194
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -87.46611
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1074
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 7
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Cancun"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "El Tintal"
+}

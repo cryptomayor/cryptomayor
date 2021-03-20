@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2614790",
+    "name": "Ringe, Denmark",
+    "description": "South Denmark, Faaborg-Midtfyn Kommune",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2614790",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2614790.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 55.23828
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 10.4786
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 4849
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 75
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Copenhagen"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Denmark"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "DK",
+    "altnames": "Ringe"
+}

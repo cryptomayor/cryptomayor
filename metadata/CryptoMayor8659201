@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8659201",
+    "name": "Pera, Italy",
+    "description": "Trentino-Alto Adige, Provincia autonoma di Trento",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8659201",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8659201.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 46.44097
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 11.69332
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 504
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1343
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": null
+}

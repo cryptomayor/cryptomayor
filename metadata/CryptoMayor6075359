@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6075359",
+    "name": "Mississauga Beach, Canada",
+    "description": "Ontario, Regional Municipality of Niagara",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6075359",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6075359.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 43.25876
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -79.08625
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 4662
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 75
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Toronto"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Canada"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "CA",
+    "altnames": null
+}

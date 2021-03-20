@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3008539",
+    "name": "La Lande-de-Fronsac, France",
+    "description": "Nouvelle-Aquitaine, Gironde",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3008539",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3008539.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 44.97972
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -0.38149
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2036
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 35
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "La Lande,La Lande-de-Fronsac"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8862928",
+    "name": "Cruz Pilar, Mexico",
+    "description": "Chiapas, Tenejapa",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8862928",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8862928.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 16.90833
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -92.44889
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 526
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 992
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Cruz Pilar"
+}

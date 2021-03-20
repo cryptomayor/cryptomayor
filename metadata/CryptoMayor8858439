@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8858439",
+    "name": "El Saucillo, Mexico",
+    "description": "Hidalgo, Mineral de la Reforma",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8858439",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8858439.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.07694
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -98.73722
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2957
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2375
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "El Saucillo"
+}

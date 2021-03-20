@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3515992",
+    "name": "Tenango de Doria, Mexico",
+    "description": "Hidalgo, Tenango de Doria",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3515992",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3515992.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.33828
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -98.22805
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2433
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1639
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Tenango de Doria"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor7304381",
+    "name": "Villa Berna, Argentina",
+    "description": "Cordoba, Departamento de Calamuchita",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor7304381",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor7304381.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -31.91419
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -64.73249
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 5000
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1373
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Argentina/Cordoba"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Argentina"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "AR",
+    "altnames": null
+}

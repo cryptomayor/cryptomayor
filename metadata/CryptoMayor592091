@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor592091",
+    "name": "Hullo, Estonia",
+    "description": "L\u00e4\u00e4ne, Vormsi vald",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor592091",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor592091.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 58.99004
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 23.24441
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 104
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 9
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Tallinn"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Estonia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "EE",
+    "altnames": "Hullo,Khullo"
+}

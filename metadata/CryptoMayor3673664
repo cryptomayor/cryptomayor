@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3673664",
+    "name": "Ocamonte, Colombia",
+    "description": "Santander, Ocamonte",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3673664",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3673664.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 6.34001
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -73.12205
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 883
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1409
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Bogota"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Colombia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "CO",
+    "altnames": "Ocamonte"
+}

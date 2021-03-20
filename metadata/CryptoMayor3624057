@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3624057",
+    "name": "Cot, Costa Rica",
+    "description": "Cartago, Oreamuno",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3624057",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3624057.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 9.89449
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -83.87302
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 6784
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1811
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Costa_Rica"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Costa Rica"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "CR",
+    "altnames": "Cot"
+}

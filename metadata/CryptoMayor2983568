@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2983568",
+    "name": "Rignac, France",
+    "description": "Occitanie, Aveyron",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2983568",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2983568.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 44.40874
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 2.28971
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1918
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 501
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Rignac"
+}

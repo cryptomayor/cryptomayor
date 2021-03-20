@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8858729",
+    "name": "Barrio de Espa\u00f1a, Mexico",
+    "description": "M\u00e9xico, Zumpango",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8858729",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8858729.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.86139
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -99.08167
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1995
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2327
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Barrio de Espana,Barrio de Espa\u00f1a"
+}

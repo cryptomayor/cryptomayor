@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor671709",
+    "name": "Orlea, Romania",
+    "description": "Olt, Comuna Orlea",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor671709",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor671709.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 43.75
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 24.38333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 4591
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 27
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": "Orlea"
+}

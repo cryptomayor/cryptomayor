@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4017826",
+    "name": "Bacanora, Mexico",
+    "description": "Sonora, Bacanora",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4017826",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4017826.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 28.98152
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -109.40012
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 547
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 453
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Hermosillo"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Bacanora"
+}

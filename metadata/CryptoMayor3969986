@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3969986",
+    "name": "El Sol, Peru",
+    "description": "Lima region, Huaura",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3969986",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3969986.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -11.04438
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -77.59187
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 803
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 77
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Lima"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Peru"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "PE",
+    "altnames": null
+}

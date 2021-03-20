@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3823524",
+    "name": "Amatiopa, Mexico",
+    "description": "Veracruz, Huatusco",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3823524",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3823524.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.11255
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -96.9429
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 892
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1134
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Amatiopa"
+}

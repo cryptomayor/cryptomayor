@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8860325",
+    "name": "Colonia San Juan de Guadalupe, Mexico",
+    "description": "M\u00e9xico, Zumpango",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8860325",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8860325.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.81222
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -98.99333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 885
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2269
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Colonia San Juan de Guadalupe"
+}

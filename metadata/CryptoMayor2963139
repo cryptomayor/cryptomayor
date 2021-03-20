@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2963139",
+    "name": "Knock, Ireland",
+    "description": "Connaught, Mayo County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2963139",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2963139.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 53.79059
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -8.92111
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 811
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 96
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Dublin"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Ireland"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IE",
+    "altnames": "Cnoc Mhuire,Knock,NOC"
+}

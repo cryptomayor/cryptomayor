@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4019082",
+    "name": "Ahualulco de Mercado, Mexico",
+    "description": "Jalisco, Ahualulco de Mercado",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4019082",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4019082.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.70137
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -103.97461
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 15512
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1325
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Ahualulco"
+}

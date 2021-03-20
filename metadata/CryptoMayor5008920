@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5008920",
+    "name": "Sandusky, United States",
+    "description": "Michigan, Sanilac County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5008920",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5008920.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 43.4203
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -82.82966
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2596
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 237
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Detroit"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

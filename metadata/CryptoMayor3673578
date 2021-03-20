@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3673578",
+    "name": "Oporapa, Colombia",
+    "description": "Huila, Oporapa",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3673578",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3673578.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 2.02378
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -75.99588
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2310
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1120
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Bogota"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Colombia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "CO",
+    "altnames": "Oporapa"
+}

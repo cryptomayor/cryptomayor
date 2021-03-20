@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3815407",
+    "name": "Santa Cruz Aquiahuac, Mexico",
+    "description": "Tlaxcala, Tetlatlahuca",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3815407",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3815407.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.23944
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -98.28222
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3896
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2210
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": null
+}

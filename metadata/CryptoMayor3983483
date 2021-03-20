@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3983483",
+    "name": "San Vicente, Mexico",
+    "description": "Guanajuato, Irapuato",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3983483",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3983483.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.82864
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -101.3413
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1673
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1783
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "San Vicente"
+}

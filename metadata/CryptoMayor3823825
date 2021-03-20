@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3823825",
+    "name": "San Mat\u00edas, Mexico",
+    "description": "Veracruz, C\u00f3rdoba",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3823825",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3823825.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.91334
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -96.92432
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 850
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 890
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "San Matias,San Mat\u00edas"
+}

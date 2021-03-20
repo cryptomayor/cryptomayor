@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor10103870",
+    "name": "Rankin Park, Australia",
+    "description": "New South Wales, Newcastle",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor10103870",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor10103870.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -32.92516
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 151.68016
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2412
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 44
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Sydney"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": null
+}

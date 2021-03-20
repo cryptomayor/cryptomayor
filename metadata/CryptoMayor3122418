@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3122418",
+    "name": "Fiscal, Spain",
+    "description": "Aragon, Provincia de Huesca",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3122418",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3122418.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 42.49561
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -0.12094
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 308
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 767
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Madrid"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Spain"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "ES",
+    "altnames": null
+}

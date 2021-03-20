@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2510965",
+    "name": "Sella, Spain",
+    "description": "Valencia, Provincia de Alicante",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2510965",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2510965.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 38.60926
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -0.27305
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 643
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 426
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Madrid"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Spain"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "ES",
+    "altnames": "Sella"
+}

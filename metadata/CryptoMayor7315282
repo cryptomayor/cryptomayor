@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor7315282",
+    "name": "The Silos, United States",
+    "description": "Montana, Broadwater County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor7315282",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor7315282.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 46.389
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -111.58565
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 506
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1197
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Denver"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

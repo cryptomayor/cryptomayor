@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2668320",
+    "name": "Tomtebo, Sweden",
+    "description": "Dalarna, S\u00e4ters Kommun",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2668320",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2668320.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 60.41667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 15.71667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 633
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 101
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Stockholm"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Sweden"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "SE",
+    "altnames": null
+}

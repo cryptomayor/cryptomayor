@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor301290",
+    "name": "Sekili, Turkey",
+    "description": "Gaziantep",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor301290",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor301290.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 36.97876
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 37.67174
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2643
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 602
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Istanbul"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Turkey"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AS"
+        }
+    ],
+    "country_code": "TR",
+    "altnames": "Orui,Orul,Sekili"
+}

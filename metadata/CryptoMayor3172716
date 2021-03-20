@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3172716",
+    "name": "Monteverde, Italy",
+    "description": "Campania, Provincia di Avellino",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3172716",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3172716.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 40.99858
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 15.53361
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 790
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 712
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "Monteverde"
+}

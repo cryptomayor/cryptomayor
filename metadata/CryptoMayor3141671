@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3141671",
+    "name": "Roa, Norway",
+    "description": "Viken, Lunner",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3141671",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3141671.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 60.29093
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 10.61585
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 0
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 260
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Oslo"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Norway"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "NO",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3072385",
+    "name": "Ky\u0161ice, Czechia",
+    "description": "Central Bohemia, Okres Kladno",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3072385",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3072385.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 50.09119
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 14.10623
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 579
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 393
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Prague"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Czechia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "CZ",
+    "altnames": null
+}

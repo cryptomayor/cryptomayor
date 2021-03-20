@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3532607",
+    "name": "Atlapexco, Mexico",
+    "description": "Hidalgo, Atlapexco",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3532607",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3532607.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 21.0198
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -98.34742
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2484
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 162
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": null
+}

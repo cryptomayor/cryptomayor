@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4029693",
+    "name": "Puerto de Aguirre, Mexico",
+    "description": "Quer\u00e9taro, Quer\u00e9taro",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4029693",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4029693.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.80652
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -100.43213
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2678
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2056
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Puerto de Aguirre"
+}

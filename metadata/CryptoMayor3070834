@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3070834",
+    "name": "M\u011b\u0161ice, Czechia",
+    "description": "Central Bohemia, Okres Praha-v\u00fdchod",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3070834",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3070834.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 50.19799
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 14.51992
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1083
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 202
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Prague"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Czechia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "CZ",
+    "altnames": null
+}

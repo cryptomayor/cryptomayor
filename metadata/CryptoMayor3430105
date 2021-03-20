@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3430105",
+    "name": "Paso de la Patria, Argentina",
+    "description": "Corrientes, Departamento de San Cosme",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3430105",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3430105.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -27.31676
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -58.57197
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 5818
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 56
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Argentina/Cordoba"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Argentina"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "AR",
+    "altnames": null
+}

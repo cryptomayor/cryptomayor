@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3934761",
+    "name": "Molinos, Peru",
+    "description": "Junin, Provincia de Jauja",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3934761",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3934761.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -11.73779
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -75.44667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 754
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 3449
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Lima"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Peru"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "PE",
+    "altnames": null
+}

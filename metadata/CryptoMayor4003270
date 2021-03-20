@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4003270",
+    "name": "La Calera, Mexico",
+    "description": "Guanajuato, Irapuato",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4003270",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4003270.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.80119
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -101.33207
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 4665
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1769
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Calera de Rivera,La Calera,Las Caleras"
+}

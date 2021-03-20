@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6058415",
+    "name": "Logan Lake, Canada",
+    "description": "British Columbia, Thompson-Nicola Regional District",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6058415",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6058415.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 50.49225
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -120.8149
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2190
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1108
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Vancouver"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Canada"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "CA",
+    "altnames": null
+}

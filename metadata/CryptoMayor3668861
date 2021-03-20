@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3668861",
+    "name": "Santa Catalina, Colombia",
+    "description": "Bol\u00edvar, Santa Catalina",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3668861",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3668861.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 10.60361
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -75.28824
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 6084
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 39
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Bogota"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Colombia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "CO",
+    "altnames": "Santa Catalina"
+}

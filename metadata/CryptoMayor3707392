@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3707392",
+    "name": "La Laguna, Panama",
+    "description": "Panam\u00e1 Oeste, Distrito de La Chorrera",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3707392",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3707392.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 9.04404
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -79.84215
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 312
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 30
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Panama"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Panama"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "PA",
+    "altnames": "La Laguna"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor682417",
+    "name": "Cepari, Romania",
+    "description": "Olt, Comuna C\u00e2rlogani",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor682417",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor682417.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 44.49733
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 24.17122
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1162
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 153
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": null
+}

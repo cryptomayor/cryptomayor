@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3978261",
+    "name": "Rojas, Mexico",
+    "description": "Durango, Nombre de Dios",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3978261",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3978261.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 23.85459
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -104.05558
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 741
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1877
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Monterrey"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Rojas"
+}

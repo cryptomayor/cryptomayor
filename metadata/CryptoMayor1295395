@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor1295395",
+    "name": "Syriam, Myanmar",
+    "description": "Rangoon, Yangon South District",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor1295395",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor1295395.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 16.76887
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 96.24503
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 69448
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 24
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Asia/Yangon"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Myanmar"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AS"
+        }
+    ],
+    "country_code": "MM",
+    "altnames": null
+}

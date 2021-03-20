@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3821508",
+    "name": "El Naranjo, Mexico",
+    "description": "Guerrero, Iguala de la Independencia",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3821508",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3821508.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.39948
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -99.53457
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 870
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 830
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "El Naranjo"
+}

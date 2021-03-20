@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3436987",
+    "name": "Santa Elena, Paraguay",
+    "description": "Cordillera, Santa Elena",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3436987",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3436987.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -25.41396
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -56.79762
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1137
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 119
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Asuncion"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Paraguay"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "PY",
+    "altnames": "Santa Elena"
+}

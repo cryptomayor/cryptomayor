@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8863001",
+    "name": "Santo Domingo de las Granadas, Mexico",
+    "description": "Chiapas, Comit\u00e1n Municipality",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8863001",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8863001.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 16.30694
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -92.11694
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 519
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1598
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Santo Domingo de las Granadas"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2234684",
+    "name": "Batibo, Cameroon",
+    "description": "North-West",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2234684",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2234684.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 5.8358
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 9.8553
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 9163
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1090
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Africa/Douala"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Cameroon"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AF"
+        }
+    ],
+    "country_code": "CM",
+    "altnames": "Batibo"
+}

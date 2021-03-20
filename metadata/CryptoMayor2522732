@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2522732",
+    "name": "Villarosa, Italy",
+    "description": "Sicily, Enna",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2522732",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2522732.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 37.58753
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 14.17089
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 4164
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 520
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "Villarosa,Villarosa Sicilia"
+}

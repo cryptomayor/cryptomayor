@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor794296",
+    "name": "Kose, Estonia",
+    "description": "V\u00f5rumaa, V\u00f5ru vald",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor794296",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor794296.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 57.81278
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 27.03694
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 549
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 96
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Tallinn"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Estonia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "EE",
+    "altnames": "Kose"
+}

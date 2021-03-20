@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4027265",
+    "name": "El Terrero, Mexico",
+    "description": "Guerrero, San Miguel Totolapan",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4027265",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4027265.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.12934
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -100.31819
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1490
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 313
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "El Terrero"
+}

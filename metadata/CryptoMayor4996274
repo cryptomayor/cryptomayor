@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4996274",
+    "name": "Holly, United States",
+    "description": "Michigan, Oakland County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4996274",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4996274.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 42.79197
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -83.62773
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 6169
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 284
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Detroit"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

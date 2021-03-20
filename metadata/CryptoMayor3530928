@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3530928",
+    "name": "Chiconquiaco, Mexico",
+    "description": "Veracruz, Chiconquiaco",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3530928",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3530928.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.74208
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -96.81851
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3143
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2066
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Chiconquiaco"
+}

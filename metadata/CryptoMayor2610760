@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2610760",
+    "name": "Vamdrup, Denmark",
+    "description": "South Denmark, Kolding Kommune",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2610760",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2610760.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 55.42764
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 9.28435
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 4685
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 37
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Copenhagen"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Denmark"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "DK",
+    "altnames": "Vamdrup"
+}

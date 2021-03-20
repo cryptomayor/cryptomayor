@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3801421",
+    "name": "San Miguel Yotao, Mexico",
+    "description": "Oaxaca, San Miguel Yotao",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3801421",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3801421.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 17.37062
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -96.3375
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 545
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1461
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "San Miguel Yotao"
+}

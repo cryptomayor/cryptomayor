@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor226600",
+    "name": "Rukungiri, Uganda",
+    "description": "Western Region, Rukungiri District",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor226600",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor226600.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -0.84111
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 29.94194
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 14000
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1575
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Africa/Kampala"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Uganda"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AF"
+        }
+    ],
+    "country_code": "UG",
+    "altnames": "Kinyasano,Rukungire,Rukungiri"
+}

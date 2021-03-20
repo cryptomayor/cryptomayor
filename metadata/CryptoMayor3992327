@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3992327",
+    "name": "Plateros, Mexico",
+    "description": "Zacatecas, Fresnillo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3992327",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3992327.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 23.22922
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -102.8429
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 4902
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2175
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Plateros"
+}

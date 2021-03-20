@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4013335",
+    "name": "Ojo Caliente, Mexico",
+    "description": "Chihuahua, Ahumada",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4013335",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4013335.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 30.49352
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -106.54841
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 514
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1210
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Chihuahua"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Colonia Ojo Caliente,Ojo Caliente"
+}

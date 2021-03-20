@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8858965",
+    "name": "Valle Verde, Mexico",
+    "description": "Michoac\u00e1n, Zit\u00e1cuaro",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8858965",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8858965.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.4725
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -100.35528
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1617
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1917
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Valle Verde"
+}

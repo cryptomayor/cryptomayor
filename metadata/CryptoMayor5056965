@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5056965",
+    "name": "Queen City, United States",
+    "description": "Missouri, Schuyler County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5056965",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5056965.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 40.4092
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -92.56769
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 593
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 306
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Chicago"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

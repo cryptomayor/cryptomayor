@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2979059",
+    "name": "Saint-Julien-le-Faucon, France",
+    "description": "Normandy, Calvados",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2979059",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2979059.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 49.07005
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 0.08515
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 625
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 37
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Saint-Julien,Saint-Julien-le-Faucon"
+}

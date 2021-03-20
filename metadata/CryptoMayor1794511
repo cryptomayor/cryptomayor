@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor1794511",
+    "name": "Shuiche, China",
+    "description": "Hunan",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor1794511",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor1794511.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 27.68694
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 110.99972
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3550
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 447
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Asia/Shanghai"
+        },
+        {
+            "trait_type": "Country",
+            "value": "China"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AS"
+        }
+    ],
+    "country_code": "CN",
+    "altnames": null
+}

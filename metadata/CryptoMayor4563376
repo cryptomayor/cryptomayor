@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4563376",
+    "name": "Cayuco, Puerto Rico",
+    "description": "Utuado, Caguana Barrio",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4563376",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4563376.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.29106
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -66.73934
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1284
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 431
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Puerto_Rico"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Puerto Rico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "PR",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6535574",
+    "name": "Isola Rizza, Italy",
+    "description": "Veneto, Provincia di Verona",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6535574",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6535574.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 45.29228
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 11.199
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2387
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 23
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": null
+}

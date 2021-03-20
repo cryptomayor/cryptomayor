@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3609884",
+    "name": "El Zapote, Honduras",
+    "description": "Cort\u00e9s",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3609884",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3609884.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 15.01667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -87.85
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 970
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 410
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Tegucigalpa"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Honduras"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "HN",
+    "altnames": "El Zapote,Zapote"
+}

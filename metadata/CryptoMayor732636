@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor732636",
+    "name": "Chelopech, Bulgaria",
+    "description": "Sofia, Obshtina Chelopech",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor732636",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor732636.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 42.7
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 24.08333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1760
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 716
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Sofia"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Bulgaria"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "BG",
+    "altnames": "Celopec,Chelopech,Tschelopetsch,\u010celope\u010d,\u0427\u0435\u043b\u043e\u043f\u0435\u0447"
+}

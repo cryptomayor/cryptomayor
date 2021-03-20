@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2128558",
+    "name": "Otofuke, Japan",
+    "description": "Hokkaido, Kat\u014d-gun",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2128558",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2128558.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 42.99167
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 143.20028
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 40944
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 64
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Asia/Tokyo"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Japan"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AS"
+        }
+    ],
+    "country_code": "JP",
+    "altnames": "Otopuke"
+}

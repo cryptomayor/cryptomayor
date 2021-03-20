@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3031127",
+    "name": "Boulon, France",
+    "description": "Normandy, Calvados",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3031127",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3031127.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 49.04728
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -0.39345
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 574
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 109
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Boulon"
+}

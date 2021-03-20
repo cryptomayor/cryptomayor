@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3532182",
+    "name": "Bochil, Mexico",
+    "description": "Chiapas, Bochil",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3532182",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3532182.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 16.99625
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -92.89218
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 12404
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1162
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Bochil"
+}

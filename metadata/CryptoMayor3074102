@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3074102",
+    "name": "Jistebnice, Czechia",
+    "description": "Jiho\u010desk\u00fd kraj, Okres T\u00e1bor",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3074102",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3074102.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 49.48553
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 14.5276
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2007
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 579
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Prague"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Czechia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "CZ",
+    "altnames": "Jistebnitz"
+}

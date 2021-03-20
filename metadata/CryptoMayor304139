@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor304139",
+    "name": "Muradiye, Turkey",
+    "description": "Manisa",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor304139",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor304139.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 38.66025
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 27.33836
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 0
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 30
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Istanbul"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Turkey"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AS"
+        }
+    ],
+    "country_code": "TR",
+    "altnames": "Muradiye"
+}

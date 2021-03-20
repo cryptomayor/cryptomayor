@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3667380",
+    "name": "Tarso, Colombia",
+    "description": "Antioquia, Tarso",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3667380",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3667380.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 5.86467
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -75.82192
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2700
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1331
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Bogota"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Colombia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "CO",
+    "altnames": "Tarso"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3678405",
+    "name": "La Mesa, Colombia",
+    "description": "Cundinamarca, Carmen de Carupa",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3678405",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3678405.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 5.26667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -73.91667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 26699
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2884
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Bogota"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Colombia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "CO",
+    "altnames": "La Mesa"
+}

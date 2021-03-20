@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3526714",
+    "name": "Ixhuatlancillo, Mexico",
+    "description": "Veracruz, Ixhuatlancillo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3526714",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3526714.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.89766
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -97.14899
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 4975
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1439
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Ixhuatlancillo"
+}

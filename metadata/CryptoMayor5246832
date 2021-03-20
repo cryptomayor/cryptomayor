@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5246832",
+    "name": "Brodhead, United States",
+    "description": "Wisconsin, Green County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5246832",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5246832.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 42.61834
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -89.37623
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3291
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 243
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Chicago"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

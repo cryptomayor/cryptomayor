@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2796407",
+    "name": "Haut-Fays, Belgium",
+    "description": "Wallonia, Province du Luxembourg",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2796407",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2796407.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 50.0016
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 5.01755
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 810
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 434
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Brussels"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Belgium"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "BE",
+    "altnames": "Haut-Fays"
+}

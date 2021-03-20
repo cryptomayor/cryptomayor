@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3827326",
+    "name": "Tlacomulco, Mexico",
+    "description": "M\u00e9xico, Tianguistenco",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3827326",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3827326.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.12111
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -99.4475
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1814
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2720
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Tlacomulco"
+}

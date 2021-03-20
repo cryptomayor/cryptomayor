@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2070216",
+    "name": "Hackham, Australia",
+    "description": "South Australia, Onkaparinga",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2070216",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2070216.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -35.15514
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 138.52509
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3884
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 75
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Adelaide"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": "Hackham"
+}

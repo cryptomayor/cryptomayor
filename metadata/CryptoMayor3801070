@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3801070",
+    "name": "Teotongo, Mexico",
+    "description": "Oaxaca, Teotongo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3801070",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3801070.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 17.72475
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -97.53499
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 519
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2073
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Santiago Teotongo,Teotongo"
+}

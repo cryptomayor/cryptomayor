@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8949705",
+    "name": "San Salvatore, Italy",
+    "description": "Tuscany, Provincia di Lucca",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8949705",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8949705.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 43.8521
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 10.68536
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 775
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 30
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "San Salvatore"
+}

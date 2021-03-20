@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor646179",
+    "name": "Merimasku, Finland",
+    "description": "Southwest Finland, Turku",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor646179",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor646179.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 60.48333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 21.86667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1538
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 13
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Helsinki"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Finland"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FI",
+    "altnames": "Merimasko"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3814175",
+    "name": "El Jiadi, Mexico",
+    "description": "Hidalgo, El Arenal",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3814175",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3814175.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.24842
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -98.92815
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2329
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1998
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "El Jiadi"
+}

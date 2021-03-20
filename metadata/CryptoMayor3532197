@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3532197",
+    "name": "Boca del Monte, Mexico",
+    "description": "Veracruz, Comapa",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3532197",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3532197.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.15451
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -96.8327
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 4832
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 882
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Boca del Monte"
+}

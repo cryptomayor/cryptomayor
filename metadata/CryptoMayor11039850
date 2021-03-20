@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor11039850",
+    "name": "Shimbillo, Peru",
+    "description": "San Mart\u00edn, Picota",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor11039850",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor11039850.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -6.82552
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -76.34011
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 526
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 210
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Lima"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Peru"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "PE",
+    "altnames": "Shimbillo"
+}

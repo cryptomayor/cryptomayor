@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor1082243",
+    "name": "Ambilobe, Madagascar",
+    "description": "Diana",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor1082243",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor1082243.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -13.2
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 49.05
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 56000
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 31
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Indian/Antananarivo"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Madagascar"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AF"
+        }
+    ],
+    "country_code": "MG",
+    "altnames": "AMB"
+}

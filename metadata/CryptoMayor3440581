@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3440581",
+    "name": "Santa Bernardina, Uruguay",
+    "description": "Durazno",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3440581",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3440581.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -33.3536
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -56.52498
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1340
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 83
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Montevideo"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Uruguay"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "UY",
+    "altnames": "Santa Bernardina"
+}

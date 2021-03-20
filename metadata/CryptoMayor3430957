@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3430957",
+    "name": "Magdalena, Argentina",
+    "description": "Buenos Aires, Partido de Magdalena",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3430957",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3430957.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -35.08065
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -57.51301
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 0
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 11
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Argentina/Buenos_Aires"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Argentina"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "AR",
+    "altnames": "Magdalena"
+}

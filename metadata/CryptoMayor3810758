@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3810758",
+    "name": "La Pared, Peru",
+    "description": "Lambayeque, Provincia de Ferre\u00f1afe",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3810758",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3810758.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -6.55788
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -79.80611
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 506
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 39
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Lima"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Peru"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "PE",
+    "altnames": "La Pared"
+}

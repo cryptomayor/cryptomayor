@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4048888",
+    "name": "Red Chute, United States",
+    "description": "Louisiana, Bossier Parish",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4048888",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4048888.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 32.55598
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -93.61323
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 6261
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 67
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Chicago"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

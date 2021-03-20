@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8949077",
+    "name": "Cavino, Italy",
+    "description": "Veneto, Provincia di Padova",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8949077",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8949077.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 45.51709
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 11.88466
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1701
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 19
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "Cavino"
+}

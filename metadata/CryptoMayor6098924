@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6098924",
+    "name": "Pasadena, Canada",
+    "description": "Newfoundland and Labrador",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6098924",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6098924.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 49.01671
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -57.59837
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2248
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 28
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/St_Johns"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Canada"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "CA",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor741330",
+    "name": "Narman, Turkey",
+    "description": "Erzurum",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor741330",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor741330.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 40.34449
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 41.86088
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 10104
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1672
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Istanbul"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Turkey"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AS"
+        }
+    ],
+    "country_code": "TR",
+    "altnames": "Id,Narman,\u0130d"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor9972705",
+    "name": "Friedland, Germany",
+    "description": "Lower Saxony",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor9972705",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor9972705.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 51.41917
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 9.91762
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 12607
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 181
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Berlin"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Germany"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "DE",
+    "altnames": null
+}

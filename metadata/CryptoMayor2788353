@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2788353",
+    "name": "Ransart, Belgium",
+    "description": "Wallonia, Province du Hainaut",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2788353",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2788353.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 50.46166
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 4.47616
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 8813
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 181
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Brussels"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Belgium"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "BE",
+    "altnames": "Charleroi (Ransart)"
+}

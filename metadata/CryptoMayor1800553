@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor1800553",
+    "name": "Miaozhuang, China",
+    "description": "Tianjin",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor1800553",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor1800553.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 39.42222
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 117.80417
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 766
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Asia/Shanghai"
+        },
+        {
+            "trait_type": "Country",
+            "value": "China"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AS"
+        }
+    ],
+    "country_code": "CN",
+    "altnames": "Miaozhuang"
+}

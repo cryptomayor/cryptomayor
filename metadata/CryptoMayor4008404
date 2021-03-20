@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4008404",
+    "name": "El Potrero de Sataya, Mexico",
+    "description": "Sinaloa, Navolato",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4008404",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4008404.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 24.69
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -107.70917
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1351
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 13
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mazatlan"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": null
+}

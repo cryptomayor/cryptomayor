@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor11810635",
+    "name": "Kyain Seikgyi Township, Myanmar",
+    "description": "Kayin, Kawkareik District",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor11810635",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor11810635.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 15.82288
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 98.25257
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 246065
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 40
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Asia/Yangon"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Myanmar"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AS"
+        }
+    ],
+    "country_code": "MM",
+    "altnames": null
+}

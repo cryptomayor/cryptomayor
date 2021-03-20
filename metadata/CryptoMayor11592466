@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor11592466",
+    "name": "Gradenberg, Austria",
+    "description": "Styria, Politischer Bezirk Voitsberg",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor11592466",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor11592466.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.0779
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 15.0708
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 634
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 475
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Vienna"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Austria"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "AT",
+    "altnames": null
+}

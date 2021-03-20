@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3533488",
+    "name": "Acahuasco, Mexico",
+    "description": "Hidalgo, Tlanchinol",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3533488",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3533488.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.96254
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -98.59656
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1289
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 888
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Acahuasco"
+}

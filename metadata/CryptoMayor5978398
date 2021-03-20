@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5978398",
+    "name": "Humber Summit, Canada",
+    "description": "Ontario, Toronto county",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5978398",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5978398.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 43.7579
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -79.57501
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 12416
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 154
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Toronto"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Canada"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "CA",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3583905",
+    "name": "San Alejo, El Salvador",
+    "description": "La Uni\u00f3n",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3583905",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3583905.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 13.43139
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -87.96306
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 5149
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 177
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/El_Salvador"
+        },
+        {
+            "trait_type": "Country",
+            "value": "El Salvador"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "SV",
+    "altnames": "San Alejo"
+}

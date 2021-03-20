@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3996224",
+    "name": "Merino, Mexico",
+    "description": "Guanajuato, Cortazar",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3996224",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3996224.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.49424
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -100.88411
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1044
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1746
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Merino,Mermo,Salitre"
+}

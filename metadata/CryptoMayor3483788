@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3483788",
+    "name": "Miguel Hidalgo, Mexico",
+    "description": "San Luis Potos\u00ed, Rioverde",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3483788",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3483788.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 21.88965
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -99.90256
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 799
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 972
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Miguel Hidalgo"
+}

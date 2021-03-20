@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3007243",
+    "name": "Laplume, France",
+    "description": "Nouvelle-Aquitaine, Lot-et-Garonne",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3007243",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3007243.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 44.11292
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 0.52975
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1269
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 218
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": null
+}

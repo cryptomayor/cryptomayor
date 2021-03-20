@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2513403",
+    "name": "Muro del Alcoy, Spain",
+    "description": "Valencia, Provincia de Alicante",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2513403",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2513403.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 38.7812
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -0.43608
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 7983
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 399
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Madrid"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Spain"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "ES",
+    "altnames": "Muro,Muro de Alcoy,Muro del Alcoy"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor671790",
+    "name": "Oporelu, Romania",
+    "description": "Olt, Comuna Oporelu",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor671790",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor671790.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 44.6
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 24.41667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1265
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 250
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": "Oporelu,Oporelul"
+}

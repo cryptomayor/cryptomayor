@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3522532",
+    "name": "Nuevo Pacayal, Mexico",
+    "description": "Chiapas, Bella Vista",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3522532",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3522532.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 15.6601
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -92.31538
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1019
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 674
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Nuevo Pacayal"
+}

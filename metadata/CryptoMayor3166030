@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3166030",
+    "name": "Suni, Italy",
+    "description": "Sardinia, Provincia di Oristano",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3166030",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3166030.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 40.28085
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 8.54942
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1114
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 340
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "Suni"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4019291",
+    "name": "Agua Nueva, Mexico",
+    "description": "Coahuila, Saltillo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4019291",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4019291.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 25.18934
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -101.0884
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1465
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1935
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Monterrey"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Agua Nueva"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor7281839",
+    "name": "Carindale, Australia",
+    "description": "Queensland, Brisbane",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor7281839",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor7281839.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -27.50578
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 153.10236
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 15418
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 14
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Brisbane"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": null
+}

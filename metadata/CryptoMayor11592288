@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor11592288",
+    "name": "New Stevenston, United Kingdom",
+    "description": "Scotland, North Lanarkshire",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor11592288",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor11592288.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 55.81669
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -3.97357
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 5450
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 93
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/London"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United Kingdom"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "GB",
+    "altnames": null
+}

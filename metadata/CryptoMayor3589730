@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3589730",
+    "name": "San Miguel Chicaj, Guatemala",
+    "description": "Baja Verapaz, Municipio de San Miguel Chicaj",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3589730",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3589730.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 15.09472
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -90.39442
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 13747
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 945
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Guatemala"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Guatemala"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "GT",
+    "altnames": "San Miguel Chicaj"
+}

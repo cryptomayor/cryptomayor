@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2661844",
+    "name": "Affeltrangen, Switzerland",
+    "description": "Thurgau, Bezirk Weinfelden",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2661844",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2661844.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.52581
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 9.03307
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2135
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 492
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Zurich"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Switzerland"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "CH",
+    "altnames": "Affeltrangen"
+}

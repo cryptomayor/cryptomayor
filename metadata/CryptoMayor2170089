@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2170089",
+    "name": "Craigieburn, Australia",
+    "description": "Victoria, Hume",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2170089",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2170089.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -37.6
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 144.95
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 50069
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 186
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Melbourne"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": "Craigieburn"
+}

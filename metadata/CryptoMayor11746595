@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor11746595",
+    "name": "Villach-Innere Stadt, Austria",
+    "description": "Carinthia, Villach Stadt",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor11746595",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor11746595.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 46.61275
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 13.84638
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 8189
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 506
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Vienna"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Austria"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "AT",
+    "altnames": null
+}

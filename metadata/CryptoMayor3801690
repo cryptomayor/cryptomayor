@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3801690",
+    "name": "San Pablo Lachiriega, Mexico",
+    "description": "Oaxaca, San Pedro Quiatoni",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3801690",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3801690.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 16.84111
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -96.01083
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 614
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1028
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Lachierriega,Lachiriega,San Pablo,San Pablo Lachiriega"
+}

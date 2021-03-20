@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8861615",
+    "name": "Los Amiales, Mexico",
+    "description": "Jalisco, Tonal\u00e1",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8861615",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8861615.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.61417
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -103.23056
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 662
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1606
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Los Amiales"
+}

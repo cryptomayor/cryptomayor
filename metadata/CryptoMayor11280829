@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor11280829",
+    "name": "Provodov-\u0160onov, Czechia",
+    "description": "Kr\u00e1lov\u00e9hradeck\u00fd kraj, Okres N\u00e1chod",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor11280829",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor11280829.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 50.38711
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 16.10797
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1225
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 294
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Prague"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Czechia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "CZ",
+    "altnames": null
+}

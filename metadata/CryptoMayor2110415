@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2110415",
+    "name": "Asau Village, Tuvalu",
+    "description": "Vaitupu",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2110415",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2110415.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -7.49026
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 178.68016
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 250
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 9
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Pacific/Funafuti"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Tuvalu"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "TV",
+    "altnames": null
+}

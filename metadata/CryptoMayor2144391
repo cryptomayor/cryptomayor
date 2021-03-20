@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2144391",
+    "name": "Watsons Bay, Australia",
+    "description": "New South Wales, Woollahra",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2144391",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2144391.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -33.84386
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 151.2829
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 880
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 10
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Sydney"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": null
+}

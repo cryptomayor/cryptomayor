@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2524438",
+    "name": "Lascari, Italy",
+    "description": "Sicily, Palermo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2524438",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2524438.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 38.00067
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 13.94053
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2857
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 66
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "Lascari"
+}

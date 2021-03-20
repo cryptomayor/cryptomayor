@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8348174",
+    "name": "Ironbark, Australia",
+    "description": "Queensland, Ipswich",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8348174",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8348174.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -27.55645
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 152.67161
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 595
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 67
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Brisbane"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": null
+}

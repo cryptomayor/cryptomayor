@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3974655",
+    "name": "San Isidro (Los Hoyos), Mexico",
+    "description": "Chihuahua, Chihuahua",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3974655",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3974655.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 28.87778
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -106.23444
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 952
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1561
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Chihuahua"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": null
+}

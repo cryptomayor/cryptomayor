@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5052666",
+    "name": "White Earth, United States",
+    "description": "Minnesota, Becker County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5052666",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5052666.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.09663
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -95.84338
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 580
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 464
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Chicago"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

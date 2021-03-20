@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6293099",
+    "name": "Au / Ober-Ort/Gwad, Switzerland",
+    "description": "Zurich, Bezirk Horgen",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6293099",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6293099.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.23943
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 8.65741
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 979
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 412
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Zurich"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Switzerland"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "CH",
+    "altnames": "Ober-Ort/Gwad"
+}

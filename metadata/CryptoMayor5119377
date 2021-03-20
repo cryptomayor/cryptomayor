@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5119377",
+    "name": "Greenlawn, United States",
+    "description": "New York, Suffolk County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5119377",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5119377.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 40.86899
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -73.36512
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 13742
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 71
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/New_York"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

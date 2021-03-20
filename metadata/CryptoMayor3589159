@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3589159",
+    "name": "Santa Rosa de Lima, Guatemala",
+    "description": "Santa Rosa",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3589159",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3589159.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 14.38806
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -90.29556
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 5984
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 948
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Guatemala"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Guatemala"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "GT",
+    "altnames": "Santa Rosa,Santa Rosa de Lima,Santa Rose de Lima"
+}

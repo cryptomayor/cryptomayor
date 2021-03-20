@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2975046",
+    "name": "Sens-de-Bretagne, France",
+    "description": "Brittany, Ille-et-Vilaine",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2975046",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2975046.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 48.33308
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -1.5362
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1851
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 87
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Sen,Sens,Sens-de-Bretagne"
+}

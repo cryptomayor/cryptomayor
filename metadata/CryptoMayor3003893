@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3003893",
+    "name": "Le Gua, France",
+    "description": "Nouvelle-Aquitaine, Charente-Maritime",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3003893",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3003893.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 45.72628
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -0.944
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1936
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 6
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Le Gua"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5346811",
+    "name": "Escalon, United States",
+    "description": "California, San Joaquin County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5346811",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5346811.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 37.79781
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -120.99792
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 7523
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 41
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Los_Angeles"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3075042",
+    "name": "Hostou\u0148, Czechia",
+    "description": "Plze\u0148sk\u00fd kraj, Okres Doma\u017elice",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3075042",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3075042.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 49.55971
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 12.77147
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1299
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 448
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Prague"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Czechia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "CZ",
+    "altnames": "Hostau"
+}

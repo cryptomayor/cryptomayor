@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3522749",
+    "name": "Viejo Nicapa, Mexico",
+    "description": "Chiapas, Pichucalco",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3522749",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3522749.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 17.42449
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -93.21074
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 592
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 317
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Nicana,Nicapa"
+}

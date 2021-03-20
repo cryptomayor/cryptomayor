@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3523573",
+    "name": "El Marcial, Mexico",
+    "description": "Veracruz, Isla",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3523573",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3523573.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 17.98124
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -95.68285
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 541
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 26
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "El Marcial,Marcial"
+}

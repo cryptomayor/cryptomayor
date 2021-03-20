@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3159049",
+    "name": "Dovre, Norway",
+    "description": "Innlandet, Dovre",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3159049",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3159049.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 61.9875
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 9.25556
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 439
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 540
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Oslo"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Norway"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "NO",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor231139",
+    "name": "Kireka, Uganda",
+    "description": "Central Region, Wakiso District",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor231139",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor231139.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 0.3475
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 32.64917
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 17947
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1181
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Africa/Kampala"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Uganda"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AF"
+        }
+    ],
+    "country_code": "UG",
+    "altnames": "Kireka"
+}

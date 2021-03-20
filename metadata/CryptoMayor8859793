@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8859793",
+    "name": "Tocoy, Mexico",
+    "description": "San Luis Potos\u00ed, San Antonio",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8859793",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8859793.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 21.63861
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -98.87083
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1061
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 260
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Tocoy"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3528206",
+    "name": "Sabinalito, Mexico",
+    "description": "Chiapas, Frontera Comalapa",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3528206",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3528206.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 15.70186
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -91.98636
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1808
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 679
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "El Sabinal,El Sabinalito,Sabinal,Sabinalito"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3970492",
+    "name": "Las Guayabas, Mexico",
+    "description": "Sonora, Etchojoa",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3970492",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3970492.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 26.89735
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -109.6891
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 554
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 15
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Hermosillo"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Las Guayabas"
+}

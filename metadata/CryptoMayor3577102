@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3577102",
+    "name": "Santa Cruz, Aruba",
+    "description": "",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3577102",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3577102.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 12.50953
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -69.98094
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 12900
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 34
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Aruba"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Aruba"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "AW",
+    "altnames": "Santa Cruz"
+}

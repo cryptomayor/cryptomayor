@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3680426",
+    "name": "Iza, Colombia",
+    "description": "Boyac\u00e1, Iza",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3680426",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3680426.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 5.61203
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -72.9793
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 748
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2531
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Bogota"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Colombia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "CO",
+    "altnames": "Iza"
+}

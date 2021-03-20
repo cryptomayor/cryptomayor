@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3530275",
+    "name": "Contla, Mexico",
+    "description": "Puebla, Zautla",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3530275",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3530275.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.66811
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -97.71303
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 776
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2011
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Contla"
+}

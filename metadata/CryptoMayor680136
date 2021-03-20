@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor680136",
+    "name": "Criva de Sus, Romania",
+    "description": "Olt, Ora\u015f Piatra-Olt",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor680136",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor680136.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 44.37727
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 24.31854
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 613
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 104
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": null
+}

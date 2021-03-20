@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3600357",
+    "name": "Victoria, Honduras",
+    "description": "Yoro",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3600357",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3600357.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 15.50381
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -87.82625
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2884
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 23
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Tegucigalpa"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Honduras"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "HN",
+    "altnames": "Victoria"
+}

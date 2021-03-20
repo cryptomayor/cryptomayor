@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor1006834",
+    "name": "Edenvale, South Africa",
+    "description": "Gauteng, Ekurhuleni Metropolitan Municipality",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor1006834",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor1006834.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -26.14095
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 28.15247
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 49292
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1651
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Africa/Johannesburg"
+        },
+        {
+            "trait_type": "Country",
+            "value": "South Africa"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AF"
+        }
+    ],
+    "country_code": "ZA",
+    "altnames": "Edenvale"
+}

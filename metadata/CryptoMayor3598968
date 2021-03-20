@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3598968",
+    "name": "Casillas, Guatemala",
+    "description": "Santa Rosa",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3598968",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3598968.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 14.41915
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -90.24328
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 8970
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1093
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Guatemala"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Guatemala"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "GT",
+    "altnames": "Casillas"
+}

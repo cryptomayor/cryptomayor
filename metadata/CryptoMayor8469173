@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8469173",
+    "name": "Oberrohrdorf, Switzerland",
+    "description": "Aargau, Bezirk Baden",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8469173",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8469173.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.41833
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 8.31983
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 4001
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 519
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Zurich"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Switzerland"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "CH",
+    "altnames": null
+}

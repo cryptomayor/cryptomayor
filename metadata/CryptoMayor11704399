@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor11704399",
+    "name": "Kambalda East, Australia",
+    "description": "Western Australia, Coolgardie",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor11704399",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor11704399.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -31.2055
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 121.67011
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1157
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 342
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Perth"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3204504",
+    "name": "Baranjsko Petrovo Selo, Croatia",
+    "description": "Osje\u010dko-Baranjska, Petlovac",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3204504",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3204504.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 45.75556
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 18.47028
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 525
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 90
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Zagreb"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Croatia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "HR",
+    "altnames": "Baranjsko Petrovo Selo"
+}

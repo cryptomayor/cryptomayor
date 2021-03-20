@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4000411",
+    "name": "Rosa Blanca, Mexico",
+    "description": "Nayarit, Jala",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4000411",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4000411.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 21.12454
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -104.35811
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2668
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1939
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mazatlan"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "La Rosa Blanca,Rosa Blanca"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor7602208",
+    "name": "Coffin Bay, Australia",
+    "description": "South Australia",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor7602208",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor7602208.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -34.58052
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 135.32031
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 590
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Adelaide"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": "Coffin Bay"
+}

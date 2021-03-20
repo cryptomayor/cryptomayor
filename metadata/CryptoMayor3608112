@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3608112",
+    "name": "La Criba, Honduras",
+    "description": "Valle",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3608112",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3608112.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 13.45361
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -87.41333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1001
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 51
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Tegucigalpa"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Honduras"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "HN",
+    "altnames": null
+}

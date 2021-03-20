@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4891555",
+    "name": "Fairmont, United States",
+    "description": "Illinois, Will County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4891555",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4891555.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 41.55614
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -88.05923
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2459
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 195
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Chicago"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

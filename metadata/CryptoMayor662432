@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor662432",
+    "name": "Vulcan, Romania",
+    "description": "Hunedoara, Municipiul  Vulcan",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor662432",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor662432.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 45.38333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 23.26667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 28869
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 757
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": "Vulcan"
+}

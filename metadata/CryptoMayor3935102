@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3935102",
+    "name": "Mazamari, Peru",
+    "description": "Junin, Provincia de Satipo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3935102",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3935102.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -11.32583
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -74.53083
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 6826
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 665
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Lima"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Peru"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "PE",
+    "altnames": "MZA,Mazamani,Mazamari"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8862746",
+    "name": "La Zah\u00farda, Mexico",
+    "description": "Guanajuato, Irapuato",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8862746",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8862746.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.6375
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -101.365
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 543
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1719
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "La Zahurda,La Zah\u00farda"
+}

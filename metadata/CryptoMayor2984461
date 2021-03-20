@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2984461",
+    "name": "Rancon, France",
+    "description": "Nouvelle-Aquitaine, Haute-Vienne",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2984461",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2984461.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 46.13068
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 1.18251
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 536
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 228
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Rancon"
+}

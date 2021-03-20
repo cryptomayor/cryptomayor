@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3600280",
+    "name": "Wawina, Honduras",
+    "description": "Gracias a Dios",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3600280",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3600280.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 15.41667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -84.43333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1481
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 17
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Tegucigalpa"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Honduras"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "HN",
+    "altnames": "Guaguina,Guawina,Wawina"
+}

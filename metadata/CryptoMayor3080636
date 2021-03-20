@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3080636",
+    "name": "Zarzecze, Poland",
+    "description": "Silesia, Powiat \u017cywiecki",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3080636",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3080636.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 49.71932
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 19.17526
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1121
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 358
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Warsaw"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Poland"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "PL",
+    "altnames": null
+}

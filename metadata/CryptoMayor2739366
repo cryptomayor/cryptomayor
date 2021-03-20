@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2739366",
+    "name": "Fornelos, Portugal",
+    "description": "Braga, Barcelos",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2739366",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2739366.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 41.51792
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -8.67708
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 803
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 37
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Lisbon"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Portugal"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "PT",
+    "altnames": null
+}

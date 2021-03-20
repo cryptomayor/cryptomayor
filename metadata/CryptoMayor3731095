@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3731095",
+    "name": "Aquin, Haiti",
+    "description": "Sud, Arrondissement d'Aquin",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3731095",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3731095.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.27974
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -73.39433
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 5246
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 11
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Port-au-Prince"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Haiti"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "HT",
+    "altnames": "Aken,Aquin"
+}

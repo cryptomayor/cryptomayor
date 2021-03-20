@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor7118093",
+    "name": "Gallus, Germany",
+    "description": "Hesse, Regierungsbezirk Darmstadt",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor7118093",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor7118093.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 50.10038
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 8.6295
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 39130
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 101
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Berlin"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Germany"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "DE",
+    "altnames": "Frankfurt-Gallus,Gallusviertel"
+}

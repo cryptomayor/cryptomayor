@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3066154",
+    "name": "Sezimovo \u00dast\u00ed, Czechia",
+    "description": "Jiho\u010desk\u00fd kraj, Okres T\u00e1bor",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3066154",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3066154.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 49.38519
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 14.6848
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 7420
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 400
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Prague"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Czechia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "CZ",
+    "altnames": "Alt Tabor"
+}

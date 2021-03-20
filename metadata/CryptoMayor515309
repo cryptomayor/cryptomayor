@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor515309",
+    "name": "Olym, Russia",
+    "description": "Kursk",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor515309",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor515309.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 51.682
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 38.17652
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3128
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 195
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Moscow"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Russia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RU",
+    "altnames": "Olym,Olymskij,Olymskiy,\u041e\u043b\u044b\u043c,\u041e\u043b\u044b\u043c\u0441\u043a\u0438\u0439"
+}

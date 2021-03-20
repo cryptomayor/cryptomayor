@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2140558",
+    "name": "Koumac, New Caledonia",
+    "description": "North Province, Koumac",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2140558",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2140558.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -20.56667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 164.28333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3060
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Pacific/Noumea"
+        },
+        {
+            "trait_type": "Country",
+            "value": "New Caledonia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "NC",
+    "altnames": "KOC,Koumac,Kumac,Kumak"
+}

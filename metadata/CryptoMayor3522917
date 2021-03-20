@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3522917",
+    "name": "Moyotepec, Mexico",
+    "description": "Morelos, Ayala",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3522917",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3522917.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.72084
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -98.99471
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3677
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1182
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Moyotepec"
+}

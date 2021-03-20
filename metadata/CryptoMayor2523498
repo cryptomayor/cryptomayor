@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2523498",
+    "name": "San Ferdinando, Italy",
+    "description": "Calabria, Provincia di Reggio Calabria",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2523498",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2523498.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 38.48403
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 15.91877
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3908
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 8
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "San Ferdinando"
+}

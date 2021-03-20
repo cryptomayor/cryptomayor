@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3524193",
+    "name": "Los Aldamas, Mexico",
+    "description": "Nuevo Le\u00f3n, Los Aldamas",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3524193",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3524193.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 26.06217
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -99.19556
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 545
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 104
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Monterrey"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Barrio Aldamas,Los Aldama,Los Aldamas"
+}

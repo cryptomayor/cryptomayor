@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor668751",
+    "name": "Rogova, Romania",
+    "description": "Mehedin\u0163i, Comuna Rogova",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor668751",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor668751.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 44.47167
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 22.80667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1464
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 110
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": "Rogova"
+}

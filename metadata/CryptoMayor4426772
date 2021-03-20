@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4426772",
+    "name": "Flora, United States",
+    "description": "Mississippi, Madison County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4426772",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4426772.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 32.5432
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -90.30926
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1886
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 75
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Chicago"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4251276",
+    "name": "Tilden, United States",
+    "description": "Illinois, Randolph County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4251276",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4251276.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 38.21199
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -89.6826
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 893
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 160
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Chicago"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3842559",
+    "name": "Oro Verde, Argentina",
+    "description": "Entre Rios, Departamento de Paran\u00e1",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3842559",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3842559.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -31.82508
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -60.51749
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2548
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 86
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Argentina/Cordoba"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Argentina"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "AR",
+    "altnames": "Oro Verde"
+}

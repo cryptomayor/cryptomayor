@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2801471",
+    "name": "Borgerhout, Belgium",
+    "description": "Flanders, Provincie Antwerpen",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2801471",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2801471.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 51.20957
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 4.43539
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 46087
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 7
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Brussels"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Belgium"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "BE",
+    "altnames": "Antwerpen (Borgerhout),Borgerhouts"
+}

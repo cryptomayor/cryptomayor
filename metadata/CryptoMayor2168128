@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2168128",
+    "name": "Dunedoo, Australia",
+    "description": "New South Wales, Warrumbungle Shire",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2168128",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2168128.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -32.01634
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 149.3871
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1250
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 384
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Sydney"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": "Dunedoo"
+}

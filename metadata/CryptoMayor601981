@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor601981",
+    "name": "Vidsel, Sweden",
+    "description": "Norrbotten, \u00c4lvsbyns Kommun",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor601981",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor601981.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 65.83533
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 20.51908
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 526
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 94
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Stockholm"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Sweden"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "SE",
+    "altnames": "Vidsel"
+}

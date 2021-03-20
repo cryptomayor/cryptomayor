@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2790252",
+    "name": "Neuville, Belgium",
+    "description": "Wallonia, Province de Namur",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2790252",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2790252.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 50.17327
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 4.51598
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1370
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 243
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Brussels"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Belgium"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "BE",
+    "altnames": "Neuville-le-Chaudron,Philippeville (Neuville)"
+}

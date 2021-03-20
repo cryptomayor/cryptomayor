@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor11810378",
+    "name": "Fogo Island, Canada",
+    "description": "Newfoundland and Labrador",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor11810378",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor11810378.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 49.71649
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -54.16981
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2244
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/St_Johns"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Canada"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "CA",
+    "altnames": null
+}

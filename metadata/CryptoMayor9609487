@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor9609487",
+    "name": "Marseille Saint-Victor, France",
+    "description": "Provence-Alpes-C\u00f4te d'Azur, Bouches-du-Rh\u00f4ne",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor9609487",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor9609487.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 43.28955
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 5.36845
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 6926
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 54
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2783873",
+    "name": "Welden, Belgium",
+    "description": "Flanders, Provincie Oost-Vlaanderen",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2783873",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2783873.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 50.87684
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 3.65453
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1262
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 10
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Brussels"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Belgium"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "BE",
+    "altnames": "Welden"
+}

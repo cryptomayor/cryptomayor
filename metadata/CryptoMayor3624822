@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3624822",
+    "name": "Bagaces, Costa Rica",
+    "description": "Guanacaste, Bagaces",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3624822",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3624822.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 10.52541
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -85.25537
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 4108
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 84
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Costa_Rica"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Costa Rica"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "CR",
+    "altnames": "Bagaces"
+}

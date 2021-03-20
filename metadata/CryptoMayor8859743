@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8859743",
+    "name": "Las Brisas, Mexico",
+    "description": "Baja California, Ensenada",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8859743",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8859743.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 30.96056
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -116.16444
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1078
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 36
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Tijuana"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Las Brisas"
+}

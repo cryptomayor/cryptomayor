@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4566485",
+    "name": "Palmer, Puerto Rico",
+    "description": "R\u00edo Grande, Mameyes II Barrio",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4566485",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4566485.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.37051
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -65.77405
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1205
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 19
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Puerto_Rico"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Puerto Rico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "PR",
+    "altnames": null
+}

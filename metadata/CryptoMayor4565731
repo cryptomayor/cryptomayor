@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4565731",
+    "name": "La Alianza, Puerto Rico",
+    "description": "Arecibo, Sabana Hoyos Barrio",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4565731",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4565731.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.39745
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -66.6024
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2139
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 170
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Puerto_Rico"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Puerto Rico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "PR",
+    "altnames": null
+}

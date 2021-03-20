@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8665048",
+    "name": "Tauribamba, Peru",
+    "description": "Huancavelica, Provincia de Tayacaja",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8665048",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8665048.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -12.04022
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -74.58296
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 571
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2956
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Lima"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Peru"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "PE",
+    "altnames": null
+}

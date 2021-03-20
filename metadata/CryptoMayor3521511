@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3521511",
+    "name": "Piedra Labrada, Mexico",
+    "description": "Veracruz, Cerro Azul",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3521511",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3521511.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 21.19493
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -97.79417
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 592
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 224
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3178574",
+    "name": "Civitella del Tronto, Italy",
+    "description": "Abruzzo, Provincia di Teramo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3178574",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3178574.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 42.77298
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 13.67626
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 691
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 529
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "Civitella del Tronto"
+}

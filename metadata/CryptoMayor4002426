@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4002426",
+    "name": "La Estancita, Mexico",
+    "description": "Jalisco, San Juanito de Escobedo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4002426",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4002426.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.73694
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -103.99806
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 656
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1351
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "La Estancita,La Providencia"
+}

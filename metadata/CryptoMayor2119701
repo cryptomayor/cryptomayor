@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2119701",
+    "name": "Vostok, Russia",
+    "description": "Sakhalin Oblast",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2119701",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2119701.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 48.97715
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 142.91556
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2779
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 27
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Asia/Sakhalin"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Russia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RU",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2188444",
+    "name": "Leeston, New Zealand",
+    "description": "Canterbury, Selwyn District",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2188444",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2188444.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -43.76667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 172.3
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1272
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 18
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Pacific/Auckland"
+        },
+        {
+            "trait_type": "Country",
+            "value": "New Zealand"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "NZ",
+    "altnames": "Leeston Town District"
+}

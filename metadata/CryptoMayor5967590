@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5967590",
+    "name": "Grunthal, Canada",
+    "description": "Manitoba",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5967590",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5967590.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 49.40668
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -96.85873
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1680
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 266
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Winnipeg"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Canada"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "CA",
+    "altnames": null
+}

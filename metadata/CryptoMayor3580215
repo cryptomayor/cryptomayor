@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3580215",
+    "name": "Hillsborough, Grenada",
+    "description": "Carriacou and Petite Martinique",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3580215",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3580215.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 12.48292
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -61.45597
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1000
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 8
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Grenada"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Grenada"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "GD",
+    "altnames": null
+}

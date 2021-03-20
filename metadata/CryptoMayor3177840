@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3177840",
+    "name": "Cremeno, Italy",
+    "description": "Lombardy, Provincia di Lecco",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3177840",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3177840.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 45.93492
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 9.47099
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 663
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 777
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "Cremeno"
+}

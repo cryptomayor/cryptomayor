@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor1705111",
+    "name": "Luna, Philippines",
+    "description": "Davao, Province of Davao del Norte",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor1705111",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor1705111.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 7.57639
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 125.66722
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 4551
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 35
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Asia/Manila"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Philippines"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AS"
+        }
+    ],
+    "country_code": "PH",
+    "altnames": "Luna"
+}

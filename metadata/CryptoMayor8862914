@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8862914",
+    "name": "Los Amates, Mexico",
+    "description": "Chiapas, Acacoyagua",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8862914",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8862914.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 15.34613
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -92.69339
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 527
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 66
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Los Amates"
+}

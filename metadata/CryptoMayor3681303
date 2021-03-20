@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3681303",
+    "name": "Guayabetal, Colombia",
+    "description": "Cundinamarca, Guayabetal",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3681303",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3681303.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 4.21472
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -73.81719
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2017
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1087
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Bogota"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Colombia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "CO",
+    "altnames": "Guayabetal"
+}

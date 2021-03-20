@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor1513017",
+    "name": "Parkent, Uzbekistan",
+    "description": "Toshkent",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor1513017",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor1513017.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 41.29444
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 69.67639
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 35973
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 752
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Asia/Tashkent"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Uzbekistan"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AS"
+        }
+    ],
+    "country_code": "UZ",
+    "altnames": "Parkent"
+}

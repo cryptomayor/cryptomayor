@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4024143",
+    "name": "Estancia del Llano, Mexico",
+    "description": "Guanajuato, Apaseo el Grande",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4024143",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4024143.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.51101
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -100.72637
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1863
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1766
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Estancia del Llano,San Jose del Llano,San Jos\u00e9 del Llano"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4005545",
+    "name": "Guachochi, Mexico",
+    "description": "Chihuahua, Guachochi",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4005545",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4005545.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 26.82001
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -107.0745
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 14513
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2398
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Chihuahua"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Guachochi,Guachochic"
+}

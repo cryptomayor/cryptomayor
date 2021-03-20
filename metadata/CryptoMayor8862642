@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8862642",
+    "name": "La Florida, Mexico",
+    "description": "Aguascalientes, Jes\u00fas Mar\u00eda",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8862642",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8862642.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 21.98306
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -102.30444
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 552
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1872
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "La Florida"
+}

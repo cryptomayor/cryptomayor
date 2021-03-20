@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2187060",
+    "name": "Maungaturoto, New Zealand",
+    "description": "Northland, Kaipara District",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2187060",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2187060.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -36.1
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 174.36667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 790
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 42
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Pacific/Auckland"
+        },
+        {
+            "trait_type": "Country",
+            "value": "New Zealand"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "NZ",
+    "altnames": null
+}

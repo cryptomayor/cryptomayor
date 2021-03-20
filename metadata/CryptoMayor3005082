@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3005082",
+    "name": "Le Bourget, France",
+    "description": "\u00cele-de-France, Seine-Saint-Denis",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3005082",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3005082.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 48.93405
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 2.43584
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 12690
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 38
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Bourget,Le Bourget"
+}

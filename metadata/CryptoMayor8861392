@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8861392",
+    "name": "Dos Amates, Mexico",
+    "description": "Veracruz, Catemaco",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8861392",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8861392.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.49194
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -95.06028
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 690
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 344
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Dos Amates"
+}

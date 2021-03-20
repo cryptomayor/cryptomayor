@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3518252",
+    "name": "San Miguel Peras, Mexico",
+    "description": "Oaxaca, San Miguel Peras",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3518252",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3518252.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 16.93903
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -97.01119
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1169
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2086
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Peras,San Miguel,San Miguel Peras"
+}

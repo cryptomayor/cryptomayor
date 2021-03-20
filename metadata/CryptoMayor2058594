@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2058594",
+    "name": "West Toodyay, Australia",
+    "description": "Western Australia, Toodyay",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2058594",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2058594.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -31.53333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 116.41667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 502
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 135
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Perth"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": "West Toodyay"
+}

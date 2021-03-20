@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor686468",
+    "name": "Alma, Romania",
+    "description": "Sibiu, Comuna Alma",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor686468",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor686468.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 46.21359
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 24.48037
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 884
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 322
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": "Alma"
+}

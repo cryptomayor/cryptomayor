@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2154918",
+    "name": "North Lismore, Australia",
+    "description": "New South Wales, Lismore Municipality",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2154918",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2154918.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -28.78876
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 153.28035
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 783
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 8
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Sydney"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": null
+}

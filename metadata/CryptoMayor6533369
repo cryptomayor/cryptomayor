@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6533369",
+    "name": "Fairfield, Australia",
+    "description": "Queensland, Brisbane",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6533369",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6533369.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -27.50644
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 153.02479
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2905
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 9
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Brisbane"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": null
+}

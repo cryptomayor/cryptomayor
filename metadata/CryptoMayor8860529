@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8860529",
+    "name": "Paseos del Roble, Mexico",
+    "description": "Nuevo Le\u00f3n, General Zuazua",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8860529",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8860529.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 25.90639
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -100.19972
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 837
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 415
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Monterrey"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Paseos del Roble"
+}

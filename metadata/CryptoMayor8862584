@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8862584",
+    "name": "Carmen Rusia, Mexico",
+    "description": "Chiapas, Altamirano",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8862584",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8862584.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 16.57583
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -91.83778
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 557
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1286
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Carmen Rusia"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3679852",
+    "name": "La Argentina, Colombia",
+    "description": "Huila, La Argentina",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3679852",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3679852.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 2.19762
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -75.9799
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 4800
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1541
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Bogota"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Colombia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "CO",
+    "altnames": "Argentina,La Argentina,Plata Vieja"
+}

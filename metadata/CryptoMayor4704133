@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4704133",
+    "name": "La Puerta, United States",
+    "description": "Texas, Starr County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4704133",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4704133.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 26.34451
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -98.74503
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 632
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 51
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Chicago"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

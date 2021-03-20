@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3529054",
+    "name": "El Cocuite, Mexico",
+    "description": "Veracruz, Tlalixcoyan",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3529054",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3529054.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.71765
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -96.08442
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1683
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 20
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Cocuite,El Cocuite,El Cucuite,La Guadalupe"
+}

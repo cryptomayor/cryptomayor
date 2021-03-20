@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4025384",
+    "name": "Los Tumines, Mexico",
+    "description": "Michoac\u00e1n, Ario",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4025384",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4025384.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.15633
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -101.72452
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 660
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1535
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Los Tumines,Tumines"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor663078",
+    "name": "Vela, Romania",
+    "description": "Dolj, Comuna Vela",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor663078",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor663078.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 44.28333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 23.41667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2211
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 191
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": "Vela,Vella"
+}

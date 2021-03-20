@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor758646",
+    "name": "Sokolniki, Poland",
+    "description": "Subcarpathia, Powiat tarnobrzeski",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor758646",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor758646.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 50.63803
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 21.80649
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1965
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 142
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Warsaw"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Poland"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "PL",
+    "altnames": null
+}

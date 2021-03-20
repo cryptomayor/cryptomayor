@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3816144",
+    "name": "Jomalho, Mexico",
+    "description": "Chiapas, Chamula",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3816144",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3816144.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 16.83947
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -92.71719
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 931
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2359
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Jomalho"
+}

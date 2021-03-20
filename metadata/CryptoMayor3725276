@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3725276",
+    "name": "Fond Parisien, Haiti",
+    "description": "Ouest, Arrondissement de Croix des Bouquets",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3725276",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3725276.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.50547
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -71.98122
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 18256
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 51
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Port-au-Prince"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Haiti"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "HT",
+    "altnames": null
+}

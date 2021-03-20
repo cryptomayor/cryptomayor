@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor200787",
+    "name": "Athi River, Kenya",
+    "description": "Machakos",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor200787",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor200787.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -1.4563
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 36.97826
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 24530
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1505
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Africa/Nairobi"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Kenya"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AF"
+        }
+    ],
+    "country_code": "KE",
+    "altnames": "Athi River"
+}

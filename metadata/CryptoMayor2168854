@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2168854",
+    "name": "Diggers Rest, Australia",
+    "description": "Victoria, Hume",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2168854",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2168854.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -37.62597
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 144.71881
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2776
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 201
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Melbourne"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": "Diggers Rest"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2059047",
+    "name": "Waroona, Australia",
+    "description": "Western Australia, Waroona",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2059047",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2059047.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -32.84323
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 115.92201
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2858
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 41
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Perth"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": "Waroona"
+}

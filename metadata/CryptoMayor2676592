@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2676592",
+    "name": "Smedby, Sweden",
+    "description": "Dalarna, Leksands kommun",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2676592",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2676592.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 60.7
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 15.05
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3530
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 177
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Stockholm"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Sweden"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "SE",
+    "altnames": null
+}

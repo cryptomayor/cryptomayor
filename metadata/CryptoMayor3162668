@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3162668",
+    "name": "Ask, Norway",
+    "description": "Viken, Gjerdrum",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3162668",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3162668.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 60.07131
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 11.0362
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1038
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 160
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Oslo"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Norway"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "NO",
+    "altnames": null
+}

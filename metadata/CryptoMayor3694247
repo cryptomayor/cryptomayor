@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3694247",
+    "name": "Onza de Oro, Peru",
+    "description": "Piura, Sechura",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3694247",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3694247.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -5.48828
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -80.74641
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 572
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 11
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Lima"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Peru"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "PE",
+    "altnames": null
+}

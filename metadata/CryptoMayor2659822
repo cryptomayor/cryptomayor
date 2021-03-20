@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2659822",
+    "name": "Luterbach, Switzerland",
+    "description": "Solothurn, Bezirk Wasseramt",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2659822",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2659822.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.21426
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 7.58463
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3292
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 433
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Zurich"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Switzerland"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "CH",
+    "altnames": "Luterbach"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor11695310",
+    "name": "Menen, Nauru",
+    "description": "Meneng",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor11695310",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor11695310.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -0.54539
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 166.94871
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1400
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 8
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Pacific/Nauru"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Nauru"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "NR",
+    "altnames": null
+}

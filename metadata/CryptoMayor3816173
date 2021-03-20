@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3816173",
+    "name": "San Juan Cancuc, Mexico",
+    "description": "Chiapas, San Juan Cancuc",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3816173",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3816173.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 16.89272
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -92.37006
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 6327
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1415
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "San Juan Cancuc"
+}

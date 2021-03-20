@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4095288",
+    "name": "Vandiver, United States",
+    "description": "Alabama, Shelby County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4095288",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4095288.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 33.47066
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -86.51332
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1135
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 160
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Chicago"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

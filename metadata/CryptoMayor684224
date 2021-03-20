@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor684224",
+    "name": "Borcut, Romania",
+    "description": "Maramure\u015f, Ora\u0219 T\u00e2rgu L\u0103pu\u015f",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor684224",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor684224.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.482
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 23.84071
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1017
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 343
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": null
+}

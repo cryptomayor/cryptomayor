@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2810533",
+    "name": "Westendorf, Germany",
+    "description": "Bavaria, Swabia",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2810533",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2810533.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.93333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 10.71667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1825
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 679
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Berlin"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Germany"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "DE",
+    "altnames": null
+}

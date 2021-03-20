@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5884051",
+    "name": "Alliston, Canada",
+    "description": "Ontario, Simcoe County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5884051",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5884051.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 44.15011
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -79.86635
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 18809
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 223
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Toronto"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Canada"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "CA",
+    "altnames": null
+}

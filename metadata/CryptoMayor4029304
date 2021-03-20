@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4029304",
+    "name": "El Colomo, Mexico",
+    "description": "Jalisco",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4029304",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4029304.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.86962
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -105.15597
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1476
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 61
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mazatlan"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "El Colomo"
+}

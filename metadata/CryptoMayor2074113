@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2074113",
+    "name": "Collie, Australia",
+    "description": "Western Australia, Collie",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2074113",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2074113.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -33.36206
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 116.15617
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 7396
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 190
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Perth"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": "CIE,Collie"
+}

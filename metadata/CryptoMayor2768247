@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2768247",
+    "name": "Puntigam, Austria",
+    "description": "Styria, Graz Stadt",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2768247",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2768247.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.03333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 15.43333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 8647
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 348
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Vienna"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Austria"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "AT",
+    "altnames": "Puntigam"
+}

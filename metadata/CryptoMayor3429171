@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3429171",
+    "name": "San Cayetano, Argentina",
+    "description": "Buenos Aires, Partido de San Cayetano",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3429171",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3429171.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -38.34653
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -59.60954
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 0
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 100
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Argentina/Buenos_Aires"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Argentina"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "AR",
+    "altnames": "San Cayetano"
+}

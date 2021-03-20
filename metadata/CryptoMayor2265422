@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2265422",
+    "name": "Olival do Basto, Portugal",
+    "description": "Lisbon, Odivelas",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2265422",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2265422.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 38.79079
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -9.16621
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 5959
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 22
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Lisbon"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Portugal"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "PT",
+    "altnames": "Olival do Basto"
+}

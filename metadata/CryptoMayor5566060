@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5566060",
+    "name": "Junction City, United States",
+    "description": "California, Trinity County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5566060",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5566060.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 40.7332
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -123.05364
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 680
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 475
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Los_Angeles"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": "Junction,Junction City,Messerville,Milltown,Oregon Gulch"
+}

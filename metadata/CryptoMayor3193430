@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3193430",
+    "name": "Petra\u010da, Croatia",
+    "description": "Dubrova\u010dko-Neretvanska, \u017dupa dubrova\u010dka",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3193430",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3193430.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 42.6325
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 18.19306
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 806
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 114
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Zagreb"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Croatia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "HR",
+    "altnames": null
+}

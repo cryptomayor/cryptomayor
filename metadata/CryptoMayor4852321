@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4852321",
+    "name": "Columbus Junction, United States",
+    "description": "Iowa, Louisa County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4852321",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4852321.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 41.28003
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -91.36071
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1860
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 186
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Chicago"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

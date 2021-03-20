@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2605147",
+    "name": "Lerchenreith, Austria",
+    "description": "Styria, Politischer Bezirk Liezen",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2605147",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2605147.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.603
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 13.77333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 822
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 676
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Vienna"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Austria"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "AT",
+    "altnames": null
+}

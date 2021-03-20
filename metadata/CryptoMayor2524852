@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2524852",
+    "name": "Dinami, Italy",
+    "description": "Calabria, Provincia di Vibo-Valentia",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2524852",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2524852.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 38.53136
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 16.14461
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 800
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 289
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "Dinami"
+}

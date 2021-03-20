@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8349129",
+    "name": "Herdsmans Cove, Australia",
+    "description": "Tasmania, Brighton",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8349129",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8349129.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -42.75066
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 147.26483
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1126
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 37
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Hobart"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8950066",
+    "name": "Masero, Italy",
+    "description": "Tuscany, Provincia di Massa-Carrara",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8950066",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8950066.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 44.22723
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 9.97011
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 604
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 73
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "Masero"
+}

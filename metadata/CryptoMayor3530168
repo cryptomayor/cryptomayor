@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3530168",
+    "name": "Cosolapa, Mexico",
+    "description": "Veracruz",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3530168",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3530168.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.60055
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -96.68524
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 8320
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 222
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Cosolapa,Cozolapa,Cusalapa,Gusalapa"
+}

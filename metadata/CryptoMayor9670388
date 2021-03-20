@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor9670388",
+    "name": "Lake Petersburg, United States",
+    "description": "Illinois, Menard County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor9670388",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor9670388.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 39.98358
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -89.86207
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 719
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 183
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Chicago"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

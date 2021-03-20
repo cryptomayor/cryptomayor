@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor669010",
+    "name": "Rediu, Romania",
+    "description": "Boto\u015fani, Comuna R\u00e3d\u00e3u\u0163i-Prut",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor669010",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor669010.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 48.23075
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 26.77841
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1118
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 129
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": null
+}

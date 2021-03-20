@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3934042",
+    "name": "Omas, Peru",
+    "description": "Lima region, Provincia de Yauyos",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3934042",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3934042.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -12.51667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -76.28333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 249
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1618
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Lima"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Peru"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "PE",
+    "altnames": null
+}

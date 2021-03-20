@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3986643",
+    "name": "San Isidro Mazatepec, Mexico",
+    "description": "Jalisco, Tala",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3986643",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3986643.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.52284
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -103.61294
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3655
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1486
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Mazatepec,San Isidro,San Isidro Mazatepec,San Isidro de Mazatepec"
+}

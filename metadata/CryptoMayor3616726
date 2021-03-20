@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3616726",
+    "name": "San Juan del Sur, Nicaragua",
+    "description": "Rivas",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3616726",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3616726.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 11.25292
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -85.87049
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 7790
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 9
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Managua"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Nicaragua"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "NI",
+    "altnames": "San Juan del Sur"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3168665",
+    "name": "Saletto, Italy",
+    "description": "Veneto, Provincia di Padova",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3168665",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3168665.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 45.22889
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 11.5378
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1592
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 11
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "Saletto"
+}

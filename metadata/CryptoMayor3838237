@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3838237",
+    "name": "Salsacate, Argentina",
+    "description": "Cordoba, Departamento de Pocho",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3838237",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3838237.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -31.31842
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -65.09003
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1205
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 927
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Argentina/Cordoba"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Argentina"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "AR",
+    "altnames": "Salsacate"
+}

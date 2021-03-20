@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8949804",
+    "name": "Scalo Ferroviario, Italy",
+    "description": "Campania, Provincia di Caserta",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8949804",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8949804.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 41.23253
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 14.07491
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 724
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 101
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "Scalo Ferroviario"
+}

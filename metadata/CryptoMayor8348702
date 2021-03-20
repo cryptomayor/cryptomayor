@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8348702",
+    "name": "Mount Lofty, Australia",
+    "description": "Queensland, Toowoomba",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8348702",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8348702.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -27.54628
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 151.97218
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3665
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 681
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Brisbane"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": null
+}

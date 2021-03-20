@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4565755",
+    "name": "La Dolores, Puerto Rico",
+    "description": "R\u00edo Grande, Ci\u00e9naga Baja Barrio",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4565755",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4565755.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.3755
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -65.85572
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3534
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 19
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Puerto_Rico"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Puerto Rico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "PR",
+    "altnames": "Colonia Dolores"
+}

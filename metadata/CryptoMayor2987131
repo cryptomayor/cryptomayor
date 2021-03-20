@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2987131",
+    "name": "Pimprez, France",
+    "description": "Hauts-de-France, Oise",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2987131",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2987131.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 49.51489
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 2.9519
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 670
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 47
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Pimprez"
+}

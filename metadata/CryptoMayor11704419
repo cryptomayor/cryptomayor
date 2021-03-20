@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor11704419",
+    "name": "Mount Kembla, Australia",
+    "description": "New South Wales, Wollongong",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor11704419",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor11704419.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -34.42881
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 150.82161
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1011
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 149
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Sydney"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": null
+}

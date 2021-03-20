@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3684189",
+    "name": "El Espino, Colombia",
+    "description": "Boyac\u00e1, El Espino",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3684189",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3684189.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 6.48277
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -72.49718
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1313
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2127
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Bogota"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Colombia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "CO",
+    "altnames": "El Espino,Espino"
+}

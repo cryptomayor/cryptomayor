@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3937118",
+    "name": "La Huaca, Peru",
+    "description": "Lima region, Provincia de Huaral",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3937118",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3937118.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -11.5273
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -77.19859
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 687
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 172
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Lima"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Peru"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "PE",
+    "altnames": "La Huaca,La Huaca Hacienda"
+}

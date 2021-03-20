@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3070276",
+    "name": "Mostkovice, Czechia",
+    "description": "Olomouck\u00fd, Okres Prost\u011bjov",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3070276",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3070276.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 49.47215
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 17.05212
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1313
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 254
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Prague"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Czechia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "CZ",
+    "altnames": null
+}

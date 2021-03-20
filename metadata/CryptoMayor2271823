@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2271823",
+    "name": "Altura, Portugal",
+    "description": "Faro, Castro Marim",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2271823",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2271823.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 37.1756
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -7.50064
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2195
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 8
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Lisbon"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Portugal"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "PT",
+    "altnames": "Altura"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3621819",
+    "name": "San Juan, Costa Rica",
+    "description": "San Jos\u00e9, Tib\u00e1s",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3621819",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3621819.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 9.95974
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -84.08165
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 26047
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1151
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Costa_Rica"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Costa Rica"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "CR",
+    "altnames": "San Juan"
+}

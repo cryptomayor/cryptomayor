@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor12076642",
+    "name": "South Pender Harbour, Canada",
+    "description": "British Columbia, Sunshine Coast Regional District",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor12076642",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor12076642.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 49.62202
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -124.02484
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1187
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 65
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Vancouver"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Canada"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "CA",
+    "altnames": null
+}

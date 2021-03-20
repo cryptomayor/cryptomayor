@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6295366",
+    "name": "Schlieren / Industrie Ost, Switzerland",
+    "description": "Zurich, Bezirk Dietikon",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6295366",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6295366.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.40069
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 8.46077
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 507
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 391
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Zurich"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Switzerland"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "CH",
+    "altnames": "Industrie Ost"
+}

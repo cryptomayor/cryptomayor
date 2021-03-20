@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8859444",
+    "name": "El Obraje, Mexico",
+    "description": "M\u00e9xico, San Felipe del Progreso",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8859444",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8859444.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.72269
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -99.96259
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1224
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2611
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "El Obraje"
+}

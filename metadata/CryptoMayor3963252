@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3963252",
+    "name": "Chacos, Peru",
+    "description": "Huanuco, Provincia de Ambo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3963252",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3963252.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -10.35915
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -76.1696
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 553
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 3346
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Lima"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Peru"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "PE",
+    "altnames": null
+}

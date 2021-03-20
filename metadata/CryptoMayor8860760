@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8860760",
+    "name": "Morelos Uno, Mexico",
+    "description": "Sonora, Cajeme",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8860760",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8860760.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 27.27806
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -109.99639
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 788
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 19
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Hermosillo"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Morelos Uno"
+}

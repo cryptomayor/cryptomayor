@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4010413",
+    "name": "El Chico, Mexico",
+    "description": "Jalisco, Cuautitl\u00e1n de Garc\u00eda Barrag\u00e1n",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4010413",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4010413.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.34267
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -104.2879
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 531
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 390
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "El Chico"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3980152",
+    "name": "Villa Madero, Mexico",
+    "description": "Michoac\u00e1n, Madero",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3980152",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3980152.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.3915
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -101.27883
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 6577
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2188
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Villa Madero"
+}

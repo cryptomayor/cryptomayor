@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3978318",
+    "name": "El Mil Diez, Mexico",
+    "description": "Durango, Pueblo Nuevo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3978318",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3978318.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 23.79973
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -105.3881
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 896
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2561
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Monterrey"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "El Mil Diez"
+}

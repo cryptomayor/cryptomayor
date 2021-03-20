@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3999282",
+    "name": "Las Ranas, Mexico",
+    "description": "M\u00e9xico",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3999282",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3999282.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.2086
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -101.4781
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1047
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2088
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Las Ranas"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8949017",
+    "name": "Villa Ciambra, Italy",
+    "description": "Sicily, Palermo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8949017",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8949017.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 38.06129
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 13.32
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1919
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 242
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "Villa Ciambra"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6534453",
+    "name": "Stazzona, Italy",
+    "description": "Lombardy, Provincia di Como",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6534453",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6534453.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 46.13879
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 9.27524
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 634
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 517
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": null
+}

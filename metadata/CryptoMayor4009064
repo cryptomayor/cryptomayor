@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4009064",
+    "name": "El Nacimiento, Mexico",
+    "description": "Guanajuato, Apaseo el Grande",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4009064",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4009064.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.53596
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -100.61017
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1608
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1802
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "El Nacimiento"
+}

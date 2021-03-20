@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4043909",
+    "name": "Dededo Village, Guam",
+    "description": "Dededo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4043909",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4043909.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 13.51777
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 144.8391
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 44943
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 100
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Pacific/Guam"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Guam"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "GU",
+    "altnames": "Dedidu"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor300324",
+    "name": "Soylu, Turkey",
+    "description": "Mardin",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor300324",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor300324.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 37.65035
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 40.81601
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 588
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 795
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Istanbul"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Turkey"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AS"
+        }
+    ],
+    "country_code": "TR",
+    "altnames": "Deris,Deriskoyu,Deri\u015f,Deri\u015fk\u00f6y\u00fc,Derris,Derrish,Derri\u015f,Soylu"
+}

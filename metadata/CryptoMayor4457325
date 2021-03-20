@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4457325",
+    "name": "Broadway, United States",
+    "description": "North Carolina, Lee County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4457325",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4457325.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 35.45793
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -79.05308
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1264
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 145
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/New_York"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

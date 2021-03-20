@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3517785",
+    "name": "San Simonito, Mexico",
+    "description": "M\u00e9xico, Tenancingo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3517785",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3517785.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.99139
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -99.54
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2028
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2125
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": null
+}

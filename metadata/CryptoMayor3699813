@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3699813",
+    "name": "Alamor, Peru",
+    "description": "Piura, Provincia de Sullana",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3699813",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3699813.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -4.47953
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -80.39884
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 511
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 121
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Lima"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Peru"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "PE",
+    "altnames": null
+}

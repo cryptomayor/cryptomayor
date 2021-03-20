@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8949702",
+    "name": "Tre Pontoni, Italy",
+    "description": "Latium, Citt\u00e0 metropolitana di Roma Capitale",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8949702",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8949702.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 42.10418
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 12.56516
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 777
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 86
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "Tre Pontoni"
+}

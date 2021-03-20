@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4011476",
+    "name": "Ejido Plan de Ayala, Mexico",
+    "description": "Baja California, Mexicali",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4011476",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4011476.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 32.22023
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -115.03158
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1654
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 16
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Tijuana"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Ejido Plan de Ayala,Plan de Ayala"
+}

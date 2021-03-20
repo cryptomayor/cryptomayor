@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2990883",
+    "name": "Nauroy, France",
+    "description": "Hauts-de-France, Aisne",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2990883",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2990883.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 49.95325
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 3.25521
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 689
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 145
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Nauroy"
+}

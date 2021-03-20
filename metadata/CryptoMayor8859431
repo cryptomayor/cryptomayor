@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8859431",
+    "name": "San Bernardo Pe\u00f1a Blanca, Mexico",
+    "description": "Guanajuato, Abasolo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8859431",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8859431.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.46167
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -101.4825
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1232
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1727
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "San Bernardo Pena Blanca,San Bernardo Pe\u00f1a Blanca"
+}

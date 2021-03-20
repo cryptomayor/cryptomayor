@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3128234",
+    "name": "Berbinzana, Spain",
+    "description": "Navarre",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3128234",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3128234.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 42.52779
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -1.83419
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 726
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 320
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Madrid"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Spain"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "ES",
+    "altnames": "Berbinzana"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2969332",
+    "name": "Vieille Chapelle, France",
+    "description": "Provence-Alpes-C\u00f4te d'Azur, Bouches-du-Rh\u00f4ne",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2969332",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2969332.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 43.24963
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 5.38048
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 8181
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 16
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": null
+}

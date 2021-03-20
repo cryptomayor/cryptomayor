@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8724570",
+    "name": "La Laja, Mexico",
+    "description": "Veracruz, Coatzintla",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8724570",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8724570.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.48449
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -97.50196
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 717
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 76
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "La Laja"
+}

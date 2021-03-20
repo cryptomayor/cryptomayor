@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor11048320",
+    "name": "Sector 4, Romania",
+    "description": "Bucure\u015fti, Municipiul Bucure\u015fti",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor11048320",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor11048320.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 44.37571
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 26.12085
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 287828
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 79
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": "Sectorul 4"
+}

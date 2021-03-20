@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4283557",
+    "name": "Beaver Dam, United States",
+    "description": "Kentucky, Ohio County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4283557",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4283557.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 37.40199
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -86.87583
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3618
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 124
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Chicago"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2824152",
+    "name": "Tannenberg, Germany",
+    "description": "Saxony",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2824152",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2824152.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 50.60738
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 12.93798
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1283
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 526
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Berlin"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Germany"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "DE",
+    "altnames": null
+}

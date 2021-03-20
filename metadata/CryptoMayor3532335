@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3532335",
+    "name": "Baxtla, Mexico",
+    "description": "Veracruz, Teocelo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3532335",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3532335.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.36276
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -96.97631
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 695
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1157
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Baxtla"
+}

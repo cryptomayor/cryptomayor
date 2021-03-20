@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4038659",
+    "name": "Tamuning-Tumon-Harmon Village, Guam",
+    "description": "Tamuning",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4038659",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4038659.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 13.48773
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 144.78138
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 19685
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 20
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Pacific/Guam"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Guam"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "GU",
+    "altnames": "Maria Christina,Timoneng"
+}

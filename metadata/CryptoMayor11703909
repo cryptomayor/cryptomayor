@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor11703909",
+    "name": "Bardia, Australia",
+    "description": "New South Wales, Campbelltown Municipality",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor11703909",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor11703909.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -33.97789
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 150.86306
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1604
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 60
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Sydney"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": null
+}

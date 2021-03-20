@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3528242",
+    "name": "El Rodeo, Mexico",
+    "description": "Chiapas, Siltepec",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3528242",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3528242.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 15.47514
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -92.27269
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 806
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2934
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "El Rodeo"
+}

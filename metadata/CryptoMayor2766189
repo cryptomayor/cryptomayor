@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2766189",
+    "name": "Schafwiesen, Austria",
+    "description": "Upper Austria, Wels Stadt",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2766189",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2766189.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 48.17194
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 14.07067
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2200
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 306
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Vienna"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Austria"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "AT",
+    "altnames": null
+}

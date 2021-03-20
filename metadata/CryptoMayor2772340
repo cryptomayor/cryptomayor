@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2772340",
+    "name": "Lochen, Austria",
+    "description": "Upper Austria, Politischer Bezirk Braunau am Inn",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2772340",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2772340.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 48.00796
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 13.17982
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 785
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 517
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Vienna"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Austria"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "AT",
+    "altnames": "Lochen am See"
+}

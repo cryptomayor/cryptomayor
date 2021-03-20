@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5903510",
+    "name": "Blainville, Canada",
+    "description": "Quebec, Laurentides",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5903510",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5903510.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 45.66678
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -73.88249
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 46493
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 73
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Toronto"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Canada"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "CA",
+    "altnames": null
+}

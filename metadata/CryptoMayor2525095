@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2525095",
+    "name": "Castellammare del Golfo, Italy",
+    "description": "Sicily, Trapani",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2525095",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2525095.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 38.02653
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 12.88183
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 13085
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 42
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "Casteddammari,Castellammare del Golfo"
+}

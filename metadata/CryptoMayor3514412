@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3514412",
+    "name": "Xomotla, Mexico",
+    "description": "Veracruz, Alto Lucero de Guti\u00e9rrez Barrios",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3514412",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3514412.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.6775
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -96.72361
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 790
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1047
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": null
+}

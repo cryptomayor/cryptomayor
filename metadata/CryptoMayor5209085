@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5209085",
+    "name": "Rossiter, United States",
+    "description": "Pennsylvania, Indiana County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5209085",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5209085.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 40.89451
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -78.93114
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 646
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 429
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/New_York"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

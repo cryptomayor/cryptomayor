@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3637311",
+    "name": "La Luz, Venezuela",
+    "description": "Barinas, Municipio Obispos",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3637311",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3637311.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 8.39419
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -69.82358
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 0
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 119
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Caracas"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Venezuela"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "VE",
+    "altnames": null
+}

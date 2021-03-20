@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2795785",
+    "name": "Hever, Belgium",
+    "description": "Flanders, Provincie Vlaams-Brabant",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2795785",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2795785.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 50.99545
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 4.55126
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 6426
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 7
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Brussels"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Belgium"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "BE",
+    "altnames": "Boortmeerbeek (Hever)"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor11789599",
+    "name": "Maisonnette, Canada",
+    "description": "New Brunswick, Gloucester County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor11789599",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor11789599.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.82364
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -64.99838
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 605
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Moncton"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Canada"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "CA",
+    "altnames": null
+}

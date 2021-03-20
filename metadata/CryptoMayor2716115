@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2716115",
+    "name": "Enviken, Sweden",
+    "description": "Dalarna, Falu kommun",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2716115",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2716115.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 60.8
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 15.78333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 840
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 137
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Stockholm"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Sweden"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "SE",
+    "altnames": "Enviken"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6535133",
+    "name": "Mantello, Italy",
+    "description": "Lombardy, Provincia di Sondrio",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6535133",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6535133.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 46.15249
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 9.48894
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 622
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 216
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": null
+}

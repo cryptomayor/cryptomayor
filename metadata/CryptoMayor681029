@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor681029",
+    "name": "Comana de Sus, Romania",
+    "description": "Bra\u015fov, Comuna Comana",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor681029",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor681029.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 45.9
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 25.26667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2556
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 508
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": "Comana de Sus"
+}

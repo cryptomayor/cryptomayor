@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3816442",
+    "name": "San Juan del Pozo, Mexico",
+    "description": "Chiapas, Las Margaritas",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3816442",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3816442.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 16.42624
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -91.71129
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 627
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1315
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "San Juan del Pozo"
+}

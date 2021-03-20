@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3520953",
+    "name": "San Juan Volador, Mexico",
+    "description": "Veracruz, Pajapan",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3520953",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3520953.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.26355
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -94.6518
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1725
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 104
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Pimta de San Juan,Punta San Juan,Punta de San Juan,San Juan Volador"
+}

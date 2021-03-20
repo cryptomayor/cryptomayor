@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3068264",
+    "name": "Piv\u00edn, Czechia",
+    "description": "Olomouck\u00fd, Okres Prost\u011bjov",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3068264",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3068264.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 49.38469
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 17.18483
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 694
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 215
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Prague"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Czechia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "CZ",
+    "altnames": null
+}

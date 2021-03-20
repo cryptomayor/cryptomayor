@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4983625",
+    "name": "York Harbor, United States",
+    "description": "Maine, York County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4983625",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4983625.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 43.13676
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -70.64561
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3033
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 26
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/New_York"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

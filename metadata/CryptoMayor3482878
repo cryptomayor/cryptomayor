@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3482878",
+    "name": "La Colonia, Mexico",
+    "description": "Tamaulipas, Altamira",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3482878",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3482878.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 22.4388
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -98.01729
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1500
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 19
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Monterrey"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "La Colonia"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2181997",
+    "name": "Takaka, New Zealand",
+    "description": "Tasman, Tasman District",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2181997",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2181997.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -40.85
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 172.8
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1223
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 10
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Pacific/Auckland"
+        },
+        {
+            "trait_type": "Country",
+            "value": "New Zealand"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "NZ",
+    "altnames": "KTF,Takaka Town District"
+}

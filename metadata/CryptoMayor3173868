@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3173868",
+    "name": "Marsia, Italy",
+    "description": "The Marches, Provincia di Ascoli Piceno",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3173868",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3173868.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 42.8603
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 13.47619
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1014
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 297
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": null
+}

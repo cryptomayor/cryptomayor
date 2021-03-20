@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3589395",
+    "name": "Santa Cruz Verapaz, Guatemala",
+    "description": "Alta Verapaz, Municipio de Santa Cruz Verapaz",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3589395",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3589395.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 15.37342
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -90.42857
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 5843
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1402
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Guatemala"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Guatemala"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "GT",
+    "altnames": "Santa Cruz,Santa Cruz Verapaz"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6163363",
+    "name": "The Beaches, Canada",
+    "description": "Ontario, Toronto county",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6163363",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6163363.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 43.67372
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -79.29539
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 21567
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 93
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Toronto"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Canada"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "CA",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2662866",
+    "name": "Vinberg, Sweden",
+    "description": "Halland, Falkenbergs Kommun",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2662866",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2662866.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 56.94968
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 12.54394
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 606
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 36
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Stockholm"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Sweden"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "SE",
+    "altnames": "Vinberg"
+}

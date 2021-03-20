@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2786685",
+    "name": "Sint-Huibrechts-Lille, Belgium",
+    "description": "Flanders, Provincie Limburg",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2786685",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2786685.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 51.22266
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 5.49437
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3354
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 40
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Brussels"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Belgium"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "BE",
+    "altnames": "Lille-Saint-Hubert,Neerpelt (Sint-Huibrechts-Lille)"
+}

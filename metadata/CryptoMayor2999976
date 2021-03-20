@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2999976",
+    "name": "Lespinasse, France",
+    "description": "Occitanie, Upper Garonne",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2999976",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2999976.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 43.71206
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 1.38462
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2435
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 122
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Lespinasse"
+}

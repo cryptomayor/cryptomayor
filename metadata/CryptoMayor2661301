@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2661301",
+    "name": "Buttes, Switzerland",
+    "description": "Neuch\u00e2tel, Val-de-Travers District",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2661301",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2661301.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 46.88812
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 6.55137
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 629
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 772
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Zurich"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Switzerland"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "CH",
+    "altnames": null
+}

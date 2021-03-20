@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3994863",
+    "name": "Nombre de Dios, Mexico",
+    "description": "Durango, Nombre de Dios",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3994863",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3994863.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 23.84891
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -104.24712
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 5302
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1731
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Monterrey"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Nombre de Dios"
+}

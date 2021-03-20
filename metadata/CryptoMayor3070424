@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3070424",
+    "name": "Modr\u00e1, Czechia",
+    "description": "Zl\u00edn, Okres Uhersk\u00e9 Hradi\u0161t\u011b",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3070424",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3070424.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 49.11202
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 17.4034
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 635
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 220
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Prague"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Czechia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "CZ",
+    "altnames": null
+}

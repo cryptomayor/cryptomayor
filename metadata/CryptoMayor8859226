@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8859226",
+    "name": "Tierra Blanca, Mexico",
+    "description": "Zacatecas, R\u00edo Grande",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8859226",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8859226.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 23.82722
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -103.07667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1361
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1874
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Tierra Blanca"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6101606",
+    "name": "Petawawa, Canada",
+    "description": "Ontario",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6101606",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6101606.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 45.89452
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -77.28007
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 15988
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 143
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Toronto"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Canada"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "CA",
+    "altnames": "Petawawa,YWA"
+}

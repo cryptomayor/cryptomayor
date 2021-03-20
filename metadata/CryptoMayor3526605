@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3526605",
+    "name": "Jalpa, Mexico",
+    "description": "Hidalgo, Tlanchinol",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3526605",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3526605.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 21.10908
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -98.71313
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1228
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 250
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Jalpa,Xalpa"
+}

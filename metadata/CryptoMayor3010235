@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3010235",
+    "name": "La Chapelle-sur-Loire, France",
+    "description": "Centre, Indre-et-Loire",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3010235",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3010235.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.25063
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 0.21887
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1529
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 34
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "La Chapelle,Les Trois-Volets"
+}

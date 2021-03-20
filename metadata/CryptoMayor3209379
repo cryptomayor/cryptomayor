@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3209379",
+    "name": "Jankomir, Croatia",
+    "description": "City of Zagreb",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3209379",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3209379.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 45.79167
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 15.9
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 5000
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 121
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Zagreb"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Croatia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "HR",
+    "altnames": "Jankomir"
+}

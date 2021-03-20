@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4566330",
+    "name": "Mora, Puerto Rico",
+    "description": "Isabela, Guerrero Barrio",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4566330",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4566330.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.463
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -67.03268
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1857
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 138
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Puerto_Rico"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Puerto Rico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "PR",
+    "altnames": null
+}

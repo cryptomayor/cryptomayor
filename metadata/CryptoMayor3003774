@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3003774",
+    "name": "Le Houga, France",
+    "description": "Occitanie, Gers",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3003774",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3003774.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 43.77487
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -0.18061
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1200
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 126
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "La Moule,Le Houga"
+}

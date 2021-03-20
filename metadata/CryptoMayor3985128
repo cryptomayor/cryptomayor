@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3985128",
+    "name": "San Pedro Guasave, Mexico",
+    "description": "Sinaloa, Guasave",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3985128",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3985128.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 25.53809
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -108.45673
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1679
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 22
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mazatlan"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "San Pedro,San Pedro Guasave"
+}

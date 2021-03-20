@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3030064",
+    "name": "Brignac-la-Plaine, France",
+    "description": "Nouvelle-Aquitaine, Corr\u00e8ze",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3030064",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3030064.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 45.18886
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 1.33907
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 771
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 130
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Brignac,Brignac-la-Plaine"
+}

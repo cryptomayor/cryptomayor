@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8862344",
+    "name": "Barrio Guadalupe, Mexico",
+    "description": "Veracruz, Cuichapa",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8862344",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8862344.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.78722
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -96.87333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 580
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 593
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Barrio Guadalupe"
+}

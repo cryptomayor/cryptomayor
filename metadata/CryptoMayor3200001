@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3200001",
+    "name": "Gornji Karin, Croatia",
+    "description": "Zadarska, Obrovac",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3200001",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3200001.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 44.13598
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 15.63423
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1125
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 23
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Zagreb"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Croatia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "HR",
+    "altnames": "Donji Karin,Gornji Karin,Karin,Karin Gornji"
+}

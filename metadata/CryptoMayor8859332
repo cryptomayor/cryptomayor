@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8859332",
+    "name": "Rancher\u00eda de Pocitos, Mexico",
+    "description": "Tlaxcala, Atltzayanca",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8859332",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8859332.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.39389
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -97.75944
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1284
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2472
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Rancheria de Pocitos,Rancher\u00eda de Pocitos"
+}

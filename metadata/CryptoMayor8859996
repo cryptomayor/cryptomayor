@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8859996",
+    "name": "La Luz, Mexico",
+    "description": "Durango, G\u00f3mez Palacio",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8859996",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8859996.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 25.75861
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -103.53111
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 983
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1109
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Monterrey"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "La Luz"
+}

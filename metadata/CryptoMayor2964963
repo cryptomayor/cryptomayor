@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2964963",
+    "name": "Crumlin, Ireland",
+    "description": "Leinster, Dublin City",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2964963",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2964963.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 53.32154
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -6.31439
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 11294
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 49
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Dublin"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Ireland"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IE",
+    "altnames": "Cromghlinn,Crumlin"
+}

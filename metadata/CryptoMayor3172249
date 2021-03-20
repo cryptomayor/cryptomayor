@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3172249",
+    "name": "Nocciano, Italy",
+    "description": "Abruzzo, Provincia di Pescara",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3172249",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3172249.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 42.33366
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 13.98571
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 470
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 293
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "Nocciano"
+}

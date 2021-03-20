@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2998850",
+    "name": "Le Veurdre, France",
+    "description": "Auvergne-Rh\u00f4ne-Alpes, Allier",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2998850",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2998850.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 46.7561
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 3.03982
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 620
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 194
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Le Veurdre"
+}

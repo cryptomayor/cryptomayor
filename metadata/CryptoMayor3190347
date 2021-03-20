@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3190347",
+    "name": "Soljani, Croatia",
+    "description": "Vukovar-Sirmium, Vrbanja",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3190347",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3190347.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 44.95028
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 18.97028
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1245
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 81
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Zagreb"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Croatia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "HR",
+    "altnames": "Soljani"
+}

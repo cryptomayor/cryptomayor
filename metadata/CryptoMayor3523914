@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3523914",
+    "name": "Los Ramones, Mexico",
+    "description": "Nuevo Le\u00f3n, Los Ramones",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3523914",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3523914.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 25.69716
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -99.62529
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1169
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 214
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Monterrey"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Los Ramones,Ramones"
+}

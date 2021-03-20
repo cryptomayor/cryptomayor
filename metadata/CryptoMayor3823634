@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3823634",
+    "name": "Paso Real, Mexico",
+    "description": "Veracruz, Manlio Fabio Altamirano",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3823634",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3823634.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.18303
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -96.36261
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 504
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 35
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Paso Real"
+}

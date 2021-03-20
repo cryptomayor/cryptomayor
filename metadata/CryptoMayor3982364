@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3982364",
+    "name": "Tarimoro, Mexico",
+    "description": "Guanajuato, Tarimoro",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3982364",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3982364.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.28336
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -100.75477
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 12188
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1784
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Tarimoro"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3066220",
+    "name": "Semily, Czechia",
+    "description": "Libereck\u00fd kraj, Okres Semily",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3066220",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3066220.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 50.60191
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 15.33552
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 9040
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 321
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Prague"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Czechia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "CZ",
+    "altnames": "Semil"
+}

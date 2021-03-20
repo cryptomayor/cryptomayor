@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6269202",
+    "name": "Lac-des-Aigles, Canada",
+    "description": "Quebec, Bas-Saint-Laurent",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6269202",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6269202.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.99038
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -68.67777
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 629
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 167
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Toronto"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Canada"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "CA",
+    "altnames": null
+}

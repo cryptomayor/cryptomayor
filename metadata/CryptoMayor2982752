@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2982752",
+    "name": "Rosoy, France",
+    "description": "Hauts-de-France, Oise",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2982752",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2982752.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 49.33993
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 2.50108
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 625
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 69
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Rosoy"
+}

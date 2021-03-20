@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor10114324",
+    "name": "Preston, Australia",
+    "description": "Queensland, Toowoomba",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor10114324",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor10114324.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -27.66037
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 151.98658
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 586
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 630
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Brisbane"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5926526",
+    "name": "Concord, Canada",
+    "description": "Ontario",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5926526",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5926526.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 43.80011
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -79.48291
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 8255
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 188
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Toronto"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Canada"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "CA",
+    "altnames": null
+}

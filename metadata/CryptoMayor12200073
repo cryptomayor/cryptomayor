@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor12200073",
+    "name": "Chupuro, Peru",
+    "description": "Junin, Provincia de Huancayo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor12200073",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor12200073.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -12.1552
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -75.24539
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 0
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 3099
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Lima"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Peru"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "PE",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3123682",
+    "name": "El \u00c1lamo, Spain",
+    "description": "Madrid, Provincia de Madrid",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3123682",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3123682.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 40.23066
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -3.99447
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 6754
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 608
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Madrid"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Spain"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "ES",
+    "altnames": "El Alamo,El \u00c1lamo"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor10629648",
+    "name": "Eighty Mile Beach, Australia",
+    "description": "Western Australia, Broome",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor10629648",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor10629648.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -19.24066
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 121.61333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 604
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 36
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Perth"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": null
+}

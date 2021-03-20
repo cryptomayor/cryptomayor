@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4564003",
+    "name": "Corozal, Puerto Rico",
+    "description": "Corozal, Corozal Barrio-Pueblo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4564003",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4564003.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.34106
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -66.31684
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 11297
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 97
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Puerto_Rico"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Puerto Rico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "PR",
+    "altnames": null
+}

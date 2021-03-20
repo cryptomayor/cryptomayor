@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor671738",
+    "name": "Orbeasca de Sus, Romania",
+    "description": "Teleorman, Comuna Orbeasca",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor671738",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor671738.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 44.15
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 25.31667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 8203
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 70
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": null
+}

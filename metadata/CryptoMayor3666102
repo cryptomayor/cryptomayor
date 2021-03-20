@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3666102",
+    "name": "Versalles, Colombia",
+    "description": "Valle del Cauca, Versalles",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3666102",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3666102.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 4.57544
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -76.19814
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3542
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1840
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Bogota"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Colombia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "CO",
+    "altnames": "Versalles"
+}

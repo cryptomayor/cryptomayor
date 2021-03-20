@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8862389",
+    "name": "Paso Escaleras, Mexico",
+    "description": "Oaxaca, San Felipe Usila",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8862389",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8862389.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 17.92028
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -96.48361
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 576
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 99
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Paso Escaleras"
+}

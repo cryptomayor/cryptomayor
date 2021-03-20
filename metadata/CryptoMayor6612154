@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6612154",
+    "name": "San Vicente de Moravia, Costa Rica",
+    "description": "San Jos\u00e9, Moravia",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6612154",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6612154.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 9.96164
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -84.0488
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 34447
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1235
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Costa_Rica"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Costa Rica"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "CR",
+    "altnames": null
+}

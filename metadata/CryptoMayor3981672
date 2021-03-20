@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3981672",
+    "name": "Tierra Blanca, Mexico",
+    "description": "Zacatecas, Loreto",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3981672",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3981672.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 22.34796
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -102.06536
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2327
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2025
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Tierra Blanca"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor200061",
+    "name": "Port Victoria, Kenya",
+    "description": "Busia",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor200061",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor200061.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 0.09809
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 33.97248
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 6793
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1260
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Africa/Nairobi"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Kenya"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AF"
+        }
+    ],
+    "country_code": "KE",
+    "altnames": "Bunyala,Port Bunyala,Port Victoria"
+}

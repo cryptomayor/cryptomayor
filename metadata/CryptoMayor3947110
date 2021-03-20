@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3947110",
+    "name": "Atuncolla, Peru",
+    "description": "Puno, Provincia de Puno",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3947110",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3947110.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -15.68333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -70.15
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 12654
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 3828
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Lima"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Peru"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "PE",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor917688",
+    "name": "Chongwe, Zambia",
+    "description": "Lusaka",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor917688",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor917688.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -15.32916
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 28.68204
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 6057
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1102
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Africa/Lusaka"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Zambia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AF"
+        }
+    ],
+    "country_code": "ZM",
+    "altnames": "Chongwe"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5640121",
+    "name": "Big Sandy, United States",
+    "description": "Montana, Chouteau County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5640121",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5640121.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 48.17859
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -110.11215
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 593
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 823
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Denver"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

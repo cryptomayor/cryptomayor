@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8859829",
+    "name": "Rinconadas del Bosque, Mexico",
+    "description": "Guanajuato, Morole\u00f3n",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8859829",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8859829.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.08528
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -101.19833
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1044
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1892
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Rinconadas del Bosque"
+}

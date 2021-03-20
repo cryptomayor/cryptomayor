@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor794057",
+    "name": "Suure-Kambja, Estonia",
+    "description": "Tartu, Kambja vald",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor794057",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor794057.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 58.22056
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 26.70611
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 722
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 74
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Tallinn"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Estonia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "EE",
+    "altnames": "Suure-Kambja"
+}

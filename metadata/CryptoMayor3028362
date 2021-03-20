@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3028362",
+    "name": "Castelmayran, France",
+    "description": "Occitanie, Tarn-et-Garonne",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3028362",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3028362.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 44.02876
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 1.03892
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 872
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 94
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Castelmayran"
+}

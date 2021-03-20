@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6621354",
+    "name": "Osborne Park, Australia",
+    "description": "Western Australia, Stirling",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6621354",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6621354.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -31.90066
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 115.81083
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3984
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 15
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Perth"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": null
+}

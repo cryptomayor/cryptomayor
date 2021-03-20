@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4899213",
+    "name": "Lakemoor, United States",
+    "description": "Illinois, McHenry County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4899213",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4899213.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 42.32863
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -88.19897
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 6015
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 233
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Chicago"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

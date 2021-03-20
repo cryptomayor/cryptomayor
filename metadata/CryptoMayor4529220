@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4529220",
+    "name": "Alex, United States",
+    "description": "Oklahoma, Grady County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4529220",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4529220.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 34.91479
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -97.77865
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 554
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 320
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Chicago"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

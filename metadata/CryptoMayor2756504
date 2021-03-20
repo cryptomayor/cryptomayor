@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2756504",
+    "name": "Duivendrecht, Netherlands",
+    "description": "North Holland, Gemeente Ouder-Amstel",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2756504",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2756504.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 52.32941
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 4.93964
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 4720
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Amsterdam"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Netherlands"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "NL",
+    "altnames": "Amsterdam-Duivendrecht"
+}

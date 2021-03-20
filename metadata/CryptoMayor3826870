@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3826870",
+    "name": "La Pe\u00f1uela, Mexico",
+    "description": "M\u00e9xico, Zinacantepec",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3826870",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3826870.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.16122
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -99.85396
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 655
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 3040
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "La Penuela,La Pe\u00f1uela"
+}

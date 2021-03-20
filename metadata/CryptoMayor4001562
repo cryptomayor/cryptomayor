@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4001562",
+    "name": "La Loma, Mexico",
+    "description": "Durango, Lerdo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4001562",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4001562.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 25.46401
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -103.67351
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 4045
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1163
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Monterrey"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "La Loma"
+}

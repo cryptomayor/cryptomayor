@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2762053",
+    "name": "Walchen, Austria",
+    "description": "Salzburg, Politischer Bezirk Zell am See",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2762053",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2762053.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.28822
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 12.68739
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1003
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 792
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Vienna"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Austria"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "AT",
+    "altnames": null
+}

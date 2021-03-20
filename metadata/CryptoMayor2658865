@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2658865",
+    "name": "Saint-Martin, Switzerland",
+    "description": "Valais, H\u00e9rens District",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2658865",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2658865.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 46.1727
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 7.44427
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 751
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1413
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Zurich"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Switzerland"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "CH",
+    "altnames": null
+}

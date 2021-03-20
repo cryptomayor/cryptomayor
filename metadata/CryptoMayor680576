@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor680576",
+    "name": "Coste\u015fti, Romania",
+    "description": "V\u00e2lcea, Comuna Coste\u015fti",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor680576",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor680576.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 45.15
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 24.06667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3616
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 450
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": null
+}

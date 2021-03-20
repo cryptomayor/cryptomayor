@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3530112",
+    "name": "Coyula, Mexico",
+    "description": "Hidalgo, Calnali",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3530112",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3530112.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.92637
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -98.48323
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 827
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 814
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Coyula"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2658075",
+    "name": "Walchwil, Switzerland",
+    "description": "Zug, Zug",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2658075",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2658075.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.10169
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 8.51693
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3268
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 479
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Zurich"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Switzerland"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "CH",
+    "altnames": "Walchwil"
+}

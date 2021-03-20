@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3827028",
+    "name": "Pastores Primer Barrio, Mexico",
+    "description": "M\u00e9xico, Temascalcingo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3827028",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3827028.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.85639
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -99.98833
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 677
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2505
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": null
+}

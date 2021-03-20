@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3164645",
+    "name": "Vejano, Italy",
+    "description": "Latium, Provincia di Viterbo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3164645",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3164645.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 42.21905
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 12.09398
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1856
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 399
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "Veiano,Vejano"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2974752",
+    "name": "Servins, France",
+    "description": "Hauts-de-France, Pas-de-Calais",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2974752",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2974752.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 50.41025
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 2.634
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 902
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 165
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Petit Servins,Servins"
+}

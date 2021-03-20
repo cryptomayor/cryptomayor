@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8858385",
+    "name": "Ocopulco, Mexico",
+    "description": "M\u00e9xico, Chiautla",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8858385",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8858385.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.58972
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -98.89694
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3317
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2261
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Ocopulco"
+}

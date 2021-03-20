@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8858601",
+    "name": "El Cuervero (Cuerveros), Mexico",
+    "description": "Aguascalientes, Calvillo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8858601",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8858601.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 21.86056
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -102.68389
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2350
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1678
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "El Cuervero (Cuerveros)"
+}

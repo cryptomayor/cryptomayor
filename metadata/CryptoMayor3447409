@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3447409",
+    "name": "Sombrio, Brazil",
+    "description": "Santa Catarina, Sombrio",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3447409",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3447409.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -29.11389
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -49.61667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 14864
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Sao_Paulo"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Brazil"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "BR",
+    "altnames": null
+}

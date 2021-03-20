@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor653280",
+    "name": "Keminmaa, Finland",
+    "description": "Lapland, Kemi-Tornio",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor653280",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor653280.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 65.80158
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 24.54483
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 8980
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 13
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Helsinki"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Finland"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FI",
+    "altnames": "Kemi,Keminmaa"
+}

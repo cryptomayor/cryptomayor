@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor11746594",
+    "name": "Innere Stadt, Austria",
+    "description": "Styria, Graz Stadt",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor11746594",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor11746594.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.0665
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 15.44051
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3818
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 361
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Vienna"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Austria"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "AT",
+    "altnames": "1. Bezirk,Graz 01.Bez.:Innere Stadt"
+}

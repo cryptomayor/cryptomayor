@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6380534",
+    "name": "Copa Chico, Peru",
+    "description": "Ancash, Provincia de Carhuaz",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6380534",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6380534.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -9.28022
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -77.56744
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 512
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 3283
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Lima"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Peru"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "PE",
+    "altnames": null
+}

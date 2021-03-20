@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8724624",
+    "name": "El Pac\u00edfico, Mexico",
+    "description": "Veracruz, Espinal",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8724624",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8724624.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.27417
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -97.57056
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 989
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 102
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "El Pacifico,El Pac\u00edfico"
+}

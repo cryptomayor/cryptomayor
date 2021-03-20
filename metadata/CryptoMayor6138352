@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6138352",
+    "name": "Saint-Hippolyte, Canada",
+    "description": "Quebec, Laurentides",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6138352",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6138352.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 45.93338
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -74.0159
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 8083
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 254
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Toronto"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Canada"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "CA",
+    "altnames": "Saint-Hippolyte,St-Hippolyte"
+}

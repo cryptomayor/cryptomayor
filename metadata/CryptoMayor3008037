@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3008037",
+    "name": "La Motte, France",
+    "description": "Provence-Alpes-C\u00f4te d'Azur, Var",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3008037",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3008037.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 43.49403
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 6.53519
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2555
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 80
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "La Motte"
+}

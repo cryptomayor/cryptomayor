@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2716085",
+    "name": "Eriksberg, Sweden",
+    "description": "Stockholm, Botkyrka Kommun",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2716085",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2716085.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 59.24241
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 17.81631
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3200
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 72
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Stockholm"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Sweden"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "SE",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5801015",
+    "name": "Lind, United States",
+    "description": "Washington, Adams County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5801015",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5801015.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 46.97209
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -118.61527
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 567
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 418
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Los_Angeles"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor455915",
+    "name": "Sala, Latvia",
+    "description": "Salas, Salas pagasts",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor455915",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor455915.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 56.50675
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 25.76423
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 0
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 83
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Riga"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Latvia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "LV",
+    "altnames": null
+}

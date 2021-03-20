@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3520989",
+    "name": "Puerto Madero, Mexico",
+    "description": "Chiapas, Tapachula",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3520989",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3520989.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 14.72076
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -92.42146
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 9557
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 10
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Puerto Madero,Puerto de San Benito,San Benito"
+}

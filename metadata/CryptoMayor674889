@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor674889",
+    "name": "Leorda, Romania",
+    "description": "Boto\u015fani, Comuna Leorda",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor674889",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor674889.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.81667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 26.45
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2734
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 167
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": null
+}

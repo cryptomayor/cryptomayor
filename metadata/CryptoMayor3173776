@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3173776",
+    "name": "Massa, Italy",
+    "description": "Tuscany, Provincia di Pistoia",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3173776",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3173776.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 43.90925
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 10.74441
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 350
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 223
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "Massa e Cozzile"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3817402",
+    "name": "Noxtepec de Zaragoza (El Aguacate), Mexico",
+    "description": "M\u00e9xico, Malinalco",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3817402",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3817402.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.81152
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -99.47811
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 642
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1645
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": null
+}

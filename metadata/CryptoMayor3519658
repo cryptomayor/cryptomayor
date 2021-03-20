@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3519658",
+    "name": "San Bartolome Xicomulco, Mexico",
+    "description": "Mexico City, Milpa Alta",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3519658",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3519658.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.20607
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -99.0682
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 4340
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2598
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "San Bartolo,San Bartolo Xicomulco,San Bartolome Xicomulco"
+}

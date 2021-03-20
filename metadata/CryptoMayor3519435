@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3519435",
+    "name": "San Felipe, Mexico",
+    "description": "Yucat\u00e1n, San Felipe",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3519435",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3519435.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 21.56621
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -88.23265
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1789
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 3
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Merida"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "San Felipe"
+}

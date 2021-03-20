@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3514052",
+    "name": "Zaragoza de Guadalupe, Mexico",
+    "description": "Morelos",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3514052",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3514052.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.1483
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -99.64405
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 5393
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2861
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Zaragoza,Zaragoza de Guadalupe"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor309554",
+    "name": "Karalar, Turkey",
+    "description": "Mardin",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor309554",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor309554.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 37.30073
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 41.67582
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 4718
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 900
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Istanbul"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Turkey"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AS"
+        }
+    ],
+    "country_code": "TR",
+    "altnames": "Araban,Karalar"
+}

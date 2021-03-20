@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3530925",
+    "name": "Chicontla, Mexico",
+    "description": "Puebla, Jopala",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3530925",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3530925.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.24402
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -97.83063
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3305
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 325
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Chicontla"
+}

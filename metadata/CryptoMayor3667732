@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3667732",
+    "name": "Sucre, Colombia",
+    "description": "Cauca, Sucre",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3667732",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3667732.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 2.03805
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -76.92446
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2552
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1138
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Bogota"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Colombia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "CO",
+    "altnames": "Sucre"
+}

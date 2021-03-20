@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8862077",
+    "name": "De Rojas, Mexico",
+    "description": "Puebla, Tlacotepec de Benito Ju\u00e1rez",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8862077",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8862077.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.63
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -97.65667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 607
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1904
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "De Rojas"
+}

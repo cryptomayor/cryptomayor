@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6459081",
+    "name": "Cabanes, Spain",
+    "description": "Catalonia, Prov\u00edncia de Girona",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6459081",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6459081.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 42.30805
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 2.97766
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 0
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 26
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Madrid"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Spain"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "ES",
+    "altnames": "Cabanes"
+}

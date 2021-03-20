@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4786952",
+    "name": "Spotsylvania Courthouse, United States",
+    "description": "Virginia, Spotsylvania County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4786952",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4786952.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 38.19791
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -77.58777
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 4239
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 96
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/New_York"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3929294",
+    "name": "Santa Ana, Peru",
+    "description": "Huancavelica, Provincia de Castrovirreyna",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3929294",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3929294.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -13.05
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -75.13333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 78
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 4470
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Lima"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Peru"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "PE",
+    "altnames": null
+}

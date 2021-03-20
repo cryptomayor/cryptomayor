@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2760814",
+    "name": "Wundschuh, Austria",
+    "description": "Styria, Politischer Bezirk Graz-Umgebung",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2760814",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2760814.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 46.92639
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 15.45111
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 777
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 317
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Vienna"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Austria"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "AT",
+    "altnames": "Wundschuh"
+}

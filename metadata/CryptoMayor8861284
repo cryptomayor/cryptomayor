@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8861284",
+    "name": "Tlaquimpa, Mexico",
+    "description": "Puebla, Tepetzintla",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8861284",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8861284.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.96278
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -97.88056
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 704
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1636
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Tlaquimpa"
+}

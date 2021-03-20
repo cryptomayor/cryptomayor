@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4024874",
+    "name": "Nuevo Santa Elena de Aceves (El Capricho), Mexico",
+    "description": "Guanajuato, P\u00e9njamo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4024874",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4024874.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.47417
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -101.97778
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 761
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1701
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": null
+}

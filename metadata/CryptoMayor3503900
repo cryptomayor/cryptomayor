@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3503900",
+    "name": "Juan de Herrera, Dominican Republic",
+    "description": "San Juan, Juan De Herrera",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3503900",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3503900.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.87402
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -71.2383
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 5543
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 477
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Santo_Domingo"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Dominican Republic"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "DO",
+    "altnames": "Juan de Herrera"
+}

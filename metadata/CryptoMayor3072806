@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3072806",
+    "name": "K\u0159e\u010dovice, Czechia",
+    "description": "Central Bohemia, Okres Bene\u0161ov",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3072806",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3072806.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 49.72131
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 14.47553
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 699
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 367
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Prague"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Czechia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "CZ",
+    "altnames": null
+}

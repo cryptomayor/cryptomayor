@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3926120",
+    "name": "Villa Rica, Peru",
+    "description": "Pasco, Provincia de Oxapampa",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3926120",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3926120.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -10.73944
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -75.26972
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 7448
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1481
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Lima"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Peru"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "PE",
+    "altnames": null
+}

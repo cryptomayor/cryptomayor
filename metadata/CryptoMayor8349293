@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8349293",
+    "name": "The Vines, Australia",
+    "description": "Western Australia, Swan",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8349293",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8349293.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -31.75492
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 116.00238
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 4758
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 29
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Perth"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": null
+}

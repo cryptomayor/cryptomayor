@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4114001",
+    "name": "Hartman, United States",
+    "description": "Arkansas, Johnson County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4114001",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4114001.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 35.43258
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -93.61547
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 530
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 128
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Chicago"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

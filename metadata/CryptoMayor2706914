@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2706914",
+    "name": "Hedesunda, Sweden",
+    "description": "G\u00e4vleborg, G\u00e4vle Kommun",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2706914",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2706914.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 60.4
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 17.0
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1067
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 52
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Stockholm"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Sweden"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "SE",
+    "altnames": "Hedesunda"
+}

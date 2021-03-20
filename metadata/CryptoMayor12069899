@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor12069899",
+    "name": "Petit-Rocher-Nord, Canada",
+    "description": "New Brunswick, Gloucester County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor12069899",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor12069899.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.80925
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -65.73246
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 572
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 7
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Moncton"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Canada"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "CA",
+    "altnames": null
+}

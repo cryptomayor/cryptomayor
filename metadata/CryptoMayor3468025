@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3468025",
+    "name": "Camamu, Brazil",
+    "description": "Bahia, Camamu",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3468025",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3468025.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -13.94472
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -39.10389
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 13924
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 37
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Bahia"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Brazil"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "BR",
+    "altnames": null
+}

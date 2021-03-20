@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2660545",
+    "name": "Gottlieben, Switzerland",
+    "description": "Thurgau, Bezirk Kreuzlingen",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2660545",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2660545.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.6638
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 9.13371
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 290
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 400
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Zurich"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Switzerland"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "CH",
+    "altnames": "Gottlieben"
+}

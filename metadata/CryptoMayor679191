@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor679191",
+    "name": "Dobrun, Romania",
+    "description": "Olt, Comuna Dobrun",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor679191",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor679191.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 44.26667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 24.21667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3419
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 106
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": "Dobrun,Dobrunu,Dobrunul"
+}

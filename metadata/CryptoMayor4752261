@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4752261",
+    "name": "Chesterfield Court House, United States",
+    "description": "Virginia, Chesterfield County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4752261",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4752261.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 37.37709
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -77.50499
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3808
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 62
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/New_York"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

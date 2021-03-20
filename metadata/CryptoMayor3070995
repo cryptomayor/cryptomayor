@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3070995",
+    "name": "Markvartovice, Czechia",
+    "description": "Moravskoslezsk\u00fd, Okres Opava",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3070995",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3070995.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 49.90595
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 18.23602
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1766
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 241
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Prague"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Czechia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "CZ",
+    "altnames": "Markersdorf"
+}

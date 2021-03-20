@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6535677",
+    "name": "Castelletto Cervo, Italy",
+    "description": "Piedmont, Provincia di Biella",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6535677",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6535677.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 45.52136
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 8.22542
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 216
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 204
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor679236",
+    "name": "Dobriceni, Romania",
+    "description": "Olt, Comuna Iancu Jianu",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor679236",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor679236.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 44.52549
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 24.01199
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 916
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 163
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2694780",
+    "name": "Linghed, Sweden",
+    "description": "Dalarna, Falu kommun",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2694780",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2694780.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 60.78333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 15.85
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 529
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 150
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Stockholm"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Sweden"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "SE",
+    "altnames": "Linghed"
+}

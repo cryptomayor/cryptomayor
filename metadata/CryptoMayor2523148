@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2523148",
+    "name": "Serramanna, Italy",
+    "description": "Sardinia, Provincia del Sud Sardegna",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2523148",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2523148.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 39.42335
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 8.92243
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 8608
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 45
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "Serramanna"
+}

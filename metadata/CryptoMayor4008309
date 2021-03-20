@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4008309",
+    "name": "El Progreso, Mexico",
+    "description": "Durango, Canatl\u00e1n",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4008309",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4008309.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 24.63927
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -104.83735
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 542
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2020
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Monterrey"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": null
+}

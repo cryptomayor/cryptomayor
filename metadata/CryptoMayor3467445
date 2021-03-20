@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3467445",
+    "name": "Cantagalo, Brazil",
+    "description": "Rio de Janeiro, Cantagalo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3467445",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3467445.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -21.98111
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -42.36806
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 14019
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 431
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Sao_Paulo"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Brazil"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "BR",
+    "altnames": "Cantagallo"
+}

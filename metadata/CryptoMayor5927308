@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5927308",
+    "name": "Coombs, Canada",
+    "description": "British Columbia",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5927308",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5927308.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 49.29963
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -124.41946
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1612
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 118
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Vancouver"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Canada"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "CA",
+    "altnames": null
+}

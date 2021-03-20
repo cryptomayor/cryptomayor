@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3569546",
+    "name": "Aguada de Pasajeros, Cuba",
+    "description": "Cienfuegos, Municipio de Aguada de Pasajeros",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3569546",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3569546.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 22.3852
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -80.84792
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 23606
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 28
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Havana"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Cuba"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "CU",
+    "altnames": "Aguada,Aguada de Pasajeros"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3624702",
+    "name": "Bijagua, Costa Rica",
+    "description": "Alajuela, Upala",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3624702",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3624702.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 10.73279
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -85.05676
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1090
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 434
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Costa_Rica"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Costa Rica"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "CR",
+    "altnames": null
+}

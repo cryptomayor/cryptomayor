@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4016662",
+    "name": "Buenavista, Mexico",
+    "description": "Sinaloa, Sinaloa",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4016662",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4016662.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 25.86259
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -108.11998
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 626
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 98
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mazatlan"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Buenavista"
+}

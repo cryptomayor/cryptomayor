@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3985504",
+    "name": "San Mart\u00edn Hidalgo, Mexico",
+    "description": "Jalisco, San Mart\u00edn Hidalgo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3985504",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3985504.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.43538
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -103.92878
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 8092
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1308
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "San Martin de Hidalgo,San Mart\u00edn de Hidalgo"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor490323",
+    "name": "Sosnovka, Russia",
+    "description": "Tambov",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor490323",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor490323.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 53.23593
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 41.36859
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 10475
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 130
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Moscow"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Russia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RU",
+    "altnames": "Sosnovka,\u0421\u043e\u0441\u043d\u043e\u0432\u043a\u0430"
+}

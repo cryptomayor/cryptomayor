@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2817376",
+    "name": "Vierden, Germany",
+    "description": "Lower Saxony",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2817376",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2817376.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 53.33333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 9.5
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 779
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 35
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Berlin"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Germany"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "DE",
+    "altnames": null
+}

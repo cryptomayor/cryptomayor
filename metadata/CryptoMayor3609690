@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3609690",
+    "name": "Flores, Honduras",
+    "description": "Comayagua",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3609690",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3609690.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 14.28333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -87.56667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3018
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 645
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Tegucigalpa"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Honduras"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "HN",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8858309",
+    "name": "La Galarza, Mexico",
+    "description": "Puebla, Iz\u00facar de Matamoros",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8858309",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8858309.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.66778
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -98.45528
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 4063
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1396
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "La Galarza"
+}

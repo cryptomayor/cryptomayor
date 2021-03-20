@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3815686",
+    "name": "Suclumpa, Mexico",
+    "description": "Chiapas, Salto de Agua",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3815686",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3815686.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 17.41137
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -92.16417
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 898
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 86
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": null
+}

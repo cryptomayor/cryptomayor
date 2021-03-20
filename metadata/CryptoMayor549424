@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor549424",
+    "name": "Khosta, Russia",
+    "description": "Krasnodarskiy, Sochi City",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor549424",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor549424.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 43.51484
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 39.86825
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 20000
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 13
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Moscow"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Russia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RU",
+    "altnames": "Khosta,\u0425\u043e\u0441\u0442\u0430"
+}

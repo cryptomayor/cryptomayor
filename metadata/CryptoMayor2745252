@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2745252",
+    "name": "Vorstenbosch, Netherlands",
+    "description": "North Brabant, Gemeente Bernheze",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2745252",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2745252.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 51.6525
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 5.55
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1630
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 11
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Amsterdam"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Netherlands"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "NL",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3139997",
+    "name": "Segalstad, Norway",
+    "description": "Innlandet, Gausdal",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3139997",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3139997.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 61.23333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 10.23333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 864
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 400
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Oslo"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Norway"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "NO",
+    "altnames": "Segalstad"
+}

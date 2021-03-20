@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3973778",
+    "name": "La Esperanza, Mexico",
+    "description": "San Luis Potos\u00ed, Zaragoza",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3973778",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3973778.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 22.00788
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -100.76496
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2054
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1921
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "La Esperanza"
+}

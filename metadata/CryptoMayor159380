@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor159380",
+    "name": "Igurusi, Tanzania",
+    "description": "Mbeya",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor159380",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor159380.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -8.85
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 33.85
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 24895
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1258
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Africa/Dar_es_Salaam"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Tanzania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AF"
+        }
+    ],
+    "country_code": "TZ",
+    "altnames": "Igurunzi,Igurusi"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3622854",
+    "name": "Miramar, Costa Rica",
+    "description": "Puntarenas, Montes de Oro",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3622854",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3622854.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 10.0925
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -84.72978
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 6540
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 339
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Costa_Rica"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Costa Rica"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "CR",
+    "altnames": "Miramar"
+}

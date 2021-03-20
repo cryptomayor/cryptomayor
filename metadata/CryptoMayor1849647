@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor1849647",
+    "name": "Tsuma, Japan",
+    "description": "Miyazaki, Saito-shi",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor1849647",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor1849647.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 32.1
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 131.4
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 34318
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 11
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Asia/Tokyo"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Japan"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AS"
+        }
+    ],
+    "country_code": "JP",
+    "altnames": "Tsuma,Tuma"
+}

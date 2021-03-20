@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5118429",
+    "name": "Georgetown, United States",
+    "description": "New York, Madison County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5118429",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5118429.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 42.7684
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -75.73658
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 974
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 430
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/New_York"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": "Georgetown,Slab City"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2635740",
+    "name": "Toft, United Kingdom",
+    "description": "England, Cambridgeshire",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2635740",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2635740.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 52.18719
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -0.01219
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 503
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 41
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/London"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United Kingdom"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "GB",
+    "altnames": null
+}

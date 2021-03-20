@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3982558",
+    "name": "Tamiapa, Mexico",
+    "description": "Sinaloa, Badiraguato",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3982558",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3982558.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 25.63851
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -107.37536
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 623
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1020
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mazatlan"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Tameapa,Tamiapa"
+}

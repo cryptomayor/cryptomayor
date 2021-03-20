@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8349025",
+    "name": "Broadwood, Australia",
+    "description": "Western Australia, Kalgoorlie/Boulder",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8349025",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8349025.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -30.79029
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 121.45492
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 726
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 369
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Perth"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": null
+}

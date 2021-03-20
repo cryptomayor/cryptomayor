@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3012315",
+    "name": "Joinville, France",
+    "description": "Grand Est, Haute-Marne",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3012315",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3012315.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 48.44363
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 5.14144
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 4439
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 186
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Joinville,Joinville-en-Vallage"
+}

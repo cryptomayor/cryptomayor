@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8347828",
+    "name": "Grose Vale, Australia",
+    "description": "New South Wales, Hawkesbury",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8347828",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8347828.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -33.58331
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 150.6744
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1225
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 95
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Sydney"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4014553",
+    "name": "Chapala, Mexico",
+    "description": "Jalisco, Chapala",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4014553",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4014553.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.29616
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -103.19123
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 21596
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1539
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Chapala"
+}

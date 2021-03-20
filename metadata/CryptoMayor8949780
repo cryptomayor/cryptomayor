@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8949780",
+    "name": "San Silvestro, Italy",
+    "description": "The Marches, Provincia di Ascoli Piceno",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8949780",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8949780.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 42.86728
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 13.72888
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 741
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 87
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "San Silvestro"
+}

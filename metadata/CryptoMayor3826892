@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3826892",
+    "name": "El Potrero, Mexico",
+    "description": "M\u00e9xico, Amanalco",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3826892",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3826892.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.30625
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -99.99393
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1047
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2668
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "El Potrero"
+}

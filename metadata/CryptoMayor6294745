@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6294745",
+    "name": "Dinhard, Switzerland",
+    "description": "Zurich, Bezirk Winterthur",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6294745",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6294745.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.55516
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 8.76671
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 522
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 437
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Zurich"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Switzerland"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "CH",
+    "altnames": "Ausser-Dinhard"
+}

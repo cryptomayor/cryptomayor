@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8950005",
+    "name": "Colla Maffone, Italy",
+    "description": "Sicily, Messina",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8950005",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8950005.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 38.09366
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 14.97433
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 635
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 244
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "Colla Maffone"
+}

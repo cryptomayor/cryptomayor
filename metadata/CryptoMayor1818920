@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor1818920",
+    "name": "Sha Tin, Hong Kong",
+    "description": "Sha Tin",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor1818920",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor1818920.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 22.38333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 114.18333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 21559
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 115
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Asia/Hong_Kong"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Hong Kong"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AS"
+        }
+    ],
+    "country_code": "HK",
+    "altnames": "Sha Tin,Sha Tin New Town,Shatin"
+}

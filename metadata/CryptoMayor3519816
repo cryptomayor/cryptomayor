@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3519816",
+    "name": "San Antonio, Mexico",
+    "description": "Hidalgo, Tecozautla",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3519816",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3519816.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.53204
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -99.71038
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1634
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1734
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "San Antonio,San Antonio Pueblo"
+}

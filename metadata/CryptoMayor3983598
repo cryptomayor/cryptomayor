@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3983598",
+    "name": "Santo Domingo, Mexico",
+    "description": "San Luis Potos\u00ed, Guadalc\u00e1zar",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3983598",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3983598.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 22.86532
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -100.28337
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 821
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1393
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Santo Domingo"
+}

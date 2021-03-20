@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor684357",
+    "name": "Bogza, Romania",
+    "description": "Vrancea, Comuna Sihlea",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor684357",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor684357.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 45.50798
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 27.19773
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1116
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 62
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": null
+}

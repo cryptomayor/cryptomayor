@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2650433",
+    "name": "East Haddon, United Kingdom",
+    "description": "England, Northamptonshire",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2650433",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2650433.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 52.30718
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -1.02361
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 643
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 164
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/London"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United Kingdom"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "GB",
+    "altnames": "East Haddon"
+}

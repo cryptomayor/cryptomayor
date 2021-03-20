@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2159761",
+    "name": "Lockwood, Australia",
+    "description": "Victoria, Greater Bendigo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2159761",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2159761.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -36.81113
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 144.15761
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 752
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 222
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Melbourne"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": null
+}

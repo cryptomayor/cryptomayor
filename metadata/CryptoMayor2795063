@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2795063",
+    "name": "Incourt, Belgium",
+    "description": "Wallonia, Province du Brabant Wallon",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2795063",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2795063.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 50.69151
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 4.79816
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 4395
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 125
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Brussels"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Belgium"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "BE",
+    "altnames": "Incourt"
+}

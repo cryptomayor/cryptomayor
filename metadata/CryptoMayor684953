@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor684953",
+    "name": "Beuca, Romania",
+    "description": "Teleorman, Comuna Beuca",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor684953",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor684953.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 44.252
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 24.96637
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1529
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 111
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": "Beuca"
+}

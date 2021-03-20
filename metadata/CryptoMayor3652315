@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3652315",
+    "name": "Rocafuerte, Ecuador",
+    "description": "Manab\u00ed, Cant\u00f3n Rocafuerte",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3652315",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3652315.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -0.9236
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -80.44946
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 10274
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 25
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Guayaquil"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Ecuador"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "EC",
+    "altnames": "Rocafuerte"
+}

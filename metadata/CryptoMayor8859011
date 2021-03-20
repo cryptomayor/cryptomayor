@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8859011",
+    "name": "Colonia el Pedregal, Mexico",
+    "description": "Guerrero, Teloloapan",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8859011",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8859011.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.34961
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -99.85642
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1551
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1617
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Colonia el Pedregal"
+}

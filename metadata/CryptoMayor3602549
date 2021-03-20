@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3602549",
+    "name": "San Agust\u00edn, Honduras",
+    "description": "Choluteca",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3602549",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3602549.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 13.2
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -87.11667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 938
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 96
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Tegucigalpa"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Honduras"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "HN",
+    "altnames": null
+}

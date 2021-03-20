@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3929355",
+    "name": "San Pedro, Peru",
+    "description": "Cusco, Provincia de Canchis",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3929355",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3929355.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -14.18667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -71.34167
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 0
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 3485
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Lima"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Peru"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "PE",
+    "altnames": null
+}

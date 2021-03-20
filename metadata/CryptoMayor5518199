@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5518199",
+    "name": "Camp Wood, United States",
+    "description": "Texas, Real County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5518199",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5518199.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 29.66939
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -100.01229
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 701
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 445
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Chicago"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

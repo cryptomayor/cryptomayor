@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3030546",
+    "name": "Branne, France",
+    "description": "Nouvelle-Aquitaine, Gironde",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3030546",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3030546.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 44.83053
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -0.18663
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1052
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 36
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Branne"
+}

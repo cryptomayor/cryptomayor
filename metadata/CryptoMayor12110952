@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor12110952",
+    "name": "Pappelberg, Germany",
+    "description": "Lower Saxony",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor12110952",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor12110952.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 52.28463
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 10.57363
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2655
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 79
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Berlin"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Germany"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "DE",
+    "altnames": null
+}

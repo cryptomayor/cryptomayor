@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6292642",
+    "name": "Adliswil / Tal, Switzerland",
+    "description": "Zurich, Bezirk Horgen",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6292642",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6292642.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.31142
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 8.53446
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1125
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 463
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Zurich"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Switzerland"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "CH",
+    "altnames": "Tal"
+}

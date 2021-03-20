@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8859818",
+    "name": "Santa Rosa (El Huizache), Mexico",
+    "description": "Aguascalientes, El Llano",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8859818",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8859818.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 21.935
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -102.02194
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1050
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2022
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Santa Rosa (El Huizache)"
+}

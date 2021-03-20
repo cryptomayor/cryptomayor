@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8859601",
+    "name": "Estaci\u00f3n de San Francisco, Mexico",
+    "description": "Guanajuato, San Francisco del Rinc\u00f3n",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8859601",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8859601.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 21.03722
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -101.82472
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1140
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1768
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Estacion de San Francisco,Estaci\u00f3n de San Francisco"
+}

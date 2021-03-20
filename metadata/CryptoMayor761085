@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor761085",
+    "name": "Przybysz\u00f3wka, Poland",
+    "description": "Subcarpathia, Rzesz\u00f3w",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor761085",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor761085.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 50.04788
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 21.92579
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2000
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 227
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Warsaw"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Poland"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "PL",
+    "altnames": null
+}

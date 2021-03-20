@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2635742",
+    "name": "Todwick, United Kingdom",
+    "description": "England, Rotherham",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2635742",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2635742.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 53.35373
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -1.25673
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1673
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 108
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/London"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United Kingdom"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "GB",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3013845",
+    "name": "Haulchin, France",
+    "description": "Hauts-de-France, North",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3013845",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3013845.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 50.3172
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 3.43599
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2393
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 32
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Haulchin"
+}

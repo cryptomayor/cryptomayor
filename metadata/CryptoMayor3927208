@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3927208",
+    "name": "Tomas, Peru",
+    "description": "Lima region, Provincia de Yauyos",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3927208",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3927208.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -12.23861
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -75.74528
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 358
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 3869
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Lima"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Peru"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "PE",
+    "altnames": null
+}

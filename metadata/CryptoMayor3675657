@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3675657",
+    "name": "Maicao, Colombia",
+    "description": "La Guajira, Maicao",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3675657",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3675657.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 11.37837
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -72.2395
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 130348
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 44
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Bogota"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Colombia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "CO",
+    "altnames": "MCJ,Maicao"
+}

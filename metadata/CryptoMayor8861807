@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8861807",
+    "name": "San Miguel, Mexico",
+    "description": "Puebla, Tepeaca",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8861807",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8861807.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.06833
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -97.85556
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 640
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2490
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "San Miguel"
+}

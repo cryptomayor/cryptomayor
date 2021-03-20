@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3717596",
+    "name": "Saint-Louis du Sud, Haiti",
+    "description": "Sud, Arrondissement d'Aquin",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3717596",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3717596.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.26241
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -73.54603
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1528
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 12
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Port-au-Prince"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Haiti"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "HT",
+    "altnames": "Saint Louis,Saint-Louis du Sud,Sen Lwi di Sid"
+}

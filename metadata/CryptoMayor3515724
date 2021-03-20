@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3515724",
+    "name": "San Juan Texcalpan, Mexico",
+    "description": "Morelos, Atlatlahucan",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3515724",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3515724.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.93583
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -98.92889
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1162
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1603
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3008366",
+    "name": "La Magdelaine-sur-Tarn, France",
+    "description": "Occitanie, Upper Garonne",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3008366",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3008366.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 43.811
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 1.54375
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 685
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 116
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "La Magdelaine,La Magdelaine-sur-Tarn"
+}

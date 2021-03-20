@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8858715",
+    "name": "Campo Real, Mexico",
+    "description": "Jalisco, Zapopan",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8858715",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8858715.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.78722
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -103.44306
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2017
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1600
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Campo Real"
+}

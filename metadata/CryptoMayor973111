@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor973111",
+    "name": "Mpumalanga, South Africa",
+    "description": "KwaZulu-Natal, eThekwini Metropolitan Municipality",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor973111",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor973111.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -29.81292
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 30.63646
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 140121
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 711
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Africa/Johannesburg"
+        },
+        {
+            "trait_type": "Country",
+            "value": "South Africa"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AF"
+        }
+    ],
+    "country_code": "ZA",
+    "altnames": "Mpumalanga"
+}

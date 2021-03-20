@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8859494",
+    "name": "La S\u00e1bana, Mexico",
+    "description": "Tabasco, Centla",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8859494",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8859494.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.44461
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -92.88411
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1193
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 6
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "La Sabana,La S\u00e1bana"
+}

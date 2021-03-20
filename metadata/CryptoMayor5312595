@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5312595",
+    "name": "Saint Johns, United States",
+    "description": "Arizona, Apache County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5312595",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5312595.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 34.50587
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -109.36093
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3480
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1737
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Phoenix"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": "SJN,Saint John,Saint Johns,St. Johns"
+}

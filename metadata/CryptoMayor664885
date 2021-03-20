@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor664885",
+    "name": "Tiur, Romania",
+    "description": "Alba, Municipiul Blaj",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor664885",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor664885.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 46.16009
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 23.88927
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1765
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 247
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": null
+}

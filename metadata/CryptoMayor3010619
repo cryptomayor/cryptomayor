@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3010619",
+    "name": "La Canourgue, France",
+    "description": "Occitanie, Loz\u00e8re",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3010619",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3010619.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 44.43252
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 3.21439
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2126
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 593
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "La Canourgue"
+}

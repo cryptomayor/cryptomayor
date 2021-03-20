@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5784580",
+    "name": "West Point, United States",
+    "description": "Utah, Davis County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5784580",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5784580.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 41.11828
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -112.08411
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 10345
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1317
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Denver"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

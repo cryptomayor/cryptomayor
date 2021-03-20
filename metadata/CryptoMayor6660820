@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6660820",
+    "name": "Oxahuay, Peru",
+    "description": "Piura, Provincia de Ayabaca",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6660820",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6660820.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -4.55533
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -79.78453
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 640
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1257
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Lima"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Peru"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "PE",
+    "altnames": null
+}

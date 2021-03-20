@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8862913",
+    "name": "Ejido Tepeyac (Campo Dos), Mexico",
+    "description": "Sonora, Cajeme",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8862913",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8862913.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 27.48139
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -110.01694
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 528
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 31
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Hermosillo"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Ejido Tepeyac (Campo Dos)"
+}

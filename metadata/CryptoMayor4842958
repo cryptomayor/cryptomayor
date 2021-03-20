@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4842958",
+    "name": "Sherwood Manor, United States",
+    "description": "Connecticut, Hartford County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4842958",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4842958.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 42.01343
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -72.56425
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 5410
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 44
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/New_York"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

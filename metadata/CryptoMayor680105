@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor680105",
+    "name": "Croici, Romania",
+    "description": "Gorj, Comuna M\u0103t\u0103sari",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor680105",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor680105.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 44.8315
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 23.09748
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 512
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 273
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3518279",
+    "name": "San Miguel Chimalapa, Mexico",
+    "description": "Oaxaca, San Miguel Chimalapa",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3518279",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3518279.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 16.71424
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -94.74811
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1444
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 128
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Chimalapa,San Miguel,San Miguel Chimalapa"
+}

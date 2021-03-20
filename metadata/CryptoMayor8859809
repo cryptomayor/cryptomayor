@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8859809",
+    "name": "Los Olivos, Mexico",
+    "description": "Jalisco, Jilotl\u00e1n de los Dolores",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8859809",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8859809.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.20778
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -102.86194
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1054
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 420
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Los Olivos"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2794999",
+    "name": "Jabbeke, Belgium",
+    "description": "Flanders, Provincie West-Vlaanderen",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2794999",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2794999.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 51.18185
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 3.08935
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 13488
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 7
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Brussels"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Belgium"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "BE",
+    "altnames": "Jabbeke"
+}

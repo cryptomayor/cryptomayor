@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5139152",
+    "name": "Spencerport, United States",
+    "description": "New York, Monroe County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5139152",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5139152.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 43.18645
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -77.8039
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3589
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 172
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/New_York"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": "Spencer's Basin,Spencerport"
+}

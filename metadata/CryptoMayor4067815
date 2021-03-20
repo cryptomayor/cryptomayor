@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4067815",
+    "name": "Hollywood, United States",
+    "description": "Alabama, Jefferson County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4067815",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4067815.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 33.47288
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -86.78304
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 930
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 221
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Chicago"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

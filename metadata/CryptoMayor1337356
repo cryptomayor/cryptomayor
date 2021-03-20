@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor1337356",
+    "name": "Panbang, Bhutan",
+    "description": "Shemgang",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor1337356",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor1337356.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 26.86667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 90.98333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1360
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 214
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Asia/Thimphu"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Bhutan"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AS"
+        }
+    ],
+    "country_code": "BT",
+    "altnames": "Panbang"
+}

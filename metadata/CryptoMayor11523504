@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor11523504",
+    "name": "Dihi, Nepal",
+    "description": "Province 4, Syangja",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor11523504",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor11523504.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 27.87552
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 83.92759
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2210
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 374
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Asia/Kathmandu"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Nepal"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AS"
+        }
+    ],
+    "country_code": "NP",
+    "altnames": null
+}

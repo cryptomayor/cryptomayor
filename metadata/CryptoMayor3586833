@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3586833",
+    "name": "Cuscatancingo, El Salvador",
+    "description": "San Salvador",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3586833",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3586833.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 13.72702
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -89.18161
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 44369
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 604
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/El_Salvador"
+        },
+        {
+            "trait_type": "Country",
+            "value": "El Salvador"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "SV",
+    "altnames": "Cuscatancingo"
+}

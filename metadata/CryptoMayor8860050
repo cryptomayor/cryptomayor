@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8860050",
+    "name": "Matadamas, Mexico",
+    "description": "Oaxaca, Soledad Etla",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8860050",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8860050.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 17.16
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -96.81694
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 962
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1604
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Matadamas"
+}

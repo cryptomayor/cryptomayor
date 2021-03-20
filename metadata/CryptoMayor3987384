@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3987384",
+    "name": "San Crist\u00f3bal, Mexico",
+    "description": "Guanajuato, Apaseo el Grande",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3987384",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3987384.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.50388
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -100.61522
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 909
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1800
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "San Cristobal,San Crist\u00f3bal"
+}

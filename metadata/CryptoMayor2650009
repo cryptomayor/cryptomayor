@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2650009",
+    "name": "Embsay, United Kingdom",
+    "description": "England, North Yorkshire",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2650009",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2650009.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 53.97664
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -1.99282
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1679
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 147
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/London"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United Kingdom"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "GB",
+    "altnames": null
+}

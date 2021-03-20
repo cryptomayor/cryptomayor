@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4024532",
+    "name": "San Carlos del Jag\u00fcey, Mexico",
+    "description": "Guanajuato, Romita",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4024532",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4024532.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.91
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -101.63556
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 555
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1762
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6534517",
+    "name": "Scano al Brembo, Italy",
+    "description": "Lombardy, Provincia di Bergamo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6534517",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6534517.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 45.71858
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 9.60905
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3458
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 266
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": null
+}

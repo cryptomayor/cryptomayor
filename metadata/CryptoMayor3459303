@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3459303",
+    "name": "Lagoa, Brazil",
+    "description": "Santa Catarina, Florian\u00f3polis",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3459303",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3459303.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -27.60491
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -48.46713
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 5200
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 4
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Sao_Paulo"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Brazil"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "BR",
+    "altnames": null
+}

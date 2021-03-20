@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4182096",
+    "name": "Berlin, United States",
+    "description": "Georgia, Colquitt County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4182096",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4182096.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 31.06824
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -83.62378
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 559
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 79
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/New_York"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": "Berlin,Lens"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8862839",
+    "name": "La Lima, Mexico",
+    "description": "Chiapas, Frontera Comalapa",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8862839",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8862839.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 15.66417
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -92.12944
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 534
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 673
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "La Lima"
+}

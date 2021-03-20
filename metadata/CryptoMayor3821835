@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3821835",
+    "name": "Las Trancas, Mexico",
+    "description": "Guerrero, Zitlala",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3821835",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3821835.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 17.70595
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -99.22462
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 655
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1602
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": null
+}

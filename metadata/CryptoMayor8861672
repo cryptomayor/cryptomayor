@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8861672",
+    "name": "Colonia Emiliano Zapata, Mexico",
+    "description": "Guanajuato, Villagr\u00e1n",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8861672",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8861672.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.50556
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -100.98111
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 656
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1733
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Colonia Emiliano Zapata"
+}

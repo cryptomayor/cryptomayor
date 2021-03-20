@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor10103878",
+    "name": "Belmont North, Australia",
+    "description": "New South Wales, Lake Macquarie Shire",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor10103878",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor10103878.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -33.02081
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 151.66849
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 6168
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 27
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Sydney"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": null
+}

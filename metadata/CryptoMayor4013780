@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4013780",
+    "name": "Cinco de Mayo, Mexico",
+    "description": "Nayarit, Tepic",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4013780",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4013780.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 21.69104
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -105.08774
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 587
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 92
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mazatlan"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Cinco de Mayo,El Ciruelo"
+}

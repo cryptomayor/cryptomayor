@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3591885",
+    "name": "Pajapita, Guatemala",
+    "description": "San Marcos",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3591885",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3591885.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 14.72152
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -92.03521
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 8164
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 99
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Guatemala"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Guatemala"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "GT",
+    "altnames": "Pajapita"
+}

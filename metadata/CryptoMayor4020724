@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4020724",
+    "name": "Tavera, Mexico",
+    "description": "Michoac\u00e1n, Turicato",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4020724",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4020724.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.06126
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -101.5591
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1045
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1270
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Tavera"
+}

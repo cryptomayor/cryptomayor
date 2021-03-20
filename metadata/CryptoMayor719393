@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor719393",
+    "name": "Kardos, Hungary",
+    "description": "Csongr\u00e1d",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor719393",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor719393.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 46.23333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 20.61667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 682
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 85
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Budapest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Hungary"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "HU",
+    "altnames": "Kardos"
+}

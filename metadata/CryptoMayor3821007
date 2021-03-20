@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3821007",
+    "name": "Xpujil, Mexico",
+    "description": "Campeche, Calakmul",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3821007",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3821007.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.5076
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -89.39437
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3984
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 248
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Cancun"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Xpujil"
+}

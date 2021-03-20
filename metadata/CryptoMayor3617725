@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3617725",
+    "name": "Masatepe, Nicaragua",
+    "description": "Masaya",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3617725",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3617725.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 11.91445
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -86.14458
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 21452
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 454
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Managua"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Nicaragua"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "NI",
+    "altnames": "Masatepe"
+}

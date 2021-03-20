@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor305810",
+    "name": "Kula, Turkey",
+    "description": "Manisa, Kula",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor305810",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor305810.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 38.54726
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 28.64976
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 31100
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 671
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Istanbul"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Turkey"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AS"
+        }
+    ],
+    "country_code": "TR",
+    "altnames": "Kovla,Kul,Kula,Opsicium,\u041a\u0443\u043b"
+}

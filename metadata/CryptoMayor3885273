@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3885273",
+    "name": "Lampa, Chile",
+    "description": "Santiago Metropolitan, Provincia de Chacabuco",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3885273",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3885273.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -33.2863
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -70.87561
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 29250
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 498
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Santiago"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Chile"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "CL",
+    "altnames": "Lampa"
+}

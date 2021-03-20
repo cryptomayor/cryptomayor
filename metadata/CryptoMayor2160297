@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2160297",
+    "name": "Leura, Australia",
+    "description": "New South Wales, Blue Mountains Municipality",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2160297",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2160297.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -33.71667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 150.33333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 4802
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 956
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Sydney"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": "Leura"
+}

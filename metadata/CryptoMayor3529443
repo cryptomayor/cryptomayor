@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3529443",
+    "name": "El Arenal, Mexico",
+    "description": "Chiapas, Huixtla",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3529443",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3529443.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 15.08342
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -92.4861
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 860
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 27
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "El Arenal"
+}

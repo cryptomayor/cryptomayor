@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3557432",
+    "name": "Guayos, Cuba",
+    "description": "Sancti Sp\u00edritus",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3557432",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3557432.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 22.04956
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -79.46106
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 15000
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 107
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Havana"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Cuba"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "CU",
+    "altnames": "Guayos"
+}

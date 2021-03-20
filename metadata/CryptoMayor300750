@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor300750",
+    "name": "Sincan, Turkey",
+    "description": "Sivas",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor300750",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor300750.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 39.47167
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 37.87083
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 0
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1225
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Istanbul"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Turkey"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AS"
+        }
+    ],
+    "country_code": "TR",
+    "altnames": "Sincan"
+}

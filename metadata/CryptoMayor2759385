@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2759385",
+    "name": "Batenburg, Netherlands",
+    "description": "Gelderland, Gemeente Wijchen",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2759385",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2759385.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 51.82417
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 5.62917
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 520
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 9
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Amsterdam"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Netherlands"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "NL",
+    "altnames": null
+}

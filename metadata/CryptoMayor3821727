@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3821727",
+    "name": "San Pedro las Playas, Mexico",
+    "description": "Guerrero, Acapulco de Ju\u00e1rez",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3821727",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3821727.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 16.82286
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -99.73158
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 4292
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 10
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "San Pedro las Playas"
+}

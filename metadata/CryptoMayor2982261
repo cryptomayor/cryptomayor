@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2982261",
+    "name": "Rue, France",
+    "description": "Hauts-de-France, Somme",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2982261",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2982261.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 50.2715
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 1.67163
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3235
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 8
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Rue"
+}

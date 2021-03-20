@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor685882",
+    "name": "Badon, Romania",
+    "description": "S\u0103laj, Comuna Hereclean",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor685882",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor685882.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.25001
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 22.97797
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 660
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 223
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8862809",
+    "name": "Monte del Toro, Mexico",
+    "description": "Oaxaca, Heroica Ciudad de Ejutla de Crespo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8862809",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8862809.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 16.6775
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -96.73917
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 537
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1556
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Monte del Toro"
+}

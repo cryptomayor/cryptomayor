@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3170742",
+    "name": "Pieve d'Olmi, Italy",
+    "description": "Lombardy, Provincia di Cremona",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3170742",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3170742.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 45.08957
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 10.12368
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 914
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 35
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "Pieve d'Olmi"
+}

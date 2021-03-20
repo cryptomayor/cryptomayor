@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3976525",
+    "name": "Las Piedritas, Mexico",
+    "description": "Sinaloa, Culiac\u00e1n",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3976525",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3976525.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 24.41271
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -107.3663
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 718
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 13
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mazatlan"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Las Piedritas"
+}

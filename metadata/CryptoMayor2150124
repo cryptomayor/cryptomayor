@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2150124",
+    "name": "Scarsdale, Australia",
+    "description": "Victoria, Golden Plains",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2150124",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2150124.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -37.6795
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 143.66695
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 719
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 351
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Melbourne"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": null
+}

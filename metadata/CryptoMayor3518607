@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3518607",
+    "name": "San Juan Toavela, Mexico",
+    "description": "Oaxaca, San Juan Petlapa",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3518607",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3518607.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 17.52694
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -96.065
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 527
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 632
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "San Juan,San Juan Toavela,Tavela,Toabela,Toavela"
+}

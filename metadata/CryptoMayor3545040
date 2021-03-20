@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3545040",
+    "name": "Palmira, Cuba",
+    "description": "Cienfuegos",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3545040",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3545040.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 22.24126
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -80.3911
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 23078
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 67
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Havana"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Cuba"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "CU",
+    "altnames": "Palmira"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3519480",
+    "name": "San Dionisio Ocotepec, Mexico",
+    "description": "Oaxaca, San Dionisio Ocotepec",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3519480",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3519480.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 16.80457
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -96.39334
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 5459
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1694
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Ocotepec,San Dionisio,San Dionisio Ocotepec"
+}

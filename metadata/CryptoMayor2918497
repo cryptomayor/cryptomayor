@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2918497",
+    "name": "Grabau, Germany",
+    "description": "Schleswig-Holstein",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2918497",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2918497.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 53.8
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 10.28333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 820
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 32
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Berlin"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Germany"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "DE",
+    "altnames": null
+}

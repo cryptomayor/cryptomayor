@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3996117",
+    "name": "Mesillas, Mexico",
+    "description": "Sinaloa, Concordia",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3996117",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3996117.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 23.24652
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -106.04783
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1676
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 138
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mazatlan"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Mesillas"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2154344",
+    "name": "One Mile, Australia",
+    "description": "Queensland, Ipswich",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2154344",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2154344.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -27.62902
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 152.73768
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2054
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 39
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Brisbane"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": null
+}

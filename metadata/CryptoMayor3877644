@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3877644",
+    "name": "Palena, Chile",
+    "description": "Los Lagos Region, Provincia de Palena",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3877644",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3877644.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -43.61876
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -71.80434
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1690
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 262
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Santiago"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Chile"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "CL",
+    "altnames": "Alto Palena,Palena,WAP"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4024470",
+    "name": "La Calzada de la Merced, Mexico",
+    "description": "Guanajuato, Manuel Doblado",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4024470",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4024470.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.77727
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -101.86235
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 780
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1726
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Calzada de la Merced,La Calzada de la Merced"
+}

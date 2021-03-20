@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3987272",
+    "name": "San Esteban de Egipto, Mexico",
+    "description": "Coahuila, Francisco I. Madero",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3987272",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3987272.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 25.7403
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -103.33312
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 708
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1116
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Monterrey"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "San Esteban,San Esteban de Egipto"
+}

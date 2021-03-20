@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3987135",
+    "name": "San Francisco, Mexico",
+    "description": "Nayarit, Bah\u00eda de Banderas",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3987135",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3987135.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.90196
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -105.41279
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1823
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 14
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Bahia_Banderas"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": null
+}

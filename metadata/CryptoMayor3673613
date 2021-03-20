@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3673613",
+    "name": "Olaya, Colombia",
+    "description": "Antioquia, Olaya",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3673613",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3673613.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 6.62773
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -75.8127
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 710
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 744
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Bogota"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Colombia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "CO",
+    "altnames": "Olaya"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3065618",
+    "name": "Sokolnice, Czechia",
+    "description": "South Moravian, Okres Brno-venkov",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3065618",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3065618.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 49.11392
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 16.72156
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1761
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 203
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Prague"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Czechia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "CZ",
+    "altnames": "Sokolnitz"
+}

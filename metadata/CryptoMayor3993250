@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3993250",
+    "name": "Paso Real del Bejuco, Mexico",
+    "description": "Nayarit, Rosamorada",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3993250",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3993250.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 22.01986
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -105.1871
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 618
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 21
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mazatlan"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Paso Real del Bejuco"
+}

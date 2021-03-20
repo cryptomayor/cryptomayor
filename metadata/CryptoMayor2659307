@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2659307",
+    "name": "Oetwil, Switzerland",
+    "description": "Zurich, Bezirk Meilen",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2659307",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2659307.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.27049
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 8.72023
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 4925
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 539
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Zurich"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Switzerland"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "CH",
+    "altnames": "Oetwil,Oetwil am See"
+}

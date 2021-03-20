@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2999857",
+    "name": "Les Pujols, France",
+    "description": "Occitanie, Ari\u00e8ge",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2999857",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2999857.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 43.08845
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 1.71864
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 547
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 317
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Les Pujols"
+}

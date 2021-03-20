@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6295645",
+    "name": "Thalwil / See, Switzerland",
+    "description": "Zurich, Bezirk Horgen",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6295645",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6295645.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.29409
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 8.56929
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1893
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 423
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Zurich"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Switzerland"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "CH",
+    "altnames": "See"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6292761",
+    "name": "Horgen / Oberdorf, Switzerland",
+    "description": "Zurich, Bezirk Horgen",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6292761",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6292761.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.25837
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 8.59013
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2524
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 487
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Zurich"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Switzerland"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "CH",
+    "altnames": "Horgen Oberdorf,Oberdorf"
+}

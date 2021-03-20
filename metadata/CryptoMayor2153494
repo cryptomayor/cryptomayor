@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2153494",
+    "name": "Penguin, Australia",
+    "description": "Tasmania, Central Coast",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2153494",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2153494.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -41.12258
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 146.07318
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3728
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 89
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Hobart"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": "Penguin"
+}

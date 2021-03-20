@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor11911820",
+    "name": "El Ayote, Nicaragua",
+    "description": "South Caribbean Coast",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor11911820",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor11911820.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 12.49952
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -84.81519
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 0
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 138
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Managua"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Nicaragua"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "NI",
+    "altnames": "El Ayote"
+}

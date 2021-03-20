@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5113460",
+    "name": "Concord, United States",
+    "description": "New York, Richmond County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5113460",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5113460.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 40.60816
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -74.08431
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 8857
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 29
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/New_York"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

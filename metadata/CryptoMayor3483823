@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3483823",
+    "name": "Las Palmas, Mexico",
+    "description": "San Luis Potos\u00ed, Tamu\u00edn",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3483823",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3483823.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 22.03339
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -98.87407
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1592
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 55
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Las Palmas"
+}

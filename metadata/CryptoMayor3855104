@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3855104",
+    "name": "General La Madrid, Argentina",
+    "description": "Buenos Aires, Partido de General La Madrid",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3855104",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3855104.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -37.24755
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -61.26273
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 0
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 172
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Argentina/Buenos_Aires"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Argentina"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "AR",
+    "altnames": null
+}

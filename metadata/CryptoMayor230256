@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor230256",
+    "name": "Kyotera, Uganda",
+    "description": "Central Region, Kyotera District",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor230256",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor230256.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -0.61556
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 31.5175
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 8472
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1202
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Africa/Kampala"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Uganda"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AF"
+        }
+    ],
+    "country_code": "UG",
+    "altnames": "Kyotera"
+}

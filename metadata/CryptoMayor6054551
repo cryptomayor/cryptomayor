@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6054551",
+    "name": "Linwood, Canada",
+    "description": "Ontario, Regional Municipality of Waterloo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6054551",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6054551.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 43.58171
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -80.72815
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 759
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 394
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Toronto"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Canada"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "CA",
+    "altnames": null
+}

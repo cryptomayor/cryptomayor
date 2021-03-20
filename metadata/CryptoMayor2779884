@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2779884",
+    "name": "Eugenbach, Austria",
+    "description": "Salzburg, Politischer Bezirk Salzburg-Umgebung",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2779884",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2779884.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.86789
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 13.13331
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 900
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 541
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Vienna"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Austria"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "AT",
+    "altnames": null
+}

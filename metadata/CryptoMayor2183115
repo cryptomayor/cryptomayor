@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2183115",
+    "name": "Ruatoria, New Zealand",
+    "description": "Gisborne, Gisborne District",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2183115",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2183115.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -37.88333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 178.33333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 897
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 60
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Pacific/Auckland"
+        },
+        {
+            "trait_type": "Country",
+            "value": "New Zealand"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "NZ",
+    "altnames": null
+}

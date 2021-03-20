@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2761164",
+    "name": "Wilten, Austria",
+    "description": "Tyrol, Innsbruck Stadt",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2761164",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2761164.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.25829
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 11.38808
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 18142
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 588
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Vienna"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Austria"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "AT",
+    "altnames": null
+}

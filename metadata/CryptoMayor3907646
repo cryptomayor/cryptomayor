@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3907646",
+    "name": "Portachuelo, Bolivia",
+    "description": "Santa Cruz",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3907646",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3907646.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -17.35168
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -63.39282
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 11485
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 298
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/La_Paz"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Bolivia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "BO",
+    "altnames": "Portachuelo"
+}

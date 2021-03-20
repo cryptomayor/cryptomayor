@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3010528",
+    "name": "La Celle-Saint-Cyr, France",
+    "description": "Bourgogne-Franche-Comt\u00e9, Yonne",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3010528",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3010528.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.97357
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 3.28945
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 829
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 111
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "La Celle,La Celle-Saint-Cyr"
+}

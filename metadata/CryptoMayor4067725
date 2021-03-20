@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4067725",
+    "name": "Hollins, United States",
+    "description": "Alabama, Clay County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4067725",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4067725.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 33.11762
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -86.14442
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 545
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 258
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Chicago"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3065456",
+    "name": "St\u00e1dlec, Czechia",
+    "description": "Jiho\u010desk\u00fd kraj, Okres T\u00e1bor",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3065456",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3065456.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 49.3796
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 14.49507
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 618
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 453
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Prague"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Czechia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "CZ",
+    "altnames": "Staletz"
+}

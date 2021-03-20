@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3816610",
+    "name": "Palenque de los Pinos, Mexico",
+    "description": "Chiapas, Villaflores",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3816610",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3816610.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 16.48366
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -93.10386
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 538
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 819
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Palenque de los Pinos"
+}

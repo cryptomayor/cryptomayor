@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3521158",
+    "name": "Pozuelo, Mexico",
+    "description": "Veracruz, Tlalixcoyan",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3521158",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3521158.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.82787
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -96.07578
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 575
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 15
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": null
+}

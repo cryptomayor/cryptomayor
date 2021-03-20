@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2939195",
+    "name": "Damm, Germany",
+    "description": "Mecklenburg-Vorpommern",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2939195",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2939195.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 53.43982
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 11.75403
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 532
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 42
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Berlin"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Germany"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "DE",
+    "altnames": "Damm"
+}

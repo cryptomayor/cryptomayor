@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3995154",
+    "name": "Nadadores, Mexico",
+    "description": "Coahuila, Nadadores",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3995154",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3995154.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 27.02819
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -101.5942
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 4343
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 526
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Monterrey"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Ejide Nadadores,Nadadores"
+}

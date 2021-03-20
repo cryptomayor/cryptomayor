@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3523416",
+    "name": "Mazatecochco, Mexico",
+    "description": "Tlaxcala, Mazatecochco de Jos\u00e9 Mar\u00eda Morelos",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3523416",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3523416.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.17865
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -98.18677
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 9671
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2323
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Jose Maria Morelos,Jos\u00e9 Mar\u00eda Morelos,Mazatecochco,Mazatecocho,San Cosme,San Cosme Mazatecochco,San Cosme Mazatocoxco"
+}

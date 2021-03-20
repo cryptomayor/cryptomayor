@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3979164",
+    "name": "Venustiano Carranza, Mexico",
+    "description": "Baja California, Ensenada",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3979164",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3979164.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 30.40094
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -115.8943
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 823
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 3
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Tijuana"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Santa Maria,Venustiano Carranza"
+}

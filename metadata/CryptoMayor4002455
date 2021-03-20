@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4002455",
+    "name": "Estancia de San Francisco, Mexico",
+    "description": "Guanajuato, San Felipe",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4002455",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4002455.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 21.66638
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -101.06478
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 714
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1901
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Estancia San Francisco,Estancia de San Francisco,La Estancia"
+}

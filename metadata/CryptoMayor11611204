@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor11611204",
+    "name": "Heidberg, Germany",
+    "description": "Lower Saxony",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor11611204",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor11611204.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 52.22735
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 10.531
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 7661
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 79
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Berlin"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Germany"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "DE",
+    "altnames": null
+}

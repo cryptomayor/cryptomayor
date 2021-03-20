@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2951404",
+    "name": "Beierfeld, Germany",
+    "description": "Saxony",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2951404",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2951404.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 50.56529
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 12.79049
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 4069
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 570
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Berlin"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Germany"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "DE",
+    "altnames": "Beierfeld"
+}

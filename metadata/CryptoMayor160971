@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor160971",
+    "name": "Bukene, Tanzania",
+    "description": "Tabora, Nzega",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor160971",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor160971.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -4.23333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 32.88333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 7444
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1200
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Africa/Dar_es_Salaam"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Tanzania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AF"
+        }
+    ],
+    "country_code": "TZ",
+    "altnames": "Bukene"
+}

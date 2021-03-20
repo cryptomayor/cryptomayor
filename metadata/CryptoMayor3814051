@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3814051",
+    "name": "La Sabinita, Mexico",
+    "description": "Hidalgo, Huichapan",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3814051",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3814051.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.36286
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -99.63423
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2276
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2144
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "La Sabinita"
+}

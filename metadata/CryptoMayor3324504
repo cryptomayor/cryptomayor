@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3324504",
+    "name": "Esternberg, Austria",
+    "description": "Upper Austria, Politischer Bezirk Sch\u00e4rding",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3324504",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3324504.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 48.54333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 13.57083
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 670
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 504
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Vienna"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Austria"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "AT",
+    "altnames": "Esternberg"
+}

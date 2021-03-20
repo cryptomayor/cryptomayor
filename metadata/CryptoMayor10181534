@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor10181534",
+    "name": "Nueva Esperanza, Panama",
+    "description": "Panam\u00e1, Distrito de Panam\u00e1",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor10181534",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor10181534.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 9.1021
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -79.33414
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 9342
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 24
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Panama"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Panama"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "PA",
+    "altnames": "Nueva Esperanza"
+}

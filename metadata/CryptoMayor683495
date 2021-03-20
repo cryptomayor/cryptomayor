@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor683495",
+    "name": "Buda, Romania",
+    "description": "Vrancea, Comuna Corbi\u0163a",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor683495",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor683495.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 46.13179
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 27.30279
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 636
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 216
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": null
+}

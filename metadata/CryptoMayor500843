@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor500843",
+    "name": "Rubl\u00ebvo, Russia",
+    "description": "Moscow",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor500843",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor500843.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 55.78514
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 37.35481
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 20000
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 151
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Moscow"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Russia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RU",
+    "altnames": "Rublevo,Rubljovo,Rubl\u00ebvo,\u0420\u0443\u0431\u043b\u0435\u0432\u043e,\u0420\u0443\u0431\u043b\u0451\u0432\u043e"
+}

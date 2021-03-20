@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8348837",
+    "name": "Yarrambat, Australia",
+    "description": "Victoria, Nillumbik",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8348837",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8348837.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -37.63751
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 145.13486
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1542
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 177
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Melbourne"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": null
+}

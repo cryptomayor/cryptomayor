@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3167124",
+    "name": "Sarmato, Italy",
+    "description": "Emilia-Romagna, Provincia di Piacenza",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3167124",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3167124.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 45.05679
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 9.49683
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 65
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": null
+}

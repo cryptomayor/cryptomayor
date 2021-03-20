@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3018052",
+    "name": "Fontaine-la-Guyon, France",
+    "description": "Centre, Eure-et-Loir",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3018052",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3018052.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 48.4727
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 1.31417
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1100
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 174
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Fontaine,Fontaine-la-Guyon"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2861743",
+    "name": "Nottensdorf, Germany",
+    "description": "Lower Saxony",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2861743",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2861743.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 53.48333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 9.6
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1423
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 36
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Berlin"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Germany"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "DE",
+    "altnames": null
+}

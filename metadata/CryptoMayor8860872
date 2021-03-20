@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8860872",
+    "name": "Apazulco (Miguel Hidalgo Viejo), Mexico",
+    "description": "Jalisco, La Huerta",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8860872",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8860872.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.36972
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -104.87889
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 769
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 23
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Apazulco (Miguel Hidalgo Viejo)"
+}

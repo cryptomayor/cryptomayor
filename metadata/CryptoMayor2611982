@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2611982",
+    "name": "Svogerslev, Denmark",
+    "description": "Zealand, Roskilde Kommune",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2611982",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2611982.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 55.63423
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 12.01465
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 4355
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 39
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Copenhagen"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Denmark"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "DK",
+    "altnames": "Svogerslev"
+}

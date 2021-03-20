@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3712862",
+    "name": "Cauchero, Panama",
+    "description": "Bocas del Toro",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3712862",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3712862.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 9.15226
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -82.2645
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 40
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": -9999
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Panama"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Panama"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "PA",
+    "altnames": "Cauchero,Punta de Bongo"
+}

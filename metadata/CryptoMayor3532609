@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3532609",
+    "name": "Atlanca, Mexico",
+    "description": "Veracruz, Los Reyes",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3532609",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3532609.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.69901
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -97.05494
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 733
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1729
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Atlanca"
+}

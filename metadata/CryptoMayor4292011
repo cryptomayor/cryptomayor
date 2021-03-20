@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4292011",
+    "name": "Fordsville, United States",
+    "description": "Kentucky, Ohio County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4292011",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4292011.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 37.63616
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -86.71749
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 530
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 154
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Chicago"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

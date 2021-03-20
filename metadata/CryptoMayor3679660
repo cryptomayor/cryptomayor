@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3679660",
+    "name": "La Calera, Colombia",
+    "description": "Cundinamarca, La Calera",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3679660",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3679660.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 4.72069
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -73.96926
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 10175
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2690
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Bogota"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Colombia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "CO",
+    "altnames": "La Calera"
+}

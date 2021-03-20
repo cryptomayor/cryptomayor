@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3685069",
+    "name": "Durania, Colombia",
+    "description": "Norte de Santander, Durania",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3685069",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3685069.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 7.71307
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -72.65759
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3470
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 961
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Bogota"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Colombia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "CO",
+    "altnames": "Durania"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3518224",
+    "name": "San Miguel Xoxtla, Mexico",
+    "description": "Puebla, San Miguel Xoxtla",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3518224",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3518224.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.16763
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -98.30758
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 11269
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2203
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "San Miguel Xoxtla,Xoxtla"
+}

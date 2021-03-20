@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3022800",
+    "name": "Coutouvre, France",
+    "description": "Auvergne-Rh\u00f4ne-Alpes, Loire",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3022800",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3022800.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 46.07303
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 4.20535
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1126
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 427
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Coutouvre"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3618411",
+    "name": "La Paz Centro, Nicaragua",
+    "description": "Le\u00f3n, La Paz Centro",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3618411",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3618411.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 12.34
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -86.67528
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 23481
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 73
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Managua"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Nicaragua"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "NI",
+    "altnames": "La Paz,La Paz Central,La Paz Centro,Paz Central"
+}

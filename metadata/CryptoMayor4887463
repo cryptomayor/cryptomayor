@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4887463",
+    "name": "Chicago Lawn, United States",
+    "description": "Illinois, Cook County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4887463",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4887463.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 41.77503
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -87.69644
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 55551
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 188
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Chicago"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

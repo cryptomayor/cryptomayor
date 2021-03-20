@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3530090",
+    "name": "Nuevo Crucitas, Mexico",
+    "description": "San Luis Potos\u00ed, Ciudad Valles",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3530090",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3530090.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 22.10833
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -99.20444
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1008
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 229
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": null
+}

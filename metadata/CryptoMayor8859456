@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8859456",
+    "name": "San Crist\u00f3bal los Nava, Mexico",
+    "description": "Puebla, Tepeaca",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8859456",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8859456.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.99528
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -97.83194
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1219
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2244
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "San Cristobal los Nava,San Crist\u00f3bal los Nava"
+}

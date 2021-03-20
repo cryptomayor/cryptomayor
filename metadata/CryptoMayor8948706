@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8948706",
+    "name": "Casa Santa, Italy",
+    "description": "Sicily, Trapani",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8948706",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8948706.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 38.02514
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 12.5484
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 23880
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 34
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "Casa Santa"
+}

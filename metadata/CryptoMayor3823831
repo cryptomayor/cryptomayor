@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3823831",
+    "name": "Cotlaixco, Mexico",
+    "description": "Veracruz, Zongolica",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3823831",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3823831.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.7675
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -96.94944
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 520
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1226
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": null
+}

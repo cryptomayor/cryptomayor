@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4700044",
+    "name": "Ingram, United States",
+    "description": "Texas, Kerr County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4700044",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4700044.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 30.07743
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -99.24032
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1822
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 528
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Chicago"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

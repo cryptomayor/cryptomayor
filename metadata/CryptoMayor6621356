@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6621356",
+    "name": "Seven Mile Beach, Australia",
+    "description": "Tasmania, Clarence",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6621356",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6621356.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -42.85863
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 147.50532
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1332
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 6
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Hobart"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": null
+}

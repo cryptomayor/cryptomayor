@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8859963",
+    "name": "San Antonio la Galera, Mexico",
+    "description": "Quer\u00e9taro, Huimilpan",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8859963",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8859963.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.52417
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -100.23861
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 993
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1936
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "San Antonio la Galera"
+}

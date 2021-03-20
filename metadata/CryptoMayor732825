@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor732825",
+    "name": "Buhovo, Bulgaria",
+    "description": "Sofia-Capital, Stolichna Obshtina",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor732825",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor732825.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 42.76667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 23.56667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3283
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 702
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Sofia"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Bulgaria"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "BG",
+    "altnames": "Buchowo,Buhovo,Bukhovo,\u0411\u0443\u0445\u043e\u0432\u043e"
+}

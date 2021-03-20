@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3616700",
+    "name": "San Lucas, Nicaragua",
+    "description": "Madriz",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3616700",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3616700.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 13.4138
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -86.6111
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 910
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 789
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Managua"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Nicaragua"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "NI",
+    "altnames": "San Lucas"
+}

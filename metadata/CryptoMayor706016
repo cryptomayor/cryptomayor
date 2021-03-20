@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor706016",
+    "name": "Petrivka, Ukraine",
+    "description": "Mykolayiv Oblast, Mykolayiv rural raion",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor706016",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor706016.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 46.99733
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 31.76409
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1160
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 43
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Kiev"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Ukraine"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "UA",
+    "altnames": "Khutor-Petrovka,Petrivka,Petrovka"
+}

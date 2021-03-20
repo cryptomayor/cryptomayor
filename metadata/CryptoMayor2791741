@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2791741",
+    "name": "Marche-les-Dames, Belgium",
+    "description": "Wallonia, Province de Namur",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2791741",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2791741.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 50.48585
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 4.95967
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1004
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 103
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Brussels"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Belgium"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "BE",
+    "altnames": "Marche-les-Dames"
+}

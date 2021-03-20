@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2922502",
+    "name": "Gars, Germany",
+    "description": "Bavaria, Upper Bavaria",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2922502",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2922502.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 48.15386
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 12.27767
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3802
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 444
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Berlin"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Germany"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "DE",
+    "altnames": "Gars"
+}

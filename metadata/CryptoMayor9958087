@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor9958087",
+    "name": "Cedar Vale, Australia",
+    "description": "Queensland, Logan",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor9958087",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor9958087.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -27.88923
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 153.02891
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2750
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 120
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Brisbane"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3006663",
+    "name": "La Rouquette, France",
+    "description": "Occitanie, Aveyron",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3006663",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3006663.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 44.30265
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 1.97374
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 650
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 272
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "La Rouquette"
+}

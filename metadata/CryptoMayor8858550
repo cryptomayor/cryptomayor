@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8858550",
+    "name": "Kotolte, Mexico",
+    "description": "Chiapas, Tenejapa",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8858550",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8858550.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 16.86444
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -92.46111
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2503
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1485
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Kotolte"
+}

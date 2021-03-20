@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8858277",
+    "name": "El Centenario, Mexico",
+    "description": "Baja California Sur, La Paz",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8858277",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8858277.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 24.1025
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -110.41444
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 4696
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 8
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mazatlan"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "El Centenario"
+}

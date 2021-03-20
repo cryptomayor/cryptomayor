@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8349330",
+    "name": "Tolland, Australia",
+    "description": "New South Wales, Wagga Wagga",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8349330",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8349330.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -35.14521
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 147.35162
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3329
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 221
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Sydney"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4026953",
+    "name": "La Salitrera, Mexico",
+    "description": "Guerrero, Zihuatanejo de Azueta",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4026953",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4026953.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 17.71861
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -101.60329
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 944
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 35
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "La Salitrera"
+}

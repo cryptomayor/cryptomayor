@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor664385",
+    "name": "Uda, Romania",
+    "description": "Arges, Comuna Uda",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor664385",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor664385.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 44.91667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 24.56667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2567
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 446
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": null
+}

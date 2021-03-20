@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6690611",
+    "name": "Santa F\u00e9, Mexico",
+    "description": "Tabasco, Centro",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6690611",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6690611.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 17.91273
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -92.90574
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1000
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 14
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Sta. Fe,Sta. F\u00e9"
+}

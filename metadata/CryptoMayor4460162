@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4460162",
+    "name": "Chapel Hill, United States",
+    "description": "North Carolina, Orange County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4460162",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4460162.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 35.9132
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -79.05584
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 59568
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 149
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/New_York"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

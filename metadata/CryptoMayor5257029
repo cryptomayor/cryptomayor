@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5257029",
+    "name": "Howard, United States",
+    "description": "Wisconsin, Brown County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5257029",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5257029.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 44.5436
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -88.08816
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 19250
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 187
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Chicago"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

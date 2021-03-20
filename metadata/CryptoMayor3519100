@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3519100",
+    "name": "San Jacinto Tlacotepec, Mexico",
+    "description": "Oaxaca, San Jacinto Tlacotepec",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3519100",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3519100.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 16.52088
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -97.38634
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 630
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1090
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "San Jacinto,San Jacinto Tlacotepec,Tlacotepec"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2261760",
+    "name": "Venda do Pinheiro, Portugal",
+    "description": "Lisbon, Mafra",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2261760",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2261760.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 38.92365
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -9.23178
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 4950
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 263
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Lisbon"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Portugal"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "PT",
+    "altnames": "Venda do Pinheiro"
+}

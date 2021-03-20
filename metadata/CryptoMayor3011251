@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3011251",
+    "name": "Labastide-Saint-Georges, France",
+    "description": "Occitanie, Tarn",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3011251",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3011251.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 43.69962
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 1.84585
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1312
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 145
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Labastide,Labastide-Saint-Georges"
+}

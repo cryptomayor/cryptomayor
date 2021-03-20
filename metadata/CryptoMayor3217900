@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3217900",
+    "name": "Kampor, Croatia",
+    "description": "Primorsko-Goranska",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3217900",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3217900.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 44.775
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 14.71861
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1173
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 54
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Zagreb"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Croatia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "HR",
+    "altnames": null
+}

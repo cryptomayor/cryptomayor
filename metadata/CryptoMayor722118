@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor722118",
+    "name": "Boldva, Hungary",
+    "description": "Borsod-Aba\u00faj-Zempl\u00e9n",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor722118",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor722118.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 48.21667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 20.8
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2456
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 120
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Budapest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Hungary"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "HU",
+    "altnames": "Boldva"
+}

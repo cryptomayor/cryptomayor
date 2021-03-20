@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor685315",
+    "name": "Barza, Romania",
+    "description": "Hunedoara, Comuna Cri\u015fcior",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor685315",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor685315.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 46.1199
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 22.85695
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2314
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 287
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": null
+}

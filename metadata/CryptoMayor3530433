@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3530433",
+    "name": "El Venado, Mexico",
+    "description": "Hidalgo, Mineral de la Reforma",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3530433",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3530433.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.06291
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -98.76018
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1618
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2359
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Colonia,Colonia de Venado,El Venado"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor7268049",
+    "name": "Mangilao Village, Guam",
+    "description": "Mangilao",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor7268049",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor7268049.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 13.44761
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 144.80109
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 15191
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 58
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Pacific/Guam"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Guam"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "GU",
+    "altnames": "Manguilao,Manguuao"
+}

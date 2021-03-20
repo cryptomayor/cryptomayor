@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3822073",
+    "name": "Xalatzala, Mexico",
+    "description": "Guerrero, Tlapa de Comonfort",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3822073",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3822073.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 17.47355
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -98.57355
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2042
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1703
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Xalatzala"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2761244",
+    "name": "Wildenau, Austria",
+    "description": "Upper Austria, Politischer Bezirk Braunau am Inn",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2761244",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2761244.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 48.2062
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 13.31723
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 674
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 417
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Vienna"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Austria"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "AT",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8860108",
+    "name": "Tlanicuilulco, Mexico",
+    "description": "Guerrero, Quechultenango",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8860108",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8860108.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 17.38961
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -99.10506
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 944
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 655
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Tlanicuilulco"
+}

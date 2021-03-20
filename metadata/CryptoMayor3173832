@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3173832",
+    "name": "Martis, Italy",
+    "description": "Sardinia, Provincia di Sassari",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3173832",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3173832.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 40.77804
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 8.80897
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 511
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 298
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "Martis"
+}

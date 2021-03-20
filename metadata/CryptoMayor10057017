@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor10057017",
+    "name": "Wembley Downs, Australia",
+    "description": "Western Australia, Stirling",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor10057017",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor10057017.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -31.91169
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 115.77358
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 6158
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 33
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Perth"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": null
+}

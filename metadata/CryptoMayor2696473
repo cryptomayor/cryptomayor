@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2696473",
+    "name": "Lessebo, Sweden",
+    "description": "Kronoberg, Lessebo Kommun",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2696473",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2696473.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 56.75185
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 15.26969
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2857
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 164
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Stockholm"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Sweden"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "SE",
+    "altnames": null
+}

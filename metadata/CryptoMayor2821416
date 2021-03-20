@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2821416",
+    "name": "Trebur, Germany",
+    "description": "Hesse, Regierungsbezirk Darmstadt",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2821416",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2821416.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 49.92639
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 8.40732
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 12897
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 89
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Berlin"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Germany"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "DE",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2360210",
+    "name": "Gousi, Burkina Faso",
+    "description": "Boucle du Mouhoun",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2360210",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2360210.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 12.6561
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -2.7953
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 516
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 271
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Africa/Ouagadougou"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Burkina Faso"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AF"
+        }
+    ],
+    "country_code": "BF",
+    "altnames": "Goussi"
+}

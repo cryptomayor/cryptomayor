@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3456324",
+    "name": "Nepomuceno, Brazil",
+    "description": "Minas Gerais, Nepomuceno",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3456324",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3456324.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -21.23342
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -45.23488
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 18911
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 849
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Sao_Paulo"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Brazil"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "BR",
+    "altnames": null
+}

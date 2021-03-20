@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4569541",
+    "name": "Arcadia, United States",
+    "description": "South Carolina, Spartanburg County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4569541",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4569541.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 34.95818
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -81.99066
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2634
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 250
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/New_York"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

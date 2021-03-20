@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor921713",
+    "name": "Oussivo, Comoros",
+    "description": "Grande Comore",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor921713",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor921713.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -11.585
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 43.26722
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1708
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 35
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Indian/Comoro"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Comoros"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AF"
+        }
+    ],
+    "country_code": "KM",
+    "altnames": "Ousivo,Oussivo"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4080080",
+    "name": "New Site, United States",
+    "description": "Alabama, Tallapoosa County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4080080",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4080080.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 33.03734
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -85.77413
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 755
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 270
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Chicago"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": "New Site,Newsite"
+}

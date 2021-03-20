@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6295325",
+    "name": "Geroldswil / Haslern, Switzerland",
+    "description": "Zurich, Bezirk Dietikon",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6295325",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6295325.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.42057
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 8.41611
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 601
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 423
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Zurich"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Switzerland"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "CH",
+    "altnames": "Haslern"
+}

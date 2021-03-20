@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2970071",
+    "name": "Venizel, France",
+    "description": "Hauts-de-France, Aisne",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2970071",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2970071.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 49.36583
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 3.39321
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1470
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 48
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Venizel"
+}

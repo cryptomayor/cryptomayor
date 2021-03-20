@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6291061",
+    "name": "B\u00fclach / Seematt, Switzerland",
+    "description": "Zurich, Bezirk B\u00fclach",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6291061",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6291061.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.51716
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 8.54651
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2171
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 424
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Zurich"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Switzerland"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "CH",
+    "altnames": "Seematt"
+}

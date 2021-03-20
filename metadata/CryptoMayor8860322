@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8860322",
+    "name": "Huanal, Mexico",
+    "description": "Chiapas, Huitiup\u00e1n",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8860322",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8860322.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 17.30556
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -92.72278
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 886
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 881
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Huanal"
+}

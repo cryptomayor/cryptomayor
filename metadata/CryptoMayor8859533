@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8859533",
+    "name": "Bautista Chico, Mexico",
+    "description": "Chiapas, Chamula",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8859533",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8859533.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 16.79972
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -92.71194
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1173
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2398
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Bautista Chico"
+}

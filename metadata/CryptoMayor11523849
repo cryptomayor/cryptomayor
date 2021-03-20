@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor11523849",
+    "name": "Yeppoon city centre, Australia",
+    "description": "Queensland, Livingstone",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor11523849",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor11523849.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -23.1295
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 150.73639
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 6436
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 18
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Brisbane"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": null
+}

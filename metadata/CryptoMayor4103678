@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4103678",
+    "name": "Bull Shoals, United States",
+    "description": "Arkansas, Marion County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4103678",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4103678.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 36.38396
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -92.58155
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1933
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 245
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Chicago"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": "Bull Shoals,Newton Flat"
+}

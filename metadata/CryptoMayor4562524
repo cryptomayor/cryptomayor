@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4562524",
+    "name": "Aguilita, Puerto Rico",
+    "description": "Juana D\u00edaz, Sabana Llana Barrio",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4562524",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4562524.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.0233
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -66.53462
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 4922
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 29
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Puerto_Rico"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Puerto Rico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "PR",
+    "altnames": null
+}

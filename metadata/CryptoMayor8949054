@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8949054",
+    "name": "La Rotta, Italy",
+    "description": "Tuscany, Province of Pisa",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8949054",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8949054.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 43.6585
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 10.67837
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1754
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 25
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "La Rotta"
+}

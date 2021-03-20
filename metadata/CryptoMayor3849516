@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3849516",
+    "name": "La Paz, Argentina",
+    "description": "Mendoza, Departamento de La Paz",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3849516",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3849516.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -33.46091
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -67.54956
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 0
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 510
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Argentina/Mendoza"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Argentina"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "AR",
+    "altnames": "La Paz"
+}

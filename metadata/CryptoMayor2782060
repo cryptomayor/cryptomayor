@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2782060",
+    "name": "Bad Fischau, Austria",
+    "description": "Lower Austria, Politischer Bezirk Wiener Neustadt",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2782060",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2782060.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.83137
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 16.16707
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2116
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 284
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Vienna"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Austria"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "AT",
+    "altnames": null
+}

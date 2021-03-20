@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5120348",
+    "name": "Head of the Harbor, United States",
+    "description": "New York, Suffolk County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5120348",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5120348.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 40.90343
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -73.15789
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1477
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 49
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/New_York"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

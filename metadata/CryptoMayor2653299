@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2653299",
+    "name": "Chattenden, United Kingdom",
+    "description": "England, Medway",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2653299",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2653299.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 51.41832
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 0.52945
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 972
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 45
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/London"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United Kingdom"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "GB",
+    "altnames": null
+}

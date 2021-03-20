@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2604851",
+    "name": "Rettenbach, Austria",
+    "description": "Upper Austria, Politischer Bezirk Gmunden",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2604851",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2604851.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.73049
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 13.65875
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 533
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 460
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Vienna"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Austria"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "AT",
+    "altnames": null
+}

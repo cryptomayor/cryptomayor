@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3980756",
+    "name": "Usmajac, Mexico",
+    "description": "Jalisco, Sayula",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3980756",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3980756.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.87458
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -103.54085
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 7269
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1364
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Usmajac"
+}

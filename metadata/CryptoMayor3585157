@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3585157",
+    "name": "La Libertad, El Salvador",
+    "description": "La Libertad",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3585157",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3585157.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 13.48833
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -89.32222
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 16855
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 13
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/El_Salvador"
+        },
+        {
+            "trait_type": "Country",
+            "value": "El Salvador"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "SV",
+    "altnames": "La Libertad,Puerto La Libertad"
+}

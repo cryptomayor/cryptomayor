@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5109168",
+    "name": "Billington Heights, United States",
+    "description": "New York, Erie County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5109168",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5109168.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 42.78423
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -78.62642
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1685
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 297
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/New_York"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

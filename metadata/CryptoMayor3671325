@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3671325",
+    "name": "Puerto Santander, Colombia",
+    "description": "Norte de Santander, Puerto Santander",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3671325",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3671325.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 8.36361
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -72.4063
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 16275
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 50
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Bogota"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Colombia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "CO",
+    "altnames": "Puerto Santander,Santander"
+}

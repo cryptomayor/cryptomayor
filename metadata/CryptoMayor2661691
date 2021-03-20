@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2661691",
+    "name": "Au, Switzerland",
+    "description": "Zurich, Bezirk Horgen",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2661691",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2661691.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.24185
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 8.64406
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 4844
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 478
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Zurich"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Switzerland"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "CH",
+    "altnames": "Au,Au ZH"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8860784",
+    "name": "Los Volcanes, Mexico",
+    "description": "Baja California, Playas de Rosarito",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8860784",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8860784.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 32.32
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -117.00639
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 783
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 211
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Tijuana"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Los Volcanes"
+}

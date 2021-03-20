@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8858199",
+    "name": "Chiconcuac, Mexico",
+    "description": "Morelos, Xochitepec",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8858199",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8858199.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.78278
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -99.20722
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 7071
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1153
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Chiconcuac"
+}

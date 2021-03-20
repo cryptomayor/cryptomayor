@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8860631",
+    "name": "San Rafael, Mexico",
+    "description": "Baja California, Ensenada",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8860631",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8860631.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 31.90167
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -116.55361
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 814
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 215
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Tijuana"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "San Rafael"
+}

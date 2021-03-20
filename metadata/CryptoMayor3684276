@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3684276",
+    "name": "El Doncello, Colombia",
+    "description": "Caquet\u00e1, El Doncello",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3684276",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3684276.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 1.67817
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -75.28466
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 13082
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 357
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Bogota"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Colombia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "CO",
+    "altnames": "El Doncello"
+}

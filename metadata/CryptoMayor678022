@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor678022",
+    "name": "Floru, Romania",
+    "description": "Olt, Comuna Icoana",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor678022",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor678022.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 44.37611
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 24.75638
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 669
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 135
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor933211",
+    "name": "Nokaneng, Botswana",
+    "description": "North-West",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor933211",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor933211.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -19.66667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 22.26667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1763
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 957
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Africa/Gaborone"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Botswana"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AF"
+        }
+    ],
+    "country_code": "BW",
+    "altnames": "Nokanen,Nokaneng,Nokaning"
+}

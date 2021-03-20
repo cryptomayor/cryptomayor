@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4697744",
+    "name": "Hill Country Village, United States",
+    "description": "Texas, Bexar County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4697744",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4697744.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 29.58245
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -98.49085
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1067
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 291
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Chicago"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

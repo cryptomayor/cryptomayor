@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8310687",
+    "name": "Buronga, Australia",
+    "description": "New South Wales, Wentworth",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8310687",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8310687.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -34.1707
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 142.1735
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1350
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 42
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Sydney"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": "Buronga"
+}

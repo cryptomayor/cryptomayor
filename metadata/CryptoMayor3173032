@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3173032",
+    "name": "Montebello di Bertona, Italy",
+    "description": "Abruzzo, Provincia di Pescara",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3173032",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3173032.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 42.41686
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 13.87119
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 324
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 585
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "Montebello di Bertona"
+}

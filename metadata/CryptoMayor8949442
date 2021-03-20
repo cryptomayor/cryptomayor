@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8949442",
+    "name": "Pallone, Italy",
+    "description": "Latium, Provincia di Viterbo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8949442",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8949442.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 42.44545
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 12.17422
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 995
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 394
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "Pallone"
+}

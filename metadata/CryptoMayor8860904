@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8860904",
+    "name": "San Pablo, Mexico",
+    "description": "Guanajuato, Comonfort",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8860904",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8860904.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.78639
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -100.81222
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 764
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1827
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "San Pablo"
+}

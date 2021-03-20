@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5955840",
+    "name": "Fort Good Hope, Canada",
+    "description": "Northwest Territories, Sahtu Region",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5955840",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5955840.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 66.25698
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -128.6374
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 516
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 27
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Yellowknife"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Canada"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "CA",
+    "altnames": "YGH"
+}

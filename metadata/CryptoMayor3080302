@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3080302",
+    "name": "\u017belistrzewo, Poland",
+    "description": "Pomerania, Powiat pucki",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3080302",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3080302.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 54.6777
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 18.41738
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2340
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 25
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Warsaw"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Poland"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "PL",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4018038",
+    "name": "Atengo, Mexico",
+    "description": "Jalisco, Atengo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4018038",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4018038.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.27412
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -104.23715
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1616
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1410
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Atenco,Atengo"
+}

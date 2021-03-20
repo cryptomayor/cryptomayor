@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4010649",
+    "name": "El Caro, Mexico",
+    "description": "Sonora, Huatabampo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4010649",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4010649.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 26.86756
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -109.71509
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 687
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 13
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Hermosillo"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Caro,El Caro"
+}

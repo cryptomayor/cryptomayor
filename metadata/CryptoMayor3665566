@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3665566",
+    "name": "Zaragoza, Colombia",
+    "description": "Antioquia, Zaragoza",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3665566",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3665566.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 7.48971
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -74.86919
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 18795
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 66
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Bogota"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Colombia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "CO",
+    "altnames": "Zaragoza"
+}

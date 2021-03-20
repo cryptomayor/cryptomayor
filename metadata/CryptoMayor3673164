@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3673164",
+    "name": "Palmira, Colombia",
+    "description": "Valle del Cauca, Palmira",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3673164",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3673164.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 3.53944
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -76.30361
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 247986
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1005
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Bogota"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Colombia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "CO",
+    "altnames": "Palmira"
+}

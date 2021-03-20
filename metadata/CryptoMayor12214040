@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor12214040",
+    "name": "Soblinec, Croatia",
+    "description": "City of Zagreb, Sesvete",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor12214040",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor12214040.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 45.86424
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 16.15403
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 978
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 140
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Zagreb"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Croatia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "HR",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3520230",
+    "name": "Rizo de Oro, Mexico",
+    "description": "Chiapas, La Concordia",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3520230",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3520230.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 15.97088
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -92.48316
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1434
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 554
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Rizo de Oro"
+}

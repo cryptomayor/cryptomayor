@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3493022",
+    "name": "San Rafael del Yuma, Dominican Republic",
+    "description": "La Altagracia, San Rafael del Yuma",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3493022",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3493022.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.42993
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -68.6739
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 5285
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 49
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Santo_Domingo"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Dominican Republic"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "DO",
+    "altnames": "San Rafael de Yuma,San Rafael del Yuma,Yuma"
+}

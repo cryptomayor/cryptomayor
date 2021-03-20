@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4008213",
+    "name": "El Ranchito, Mexico",
+    "description": "Jalisco, Puerto Vallarta",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4008213",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4008213.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.73348
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -105.14933
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1255
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 47
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "El Ranchito"
+}

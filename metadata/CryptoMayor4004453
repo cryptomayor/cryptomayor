@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4004453",
+    "name": "San Pedro de Ibarra, Mexico",
+    "description": "Guanajuato, Ocampo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4004453",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4004453.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 21.4832
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -101.54046
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1164
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2145
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Ibarra,San Pedro de Ibarra"
+}

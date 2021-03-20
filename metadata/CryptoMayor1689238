@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor1689238",
+    "name": "San Juan, Philippines",
+    "description": "Cagayan Valley, Province of Isabela",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor1689238",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor1689238.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 17.40562
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 121.74745
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2517
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 34
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Asia/Manila"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Philippines"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AS"
+        }
+    ],
+    "country_code": "PH",
+    "altnames": "San Juan"
+}

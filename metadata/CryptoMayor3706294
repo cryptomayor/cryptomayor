@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3706294",
+    "name": "Las Palmas, Panama",
+    "description": "Los Santos, Distrito de Macaracas",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3706294",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3706294.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 7.68314
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -80.49728
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 13
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 157
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Panama"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Panama"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "PA",
+    "altnames": "Las Palmas"
+}

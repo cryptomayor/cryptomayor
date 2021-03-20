@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8950114",
+    "name": "Varano, Italy",
+    "description": "The Marches, Provincia di Ancona",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8950114",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8950114.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 43.56974
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 13.5462
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 591
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 171
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "Varano"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3451399",
+    "name": "Ribas do Rio Pardo, Brazil",
+    "description": "Mato Grosso do Sul, Ribas do Rio Pardo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3451399",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3451399.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -20.44306
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -53.75917
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 11934
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 382
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Campo_Grande"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Brazil"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "BR",
+    "altnames": "Rio Pardo"
+}

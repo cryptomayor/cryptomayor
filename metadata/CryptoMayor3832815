@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3832815",
+    "name": "Villa Allende, Argentina",
+    "description": "Cordoba, Departamento de Col\u00f3n",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3832815",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3832815.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -31.29458
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -64.29538
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 21683
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 505
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Argentina/Cordoba"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Argentina"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "AR",
+    "altnames": "Villa Allende"
+}

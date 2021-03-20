@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2656672",
+    "name": "Backworth, United Kingdom",
+    "description": "England, Northumberland",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2656672",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2656672.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 55.04229
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -1.52779
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1399
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 59
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/London"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United Kingdom"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "GB",
+    "altnames": null
+}

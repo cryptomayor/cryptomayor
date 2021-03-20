@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor682523",
+    "name": "Cauaceu, Romania",
+    "description": "Bihor, Comuna Biharia",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor682523",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor682523.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.16666
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 21.94411
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 603
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 124
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": null
+}

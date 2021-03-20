@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor624122",
+    "name": "Opsa, Belarus",
+    "description": "Vitebsk",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor624122",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor624122.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 55.5359
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 26.8238
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 700
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 163
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Minsk"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Belarus"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "BY",
+    "altnames": "Opsa,\u041e\u043f\u0441\u0430"
+}

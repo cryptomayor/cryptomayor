@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2264440",
+    "name": "Porto da Cruz, Portugal",
+    "description": "Madeira, Machico",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2264440",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2264440.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 32.76667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -16.83333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2597
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 220
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Atlantic/Madeira"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Portugal"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "PT",
+    "altnames": "Porto da Cruz"
+}

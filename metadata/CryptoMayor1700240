@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor1700240",
+    "name": "Matti, Philippines",
+    "description": "Davao, Province of Davao del Sur",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor1700240",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor1700240.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 6.77056
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 125.30861
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 4796
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 47
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Asia/Manila"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Philippines"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AS"
+        }
+    ],
+    "country_code": "PH",
+    "altnames": "Matti"
+}

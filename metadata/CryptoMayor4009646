@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4009646",
+    "name": "El Habal, Mexico",
+    "description": "Sinaloa, Mazatl\u00e1n",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4009646",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4009646.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 23.35014
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -106.41834
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1144
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 64
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mazatlan"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "El Habal,Habal"
+}

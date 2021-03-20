@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2265315",
+    "name": "Paderne, Portugal",
+    "description": "Faro, Albufeira",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2265315",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2265315.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 37.17935
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -8.2015
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3304
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 57
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Lisbon"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Portugal"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "PT",
+    "altnames": "Paderne"
+}

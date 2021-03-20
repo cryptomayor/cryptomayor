@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4010527",
+    "name": "Cayaco, Mexico",
+    "description": "Guerrero, Coyuca de Ben\u00edtez",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4010527",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4010527.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 17.04743
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -100.26859
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1242
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 16
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Cayaco,El Cayaco"
+}

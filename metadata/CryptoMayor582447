@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor582447",
+    "name": "Almaznyy, Russia",
+    "description": "Rostov",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor582447",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor582447.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 48.04476
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 40.04501
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3080
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 218
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Moscow"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Russia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RU",
+    "altnames": "Almaznyj,Almaznyy,\u0410\u043b\u043c\u0430\u0437\u043d\u044b\u0439"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5133101",
+    "name": "Pultneyville, United States",
+    "description": "New York, Wayne County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5133101",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5133101.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 43.27979
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -77.18609
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 698
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 82
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/New_York"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3818786",
+    "name": "Guadalupe Victoria, Mexico",
+    "description": "Puebla, Guadalupe Victoria",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3818786",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3818786.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.2911
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -97.3429
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 10035
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2445
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Guadalupe Victoria"
+}

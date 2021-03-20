@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2986960",
+    "name": "Plaine, France",
+    "description": "Grand Est, Bas-Rhin",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2986960",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2986960.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 48.41767
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 7.14579
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 846
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 500
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Plaine"
+}

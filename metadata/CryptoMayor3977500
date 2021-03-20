@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3977500",
+    "name": "San Esteban de Abajo, Mexico",
+    "description": "Coahuila, San Pedro",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3977500",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3977500.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 25.70903
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -103.00047
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1158
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1102
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Monterrey"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "San Esteban de Abajo"
+}

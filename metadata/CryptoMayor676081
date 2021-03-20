@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor676081",
+    "name": "Holbav, Romania",
+    "description": "Bra\u015fov, Comuna Holbav",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor676081",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor676081.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 45.65922
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 25.38744
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1506
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 717
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor680239",
+    "name": "Crihalma, Romania",
+    "description": "Bra\u015fov, Comuna Comana",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor680239",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor680239.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 45.92605
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 25.20199
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 670
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 450
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": null
+}

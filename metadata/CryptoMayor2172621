@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2172621",
+    "name": "Campania, Australia",
+    "description": "Tasmania, Southern Midlands",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2172621",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2172621.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -42.66478
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 147.42319
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 927
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 76
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Hobart"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": "Campania"
+}

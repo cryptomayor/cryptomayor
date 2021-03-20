@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8862181",
+    "name": "San Antonio de Abajo, Mexico",
+    "description": "Puebla, Esperanza",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8862181",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8862181.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.88667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -97.36194
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 596
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2519
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "San Antonio de Abajo"
+}

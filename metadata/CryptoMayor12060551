@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor12060551",
+    "name": "Chhetrapa1, Nepal",
+    "description": "Bagmati Province, Dolakha",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor12060551",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor12060551.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 27.67633
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 86.11662
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1000
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 962
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Asia/Kathmandu"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Nepal"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AS"
+        }
+    ],
+    "country_code": "NP",
+    "altnames": null
+}

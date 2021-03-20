@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3813643",
+    "name": "San Pedro, Mexico",
+    "description": "Hidalgo, Tecozautla",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3813643",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3813643.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.60935
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -99.51729
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 516
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1863
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "San Pedro"
+}

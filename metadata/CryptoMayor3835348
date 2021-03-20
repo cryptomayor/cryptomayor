@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3835348",
+    "name": "Serrezuela, Argentina",
+    "description": "Cordoba, Departamento de Cruz del Eje",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3835348",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3835348.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -30.63761
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -65.38692
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2291
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 280
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Argentina/Cordoba"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Argentina"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "AR",
+    "altnames": "Serrezuela"
+}

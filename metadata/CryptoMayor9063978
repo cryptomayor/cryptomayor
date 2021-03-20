@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor9063978",
+    "name": "Kisasa, Tanzania",
+    "description": "Dodoma, Dodoma Urban District",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor9063978",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor9063978.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -6.17526
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 35.79266
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 10000
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1117
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Africa/Dar_es_Salaam"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Tanzania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AF"
+        }
+    ],
+    "country_code": "TZ",
+    "altnames": null
+}

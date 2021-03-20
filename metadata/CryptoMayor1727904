@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor1727904",
+    "name": "Balogo, Philippines",
+    "description": "Bicol, Province of Albay",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor1727904",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor1727904.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 13.2871
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 123.5496
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3908
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 61
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Asia/Manila"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Philippines"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AS"
+        }
+    ],
+    "country_code": "PH",
+    "altnames": "Balogo,Balugo"
+}

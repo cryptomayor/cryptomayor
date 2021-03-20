@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor11903618",
+    "name": "Neuda, Austria",
+    "description": "Lower Austria, Politischer Bezirk Melk",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor11903618",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor11903618.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 48.20417
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 15.18232
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 712
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 214
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Vienna"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Austria"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "AT",
+    "altnames": "Neuda"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4017239",
+    "name": "Bavispe, Mexico",
+    "description": "Sonora, Bavispe",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4017239",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4017239.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 30.47931
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -108.93982
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 701
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1016
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Hermosillo"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Babispe,Bavispe"
+}

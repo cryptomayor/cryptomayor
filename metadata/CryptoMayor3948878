@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3948878",
+    "name": "Huayllo, Peru",
+    "description": "Apur\u00edmac, Provincia de Aymaraes",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3948878",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3948878.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -14.1325
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -73.26861
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 178
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 3135
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Lima"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Peru"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "PE",
+    "altnames": null
+}

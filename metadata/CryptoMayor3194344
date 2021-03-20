@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3194344",
+    "name": "Novoselec, Croatia",
+    "description": "Zagreba\u010dka, Kri\u017e",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3194344",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3194344.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 45.6525
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 16.53639
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1362
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 99
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Zagreb"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Croatia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "HR",
+    "altnames": "Novoselec"
+}

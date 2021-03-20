@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor11903657",
+    "name": "Reitberg, Austria",
+    "description": "Salzburg, Politischer Bezirk Salzburg-Umgebung",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor11903657",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor11903657.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.85269
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 13.1573
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1156
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 622
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Vienna"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Austria"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "AT",
+    "altnames": null
+}

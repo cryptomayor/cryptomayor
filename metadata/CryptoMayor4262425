@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4262425",
+    "name": "Oakland City, United States",
+    "description": "Indiana, Gibson County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4262425",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4262425.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 38.33866
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -87.34501
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2430
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 138
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Chicago"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": "Oakland,Oakland City"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8862800",
+    "name": "Santa Cruz, Mexico",
+    "description": "Veracruz, Cosamaloapan de Carpio",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8862800",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8862800.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.16917
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -96.09444
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 539
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 22
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Santa Cruz"
+}

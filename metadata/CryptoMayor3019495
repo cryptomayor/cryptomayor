@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3019495",
+    "name": "Estreux, France",
+    "description": "Hauts-de-France, North",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3019495",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3019495.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 50.35121
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 3.59432
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 886
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 65
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Estreux"
+}

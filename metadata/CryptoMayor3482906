@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3482906",
+    "name": "Francisco I. Madero, Mexico",
+    "description": "Tamaulipas, Aldama",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3482906",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3482906.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 22.83051
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -98.10213
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 562
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 86
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Monterrey"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Francisco I. Madero"
+}

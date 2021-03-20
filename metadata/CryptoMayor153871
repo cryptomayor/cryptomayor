@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor153871",
+    "name": "Mikumi, Tanzania",
+    "description": "Morogoro, Kilosa",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor153871",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor153871.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -7.40409
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 36.98309
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 16780
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 517
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Africa/Dar_es_Salaam"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Tanzania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AF"
+        }
+    ],
+    "country_code": "TZ",
+    "altnames": "Mikumi"
+}

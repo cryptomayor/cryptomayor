@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4401618",
+    "name": "Oakville, United States",
+    "description": "Missouri, Saint Louis County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4401618",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4401618.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 38.47005
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -90.30456
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 36143
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 181
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Chicago"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

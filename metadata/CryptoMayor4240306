@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4240306",
+    "name": "Harristown, United States",
+    "description": "Illinois, Macon County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4240306",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4240306.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 39.85393
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -89.08397
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1332
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 213
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Chicago"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

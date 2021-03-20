@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2985840",
+    "name": "Pouilly-en-Auxois, France",
+    "description": "Bourgogne-Franche-Comt\u00e9, Cote d'Or",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2985840",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2985840.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.26238
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 4.55583
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1429
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 391
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Pouilly,Pouilly-en-Auxois"
+}

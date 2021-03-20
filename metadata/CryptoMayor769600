@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor769600",
+    "name": "Kampinos, Poland",
+    "description": "Mazovia, Powiat warszawski zachodni",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor769600",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor769600.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 52.26837
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 20.46307
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 723
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 85
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Warsaw"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Poland"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "PL",
+    "altnames": "Kampinos,\u041a\u0430\u043c\u043f\u0438\u043d\u043e\u0441"
+}

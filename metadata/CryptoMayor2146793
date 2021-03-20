@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2146793",
+    "name": "Thornbury, Australia",
+    "description": "Victoria, Darebin",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2146793",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2146793.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -37.75819
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 145.00583
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 18292
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 63
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Melbourne"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": null
+}

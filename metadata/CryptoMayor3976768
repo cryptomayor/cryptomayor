@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3976768",
+    "name": "El Caracol, Mexico",
+    "description": "Sinaloa, Guasave",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3976768",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3976768.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 25.49223
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -108.74658
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 999
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 4
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mazatlan"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "El Caracol"
+}

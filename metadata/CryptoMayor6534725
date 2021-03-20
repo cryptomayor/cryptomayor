@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6534725",
+    "name": "Carrodano, Italy",
+    "description": "Liguria, Provincia di La Spezia",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6534725",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6534725.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 44.24155
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 9.65578
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 545
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 216
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4913515",
+    "name": "Third Lake, United States",
+    "description": "Illinois, Lake County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4913515",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4913515.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 42.37391
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -88.01091
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1189
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 241
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Chicago"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

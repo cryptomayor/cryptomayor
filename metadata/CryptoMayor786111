@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor786111",
+    "name": "Samoljica, Serbia",
+    "description": "Central Serbia, P\u010dinja",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor786111",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor786111.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 42.38445
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 21.73708
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2852
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 443
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Belgrade"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Serbia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RS",
+    "altnames": "Samoljica,Somaljice,Sumulice,Sumulic\u00eb"
+}

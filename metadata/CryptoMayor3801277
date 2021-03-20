@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3801277",
+    "name": "Joliette, Mexico",
+    "description": "Veracruz",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3801277",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3801277.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.41426
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -96.37726
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 749
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 58
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Joliette"
+}

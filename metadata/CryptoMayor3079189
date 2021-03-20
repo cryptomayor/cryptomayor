@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3079189",
+    "name": "Bobnice, Czechia",
+    "description": "Central Bohemia, Okres Nymburk",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3079189",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3079189.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 50.21958
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 15.05352
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 747
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 194
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Prague"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Czechia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "CZ",
+    "altnames": null
+}

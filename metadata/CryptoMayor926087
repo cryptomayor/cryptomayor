@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor926087",
+    "name": "Mponela, Malawi",
+    "description": "Central Region, Dowa District",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor926087",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor926087.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -13.53099
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 33.73933
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 11222
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1220
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Africa/Blantyre"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Malawi"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AF"
+        }
+    ],
+    "country_code": "MW",
+    "altnames": "Mponela"
+}

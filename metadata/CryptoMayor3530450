@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3530450",
+    "name": "Colipa, Mexico",
+    "description": "Veracruz, Colipa",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3530450",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3530450.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.92323
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -96.72713
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2489
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 193
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Colipa"
+}

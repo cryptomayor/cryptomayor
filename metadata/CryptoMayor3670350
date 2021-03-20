@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3670350",
+    "name": "Salgar, Colombia",
+    "description": "Antioquia, Salgar",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3670350",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3670350.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 5.96502
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -75.96541
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 6428
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1209
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Bogota"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Colombia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "CO",
+    "altnames": "Salgar"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2168101",
+    "name": "Dunkeld, Australia",
+    "description": "Victoria, Southern Grampians",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2168101",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2168101.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -37.64987
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 142.34393
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 654
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 252
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Melbourne"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": "Dunkeld"
+}

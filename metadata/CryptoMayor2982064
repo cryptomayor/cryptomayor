@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2982064",
+    "name": "Sabran, France",
+    "description": "Occitanie, Gard",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2982064",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2982064.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 44.15099
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 4.54775
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1841
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 257
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Sabran"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8347693",
+    "name": "Adamstown Heights, Australia",
+    "description": "New South Wales, Newcastle",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8347693",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8347693.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -32.94906
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 151.71009
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 5215
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 56
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Sydney"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": null
+}

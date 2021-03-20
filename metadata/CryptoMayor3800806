@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3800806",
+    "name": "San Miguel Copala, Mexico",
+    "description": "Oaxaca, Santiago Juxtlahuaca",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3800806",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3800806.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 17.06138
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -97.92919
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 677
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 880
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "San Miguel Copala"
+}

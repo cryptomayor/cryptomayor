@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4863425",
+    "name": "Keystone, United States",
+    "description": "Iowa, Benton County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4863425",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4863425.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 41.99833
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -92.19741
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 609
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 265
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Chicago"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

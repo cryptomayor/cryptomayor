@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3516070",
+    "name": "Tekom, Mexico",
+    "description": "Yucat\u00e1n, Tekom",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3516070",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3516070.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.60303
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -88.2649
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2540
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 28
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Merida"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Tekom"
+}

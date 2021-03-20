@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8858497",
+    "name": "Santa Cruz Tetela, Mexico",
+    "description": "Tlaxcala, Chiautempan",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8858497",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8858497.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.2925
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -98.20778
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2668
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2300
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Santa Cruz Tetela"
+}

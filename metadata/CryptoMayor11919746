@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor11919746",
+    "name": "Chutes-Lavie, France",
+    "description": "Provence-Alpes-C\u00f4te d'Azur, Bouches-du-Rh\u00f4ne",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor11919746",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor11919746.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 43.31017
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 5.39464
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 9495
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 60
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": null
+}

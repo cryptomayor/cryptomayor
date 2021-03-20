@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8859774",
+    "name": "Santa Rosa Segundo, Mexico",
+    "description": "Quintana Roo, Felipe Carrillo Puerto",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8859774",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8859774.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.97778
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -88.2625
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1068
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 26
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Cancun"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Santa Rosa Segundo"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor565300",
+    "name": "Donskoy, Russia",
+    "description": "Rostov",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor565300",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor565300.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.41404
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 40.25742
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 13627
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 12
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Moscow"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Russia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RU",
+    "altnames": "Donskoj,Donskoy,\u0414\u043e\u043d\u0441\u043a\u043e\u0439"
+}

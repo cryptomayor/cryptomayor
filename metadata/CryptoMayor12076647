@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor12076647",
+    "name": "Saint-Pac\u00f4me, Canada",
+    "description": "Quebec, Bas-Saint-Laurent",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor12076647",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor12076647.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.40457
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -69.95025
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1087
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 30
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Toronto"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Canada"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "CA",
+    "altnames": null
+}

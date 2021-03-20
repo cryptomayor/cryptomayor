@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2801824",
+    "name": "Blauwput, Belgium",
+    "description": "Flanders, Provincie Vlaams-Brabant",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2801824",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2801824.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 50.88587
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 4.72415
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 30215
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 25
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Brussels"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Belgium"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "BE",
+    "altnames": null
+}

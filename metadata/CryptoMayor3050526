@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3050526",
+    "name": "Kartal, Hungary",
+    "description": "Pest",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3050526",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3050526.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.67133
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 19.542
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 6017
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 155
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Budapest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Hungary"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "HU",
+    "altnames": "Kartal"
+}

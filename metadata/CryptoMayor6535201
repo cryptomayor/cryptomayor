@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6535201",
+    "name": "Polaveno, Italy",
+    "description": "Lombardy, Provincia di Brescia",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6535201",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6535201.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 45.66148
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 10.12396
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2007
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 576
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": null
+}

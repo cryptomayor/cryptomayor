@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3030338",
+    "name": "Brens, France",
+    "description": "Occitanie, Tarn",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3030338",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3030338.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 43.88725
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 1.90716
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1786
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 136
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Brens"
+}

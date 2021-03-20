@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor7910962",
+    "name": "Masano, Italy",
+    "description": "Lombardy, Provincia di Bergamo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor7910962",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor7910962.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 45.51417
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 9.67552
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 964
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 116
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": null
+}

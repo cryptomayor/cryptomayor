@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor670925",
+    "name": "Pianu de Sus, Romania",
+    "description": "Alba, Comuna Pianu",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor670925",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor670925.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 45.9
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 23.48333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3308
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 309
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": "Pianu de Sus,Pianul-de-Sus"
+}

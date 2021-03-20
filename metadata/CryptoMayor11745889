@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor11745889",
+    "name": "Mountain River, Australia",
+    "description": "Tasmania, Huon Valley",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor11745889",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor11745889.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -42.94888
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 147.13341
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 547
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 185
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Hobart"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": null
+}

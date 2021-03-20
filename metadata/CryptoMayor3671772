@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3671772",
+    "name": "Pradera, Colombia",
+    "description": "Valle del Cauca, Pradera",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3671772",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3671772.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 3.42111
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -76.24472
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 44630
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1054
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Bogota"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Colombia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "CO",
+    "altnames": "Pradera"
+}

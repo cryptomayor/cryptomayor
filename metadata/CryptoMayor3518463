@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3518463",
+    "name": "San Marcial Ozolotepec, Mexico",
+    "description": "Oaxaca, San Marcial Ozolotepec",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3518463",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3518463.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 16.08903
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -96.40561
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1055
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2360
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Ozolotepec,San Marcial,San Marcial Ozolotepec"
+}

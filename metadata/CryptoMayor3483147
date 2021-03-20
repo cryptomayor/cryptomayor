@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3483147",
+    "name": "La Soledad, Mexico",
+    "description": "Tamaulipas, Padilla",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3483147",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3483147.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 24.08063
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -99.07918
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 606
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 190
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Monterrey"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "La Soledad"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2960197",
+    "name": "Olm, Luxembourg",
+    "description": "Luxembourg",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2960197",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2960197.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 49.65722
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 6.00028
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1459
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 312
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Luxembourg"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Luxembourg"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "LU",
+    "altnames": "Olm"
+}

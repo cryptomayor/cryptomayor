@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3985709",
+    "name": "San Lucas de Abajo, Mexico",
+    "description": "Zacatecas, General Francisco R. Murgu\u00eda",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3985709",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3985709.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 24.19203
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -103.10108
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 782
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1999
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "El Conejo,San Lucas,San Lucas de Abajo"
+}

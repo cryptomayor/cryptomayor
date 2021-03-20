@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8859341",
+    "name": "Villa Hidalgo (El Cubo), Mexico",
+    "description": "Guerrero, San Miguel Totolapan",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8859341",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8859341.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.16167
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -100.315
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1278
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 304
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Villa Hidalgo (El Cubo)"
+}

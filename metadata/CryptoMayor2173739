@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2173739",
+    "name": "Brunswick East, Australia",
+    "description": "Victoria, Moreland",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2173739",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2173739.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -37.77255
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 144.97241
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 11315
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 48
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Melbourne"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": "Brunswick East"
+}

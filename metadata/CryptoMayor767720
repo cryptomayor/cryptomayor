@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor767720",
+    "name": "Kraczkowa, Poland",
+    "description": "Subcarpathia, Powiat \u0142a\u0144cucki",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor767720",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor767720.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 50.03796
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 22.16801
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3200
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 225
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Warsaw"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Poland"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "PL",
+    "altnames": null
+}

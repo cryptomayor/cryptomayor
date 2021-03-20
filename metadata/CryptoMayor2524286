@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2524286",
+    "name": "Marausa, Italy",
+    "description": "Sicily, Trapani",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2524286",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2524286.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 37.94166
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 12.50948
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1194
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 19
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": null
+}

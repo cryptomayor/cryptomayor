@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3941656",
+    "name": "Cupi, Peru",
+    "description": "Puno, Provincia de Melgar",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3941656",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3941656.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -14.9056
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -70.86659
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 317
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 4090
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Lima"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Peru"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "PE",
+    "altnames": null
+}

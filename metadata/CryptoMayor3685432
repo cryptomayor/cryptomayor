@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3685432",
+    "name": "Cumbal, Colombia",
+    "description": "Nari\u00f1o, Cumbal",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3685432",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3685432.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 0.90875
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -77.79145
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 7529
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 3127
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Bogota"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Colombia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "CO",
+    "altnames": "Cumbal"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2979394",
+    "name": "Saint-Jean, France",
+    "description": "Occitanie, Upper Garonne",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2979394",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2979394.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 43.66519
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 1.50459
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 9147
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 194
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Saint-Jean"
+}

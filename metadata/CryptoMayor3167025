@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3167025",
+    "name": "Saviore, Italy",
+    "description": "Lombardy, Provincia di Brescia",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3167025",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3167025.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 46.08049
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 10.39823
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 339
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1234
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "Saviore,Saviore dell'Adamello"
+}

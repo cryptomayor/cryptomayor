@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor7997918",
+    "name": "Inaruwa, Nepal",
+    "description": "Province 1, Sunsari",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor7997918",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor7997918.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 26.60675
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 87.1478
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 70093
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 87
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Asia/Kathmandu"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Nepal"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AS"
+        }
+    ],
+    "country_code": "NP",
+    "altnames": null
+}

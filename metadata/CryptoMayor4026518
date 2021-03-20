@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4026518",
+    "name": "La Finca, Mexico",
+    "description": "M\u00e9xico, Temascaltepec",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4026518",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4026518.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.02185
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -100.20937
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 666
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1455
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "La Finca"
+}

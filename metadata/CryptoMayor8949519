@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8949519",
+    "name": "Paparano, Italy",
+    "description": "Latium, Provincia di Viterbo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8949519",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8949519.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 42.45481
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 12.15925
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 932
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 364
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "Paparano"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8725825",
+    "name": "Ejido Vega de San Marcos, Mexico",
+    "description": "Veracruz, San Rafael",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8725825",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8725825.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.20031
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -96.9386
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 710
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 30
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Ejido Vega de San Marcos,El Cuerillal"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3090104",
+    "name": "Olsztyn, Poland",
+    "description": "Silesia, Powiat cz\u0119stochowski",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3090104",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3090104.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 50.75185
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 19.26737
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2331
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 298
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Warsaw"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Poland"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "PL",
+    "altnames": null
+}

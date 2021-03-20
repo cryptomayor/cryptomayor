@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8860926",
+    "name": "Tequimila, Mexico",
+    "description": "Puebla, Chignautla",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8860926",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8860926.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.82333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -97.38139
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 761
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1907
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Tequimila"
+}

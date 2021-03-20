@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3523021",
+    "name": "Monte Gordo, Mexico",
+    "description": "Veracruz, Tecolutla",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3523021",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3523021.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.29166
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -96.83789
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 721
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 9
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Monte Gordo"
+}

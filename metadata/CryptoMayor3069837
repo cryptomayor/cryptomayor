@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3069837",
+    "name": "Neslovice, Czechia",
+    "description": "South Moravian, Okres Brno-venkov",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3069837",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3069837.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 49.14221
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 16.38778
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 832
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 338
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Prague"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Czechia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "CZ",
+    "altnames": null
+}

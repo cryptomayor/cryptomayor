@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3724145",
+    "name": "Gros Morne, Haiti",
+    "description": "Artibonite, Arrondissement de Gros Morne",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3724145",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3724145.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.6708
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -72.67808
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 7294
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 219
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Port-au-Prince"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Haiti"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "HT",
+    "altnames": "Gromon,Grom\u00f2n,Gros Morne"
+}

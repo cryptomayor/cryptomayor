@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3530913",
+    "name": "Chietla, Mexico",
+    "description": "Puebla, Chietla",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3530913",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3530913.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.52028
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -98.57889
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 5726
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1132
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": null
+}

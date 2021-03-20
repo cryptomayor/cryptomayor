@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5106378",
+    "name": "White Horse, United States",
+    "description": "New Jersey, Mercer County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5106378",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5106378.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 40.19067
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -74.70238
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 9494
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 29
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/New_York"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

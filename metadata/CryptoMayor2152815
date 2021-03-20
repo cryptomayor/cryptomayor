@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2152815",
+    "name": "Point Lonsdale, Australia",
+    "description": "Victoria, Greater Geelong",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2152815",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2152815.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -38.28173
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 144.61055
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2490
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 21
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Melbourne"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": "Point Lonsdale"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2950725",
+    "name": "Berg, Germany",
+    "description": "Bavaria, Upper Palatinate",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2950725",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2950725.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 49.81417
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 12.14161
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 7472
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 493
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Berlin"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Germany"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "DE",
+    "altnames": null
+}

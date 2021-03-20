@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3014922",
+    "name": "Grandvillers, France",
+    "description": "Grand Est, Vosges",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3014922",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3014922.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 48.23905
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 6.65476
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 730
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 376
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Grandvillers"
+}

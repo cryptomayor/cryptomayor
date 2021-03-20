@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2656340",
+    "name": "Bargoed, United Kingdom",
+    "description": "Wales, Caerphilly County Borough",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2656340",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2656340.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 51.68333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -3.23333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 13412
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 231
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/London"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United Kingdom"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "GB",
+    "altnames": "Bargoed"
+}

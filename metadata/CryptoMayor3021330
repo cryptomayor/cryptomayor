@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3021330",
+    "name": "Dirac, France",
+    "description": "Nouvelle-Aquitaine, Charente",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3021330",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3021330.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 45.6043
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 0.24755
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1389
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 128
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Dirac"
+}

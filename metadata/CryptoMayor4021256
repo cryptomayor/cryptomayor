@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4021256",
+    "name": "Estancia de Mosqueira, Mexico",
+    "description": "Aguascalientes, Rinc\u00f3n de Romos",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4021256",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4021256.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 22.14214
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -102.35223
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 509
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2005
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Estancia de Mosqueira"
+}

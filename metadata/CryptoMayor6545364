@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6545364",
+    "name": "Haga, Norway",
+    "description": "Viken, Nes",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6545364",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6545364.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 60.05387
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 11.37411
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 579
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 140
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Oslo"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Norway"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "NO",
+    "altnames": null
+}

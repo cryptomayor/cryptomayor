@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4952388",
+    "name": "Sunderland, United States",
+    "description": "Massachusetts, Worcester County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4952388",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4952388.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 42.24454
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -71.77174
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3843
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 157
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/New_York"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

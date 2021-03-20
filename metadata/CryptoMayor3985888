@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3985888",
+    "name": "San Juan de Guadalupe, Mexico",
+    "description": "Durango, San Juan de Guadalupe",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3985888",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3985888.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 24.63273
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -102.7818
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1712
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1529
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Monterrey"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Guadalupe de San Juan,San Juan de Guadalupe"
+}

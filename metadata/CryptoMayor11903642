@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor11903642",
+    "name": "Gries, Austria",
+    "description": "Styria, Graz Stadt",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor11903642",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor11903642.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.06236
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 15.42421
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 29363
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 342
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Vienna"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Austria"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "AT",
+    "altnames": null
+}

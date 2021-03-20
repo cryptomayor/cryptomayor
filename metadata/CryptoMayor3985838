@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3985838",
+    "name": "San Juanico, Mexico",
+    "description": "M\u00e9xico",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3985838",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3985838.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.84434
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -102.675
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 515
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1625
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "San Juanico"
+}

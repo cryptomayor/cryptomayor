@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2780361",
+    "name": "Eggenberg, Austria",
+    "description": "Styria, Graz Stadt",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2780361",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2780361.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.07
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 15.39871
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 20511
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 369
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Vienna"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Austria"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "AT",
+    "altnames": "Eggenberg"
+}

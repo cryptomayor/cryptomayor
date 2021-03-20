@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5106719",
+    "name": "Accord, United States",
+    "description": "New York, Ulster County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5106719",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5106719.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 41.78565
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -74.22904
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 562
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 79
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/New_York"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3993256",
+    "name": "Paso Nacional, Mexico",
+    "description": "Durango, Nazas",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3993256",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3993256.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 25.26311
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -104.01941
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1366
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1231
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Monterrey"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Paso Nacional"
+}

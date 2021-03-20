@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor7303020",
+    "name": "Wittenberg, Germany",
+    "description": "Saxony-Anhalt",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor7303020",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor7303020.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 51.8661
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 12.64973
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 30000
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 72
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Berlin"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Germany"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "DE",
+    "altnames": "Lutherstadt Wittenberg"
+}

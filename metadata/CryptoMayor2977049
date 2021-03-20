@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2977049",
+    "name": "Saint-Sauveur, France",
+    "description": "Occitanie, Upper Garonne",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2977049",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2977049.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 43.74891
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 1.39969
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1515
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 150
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Saint-Sauveur"
+}

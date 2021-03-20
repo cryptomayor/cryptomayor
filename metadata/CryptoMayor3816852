@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3816852",
+    "name": "Guanajuato, Mexico",
+    "description": "Chiapas, Pijijiapan",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3816852",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3816852.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 15.64707
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -93.15573
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 708
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 37
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Guanajuato"
+}

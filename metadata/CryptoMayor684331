@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor684331",
+    "name": "Boianu Mare, Romania",
+    "description": "Bihor, Comuna Boianu Mare",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor684331",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor684331.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.38333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 22.53333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1403
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 185
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": "Boianu Mare,Boianul-Mare"
+}

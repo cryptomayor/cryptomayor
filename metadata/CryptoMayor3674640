@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3674640",
+    "name": "Mogotes, Colombia",
+    "description": "Santander, Mogotes",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3674640",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3674640.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 6.47559
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -72.97046
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3438
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1681
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Bogota"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Colombia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "CO",
+    "altnames": "Mogotes"
+}

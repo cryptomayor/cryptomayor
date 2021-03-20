@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3437846",
+    "name": "Lima, Paraguay",
+    "description": "San Pedro, Lima",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3437846",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3437846.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -23.88496
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -56.47891
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 10367
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 120
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Asuncion"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Paraguay"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "PY",
+    "altnames": "Lima"
+}

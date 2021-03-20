@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8859365",
+    "name": "Huixcolotla, Mexico",
+    "description": "Veracruz, Tierra Blanca",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8859365",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8859365.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.66556
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -96.4975
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1265
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 142
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Huixcolotla"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3102791",
+    "name": "Borucin, Poland",
+    "description": "Silesia, Powiat raciborski",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3102791",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3102791.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 50.00763
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 18.15748
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1247
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 218
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Warsaw"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Poland"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "PL",
+    "altnames": null
+}

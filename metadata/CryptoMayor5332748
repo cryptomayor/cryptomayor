@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5332748",
+    "name": "California City, United States",
+    "description": "California, Kern County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5332748",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5332748.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 35.1258
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -117.9859
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 13277
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 737
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Los_Angeles"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

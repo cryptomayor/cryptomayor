@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5245314",
+    "name": "Belgium, United States",
+    "description": "Wisconsin, Ozaukee County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5245314",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5245314.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 43.49972
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -87.85037
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2261
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 225
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Chicago"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

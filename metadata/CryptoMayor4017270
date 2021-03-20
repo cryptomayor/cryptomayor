@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4017270",
+    "name": "Batopilas, Mexico",
+    "description": "Chihuahua",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4017270",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4017270.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 27.02846
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -107.74125
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1220
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 636
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Chihuahua"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Batopilas,Batopillas,Botopilas"
+}

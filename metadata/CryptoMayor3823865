@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3823865",
+    "name": "El Campanario, Mexico",
+    "description": "Veracruz, Nogales",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3823865",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3823865.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.77167
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -97.19361
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 850
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1439
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": null
+}

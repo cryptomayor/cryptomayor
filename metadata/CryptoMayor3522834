@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3522834",
+    "name": "Napoala, Mexico",
+    "description": "Veracruz, Atzalan",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3522834",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3522834.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.90511
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -97.22213
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 715
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 705
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Napoala"
+}

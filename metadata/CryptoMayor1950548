@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor1950548",
+    "name": "Dengyuantai, China",
+    "description": "Hunan",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor1950548",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor1950548.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 26.68806
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 110.54222
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2190
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 356
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Asia/Shanghai"
+        },
+        {
+            "trait_type": "Country",
+            "value": "China"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AS"
+        }
+    ],
+    "country_code": "CN",
+    "altnames": null
+}

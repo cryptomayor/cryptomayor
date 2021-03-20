@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3004901",
+    "name": "Le Busseau, France",
+    "description": "Nouvelle-Aquitaine, Deux-S\u00e8vres",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3004901",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3004901.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 46.58005
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -0.59478
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 776
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 107
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Le Busseau"
+}

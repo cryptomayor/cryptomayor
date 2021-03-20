@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor666557",
+    "name": "Sohodol, Romania",
+    "description": "Alba, Comuna Sohodol",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor666557",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor666557.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 46.35581
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 23.02923
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2038
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 555
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": "Sohodol"
+}

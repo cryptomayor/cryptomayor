@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6389351",
+    "name": "Hatumplaya, Peru",
+    "description": "San Mart\u00edn, Provincia de Moyobamba",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6389351",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6389351.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -5.85172
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -77.23837
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 696
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 817
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Lima"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Peru"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "PE",
+    "altnames": null
+}

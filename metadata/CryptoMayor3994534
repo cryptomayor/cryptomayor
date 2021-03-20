@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3994534",
+    "name": "Ocampo, Mexico",
+    "description": "Coahuila, Ocampo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3994534",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3994534.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 27.31477
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -102.3966
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3679
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1122
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Monterrey"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Ocampo,Villa Ocampo"
+}

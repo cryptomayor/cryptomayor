@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3522061",
+    "name": "Palo Blanco, Mexico",
+    "description": "Guerrero, Chilpancingo de los Bravo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3522061",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3522061.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 17.40355
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -99.46622
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2695
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1175
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": null
+}

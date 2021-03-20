@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6659367",
+    "name": "Cayumba, Peru",
+    "description": "Huanuco, Provincia de Leoncio Prado",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6659367",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6659367.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -9.4831
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -75.94794
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 733
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 930
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Lima"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Peru"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "PE",
+    "altnames": null
+}

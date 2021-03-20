@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3587086",
+    "name": "Chalchuapa, El Salvador",
+    "description": "Santa Ana",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3587086",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3587086.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 13.98667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -89.68111
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 32282
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 710
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/El_Salvador"
+        },
+        {
+            "trait_type": "Country",
+            "value": "El Salvador"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "SV",
+    "altnames": "Chalchuapa"
+}

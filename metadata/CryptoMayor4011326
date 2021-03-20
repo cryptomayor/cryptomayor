@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4011326",
+    "name": "El Aguajito, Mexico",
+    "description": "Sinaloa, Ahome",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4011326",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4011326.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 25.95965
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -109.3297
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2383
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 6
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mazatlan"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "El Aguajito"
+}

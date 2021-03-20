@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2809984",
+    "name": "Wetter (Ruhr), Germany",
+    "description": "North Rhine-Westphalia, Regierungsbezirk Arnsberg",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2809984",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2809984.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 51.38747
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 7.39277
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 29146
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 126
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Berlin"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Germany"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "DE",
+    "altnames": "Stadt Wetter (Ruhr),Wetter,Wetter (Ruhr)"
+}

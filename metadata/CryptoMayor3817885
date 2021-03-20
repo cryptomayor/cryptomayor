@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3817885",
+    "name": "El Bonxhi, Mexico",
+    "description": "M\u00e9xico, Aculco",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3817885",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3817885.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.07558
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -99.73986
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 688
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2620
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Bonxhi,El Bonxhi"
+}

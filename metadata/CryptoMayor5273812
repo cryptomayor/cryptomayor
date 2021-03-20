@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5273812",
+    "name": "South Milwaukee, United States",
+    "description": "Wisconsin, Milwaukee County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5273812",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5273812.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 42.91057
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -87.86064
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 21233
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 205
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Chicago"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": "Oak Creek,South Milwaukee"
+}

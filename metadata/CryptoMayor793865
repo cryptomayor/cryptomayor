@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor793865",
+    "name": "Ramsi, Estonia",
+    "description": "Viljandimaa, Viljandi vald",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor793865",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor793865.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 58.30583
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 25.53528
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 732
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 66
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Tallinn"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Estonia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "EE",
+    "altnames": "Ramsi"
+}

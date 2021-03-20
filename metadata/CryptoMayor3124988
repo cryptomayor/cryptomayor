@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3124988",
+    "name": "Ciruelas, Spain",
+    "description": "Castille-La Mancha, Provincia de Guadalajara",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3124988",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3124988.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 40.75021
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -3.0858
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 98
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 871
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Madrid"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Spain"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "ES",
+    "altnames": "Ciruelas"
+}

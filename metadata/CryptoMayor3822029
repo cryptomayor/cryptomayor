@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3822029",
+    "name": "Marquelia, Mexico",
+    "description": "Guerrero, Marquelia",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3822029",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3822029.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 16.58335
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -98.81686
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 6553
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 13
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Marquelia"
+}

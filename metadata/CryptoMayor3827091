@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3827091",
+    "name": "Las Arenas (San Agust\u00edn), Mexico",
+    "description": "M\u00e9xico, Acambay de Ru\u00edz Casta\u00f1eda",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3827091",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3827091.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.99056
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -99.72944
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 767
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2635
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": null
+}

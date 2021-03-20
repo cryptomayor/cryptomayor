@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4238226",
+    "name": "Farmersville, United States",
+    "description": "Illinois, Montgomery County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4238226",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4238226.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 39.44339
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -89.65176
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 703
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 196
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Chicago"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

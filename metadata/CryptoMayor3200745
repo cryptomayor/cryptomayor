@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3200745",
+    "name": "Gala, Croatia",
+    "description": "Split-Dalmatia, Otok",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3200745",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3200745.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 43.715
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 16.72694
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1021
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 295
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Zagreb"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Croatia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "HR",
+    "altnames": null
+}

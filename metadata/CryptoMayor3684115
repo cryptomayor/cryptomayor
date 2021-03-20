@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3684115",
+    "name": "El Guamo, Colombia",
+    "description": "Bol\u00edvar, El Guamo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3684115",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3684115.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 10.03155
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -74.97612
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 4732
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 73
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Bogota"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Colombia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "CO",
+    "altnames": "El Guamo,Guamo"
+}

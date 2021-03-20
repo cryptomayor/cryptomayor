@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3823117",
+    "name": "Nuevo Becar, Mexico",
+    "description": "Quintana Roo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3823117",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3823117.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.72467
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -89.13068
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 557
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 136
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Cancun"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Nuevo Becar"
+}

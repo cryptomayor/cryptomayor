@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3567086",
+    "name": "Bolivia, Cuba",
+    "description": "Ciego de \u00c1vila",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3567086",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3567086.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 22.08397
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -78.33884
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 0
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 13
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Havana"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Cuba"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "CU",
+    "altnames": "Bolivia,Cunagua"
+}

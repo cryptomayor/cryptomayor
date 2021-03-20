@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor667216",
+    "name": "Sihlea, Romania",
+    "description": "Vrancea, Comuna Sihlea",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor667216",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor667216.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 45.5
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 27.11667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 5354
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 107
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": "Sihlea"
+}

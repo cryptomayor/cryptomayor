@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2658488",
+    "name": "Steinen, Switzerland",
+    "description": "Schwyz, Bezirk Schwyz",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2658488",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2658488.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.04975
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 8.61214
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3041
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 477
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Zurich"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Switzerland"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "CH",
+    "altnames": "Steinen"
+}

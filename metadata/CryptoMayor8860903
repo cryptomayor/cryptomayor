@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8860903",
+    "name": "Murillo, Mexico",
+    "description": "Chiapas, Tapachula",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8860903",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8860903.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 14.81575
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -92.29467
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 764
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 64
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Murillo"
+}

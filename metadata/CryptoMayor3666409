@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3666409",
+    "name": "Uribia, Colombia",
+    "description": "La Guajira, Uribia",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3666409",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3666409.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 11.71505
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -72.26592
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 7519
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 30
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Bogota"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Colombia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "CO",
+    "altnames": "LAT,Uribia"
+}

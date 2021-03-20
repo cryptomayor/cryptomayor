@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3932654",
+    "name": "Paucarcolla, Peru",
+    "description": "Puno, Provincia de Puno",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3932654",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3932654.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -15.74497
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -70.05598
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 616
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 3819
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Lima"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Peru"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "PE",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3467962",
+    "name": "Cambuci, Brazil",
+    "description": "Rio de Janeiro, Cambuci",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3467962",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3467962.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -21.57528
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -41.91111
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 9395
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 53
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Sao_Paulo"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Brazil"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "BR",
+    "altnames": "Cambucy"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2649517",
+    "name": "Ferryden, United Kingdom",
+    "description": "Scotland, Angus",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2649517",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2649517.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 56.70097
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -2.46474
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 905
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 10
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/London"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United Kingdom"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "GB",
+    "altnames": null
+}

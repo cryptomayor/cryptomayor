@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor686710",
+    "name": "Abrud-Sat, Romania",
+    "description": "Alba, Ora\u015f abrud",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor686710",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor686710.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 46.28166
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 23.06098
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1355
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 617
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": null
+}

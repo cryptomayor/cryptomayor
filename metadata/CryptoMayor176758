@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor176758",
+    "name": "Kaputa, Zambia",
+    "description": "Northern",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor176758",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor176758.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -8.46887
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 29.66193
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2683
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 950
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Africa/Lusaka"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Zambia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AF"
+        }
+    ],
+    "country_code": "ZM",
+    "altnames": "Kaputa"
+}

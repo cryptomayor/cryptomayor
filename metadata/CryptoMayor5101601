@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5101601",
+    "name": "Mountainside, United States",
+    "description": "New Jersey, Union County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5101601",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5101601.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 40.67232
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -74.35737
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 6885
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 47
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/New_York"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

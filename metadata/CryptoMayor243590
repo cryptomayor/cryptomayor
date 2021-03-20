@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor243590",
+    "name": "Iriba, Chad",
+    "description": "Wadi Fira",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor243590",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor243590.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 15.11667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 22.25
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1100
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 932
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Africa/Ndjamena"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Chad"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AF"
+        }
+    ],
+    "country_code": "TD",
+    "altnames": "Iriba"
+}

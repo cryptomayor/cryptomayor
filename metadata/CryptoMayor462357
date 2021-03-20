@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor462357",
+    "name": "Znamenka, Russia",
+    "description": "Tambov",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor462357",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor462357.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 52.4167
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 41.43108
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 8915
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 124
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Moscow"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Russia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RU",
+    "altnames": "Znamenka,\u0417\u043d\u0430\u043c\u0435\u043d\u043a\u0430"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3945808",
+    "name": "Candarave, Peru",
+    "description": "Tacna, Candarave",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3945808",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3945808.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -17.26778
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -70.24944
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3415
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 3445
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Lima"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Peru"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "PE",
+    "altnames": "Candarave"
+}

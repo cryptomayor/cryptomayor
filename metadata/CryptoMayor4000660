@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4000660",
+    "name": "La Primavera, Mexico",
+    "description": "Jalisco, Zapopan",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4000660",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4000660.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.72302
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -103.56543
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2310
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1597
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": null
+}

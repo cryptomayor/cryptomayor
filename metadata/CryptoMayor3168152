@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3168152",
+    "name": "San Lorenzello, Italy",
+    "description": "Campania, Provincia di Benevento",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3168152",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3168152.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 41.27602
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 14.54173
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 759
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 213
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "San Lorenzello"
+}

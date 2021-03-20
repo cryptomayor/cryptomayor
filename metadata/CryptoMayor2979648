@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2979648",
+    "name": "Saint-Gobain, France",
+    "description": "Hauts-de-France, Aisne",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2979648",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2979648.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 49.59572
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 3.3775
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2347
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 174
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Mont-Libre,Saint-Gobain"
+}

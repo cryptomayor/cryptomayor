@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3816019",
+    "name": "Cuauht\u00e9moc, Mexico",
+    "description": "Chiapas, San Fernando",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3816019",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3816019.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 16.93044
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -93.22105
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 520
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 720
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Cuauhtemoc,Cuauht\u00e9moc"
+}

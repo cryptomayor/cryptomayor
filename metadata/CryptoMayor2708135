@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2708135",
+    "name": "Hammerdal, Sweden",
+    "description": "J\u00e4mtland, Str\u00f6msunds kommun",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2708135",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2708135.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 63.57615
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 15.36516
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1043
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 290
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Stockholm"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Sweden"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "SE",
+    "altnames": "Hammerdal"
+}

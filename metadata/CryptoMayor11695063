@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor11695063",
+    "name": "Gralla, Austria",
+    "description": "Styria, Politischer Bezirk Leibnitz",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor11695063",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor11695063.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 46.81404
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 15.5551
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2390
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 278
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Vienna"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Austria"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "AT",
+    "altnames": null
+}

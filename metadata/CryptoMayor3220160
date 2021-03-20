@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3220160",
+    "name": "Vranovci, Croatia",
+    "description": "Slavonski Brod-Posavina, Bukovlje",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3220160",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3220160.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 45.18417
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 18.09056
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 644
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 104
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Zagreb"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Croatia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "HR",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3667764",
+    "name": "Suaza, Colombia",
+    "description": "Huila, Suaza",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3667764",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3667764.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 1.97611
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -75.79454
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2481
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 944
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Bogota"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Colombia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "CO",
+    "altnames": "Suaza"
+}

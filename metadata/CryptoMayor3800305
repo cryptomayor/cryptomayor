@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3800305",
+    "name": "San Nicol\u00e1s, Mexico",
+    "description": "Oaxaca, San Nicol\u00e1s",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3800305",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3800305.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 16.4201
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -96.74133
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 797
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1455
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "San Nicolas,San Nicol\u00e1s"
+}

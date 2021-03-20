@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4004159",
+    "name": "Xalisco, Mexico",
+    "description": "Nayarit, Xalisco",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4004159",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4004159.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 21.451
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -104.8983
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 35702
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 997
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mazatlan"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Jalisco,Xalisco"
+}

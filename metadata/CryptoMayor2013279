@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2013279",
+    "name": "Vostok, Russia",
+    "description": "Primorskiy (Maritime) Kray",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2013279",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2013279.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 46.45148
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 135.82738
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3452
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 406
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Asia/Vladivostok"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Russia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RU",
+    "altnames": "Vostok,Vostok Vtoroy,\u0412\u043e\u0441\u0442\u043e\u043a"
+}

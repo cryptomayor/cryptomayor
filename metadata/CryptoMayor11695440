@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor11695440",
+    "name": "West Busselton, Australia",
+    "description": "Western Australia, Busselton",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor11695440",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor11695440.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -33.65792
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 115.32293
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 8072
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 6
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Perth"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": null
+}

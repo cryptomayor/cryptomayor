@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3529758",
+    "name": "Doctor Gonz\u00e1lez, Mexico",
+    "description": "Nuevo Le\u00f3n, Doctor Gonz\u00e1lez",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3529758",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3529758.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 25.85983
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -99.94409
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2092
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 373
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Monterrey"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Doctor Gonzalez,Doctor Gonz\u00e1lez"
+}

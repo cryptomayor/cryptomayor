@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5924428",
+    "name": "Coalhurst, Canada",
+    "description": "Alberta",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5924428",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5924428.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 49.7464
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -112.93246
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1552
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 933
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Edmonton"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Canada"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "CA",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2966605",
+    "name": "Ballyduff, Ireland",
+    "description": "Munster, Kerry",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2966605",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2966605.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 52.45593
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -9.66399
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 532
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 60
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Dublin"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Ireland"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IE",
+    "altnames": "An Baile Dubh,Ballyduff"
+}

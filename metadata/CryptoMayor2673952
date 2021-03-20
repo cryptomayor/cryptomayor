@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2673952",
+    "name": "Stenstorp, Sweden",
+    "description": "\u00d6sterg\u00f6tland, Motala Kommun",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2673952",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2673952.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 58.48333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 15.06667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1630
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 119
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Stockholm"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Sweden"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "SE",
+    "altnames": null
+}

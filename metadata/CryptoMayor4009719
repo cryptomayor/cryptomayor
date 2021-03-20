@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4009719",
+    "name": "El Gobernador, Mexico",
+    "description": "Jalisco, La Barca",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4009719",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4009719.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.38973
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -102.45645
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 909
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1539
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "El Gobernador"
+}

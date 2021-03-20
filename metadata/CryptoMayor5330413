@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5330413",
+    "name": "Boyle Heights, United States",
+    "description": "California, Los Angeles County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5330413",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5330413.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 34.0339
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -118.20535
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 92785
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 104
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Los_Angeles"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

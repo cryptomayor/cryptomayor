@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3972210",
+    "name": "La Ballena, Mexico",
+    "description": "Zacatecas, Villa Hidalgo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3972210",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3972210.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 22.45572
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -101.70809
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1341
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2270
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3666570",
+    "name": "Turbo, Colombia",
+    "description": "Antioquia, Turbo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3666570",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3666570.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 8.09263
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -76.72822
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 50508
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 6
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Bogota"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Colombia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "CO",
+    "altnames": "TRB,Turbo"
+}

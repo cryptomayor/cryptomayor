@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3840432",
+    "name": "Pozo del Tigre, Argentina",
+    "description": "Formosa, Departamento de Pati\u00f1o",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3840432",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3840432.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -24.89682
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -60.32359
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3948
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 127
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Argentina/Cordoba"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Argentina"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "AR",
+    "altnames": "Pozo del Tigre"
+}

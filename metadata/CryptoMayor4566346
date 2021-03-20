@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4566346",
+    "name": "Mucarabones, Puerto Rico",
+    "description": "Toa Alta, Mucarabones Barrio",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4566346",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4566346.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.39078
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -66.216
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1690
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 35
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Puerto_Rico"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Puerto Rico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "PR",
+    "altnames": null
+}

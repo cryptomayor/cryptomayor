@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3845073",
+    "name": "Malvinas Argentinas, Argentina",
+    "description": "Cordoba, Departamento de Capital",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3845073",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3845073.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -31.38194
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -64.05545
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 8628
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 397
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Argentina/Cordoba"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Argentina"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "AR",
+    "altnames": "Malvinas Argentinas"
+}

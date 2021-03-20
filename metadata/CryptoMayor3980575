@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3980575",
+    "name": "Vanegas, Mexico",
+    "description": "San Luis Potos\u00ed, Vanegas",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3980575",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3980575.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 23.88459
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -100.95148
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2728
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1739
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Vanegas"
+}

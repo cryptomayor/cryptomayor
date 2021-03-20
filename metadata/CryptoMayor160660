@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor160660",
+    "name": "Chalinze, Tanzania",
+    "description": "Pwani, Bagamoyo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor160660",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor160660.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -6.63784
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 38.35396
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 34335
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 212
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Africa/Dar_es_Salaam"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Tanzania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AF"
+        }
+    ],
+    "country_code": "TZ",
+    "altnames": null
+}

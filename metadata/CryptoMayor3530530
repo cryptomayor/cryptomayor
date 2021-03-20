@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3530530",
+    "name": "Coatepec, Mexico",
+    "description": "Puebla, Coatepec",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3530530",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3530530.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.06107
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -97.73176
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 681
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1004
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Coatepec,Contepec"
+}

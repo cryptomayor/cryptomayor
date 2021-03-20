@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3821441",
+    "name": "Tehuixtla, Mexico",
+    "description": "Guerrero, Teloloapan",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3821441",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3821441.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.3168
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -99.933
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1251
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1165
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Tehuixtla"
+}

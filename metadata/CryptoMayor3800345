@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3800345",
+    "name": "Nuevo Progreso, Mexico",
+    "description": "Oaxaca, San Juan Colorado",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3800345",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3800345.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 16.52128
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -97.89386
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 811
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 520
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Nuevo Progreso"
+}

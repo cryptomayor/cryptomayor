@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2978299",
+    "name": "Saint-Martin-du-Manoir, France",
+    "description": "Normandy, Seine-Maritime",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2978299",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2978299.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 49.53213
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 0.23759
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1460
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 97
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Saint-Martin,Saint-Martin-du-Manoir"
+}

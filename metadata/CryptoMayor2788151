@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2788151",
+    "name": "Ressaix, Belgium",
+    "description": "Wallonia, Province du Hainaut",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2788151",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2788151.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 50.42285
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 4.19442
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 4079
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 103
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Brussels"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Belgium"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "BE",
+    "altnames": null
+}

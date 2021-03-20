@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6100681",
+    "name": "Pelican Narrows, Canada",
+    "description": "Saskatchewan",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6100681",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6100681.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 55.16685
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -102.9341
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1942
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 318
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Regina"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Canada"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "CA",
+    "altnames": null
+}

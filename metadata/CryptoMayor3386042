@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3386042",
+    "name": "Trindade, Brazil",
+    "description": "Pernambuco, Trindade",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3386042",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3386042.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -7.76194
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -40.26778
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 19313
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 523
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Recife"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Brazil"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "BR",
+    "altnames": null
+}

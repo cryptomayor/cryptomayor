@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6380504",
+    "name": "Aco, Peru",
+    "description": "Ancash, Provincia de Carhuaz",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6380504",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6380504.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -9.36801
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -77.56457
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 322
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2990
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Lima"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Peru"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "PE",
+    "altnames": null
+}

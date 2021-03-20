@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3523415",
+    "name": "Mazatepec, Mexico",
+    "description": "Morelos, Mazatepec",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3523415",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3523415.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.72795
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -99.36339
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 4572
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 976
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Mazatepec"
+}

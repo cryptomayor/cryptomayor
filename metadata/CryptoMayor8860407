@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8860407",
+    "name": "La Garita, Mexico",
+    "description": "Michoac\u00e1n, Jungapeo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8860407",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8860407.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.4775
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -100.48694
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 867
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1506
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "La Garita"
+}

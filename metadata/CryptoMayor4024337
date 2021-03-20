@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4024337",
+    "name": "Rivera de Guadalupe, Mexico",
+    "description": "Guanajuato, Irapuato",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4024337",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4024337.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.61303
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -101.46092
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 988
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1721
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Los Dos Riveras,Ribera,Ribera de Guadalupe,Rivera,Rivera de Guadalupe"
+}

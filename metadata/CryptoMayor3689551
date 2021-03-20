@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3689551",
+    "name": "Guayabal, Colombia",
+    "description": "Tolima, Armero",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3689551",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3689551.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 5.03103
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -74.88683
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 5339
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 280
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Bogota"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Colombia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "CO",
+    "altnames": "Armero,Guayabal"
+}

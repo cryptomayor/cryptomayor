@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6534467",
+    "name": "Basiano, Italy",
+    "description": "Lombardy, Citt\u00e0 metropolitana di Milano",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6534467",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6534467.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 45.58248
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 9.46325
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3639
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 170
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": null
+}

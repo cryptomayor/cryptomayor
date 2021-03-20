@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4742800",
+    "name": "Wolfe City, United States",
+    "description": "Texas, Hunt County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4742800",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4742800.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 33.37067
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -96.06886
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1416
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 215
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Chicago"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

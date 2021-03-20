@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6535545",
+    "name": "Gremiasco, Italy",
+    "description": "Piedmont, Provincia di Alessandria",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6535545",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6535545.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 44.79625
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 9.10686
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 111
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 400
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": null
+}

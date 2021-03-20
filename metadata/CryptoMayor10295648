@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor10295648",
+    "name": "Gansingen, Switzerland",
+    "description": "Aargau, Bezirk Laufenburg",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor10295648",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor10295648.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.5429
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 8.13516
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 0
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 386
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Zurich"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Switzerland"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "CH",
+    "altnames": null
+}

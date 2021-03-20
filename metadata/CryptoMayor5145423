@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5145423",
+    "name": "Adena, United States",
+    "description": "Ohio, Jefferson County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5145423",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5145423.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 40.21868
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -80.87287
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 730
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 260
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/New_York"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

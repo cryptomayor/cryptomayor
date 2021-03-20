@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3012622",
+    "name": "Ivry-le-Temple, France",
+    "description": "Hauts-de-France, Oise",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3012622",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3012622.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 49.22866
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 2.03058
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 646
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 86
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Ivry,Ivry-le-Temple"
+}

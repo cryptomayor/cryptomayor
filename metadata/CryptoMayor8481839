@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8481839",
+    "name": "Buckhorn, United States",
+    "description": "California, Amador County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8481839",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8481839.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 38.45216
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -120.52854
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2429
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1010
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Los_Angeles"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor1772148",
+    "name": "Juru, Malaysia",
+    "description": "Penang",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor1772148",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor1772148.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 5.31201
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 100.44229
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 12265
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 10
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Asia/Kuala_Lumpur"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Malaysia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AS"
+        }
+    ],
+    "country_code": "MY",
+    "altnames": "Juru"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2830008",
+    "name": "Springstille, Germany",
+    "description": "Thuringia",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2830008",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2830008.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 50.68716
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 10.52816
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 612
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 375
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Berlin"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Germany"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "DE",
+    "altnames": "Springstille"
+}

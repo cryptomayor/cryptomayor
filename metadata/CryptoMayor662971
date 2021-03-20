@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor662971",
+    "name": "Vidra, Romania",
+    "description": "Ilfov, Comuna Vidra",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor662971",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor662971.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 44.26056
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 26.16972
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 8322
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 53
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": null
+}

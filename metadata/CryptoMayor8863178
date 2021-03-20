@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8863178",
+    "name": "Ejido de Moras, Mexico",
+    "description": "San Luis Potos\u00ed, Mexquitic de Carmona",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8863178",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8863178.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 22.29972
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -100.99694
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 508
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1845
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Ejido de Moras"
+}

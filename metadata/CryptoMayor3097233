@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3097233",
+    "name": "Jemielnica, Poland",
+    "description": "Opole Voivodeship, Powiat strzelecki",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3097233",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3097233.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 50.54573
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 18.37807
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3500
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 215
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Warsaw"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Poland"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "PL",
+    "altnames": null
+}

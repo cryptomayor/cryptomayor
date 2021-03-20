@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5110201",
+    "name": "Broad Channel, United States",
+    "description": "New York, Queens County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5110201",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5110201.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 40.60316
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -73.82041
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2443
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/New_York"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

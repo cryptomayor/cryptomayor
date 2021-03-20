@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3816782",
+    "name": "El Manguito, Mexico",
+    "description": "Chiapas, Tonal\u00e1",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3816782",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3816782.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 15.75901
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -93.52794
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 821
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 9
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "El Manguito"
+}

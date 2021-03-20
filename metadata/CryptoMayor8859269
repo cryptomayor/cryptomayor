@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8859269",
+    "name": "Colonia Sesenta y Dos, Mexico",
+    "description": "Hidalgo, Tula de Allende",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8859269",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8859269.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.00528
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -99.34583
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1324
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2127
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Colonia Sesenta y Dos"
+}

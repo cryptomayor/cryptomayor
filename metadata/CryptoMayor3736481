@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3736481",
+    "name": "Zapotal, Peru",
+    "description": "Cajamarca, Provincia de San Ignacio",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3736481",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3736481.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -5.39844
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -78.70477
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 687
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 420
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Lima"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Peru"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "PE",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor672849",
+    "name": "Moroda, Romania",
+    "description": "Arad, Comuna Seleu\u015f",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor672849",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor672849.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 46.37013
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 21.76447
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 707
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 107
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": null
+}

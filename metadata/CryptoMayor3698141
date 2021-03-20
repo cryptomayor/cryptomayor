@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3698141",
+    "name": "Chota, Peru",
+    "description": "Cajamarca, Provincia de Chota",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3698141",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3698141.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -6.55
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -78.65
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 14240
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2390
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Lima"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Peru"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "PE",
+    "altnames": "Chota"
+}

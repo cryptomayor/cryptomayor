@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3825096",
+    "name": "San Juan Seco de Valencia, Mexico",
+    "description": "Veracruz, Catemaco",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3825096",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3825096.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.30946
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -95.15605
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1237
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 408
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "San Juan Seco de Valencia,Tres Chorros"
+}

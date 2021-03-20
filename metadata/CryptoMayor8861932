@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8861932",
+    "name": "El Medine\u00f1o, Mexico",
+    "description": "Jalisco, Tequila",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8861932",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8861932.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.86722
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -103.77917
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 625
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1254
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "El Medineno,El Medine\u00f1o"
+}

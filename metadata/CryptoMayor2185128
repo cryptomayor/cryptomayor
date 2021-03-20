@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2185128",
+    "name": "Paengaroa, New Zealand",
+    "description": "Bay of Plenty, Western Bay of Plenty District",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2185128",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2185128.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -37.81667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 176.41667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 901
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 27
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Pacific/Auckland"
+        },
+        {
+            "trait_type": "Country",
+            "value": "New Zealand"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "NZ",
+    "altnames": null
+}

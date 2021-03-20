@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8858909",
+    "name": "Apatauyan, Mexico",
+    "description": "Puebla, Atempan",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8858909",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8858909.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.79911
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -97.4444
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1700
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2172
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Apatauyan"
+}

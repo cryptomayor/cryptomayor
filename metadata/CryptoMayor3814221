@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3814221",
+    "name": "Carboneras, Mexico",
+    "description": "Hidalgo, Mineral de la Reforma",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3814221",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3814221.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.09
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -98.70528
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1670
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2454
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Carboneras"
+}

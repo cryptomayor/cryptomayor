@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8859957",
+    "name": "Axhumol, Mexico",
+    "description": "San Luis Potos\u00ed, Tamazunchale",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8859957",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8859957.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 21.20361
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -98.78028
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 995
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 147
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Axhumol"
+}

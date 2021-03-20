@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2515814",
+    "name": "La Lantejuela, Spain",
+    "description": "Andalusia, Provincia de Sevilla",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2515814",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2515814.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 37.3535
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -5.22477
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3792
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 156
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Madrid"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Spain"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "ES",
+    "altnames": "La Lantejuela,La Lentejuela"
+}

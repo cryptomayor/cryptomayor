@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3011396",
+    "name": "La Baffe, France",
+    "description": "Grand Est, Vosges",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3011396",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3011396.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 48.16174
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 6.57449
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 590
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 398
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "La Baffe"
+}

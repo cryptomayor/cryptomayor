@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3824119",
+    "name": "Dehesa, Mexico",
+    "description": "Veracruz, Acayucan",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3824119",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3824119.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 17.94167
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -94.99806
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3534
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 79
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": null
+}

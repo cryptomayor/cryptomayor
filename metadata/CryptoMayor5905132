@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5905132",
+    "name": "Boisbriand, Canada",
+    "description": "Quebec, Laurentides",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5905132",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5905132.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 45.61678
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -73.83249
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 26483
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 30
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Toronto"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Canada"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "CA",
+    "altnames": null
+}

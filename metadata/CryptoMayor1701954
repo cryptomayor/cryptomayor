@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor1701954",
+    "name": "Mandaon, Philippines",
+    "description": "Bicol, Province of Masbate",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor1701954",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor1701954.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 12.22594
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 123.28421
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3540
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 6
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Asia/Manila"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Philippines"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AS"
+        }
+    ],
+    "country_code": "PH",
+    "altnames": "Mandaon"
+}

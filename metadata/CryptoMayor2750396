@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2750396",
+    "name": "Niebert, Netherlands",
+    "description": "Groningen, Westerkwartier",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2750396",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2750396.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 53.16083
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 6.32778
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 520
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Amsterdam"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Netherlands"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "NL",
+    "altnames": "Nieberd"
+}

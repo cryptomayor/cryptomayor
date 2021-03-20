@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3324597",
+    "name": "Rain, Austria",
+    "description": "Carinthia, Politischer Bezirk Klagenfurt Land",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3324597",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3324597.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 46.60528
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 14.38611
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1081
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 420
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Vienna"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Austria"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "AT",
+    "altnames": null
+}

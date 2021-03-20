@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor716151",
+    "name": "Recsk, Hungary",
+    "description": "Heves",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor716151",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor716151.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.93333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 20.11667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2992
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 171
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Budapest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Hungary"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "HU",
+    "altnames": "Recsk"
+}

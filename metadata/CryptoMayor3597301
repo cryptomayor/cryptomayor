@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3597301",
+    "name": "El Chol, Guatemala",
+    "description": "Baja Verapaz, Municipio de El Chol",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3597301",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3597301.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 14.96055
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -90.48799
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2391
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1053
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Guatemala"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Guatemala"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "GT",
+    "altnames": "El Chol,Santa Cruz El Chol"
+}

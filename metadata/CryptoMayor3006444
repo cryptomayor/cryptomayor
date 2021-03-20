@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3006444",
+    "name": "La Selle-Craonnaise, France",
+    "description": "Pays de la Loire, Mayenne",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3006444",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3006444.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.8428
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -1.04284
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 905
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 74
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "La Selle,La Selle-Craonnaise"
+}

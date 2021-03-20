@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2614135",
+    "name": "Seden, Denmark",
+    "description": "South Denmark, Odense Kommune",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2614135",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2614135.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 55.42648
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 10.44265
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3350
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 3
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Copenhagen"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Denmark"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "DK",
+    "altnames": "Seden"
+}

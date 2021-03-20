@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4566723",
+    "name": "Piedra Gorda, Puerto Rico",
+    "description": "Camuy, Camuy Arriba Barrio",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4566723",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4566723.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.43411
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -66.88768
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1927
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 180
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Puerto_Rico"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Puerto Rico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "PR",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor11704448",
+    "name": "Grose Wold, Australia",
+    "description": "New South Wales, Hawkesbury",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor11704448",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor11704448.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -33.59832
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 150.685
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 633
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 47
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Sydney"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": null
+}

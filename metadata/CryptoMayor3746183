@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3746183",
+    "name": "Centro Habana, Cuba",
+    "description": "Havana",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3746183",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3746183.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 23.13833
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -82.36417
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 158151
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 19
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Havana"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Cuba"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "CU",
+    "altnames": "Centro Habana"
+}

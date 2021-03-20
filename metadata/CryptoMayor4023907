@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4023907",
+    "name": "Cerritos Blancos, Mexico",
+    "description": "Guanajuato, P\u00e9njamo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4023907",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4023907.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.23746
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -101.90131
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 703
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1684
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Cerritos Blancos"
+}

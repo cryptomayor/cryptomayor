@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3190544",
+    "name": "Slobodnica, Croatia",
+    "description": "Slavonski Brod-Posavina, Sibinj",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3190544",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3190544.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 45.16222
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 17.93278
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1557
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 88
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Zagreb"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Croatia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "HR",
+    "altnames": "Slobodnica"
+}

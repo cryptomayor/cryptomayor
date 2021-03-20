@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor149581",
+    "name": "Tarime, Tanzania",
+    "description": "Mara, Tarime",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor149581",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor149581.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -1.35
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 34.36667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 33094
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1398
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Africa/Dar_es_Salaam"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Tanzania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AF"
+        }
+    ],
+    "country_code": "TZ",
+    "altnames": null
+}

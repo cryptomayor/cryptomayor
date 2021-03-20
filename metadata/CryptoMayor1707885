@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor1707885",
+    "name": "Lallayug, Philippines",
+    "description": "Cagayan Valley, Province of Cagayan",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor1707885",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor1707885.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 17.70684
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 121.44175
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2102
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 49
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Asia/Manila"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Philippines"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AS"
+        }
+    ],
+    "country_code": "PH",
+    "altnames": "Lallayug"
+}

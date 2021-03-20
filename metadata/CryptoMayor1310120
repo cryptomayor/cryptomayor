@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor1310120",
+    "name": "Mawlaik, Myanmar",
+    "description": "Sagain, Mawlaik District",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor1310120",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor1310120.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 23.64254
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 94.40478
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 44540
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 129
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Asia/Yangon"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Myanmar"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AS"
+        }
+    ],
+    "country_code": "MM",
+    "altnames": "Mawlaik"
+}

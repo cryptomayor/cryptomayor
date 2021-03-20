@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2264526",
+    "name": "Pontinha, Portugal",
+    "description": "Lisbon, Odivelas",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2264526",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2264526.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 38.76771
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -9.19935
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 23249
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 98
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Lisbon"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Portugal"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "PT",
+    "altnames": "Pontinha"
+}

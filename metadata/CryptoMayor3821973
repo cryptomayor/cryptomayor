@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3821973",
+    "name": "Parota Seca, Mexico",
+    "description": "Guerrero, Tecoanapa",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3821973",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3821973.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 16.9403
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -99.25966
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 981
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 499
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Parota Seca"
+}

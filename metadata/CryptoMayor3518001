@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3518001",
+    "name": "San Pedro el Alto, Mexico",
+    "description": "Oaxaca, Zimatl\u00e1n de \u00c1lvarez",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3518001",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3518001.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 16.80851
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -97.05326
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 821
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1964
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Alto,San Pedro,San Pedro el Alto"
+}

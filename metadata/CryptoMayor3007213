@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3007213",
+    "name": "La Pommeraye, France",
+    "description": "Pays de la Loire, Maine-et-Loire",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3007213",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3007213.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.35534
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -0.86007
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3982
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 77
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "La Pommeraye"
+}

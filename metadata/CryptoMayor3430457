@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3430457",
+    "name": "Navarro, Argentina",
+    "description": "Buenos Aires, Partido de Navarro",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3430457",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3430457.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -35.00587
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -59.27828
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 0
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 30
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Argentina/Buenos_Aires"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Argentina"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "AR",
+    "altnames": "Navarro"
+}

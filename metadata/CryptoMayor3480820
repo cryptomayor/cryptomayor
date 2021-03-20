@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3480820",
+    "name": "Colonia Nicolich, Uruguay",
+    "description": "Canelones, Nicolich",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3480820",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3480820.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -34.81516
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -56.02435
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 8902
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 16
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Montevideo"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Uruguay"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "UY",
+    "altnames": "Colonia Nicolich"
+}

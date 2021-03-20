@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3713465",
+    "name": "Calabacito, Panama",
+    "description": "Veraguas, Distrito de San Francisco",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3713465",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3713465.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 8.24545
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -81.07978
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 100
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 100
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Panama"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Panama"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "PA",
+    "altnames": "Calabacito"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3977309",
+    "name": "San Antonio de Padua, Mexico",
+    "description": "Zacatecas, Valpara\u00edso",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3977309",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3977309.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 22.57357
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -103.85004
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 866
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1761
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "San Antonio de Padua"
+}

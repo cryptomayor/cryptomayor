@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3002203",
+    "name": "Les Aires, France",
+    "description": "Occitanie, H\u00e9rault",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3002203",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3002203.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 43.58167
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 3.10416
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 611
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 196
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Les Aires"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8859973",
+    "name": "Los Reyes (Las Chiveras), Mexico",
+    "description": "Guerrero, Zihuatanejo de Azueta",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8859973",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8859973.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 17.64
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -101.49111
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 990
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 22
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Los Reyes (Las Chiveras)"
+}

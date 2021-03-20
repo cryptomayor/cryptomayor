@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor771690",
+    "name": "Goszczyn, Poland",
+    "description": "Mazovia, Powiat gr\u00f3jecki",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor771690",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor771690.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 51.73187
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 20.85154
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 920
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 142
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Warsaw"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Poland"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "PL",
+    "altnames": null
+}

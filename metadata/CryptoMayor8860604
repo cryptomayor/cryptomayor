@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8860604",
+    "name": "Paso Real, Mexico",
+    "description": "Veracruz, Ozuluama de Mascare\u00f1as",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8860604",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8860604.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 21.80278
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -98.10472
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 820
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 33
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Paso Real"
+}

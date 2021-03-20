@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor12070753",
+    "name": "Heritage Pointe, Canada",
+    "description": "Alberta, Municipal District of Foothills No. 31",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor12070753",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor12070753.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 50.84213
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -114.00493
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2075
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1014
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Edmonton"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Canada"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "CA",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3832560",
+    "name": "Vinchina, Argentina",
+    "description": "La Rioja, Departamento de Vinchina",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3832560",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3832560.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -28.75964
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -68.20692
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2834
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1460
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Argentina/La_Rioja"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Argentina"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "AR",
+    "altnames": null
+}

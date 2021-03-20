@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4007939",
+    "name": "El Resplandor, Mexico",
+    "description": "Guanajuato, Le\u00f3n",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4007939",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4007939.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 21.00216
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -101.60525
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 738
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1797
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "El Chorizo,El Chorro,El Resplandor"
+}

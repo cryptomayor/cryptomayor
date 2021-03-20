@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3531872",
+    "name": "Cochoapa, Mexico",
+    "description": "Guerrero, Ometepec",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3531872",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3531872.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 16.7219
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -98.37196
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 4237
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 397
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Cachalapa,Cochoapa"
+}

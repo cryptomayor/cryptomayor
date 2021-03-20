@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3635260",
+    "name": "Las Vegas, Venezuela",
+    "description": "Cojedes, Municipio R\u00f3mulo Gallegos",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3635260",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3635260.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 9.53724
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -68.63022
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 0
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 120
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Caracas"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Venezuela"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "VE",
+    "altnames": "Las Vegas"
+}

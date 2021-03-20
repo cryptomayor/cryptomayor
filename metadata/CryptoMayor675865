@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor675865",
+    "name": "Iacobeni, Romania",
+    "description": "Suceava, Comuna Iacobeni",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor675865",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor675865.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.43333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 25.31667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3836
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1117
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": null
+}

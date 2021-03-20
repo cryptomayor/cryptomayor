@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3866161",
+    "name": "Alta Italia, Argentina",
+    "description": "La Pampa, Departamento de Realic\u00f3",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3866161",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3866161.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -35.3335
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -64.11496
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1481
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 167
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Argentina/Salta"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Argentina"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "AR",
+    "altnames": "Alta Italia"
+}

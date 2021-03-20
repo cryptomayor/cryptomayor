@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor9505624",
+    "name": "Cerrito de Maravillas, Mexico",
+    "description": "San Luis Potos\u00ed, Mexquitic de Carmona",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor9505624",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor9505624.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 22.24901
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -101.02407
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 602
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1889
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Cerrito de Maravillas"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor9957342",
+    "name": "Greenslopes, Australia",
+    "description": "Queensland, Brisbane",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor9957342",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor9957342.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -27.50815
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 153.04951
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 9197
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 20
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Brisbane"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": null
+}

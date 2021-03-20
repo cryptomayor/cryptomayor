@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4990668",
+    "name": "Delton, United States",
+    "description": "Michigan, Barry County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4990668",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4990668.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 42.49976
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -85.40806
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 872
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 293
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Detroit"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

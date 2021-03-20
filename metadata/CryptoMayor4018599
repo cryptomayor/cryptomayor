@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4018599",
+    "name": "Amatepec, Mexico",
+    "description": "M\u00e9xico, Amatepec",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4018599",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4018599.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.68222
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -100.18583
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2187
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1813
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Amatepec"
+}

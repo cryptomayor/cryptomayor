@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3849557",
+    "name": "La Para, Argentina",
+    "description": "Cordoba, Departamento de R\u00edo Primero",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3849557",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3849557.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -30.89416
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -63.00107
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3021
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 93
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Argentina/Cordoba"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Argentina"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "AR",
+    "altnames": null
+}

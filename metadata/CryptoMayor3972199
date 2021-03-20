@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3972199",
+    "name": "Pedregoso, Mexico",
+    "description": "Zacatecas, Pinos",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3972199",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3972199.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 22.25274
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -101.75757
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2629
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2185
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Pedregoso"
+}

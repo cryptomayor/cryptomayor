@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8601412",
+    "name": "Santo Domingo Este, Dominican Republic",
+    "description": "Santo Domingo, Santo Domingo Este",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8601412",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8601412.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.48847
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -69.85707
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 700000
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 46
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Santo_Domingo"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Dominican Republic"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "DO",
+    "altnames": "Santo Domingo Este"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2206599",
+    "name": "Palm Cove, Australia",
+    "description": "Queensland, Cairns",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2206599",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2206599.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -16.75
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 145.66667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3713
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 21
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Brisbane"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": null
+}

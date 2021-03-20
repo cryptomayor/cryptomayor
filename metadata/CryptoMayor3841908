@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3841908",
+    "name": "Pasco, Argentina",
+    "description": "Cordoba, Departamento de General San Mart\u00edn",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3841908",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3841908.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -32.74733
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -63.34232
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1072
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 187
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Argentina/Cordoba"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Argentina"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "AR",
+    "altnames": "Pasco"
+}

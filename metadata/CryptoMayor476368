@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor476368",
+    "name": "Vatutino, Russia",
+    "description": "Moscow",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor476368",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor476368.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 55.88441
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 37.69055
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 50000
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 149
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Moscow"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Russia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RU",
+    "altnames": "Vatutine,Vatutino,\u0412\u0430\u0442\u0443\u0442\u0438\u043d\u043e,\u0412\u0430\u0442\u0443\u0442\u0456\u043d\u0435"
+}

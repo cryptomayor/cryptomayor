@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3523426",
+    "name": "Santa Ana Mayorazgo, Mexico",
+    "description": "M\u00e9xico, Otzolotepec",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3523426",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3523426.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.42951
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -99.5127
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3365
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2604
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Mayorazgo,Santa Ana Mayorazgo"
+}

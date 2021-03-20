@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor720228",
+    "name": "Halmaj, Hungary",
+    "description": "Borsod-Aba\u00faj-Zempl\u00e9n",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor720228",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor720228.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 48.25
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 21.0
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1869
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 118
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Budapest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Hungary"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "HU",
+    "altnames": "Halmaj"
+}

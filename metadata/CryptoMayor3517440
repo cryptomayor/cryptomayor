@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3517440",
+    "name": "El Carrizal, Mexico",
+    "description": "Oaxaca, Santo Domingo Tehuantepec",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3517440",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3517440.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 16.06438
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -95.39308
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1291
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 18
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "El Carrizal,Santa Gertrudis,Santa Gertrudis Miramar"
+}

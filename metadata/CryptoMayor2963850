@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2963850",
+    "name": "Grenagh, Ireland",
+    "description": "Munster, County Cork",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2963850",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2963850.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 52.01526
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -8.60882
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 562
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 139
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Dublin"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Ireland"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IE",
+    "altnames": null
+}

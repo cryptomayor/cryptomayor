@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2674181",
+    "name": "Stenkullen, Sweden",
+    "description": "V\u00e4stra G\u00f6taland, Lerums Kommun",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2674181",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2674181.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 57.79476
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 12.31688
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2000
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 54
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Stockholm"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Sweden"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "SE",
+    "altnames": "Stenkullen"
+}

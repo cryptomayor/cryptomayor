@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3606048",
+    "name": "Lepaera, Honduras",
+    "description": "Lempira",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3606048",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3606048.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 14.78333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -88.58333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3137
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1031
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Tegucigalpa"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Honduras"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "HN",
+    "altnames": "Lepaera"
+}

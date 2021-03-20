@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2763711",
+    "name": "Thaya, Austria",
+    "description": "Lower Austria, Politischer Bezirk Waidhofen an der Thaya",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2763711",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2763711.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 48.85489
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 15.28902
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 611
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 486
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Vienna"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Austria"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "AT",
+    "altnames": null
+}

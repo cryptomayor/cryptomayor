@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2066524",
+    "name": "Melville, Australia",
+    "description": "Western Australia, Yalgoo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2066524",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2066524.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -28.18333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 116.73333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 4822
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 379
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Perth"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": "Melville"
+}

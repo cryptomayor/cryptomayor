@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4255063",
+    "name": "Brownstown, United States",
+    "description": "Indiana, Jackson County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4255063",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4255063.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 38.87894
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -86.04192
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2952
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 191
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Indiana/Indianapolis"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

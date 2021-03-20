@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor680682",
+    "name": "Corpadea, Romania",
+    "description": "Cluj, Comuna Apahida",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor680682",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor680682.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 46.79195
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 23.8281
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 529
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 351
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4326153",
+    "name": "Grand Coteau, United States",
+    "description": "Louisiana, Saint Landry Parish",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4326153",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4326153.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 30.41992
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -92.04651
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 938
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 22
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Chicago"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": "Grand Coteau,Sunset Station"
+}

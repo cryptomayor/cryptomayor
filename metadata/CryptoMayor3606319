@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3606319",
+    "name": "Las Tejeras, Honduras",
+    "description": "Lempira",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3606319",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3606319.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 14.8
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -88.6
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1140
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 936
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Tegucigalpa"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Honduras"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "HN",
+    "altnames": "Las Tejeras,Tejeras"
+}

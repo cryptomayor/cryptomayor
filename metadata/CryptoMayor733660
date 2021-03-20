@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor733660",
+    "name": "Anton, Bulgaria",
+    "description": "Sofia, Obshtina Anton",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor733660",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor733660.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 42.75
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 24.28333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1697
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1174
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Sofia"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Bulgaria"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "BG",
+    "altnames": "Anton,Lashene,Lezhene,Ludzhene,Luzhene,L\u0103shene,L\u016ddzhene,L\u016dzhene,\u0410\u043d\u0442\u043e\u043d"
+}

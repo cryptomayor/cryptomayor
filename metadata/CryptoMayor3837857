@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3837857",
+    "name": "San Carlos Centro, Argentina",
+    "description": "Santa Fe, Las Colonias Department",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3837857",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3837857.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -31.72864
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -61.09192
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 10465
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 44
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Argentina/Cordoba"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Argentina"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "AR",
+    "altnames": "San Carlos Centro"
+}

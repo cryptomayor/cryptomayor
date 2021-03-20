@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2773045",
+    "name": "Landskron, Austria",
+    "description": "Carinthia, Villach Stadt",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2773045",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2773045.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 46.61667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 13.88333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 4304
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 497
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Vienna"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Austria"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "AT",
+    "altnames": null
+}

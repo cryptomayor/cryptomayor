@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor677470",
+    "name": "Ghenetea, Romania",
+    "description": "Bihor, Municipiul Marghita",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor677470",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor677470.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.38898
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 22.3976
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 799
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 177
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": null
+}

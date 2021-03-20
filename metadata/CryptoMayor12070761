@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor12070761",
+    "name": "Hayes Subdivision, Canada",
+    "description": "Nova Scotia, Kings County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor12070761",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor12070761.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 45.05519
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -64.58795
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1121
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 49
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Halifax"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Canada"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "CA",
+    "altnames": null
+}

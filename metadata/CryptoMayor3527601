@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3527601",
+    "name": "Fondo, Mexico",
+    "description": "M\u00e9xico, Aculco",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3527601",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3527601.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.05953
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -99.76578
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 761
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2623
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Fondo"
+}

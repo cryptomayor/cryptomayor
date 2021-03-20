@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2721585",
+    "name": "Bjurholm, Sweden",
+    "description": "V\u00e4sterbotten, Bjurholms Kommun",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2721585",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2721585.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 63.93027
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 19.21369
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1000
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 173
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Stockholm"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Sweden"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "SE",
+    "altnames": null
+}

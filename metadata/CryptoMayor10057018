@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor10057018",
+    "name": "West Leederville, Australia",
+    "description": "Western Australia, Cambridge",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor10057018",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor10057018.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -31.94141
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 115.83117
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3901
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 37
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Perth"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor671948",
+    "name": "Ogra, Romania",
+    "description": "Mure\u015f, Comuna Ogra",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor671948",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor671948.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 46.43333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 24.31667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2403
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 292
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": "Marosugra,Ogra"
+}

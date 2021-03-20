@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8859079",
+    "name": "Apas, Mexico",
+    "description": "Chiapas, Zinacant\u00e1n",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8859079",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8859079.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 16.71066
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -92.79335
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1485
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2124
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Apas"
+}

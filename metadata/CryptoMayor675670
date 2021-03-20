@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor675670",
+    "name": "Ilia, Romania",
+    "description": "Hunedoara, Comuna Ilia",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor675670",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor675670.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 45.93333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 22.65
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3967
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 171
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": "Ilia"
+}

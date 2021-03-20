@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2766380",
+    "name": "Sankt Ulrich, Austria",
+    "description": "Carinthia, Villach Stadt",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2766380",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2766380.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 46.60889
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 13.91639
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 640
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 491
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Vienna"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Austria"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "AT",
+    "altnames": null
+}

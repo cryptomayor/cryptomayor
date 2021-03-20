@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor312073",
+    "name": "Hisar, Turkey",
+    "description": "Batman",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor312073",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor312073.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 37.60094
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 41.22799
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2194
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 889
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Istanbul"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Turkey"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AS"
+        }
+    ],
+    "country_code": "TR",
+    "altnames": "Hasar,Hisar,Hisarkoy,Hisark\u00f6y,Khisar"
+}

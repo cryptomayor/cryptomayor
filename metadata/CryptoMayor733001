@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor733001",
+    "name": "Bov, Bulgaria",
+    "description": "Sofia, Obshtina Svoge",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor733001",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor733001.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 43.0325
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 23.37806
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 0
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 818
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Sofia"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Bulgaria"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "BG",
+    "altnames": "Bov,Bow,\u0411\u043e\u0432"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor10062594",
+    "name": "North Hobart, Australia",
+    "description": "Tasmania, Hobart",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor10062594",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor10062594.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -42.87406
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 147.31597
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2500
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 54
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Hobart"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": null
+}

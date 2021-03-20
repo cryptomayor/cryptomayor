@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3101089",
+    "name": "Czastary, Poland",
+    "description": "\u0141\u00f3d\u017a Voivodeship, Powiat wieruszowski",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3101089",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3101089.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 51.25869
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 18.31953
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1024
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 190
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Warsaw"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Poland"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "PL",
+    "altnames": null
+}

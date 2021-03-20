@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3865424",
+    "name": "Arroyito, Argentina",
+    "description": "Cordoba, Departamento de San Justo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3865424",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3865424.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -31.42022
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -63.05002
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 19577
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 154
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Argentina/Cordoba"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Argentina"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "AR",
+    "altnames": "Arroyito"
+}

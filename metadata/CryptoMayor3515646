@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3515646",
+    "name": "Tierra Colorada, Mexico",
+    "description": "Guerrero, Cuajinicuilapa",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3515646",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3515646.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 16.4474
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -98.64224
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 812
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 27
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Tierra Colorada"
+}

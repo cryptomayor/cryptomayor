@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3033416",
+    "name": "Berck-Plage, France",
+    "description": "Hauts-de-France, Pas-de-Calais",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3033416",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3033416.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 50.40704
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 1.56446
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 15675
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 10
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": null
+}

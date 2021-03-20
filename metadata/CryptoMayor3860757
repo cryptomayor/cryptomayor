@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3860757",
+    "name": "Colonia La Tordilla, Argentina",
+    "description": "Cordoba, Departamento de San Justo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3860757",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3860757.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -31.23746
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -63.06134
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1138
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 141
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Argentina/Cordoba"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Argentina"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "AR",
+    "altnames": "Colonia La Tordilla"
+}

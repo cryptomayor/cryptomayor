@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3815489",
+    "name": "Nuevo Nicapa, Mexico",
+    "description": "Chiapas, Pichucalco",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3815489",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3815489.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 17.63464
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -93.07238
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1346
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 19
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Nuevo Nicapa"
+}

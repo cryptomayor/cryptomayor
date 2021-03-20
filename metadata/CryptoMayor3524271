@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3524271",
+    "name": "Loma Alta, Mexico",
+    "description": "Veracruz, Isla",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3524271",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3524271.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 17.97889
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -95.63417
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 529
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 51
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": null
+}

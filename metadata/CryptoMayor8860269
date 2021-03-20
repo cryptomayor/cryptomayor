@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8860269",
+    "name": "El Pozo Santo (Crucero del Tule), Mexico",
+    "description": "Jalisco, Pihuamo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8860269",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8860269.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.32611
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -103.38611
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 901
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 754
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "El Pozo Santo (Crucero del Tule)"
+}

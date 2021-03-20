@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3624066",
+    "name": "Corredor, Costa Rica",
+    "description": "Puntarenas, Corredores",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3624066",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3624066.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 8.64002
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -82.946
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 7084
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 36
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Costa_Rica"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Costa Rica"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "CR",
+    "altnames": "Corredor"
+}

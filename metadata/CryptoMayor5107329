@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5107329",
+    "name": "Arkport, United States",
+    "description": "New York, Steuben County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5107329",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5107329.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 42.39451
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -77.69666
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 822
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 364
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/New_York"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

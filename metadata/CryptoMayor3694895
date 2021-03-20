@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3694895",
+    "name": "La Matanza, Peru",
+    "description": "Piura, Morropon",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3694895",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3694895.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -5.21334
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -80.09149
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 5828
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 110
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Lima"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Peru"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "PE",
+    "altnames": null
+}

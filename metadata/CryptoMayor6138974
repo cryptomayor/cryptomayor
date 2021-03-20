@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6138974",
+    "name": "Saint-Rapha\u00ebl, Canada",
+    "description": "Quebec",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6138974",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6138974.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 46.25011
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -76.01605
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1113
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 179
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Toronto"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Canada"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "CA",
+    "altnames": null
+}

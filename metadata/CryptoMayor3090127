@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3090127",
+    "name": "Olszanka, Poland",
+    "description": "Opole Voivodeship, Powiat brzeski",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3090127",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3090127.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 50.79514
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 17.4789
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 447
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 159
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Warsaw"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Poland"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "PL",
+    "altnames": null
+}

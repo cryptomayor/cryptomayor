@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3468823",
+    "name": "Boquim, Brazil",
+    "description": "Sergipe, Boquim",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3468823",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3468823.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -11.14694
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -37.62056
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 14848
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 162
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Maceio"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Brazil"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "BR",
+    "altnames": "Boquim"
+}

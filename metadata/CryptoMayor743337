@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor743337",
+    "name": "Kilimli, Turkey",
+    "description": "Zonguldak",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor743337",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor743337.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 41.49111
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 31.83861
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 0
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 11
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Istanbul"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Turkey"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AS"
+        }
+    ],
+    "country_code": "TR",
+    "altnames": "Kilimli"
+}

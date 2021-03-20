@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5143585",
+    "name": "Wellsburg, United States",
+    "description": "New York, Chemung County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5143585",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5143585.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 42.01619
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -76.7269
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 555
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 256
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/New_York"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": "Wellsburg,Wellsburgh"
+}

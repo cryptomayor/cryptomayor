@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3527548",
+    "name": "Francisco I. Madero, Mexico",
+    "description": "Chiapas, Motozintla",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3527548",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3527548.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 15.34297
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -92.42036
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 594
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1480
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Francisco I. Madero"
+}

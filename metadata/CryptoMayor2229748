@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2229748",
+    "name": "Kumbo, Cameroon",
+    "description": "North-West",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2229748",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2229748.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 6.2
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 10.66667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 53970
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1687
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Africa/Douala"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Cameroon"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AF"
+        }
+    ],
+    "country_code": "CM",
+    "altnames": "Kumbo"
+}

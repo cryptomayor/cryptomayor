@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8862999",
+    "name": "Balsa Larga, Mexico",
+    "description": "Veracruz, Omealca",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8862999",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8862999.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.71722
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -96.76444
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 520
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 364
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Balsa Larga"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2679165",
+    "name": "Silverdalen, Sweden",
+    "description": "Kalmar, Hultsfreds Kommun",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2679165",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2679165.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 57.54095
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 15.75104
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 681
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 124
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Stockholm"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Sweden"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "SE",
+    "altnames": "Silverdalen"
+}

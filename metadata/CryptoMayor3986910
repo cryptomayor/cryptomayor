@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3986910",
+    "name": "San Gregorio, Mexico",
+    "description": "Michoac\u00e1n, Pajacuar\u00e1n",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3986910",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3986910.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.1947
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -102.5489
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2087
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1531
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "San Gregorio"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2413990",
+    "name": "Abuko, Gambia",
+    "description": "Western",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2413990",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2413990.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 13.40417
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -16.65583
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 6572
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 15
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Africa/Banjul"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Gambia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AF"
+        }
+    ],
+    "country_code": "GM",
+    "altnames": "Abuko"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor12070754",
+    "name": "Aldergrove East, Canada",
+    "description": "British Columbia, Fraser Valley Regional District",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor12070754",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor12070754.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 49.05614
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -122.45457
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3491
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 112
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Vancouver"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Canada"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "CA",
+    "altnames": null
+}

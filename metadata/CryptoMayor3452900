@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3452900",
+    "name": "Porto Belo, Brazil",
+    "description": "Santa Catarina, Porto Belo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3452900",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3452900.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -27.15778
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -48.55306
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 14720
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 3
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Sao_Paulo"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Brazil"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "BR",
+    "altnames": "Porto Bello"
+}

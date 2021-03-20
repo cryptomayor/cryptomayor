@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3518727",
+    "name": "San Juan Bautista Lo de Soto, Mexico",
+    "description": "Oaxaca, San Juan Bautista Lo de Soto",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3518727",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3518727.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 16.51197
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -98.34772
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1890
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 74
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Lo de Soto,San Juan Bautista Lo de Soto"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor299376",
+    "name": "Temelli, Turkey",
+    "description": "Mardin",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor299376",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor299376.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 37.57574
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 41.84564
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 891
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 770
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Istanbul"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Turkey"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AS"
+        }
+    ],
+    "country_code": "TR",
+    "altnames": "Ammara,Temelli"
+}

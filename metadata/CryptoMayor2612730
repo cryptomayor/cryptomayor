@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2612730",
+    "name": "Starup, Denmark",
+    "description": "South Denmark, Haderslev Kommune",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2612730",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2612730.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 55.24097
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 9.53503
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2091
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 21
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Copenhagen"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Denmark"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "DK",
+    "altnames": "Starup"
+}

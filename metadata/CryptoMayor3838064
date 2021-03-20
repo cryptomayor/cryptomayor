@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3838064",
+    "name": "San Antonio, Argentina",
+    "description": "Jujuy, Departamento de San Antonio",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3838064",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3838064.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -24.36753
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -65.33471
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 0
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1350
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Argentina/Jujuy"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Argentina"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "AR",
+    "altnames": "San Antonio"
+}

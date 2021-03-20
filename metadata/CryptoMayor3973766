@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3973766",
+    "name": "Ojo de Agua, Mexico",
+    "description": "San Luis Potos\u00ed, Cerritos",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3973766",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3973766.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 22.44378
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -100.09283
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1213
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1160
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": null
+}

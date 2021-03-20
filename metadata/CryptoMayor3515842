@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3515842",
+    "name": "Tepeyehualco de Hidalgo, Mexico",
+    "description": "Puebla, Tepeyahualco",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3515842",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3515842.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.48867
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -97.49254
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1406
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2327
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Tepeyahualco,Tepeyehualco de Hidalgo"
+}

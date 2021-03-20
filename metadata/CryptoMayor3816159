@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3816159",
+    "name": "El Crucero, Mexico",
+    "description": "Chiapas, Chamula",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3816159",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3816159.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 16.80034
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -92.56644
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 680
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2576
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "El Crucero"
+}

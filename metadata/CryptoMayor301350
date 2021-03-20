@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor301350",
+    "name": "Seferihisar, Turkey",
+    "description": "\u0130zmir, Seferihisar",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor301350",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor301350.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 38.1975
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 26.83881
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 19596
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 34
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Istanbul"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Turkey"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AS"
+        }
+    ],
+    "country_code": "TR",
+    "altnames": null
+}

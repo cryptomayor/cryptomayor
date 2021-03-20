@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor11748567",
+    "name": "La Adela, Argentina",
+    "description": "La Pampa, Departamento de Caleu-Caleu",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor11748567",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor11748567.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -38.98333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -64.08333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2000
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 114
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Argentina/Salta"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Argentina"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "AR",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2271140",
+    "name": "Barcarena, Portugal",
+    "description": "Lisbon, Oeiras",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2271140",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2271140.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 38.73245
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -9.28
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 11968
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 47
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Lisbon"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Portugal"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "PT",
+    "altnames": "Barcarena"
+}

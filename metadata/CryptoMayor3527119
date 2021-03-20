@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3527119",
+    "name": "Hidalgo, Mexico",
+    "description": "Tamaulipas, Hidalgo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3527119",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3527119.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 24.24812
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -99.43897
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 4558
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 331
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Monterrey"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Hidalgo,Villa Hidalgo"
+}

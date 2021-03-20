@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor932960",
+    "name": "Werda, Botswana",
+    "description": "Kgalagadi",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor932960",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor932960.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -25.26667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 23.28333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2149
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1034
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Africa/Gaborone"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Botswana"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AF"
+        }
+    ],
+    "country_code": "BW",
+    "altnames": "Werda"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor7284896",
+    "name": "Marseille 15, France",
+    "description": "Provence-Alpes-C\u00f4te d'Azur, Bouches-du-Rh\u00f4ne",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor7284896",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor7284896.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 43.37224
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 5.35386
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 77770
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 153
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": null
+}

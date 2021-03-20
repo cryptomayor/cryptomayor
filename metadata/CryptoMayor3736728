@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3736728",
+    "name": "Caimito, Peru",
+    "description": "Ucayali, Provincia de Coronel Portillo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3736728",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3736728.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -8.85443
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -74.31459
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 581
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 155
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Lima"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Peru"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "PE",
+    "altnames": null
+}

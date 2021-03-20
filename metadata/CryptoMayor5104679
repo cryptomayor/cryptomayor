@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5104679",
+    "name": "Singac, United States",
+    "description": "New Jersey, Passaic County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5104679",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5104679.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 40.88677
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -74.24098
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3618
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 52
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/New_York"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

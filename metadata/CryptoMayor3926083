@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3926083",
+    "name": "Vinchos, Peru",
+    "description": "Ayacucho, Provincia de Huamanga",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3926083",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3926083.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -13.24193
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -74.35433
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 669
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 3135
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Lima"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Peru"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "PE",
+    "altnames": null
+}

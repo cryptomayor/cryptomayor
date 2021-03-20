@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4566198",
+    "name": "Martorell, Puerto Rico",
+    "description": "Yabucoa, Limones Barrio",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4566198",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4566198.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.07607
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -65.89822
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2884
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 27
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Puerto_Rico"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Puerto Rico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "PR",
+    "altnames": null
+}

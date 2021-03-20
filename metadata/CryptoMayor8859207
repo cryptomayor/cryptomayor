@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8859207",
+    "name": "Tepeteno de Iturbide, Mexico",
+    "description": "Puebla, Tlatlauquitepec",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8859207",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8859207.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.79583
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -97.49722
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1377
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2167
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Tepeteno de Iturbide"
+}

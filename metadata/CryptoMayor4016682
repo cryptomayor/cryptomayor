@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4016682",
+    "name": "Buenavista, Mexico",
+    "description": "San Luis Potos\u00ed, Guadalc\u00e1zar",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4016682",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4016682.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 22.59809
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -100.14275
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 866
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1214
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Buenavista"
+}

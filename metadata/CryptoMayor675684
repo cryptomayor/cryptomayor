@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor675684",
+    "name": "Ilba, Romania",
+    "description": "Maramure\u015f, Comuna Cic\u00e2rl\u0103u",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor675684",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor675684.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.7128
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 23.35765
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1501
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 150
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": null
+}

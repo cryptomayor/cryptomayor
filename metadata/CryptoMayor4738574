@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4738574",
+    "name": "Universal City, United States",
+    "description": "Texas, Bexar County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4738574",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4738574.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 29.54801
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -98.29112
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 19986
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 236
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Chicago"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

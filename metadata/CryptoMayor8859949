@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8859949",
+    "name": "Rancho Alegre del Llano (El Llano), Mexico",
+    "description": "Guerrero, T\u00e9cpan de Galeana",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8859949",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8859949.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 17.27111
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -100.95361
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 999
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 21
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Rancho Alegre del Llano (El Llano)"
+}

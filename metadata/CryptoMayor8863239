@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8863239",
+    "name": "Macuilocatl, Mexico",
+    "description": "San Luis Potos\u00ed, Tampac\u00e1n",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8863239",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8863239.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 21.38611
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -98.73611
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 504
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 184
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Macuilocatl"
+}

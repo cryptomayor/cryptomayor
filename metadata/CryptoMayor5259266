@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5259266",
+    "name": "Lake Shangrila, United States",
+    "description": "Wisconsin, Kenosha County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5259266",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5259266.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 42.5053
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -88.07064
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 861
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 254
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Chicago"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

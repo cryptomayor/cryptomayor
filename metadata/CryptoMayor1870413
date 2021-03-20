@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor1870413",
+    "name": "Sil-li, North Korea",
+    "description": "South Pyongan",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor1870413",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor1870413.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 39.49472
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 125.47361
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 19463
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 9
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Asia/Pyongyang"
+        },
+        {
+            "trait_type": "Country",
+            "value": "North Korea"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AS"
+        }
+    ],
+    "country_code": "KP",
+    "altnames": "Sil-li,Sin-ni"
+}

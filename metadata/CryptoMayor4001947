@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4001947",
+    "name": "La Huerta, Mexico",
+    "description": "Jalisco, La Huerta",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4001947",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4001947.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.4844
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -104.64378
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 7891
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 290
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "La Huerta"
+}

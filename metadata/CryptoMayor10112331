@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor10112331",
+    "name": "Wandana Heights, Australia",
+    "description": "Victoria, Greater Geelong",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor10112331",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor10112331.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -38.17577
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 144.30387
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1938
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 94
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Melbourne"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": null
+}

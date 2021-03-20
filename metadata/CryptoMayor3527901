@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3527901",
+    "name": "El Zapote, Mexico",
+    "description": "Veracruz, Ignacio de la Llave",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3527901",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3527901.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.73575
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -95.96131
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 895
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 10
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "El Zaponte,El Zapote"
+}

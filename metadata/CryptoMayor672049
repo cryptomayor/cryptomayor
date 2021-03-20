@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor672049",
+    "name": "Obreja, Romania",
+    "description": "Alba, Comuna Mihal\u0163",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor672049",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor672049.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 46.17457
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 23.7655
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 809
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 259
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": null
+}

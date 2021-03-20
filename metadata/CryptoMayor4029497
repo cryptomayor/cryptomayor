@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4029497",
+    "name": "Cerro Prieto, Mexico",
+    "description": "Quer\u00e9taro, El Marqu\u00e9s",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4029497",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4029497.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.64955
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -100.29027
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 710
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1955
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Cerro Prieto"
+}

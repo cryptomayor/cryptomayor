@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3825209",
+    "name": "Aguilera, Mexico",
+    "description": "Veracruz, Sayula de Alem\u00e1n",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3825209",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3825209.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 17.81083
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -95.015
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3260
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 125
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": null
+}

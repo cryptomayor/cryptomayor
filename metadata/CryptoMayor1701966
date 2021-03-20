@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor1701966",
+    "name": "Mandaluyong City, Philippines",
+    "description": "Metro Manila, Eastern Manila District",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor1701966",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor1701966.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 14.5832
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 121.0409
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 305576
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 24
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Asia/Manila"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Philippines"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AS"
+        }
+    ],
+    "country_code": "PH",
+    "altnames": "Mandaluyong,Mandayulong,San Felipe,San Felipe Neri"
+}

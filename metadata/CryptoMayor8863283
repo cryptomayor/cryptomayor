@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8863283",
+    "name": "Tierra y Libertad (San Blas), Mexico",
+    "description": "Zacatecas, Villa de Cos",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8863283",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8863283.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 23.45361
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -102.38889
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 501
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2031
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Tierra y Libertad (San Blas)"
+}

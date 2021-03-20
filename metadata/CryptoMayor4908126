@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4908126",
+    "name": "Roscoe, United States",
+    "description": "Illinois, Winnebago County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4908126",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4908126.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 42.41335
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -89.00927
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 10565
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 228
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Chicago"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

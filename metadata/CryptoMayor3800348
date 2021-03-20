@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3800348",
+    "name": "San Juan Colorado, Mexico",
+    "description": "Oaxaca, San Juan Colorado",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3800348",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3800348.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 16.46066
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -97.95431
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 5561
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 449
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "San Juan Colbrado,San Juan Colorado"
+}

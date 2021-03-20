@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor679686",
+    "name": "Dealu, Romania",
+    "description": "Harghita, Comuna Dealu",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor679686",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor679686.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 46.4
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 25.3
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3850
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 832
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": "Dealu,Dealul,Oroszhegy"
+}

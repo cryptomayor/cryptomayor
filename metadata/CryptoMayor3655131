@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3655131",
+    "name": "La Libertad, Ecuador",
+    "description": "Guayas",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3655131",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3655131.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -2.233
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -80.91039
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 75881
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 28
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Guayaquil"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Ecuador"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "EC",
+    "altnames": "La Libertad"
+}

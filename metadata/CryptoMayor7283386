@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor7283386",
+    "name": "Changshu City, China",
+    "description": "Jiangsu",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor7283386",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor7283386.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 31.64615
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 120.74221
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1047700
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 9
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Asia/Shanghai"
+        },
+        {
+            "trait_type": "Country",
+            "value": "China"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AS"
+        }
+    ],
+    "country_code": "CN",
+    "altnames": null
+}

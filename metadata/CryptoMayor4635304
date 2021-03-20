@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4635304",
+    "name": "Lakesite, United States",
+    "description": "Tennessee, Hamilton County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4635304",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4635304.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 35.20868
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -85.1269
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1865
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 226
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/New_York"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

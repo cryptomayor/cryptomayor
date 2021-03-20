@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3827598",
+    "name": "Ojo de Agua, Mexico",
+    "description": "M\u00e9xico, Tec\u00e1mac",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3827598",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3827598.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.68028
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -99.01
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 242272
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2250
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": null
+}

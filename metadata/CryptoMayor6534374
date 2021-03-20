@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6534374",
+    "name": "Mallare, Italy",
+    "description": "Liguria, Provincia di Savona",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6534374",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6534374.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 44.28934
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 8.29695
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 792
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 464
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": null
+}

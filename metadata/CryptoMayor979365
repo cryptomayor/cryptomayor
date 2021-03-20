@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor979365",
+    "name": "Mankoeng, South Africa",
+    "description": "Limpopo, Capricorn District Municipality",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor979365",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor979365.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -23.9
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 29.81667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 12499
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1389
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Africa/Johannesburg"
+        },
+        {
+            "trait_type": "Country",
+            "value": "South Africa"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AF"
+        }
+    ],
+    "country_code": "ZA",
+    "altnames": "Mankoeng"
+}

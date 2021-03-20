@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3984158",
+    "name": "Santa Mar\u00eda, Mexico",
+    "description": "Jalisco, Cocula",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3984158",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3984158.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.40095
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -103.85179
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 588
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1303
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": null
+}

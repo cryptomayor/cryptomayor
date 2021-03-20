@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3997712",
+    "name": "Guayabos, Mexico",
+    "description": "Jalisco, La Barca",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3997712",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3997712.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.40084
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -102.59703
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 557
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1633
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Guayabos,Los Guayabos"
+}

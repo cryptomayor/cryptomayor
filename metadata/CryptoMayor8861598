@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8861598",
+    "name": "El Zapote, Mexico",
+    "description": "Guanajuato, San Jos\u00e9 Iturbide",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8861598",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8861598.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 21.00527
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -100.30148
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 664
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2206
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "El Zapote"
+}

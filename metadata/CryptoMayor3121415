@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3121415",
+    "name": "Gimileo, Spain",
+    "description": "La Rioja, Provincia de La Rioja",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3121415",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3121415.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 42.54992
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -2.82237
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 139
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 482
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Madrid"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Spain"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "ES",
+    "altnames": null
+}

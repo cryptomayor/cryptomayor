@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3578466",
+    "name": "Sainte-Anne, Guadeloupe",
+    "description": "Guadeloupe, Guadeloupe",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3578466",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3578466.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 16.22564
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -61.38098
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 22859
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 3
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Guadeloupe"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Guadeloupe"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "GP",
+    "altnames": "Sainte-Anne"
+}

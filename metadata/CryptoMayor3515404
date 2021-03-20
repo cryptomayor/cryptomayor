@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3515404",
+    "name": "Tlamixtlahuacan, Mexico",
+    "description": "Guerrero, Chilapa de \u00c1lvarez",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3515404",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3515404.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 17.50306
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -99.22583
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3031
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1218
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": null
+}

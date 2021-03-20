@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3823637",
+    "name": "Vargas, Mexico",
+    "description": "Veracruz, Veracruz",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3823637",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3823637.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.22774
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -96.32046
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2519
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 23
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": null
+}

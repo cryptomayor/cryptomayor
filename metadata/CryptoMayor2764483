@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2764483",
+    "name": "Steindorf, Austria",
+    "description": "Salzburg, Politischer Bezirk Zell am See",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2764483",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2764483.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.28668
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 12.64432
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 586
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 801
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Vienna"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Austria"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "AT",
+    "altnames": null
+}

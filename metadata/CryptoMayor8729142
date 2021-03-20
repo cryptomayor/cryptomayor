@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8729142",
+    "name": "Cuchilla Chica, Mexico",
+    "description": "Veracruz, Tantoyuca",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8729142",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8729142.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 21.42472
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -98.29778
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 597
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 146
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Cuchilla Chica"
+}

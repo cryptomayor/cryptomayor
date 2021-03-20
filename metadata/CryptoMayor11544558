@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor11544558",
+    "name": "Manzana Primera la Capilla, Mexico",
+    "description": "M\u00e9xico",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor11544558",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor11544558.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.54753
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -99.60654
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 569
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2733
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Manzana Primera la Capilla"
+}

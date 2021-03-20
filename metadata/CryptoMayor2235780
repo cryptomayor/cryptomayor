@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2235780",
+    "name": "Akono, Cameroon",
+    "description": "Centre",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2235780",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2235780.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 3.5
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 11.33333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3821
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 678
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Africa/Douala"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Cameroon"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AF"
+        }
+    ],
+    "country_code": "CM",
+    "altnames": "Akono"
+}

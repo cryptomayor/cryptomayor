@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2759309",
+    "name": "Beers, Netherlands",
+    "description": "North Brabant, Gemeente Cuijk",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2759309",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2759309.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 51.72583
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 5.82778
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1275
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 13
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Amsterdam"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Netherlands"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "NL",
+    "altnames": "Beers,Beers NB,B\u00e8\u00e8rs"
+}

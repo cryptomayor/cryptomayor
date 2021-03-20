@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3939675",
+    "name": "Huambo, Peru",
+    "description": "Arequipa, Provincia de Caylloma",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3939675",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3939675.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -15.73045
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -72.1081
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 530
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 3312
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Lima"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Peru"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "PE",
+    "altnames": "Huambo"
+}

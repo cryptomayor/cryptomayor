@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor185014",
+    "name": "Mwatate, Kenya",
+    "description": "Taita Taveta",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor185014",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor185014.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -3.505
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 38.37722
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 0
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 860
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Africa/Nairobi"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Kenya"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AF"
+        }
+    ],
+    "country_code": "KE",
+    "altnames": "Mwatate"
+}

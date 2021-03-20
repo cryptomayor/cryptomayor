@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5325256",
+    "name": "August, United States",
+    "description": "California, San Joaquin County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5325256",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5325256.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 37.97881
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -121.26217
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 8390
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 9
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Los_Angeles"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

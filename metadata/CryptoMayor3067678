@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3067678",
+    "name": "Praskolesy, Czechia",
+    "description": "Central Bohemia, Okres Beroun",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3067678",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3067678.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 49.86588
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 13.93343
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 808
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 303
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Prague"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Czechia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "CZ",
+    "altnames": null
+}

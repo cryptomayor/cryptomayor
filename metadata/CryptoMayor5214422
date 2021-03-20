@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5214422",
+    "name": "Stouchsburg, United States",
+    "description": "Pennsylvania, Berks County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5214422",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5214422.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 40.38009
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -76.23217
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 600
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 133
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/New_York"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

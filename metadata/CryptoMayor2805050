@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2805050",
+    "name": "Zehna, Germany",
+    "description": "Mecklenburg-Vorpommern",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2805050",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2805050.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 53.71592
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 12.13836
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 742
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 71
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Berlin"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Germany"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "DE",
+    "altnames": "Zehna"
+}

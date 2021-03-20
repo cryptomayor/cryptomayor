@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor1726425",
+    "name": "Basiao, Philippines",
+    "description": "Western Visayas, Province of Capiz",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor1726425",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor1726425.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 11.54861
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 122.6375
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2475
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 15
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Asia/Manila"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Philippines"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AS"
+        }
+    ],
+    "country_code": "PH",
+    "altnames": "Basiao"
+}

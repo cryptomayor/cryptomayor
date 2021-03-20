@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8949053",
+    "name": "San Biagio, Italy",
+    "description": "Lombardy, Provincia di Mantova",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8949053",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8949053.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 45.09942
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 10.84728
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1762
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 20
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "San Biagio"
+}

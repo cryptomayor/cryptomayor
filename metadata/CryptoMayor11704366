@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor11704366",
+    "name": "St. Veiter Vorstadt, Austria",
+    "description": "Carinthia, Klagenfurt am W\u00f6rthersee",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor11704366",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor11704366.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 46.6317
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 14.30579
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3674
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 446
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Vienna"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Austria"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "AT",
+    "altnames": "5.Bezirk,Klagenfurt 05.Bez.:St.Veiter Vorstadt"
+}

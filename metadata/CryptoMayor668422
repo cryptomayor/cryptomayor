@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor668422",
+    "name": "Rusca, Romania",
+    "description": "Vaslui, Comuna P\u0103dureni",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor668422",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor668422.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 46.64369
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 28.06408
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 695
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 177
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": null
+}

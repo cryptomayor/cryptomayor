@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3174472",
+    "name": "Lunano, Italy",
+    "description": "The Marches, Provincia di Pesaro e Urbino",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3174472",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3174472.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 43.73214
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 12.44326
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1288
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 276
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "Lunano"
+}

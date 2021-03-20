@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor1707335",
+    "name": "Lapaz, Philippines",
+    "description": "Central Visayas, Province of Cebu",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor1707335",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor1707335.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 10.9887
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 123.9797
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3091
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 93
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Asia/Manila"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Philippines"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AS"
+        }
+    ],
+    "country_code": "PH",
+    "altnames": "Lapaz"
+}

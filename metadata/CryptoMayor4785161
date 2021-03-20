@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4785161",
+    "name": "Shawnee Land, United States",
+    "description": "Virginia, Frederick County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4785161",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4785161.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 39.19149
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -78.34556
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1873
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 345
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/New_York"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4014603",
+    "name": "Chalchihuites, Mexico",
+    "description": "Zacatecas, Chalchihuites",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4014603",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4014603.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 23.47498
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -103.88293
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3799
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2279
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Calchihuites,Chalchihuites"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2781003",
+    "name": "Diemlach, Austria",
+    "description": "Styria, Politischer Bezirk Bruck-M\u00fcrzzuschlag",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2781003",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2781003.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.4361
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 15.2746
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1976
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 493
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Vienna"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Austria"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "AT",
+    "altnames": null
+}

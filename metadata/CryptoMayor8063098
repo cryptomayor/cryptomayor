@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8063098",
+    "name": "Favoriten, Austria",
+    "description": "Vienna, Wien Stadt",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8063098",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8063098.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 48.16116
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 16.38233
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 201882
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 236
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Vienna"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Austria"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "AT",
+    "altnames": null
+}

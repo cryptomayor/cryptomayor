@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor679568",
+    "name": "Decea, Romania",
+    "description": "Alba, Comuna Mir\u0103sl\u0103u",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor679568",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor679568.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 46.3834
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 23.76442
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 727
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 256
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": null
+}

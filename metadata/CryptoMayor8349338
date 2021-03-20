@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8349338",
+    "name": "Wattle Grove, Australia",
+    "description": "New South Wales, Liverpool",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8349338",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8349338.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -33.95443
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 150.94447
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 8885
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 16
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Sydney"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": null
+}

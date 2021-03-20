@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3746184",
+    "name": "La Habana Vieja, Cuba",
+    "description": "Havana",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3746184",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3746184.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 23.13028
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -82.35306
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 95383
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 11
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Havana"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Cuba"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "CU",
+    "altnames": "La Habana Vieja"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5127474",
+    "name": "Moravia, United States",
+    "description": "New York, Cayuga County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5127474",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5127474.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 42.71257
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -76.4216
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1236
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 227
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/New_York"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": "Moravia,Owasco Flats"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3910758",
+    "name": "Mapiri, Bolivia",
+    "description": "La Paz",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3910758",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3910758.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -15.25
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -68.16667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2597
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 806
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/La_Paz"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Bolivia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "BO",
+    "altnames": "Mapiri"
+}

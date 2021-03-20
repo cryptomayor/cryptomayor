@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3974104",
+    "name": "Palma Pegada, Mexico",
+    "description": "San Luis Potos\u00ed, Salinas",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3974104",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3974104.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 22.71046
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -101.79187
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1516
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2219
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Palma,Palma Grande,Palma Pegada"
+}

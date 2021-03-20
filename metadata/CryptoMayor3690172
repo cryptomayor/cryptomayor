@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3690172",
+    "name": "Algarrobo, Colombia",
+    "description": "Magdalena, Chibolo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3690172",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3690172.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 10.18694
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -74.57528
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 10042
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 51
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Bogota"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Colombia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "CO",
+    "altnames": "Algarrobo,Hacienda Algarrobo"
+}

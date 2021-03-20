@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4025187",
+    "name": "Santa Cruz, Mexico",
+    "description": "Michoac\u00e1n, Tar\u00edmbaro",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4025187",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4025187.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.85395
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -101.15712
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 760
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1915
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Santa Cruz"
+}

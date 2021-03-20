@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2977699",
+    "name": "Saint-Paul, France",
+    "description": "Nouvelle-Aquitaine, Gironde",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2977699",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2977699.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 45.14801
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -0.60518
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 890
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 32
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Saint-Paul"
+}

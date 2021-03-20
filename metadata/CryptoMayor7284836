@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor7284836",
+    "name": "Budapest XVIII. ker\u00fclet, Hungary",
+    "description": "Budapest, Budapest XVIII.",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor7284836",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor7284836.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.44417
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 19.17595
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 93225
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 127
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Budapest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Hungary"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "HU",
+    "altnames": null
+}

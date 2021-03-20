@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5771179",
+    "name": "Bear River City, United States",
+    "description": "Utah, Box Elder County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5771179",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5771179.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 41.61465
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -112.12662
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 852
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1300
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Denver"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

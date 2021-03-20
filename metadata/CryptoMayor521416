@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor521416",
+    "name": "Nikulino, Russia",
+    "description": "Moscow",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor521416",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor521416.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 55.66943
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 37.46598
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 30000
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 180
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Moscow"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Russia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RU",
+    "altnames": "Nikulino,\u041d\u0438\u043a\u0443\u043b\u0438\u043d\u043e"
+}

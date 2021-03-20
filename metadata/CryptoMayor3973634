@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3973634",
+    "name": "Estancia de Atotonilco, Mexico",
+    "description": "San Luis Potos\u00ed, Santa Mar\u00eda del R\u00edo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3973634",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3973634.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 21.6258
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -100.77408
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 739
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1862
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Estancia de Atotonilco"
+}

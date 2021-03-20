@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3802468",
+    "name": "El Corozal, Mexico",
+    "description": "Tabasco, Centro",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3802468",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3802468.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.00203
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -92.7524
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 736
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 11
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "El Corosal,El Corozal"
+}

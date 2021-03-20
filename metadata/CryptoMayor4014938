@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4014938",
+    "name": "Ceballos, Mexico",
+    "description": "Durango, Mapim\u00ed",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4014938",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4014938.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 26.5258
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -104.1295
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3730
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1186
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Monterrey"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Ceballos"
+}

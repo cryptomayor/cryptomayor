@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3995652",
+    "name": "Mocorito, Mexico",
+    "description": "Sinaloa, Mocorito",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3995652",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3995652.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 25.48202
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -107.92008
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 5426
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 86
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mazatlan"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Mocorito"
+}

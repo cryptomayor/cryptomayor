@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3047619",
+    "name": "Nagymaros, Hungary",
+    "description": "Pest",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3047619",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3047619.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.7928
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 18.95984
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 4629
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 107
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Budapest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Hungary"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "HU",
+    "altnames": "Nagymaros"
+}

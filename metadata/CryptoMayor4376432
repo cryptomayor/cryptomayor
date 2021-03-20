@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4376432",
+    "name": "Belle, United States",
+    "description": "Missouri, Maries County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4376432",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4376432.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 38.28588
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -91.72044
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1528
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 316
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Chicago"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

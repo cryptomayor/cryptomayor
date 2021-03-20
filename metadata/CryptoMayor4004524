@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4004524",
+    "name": "Huiramba, Mexico",
+    "description": "Michoac\u00e1n, Huiramba",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4004524",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4004524.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.54606
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -101.43651
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3007
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2108
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Huiramba"
+}

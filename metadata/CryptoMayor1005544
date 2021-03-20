@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor1005544",
+    "name": "Empangeni, South Africa",
+    "description": "KwaZulu-Natal, uThungulu District Municipality",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor1005544",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor1005544.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -28.76197
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 31.89329
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 28093
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 103
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Africa/Johannesburg"
+        },
+        {
+            "trait_type": "Country",
+            "value": "South Africa"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AF"
+        }
+    ],
+    "country_code": "ZA",
+    "altnames": "EMG,Empangeni"
+}

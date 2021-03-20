@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor714938",
+    "name": "Tarpa, Hungary",
+    "description": "Szabolcs-Szatm\u00e1r-Bereg",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor714938",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor714938.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 48.1048
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 22.53744
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2331
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 109
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Budapest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Hungary"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "HU",
+    "altnames": "Tarpa"
+}

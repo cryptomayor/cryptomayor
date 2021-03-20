@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4015882",
+    "name": "Campo Morado, Mexico",
+    "description": "Guerrero, General Heliodoro Castillo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4015882",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4015882.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 17.58277
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -100.18185
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 554
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1226
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Campo Morado"
+}

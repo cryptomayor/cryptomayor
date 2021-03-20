@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3531008",
+    "name": "Chiaucingo, Mexico",
+    "description": "Guerrero, Cual\u00e1c",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3531008",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3531008.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 17.74207
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -98.6972
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1331
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1378
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Chapancingo"
+}

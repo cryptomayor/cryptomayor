@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4007349",
+    "name": "El Tecolote, Mexico",
+    "description": "Guanajuato, Pur\u00edsima del Rinc\u00f3n",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4007349",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4007349.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.88407
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -101.92432
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1411
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1738
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "El Tecolote"
+}

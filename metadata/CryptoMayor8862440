@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8862440",
+    "name": "Coaquentla, Mexico",
+    "description": "San Luis Potos\u00ed, Matlapa",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8862440",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8862440.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 21.31139
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -98.895
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 571
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 611
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Coaquentla"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor7284843",
+    "name": "Budapest II. ker\u00fclet, Hungary",
+    "description": "Budapest, Budapest II.",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor7284843",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor7284843.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.51984
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 19.02218
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 88729
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 202
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Budapest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Hungary"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "HU",
+    "altnames": null
+}

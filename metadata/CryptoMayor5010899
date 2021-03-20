@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5010899",
+    "name": "Springport, United States",
+    "description": "Michigan, Jackson County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5010899",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5010899.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 42.37837
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -84.69859
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 790
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 306
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Detroit"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

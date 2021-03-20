@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3628550",
+    "name": "San Antonio de Los Altos, Venezuela",
+    "description": "Miranda, Municipio Los Salias",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3628550",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3628550.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 10.38853
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -66.95179
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 63873
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1396
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Caracas"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Venezuela"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "VE",
+    "altnames": "San Antonio de Los Altos"
+}

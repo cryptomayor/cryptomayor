@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor543989",
+    "name": "Kostenki, Russia",
+    "description": "Voronezj",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor543989",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor543989.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 51.3958
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 39.0376
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1000
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 104
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Moscow"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Russia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RU",
+    "altnames": "Kostenki,Kostjonki,\u041a\u043e\u0441\u0442\u0435\u043d\u043a\u0438,\u041a\u043e\u0441\u0442\u0451\u043d\u043a\u0438"
+}

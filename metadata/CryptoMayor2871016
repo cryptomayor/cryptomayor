@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2871016",
+    "name": "Minheim, Germany",
+    "description": "Rheinland-Pfalz",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2871016",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2871016.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 49.86493
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 6.93692
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 521
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 128
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Berlin"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Germany"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "DE",
+    "altnames": null
+}

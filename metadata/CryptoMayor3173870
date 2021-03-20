@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3173870",
+    "name": "Marsciano, Italy",
+    "description": "Umbria, Provincia di Perugia",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3173870",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3173870.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 42.92093
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 12.35066
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 9631
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 187
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "Marsciano"
+}

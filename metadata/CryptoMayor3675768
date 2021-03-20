@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3675768",
+    "name": "Maceo, Colombia",
+    "description": "Antioquia, Maceo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3675768",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3675768.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 6.55196
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -74.78741
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3109
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 951
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Bogota"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Colombia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "CO",
+    "altnames": "Maceo"
+}

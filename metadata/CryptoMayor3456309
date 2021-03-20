@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3456309",
+    "name": "Nhandeara, Brazil",
+    "description": "S\u00e3o Paulo, Nhandeara",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3456309",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3456309.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -20.6897
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -50.0407
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 10000
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 514
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Sao_Paulo"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Brazil"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "BR",
+    "altnames": null
+}

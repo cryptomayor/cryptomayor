@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2968854",
+    "name": "Villebrumier, France",
+    "description": "Occitanie, Tarn-et-Garonne",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2968854",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2968854.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 43.90841
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 1.45603
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 982
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 130
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Villebrumier"
+}

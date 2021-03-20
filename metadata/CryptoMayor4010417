@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4010417",
+    "name": "El Chayote, Mexico",
+    "description": "Aguascalientes, Tepezal\u00e1",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4010417",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4010417.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 22.28667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -102.239
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1817
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1928
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "El Chayote"
+}

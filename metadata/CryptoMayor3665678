@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3665678",
+    "name": "Yotoco, Colombia",
+    "description": "Valle del Cauca, Yotoco",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3665678",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3665678.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 3.86048
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -76.38364
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 8362
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 956
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Bogota"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Colombia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "CO",
+    "altnames": "Yataco,Yotoco"
+}

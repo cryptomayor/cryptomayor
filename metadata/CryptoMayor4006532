@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4006532",
+    "name": "Esqueda, Mexico",
+    "description": "Sonora, Fronteras",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4006532",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4006532.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 30.72412
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -109.5893
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 6749
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1204
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Hermosillo"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Esqueda"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4007844",
+    "name": "El Rodeo, Mexico",
+    "description": "Jalisco, Ixtlahuac\u00e1n de los Membrillos",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4007844",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4007844.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.4092
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -103.17966
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1367
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1523
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": null
+}

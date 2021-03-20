@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor1767021",
+    "name": "Kampong Masjid Tanah, Malaysia",
+    "description": "Melaka",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor1767021",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor1767021.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 2.35
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 102.11667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 29185
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 17
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Asia/Kuala_Lumpur"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Malaysia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AS"
+        }
+    ],
+    "country_code": "MY",
+    "altnames": "Kampong Masjid Tanah"
+}

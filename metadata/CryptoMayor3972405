@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3972405",
+    "name": "Santa Gertrudis, Mexico",
+    "description": "Zacatecas, Pinos",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3972405",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3972405.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 22.59995
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -101.31596
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 695
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2080
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Santa Gertrudis"
+}

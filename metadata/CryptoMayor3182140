@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3182140",
+    "name": "Bersezio, Italy",
+    "description": "Piedmont, Provincia di Cuneo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3182140",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3182140.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 44.38031
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 6.96885
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 65
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1624
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": null
+}

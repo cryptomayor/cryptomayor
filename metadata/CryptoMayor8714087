@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8714087",
+    "name": "El Sabinito, Mexico",
+    "description": "San Luis Potos\u00ed, El Naranjo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8714087",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8714087.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 22.5175
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -99.3725
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 527
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 423
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "El Sabinito"
+}

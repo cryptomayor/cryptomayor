@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3483526",
+    "name": "El Huayal, Mexico",
+    "description": "San Luis Potos\u00ed, San Mart\u00edn Chalchicuautla",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3483526",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3483526.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 21.48169
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -98.59879
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 878
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 99
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "El Huayal"
+}

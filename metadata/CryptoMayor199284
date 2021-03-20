@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor199284",
+    "name": "Chuka, Kenya",
+    "description": "Tharaka - Nithi",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor199284",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor199284.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -0.33316
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 37.64587
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 9347
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1452
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Africa/Nairobi"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Kenya"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AF"
+        }
+    ],
+    "country_code": "KE",
+    "altnames": "Chuka"
+}

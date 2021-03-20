@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3602355",
+    "name": "San Esteban, Honduras",
+    "description": "Olancho",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3602355",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3602355.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 15.21231
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -85.76996
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3439
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 447
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Tegucigalpa"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Honduras"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "HN",
+    "altnames": "SET,San Esteban"
+}

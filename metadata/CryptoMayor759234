@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor759234",
+    "name": "Sietesz, Poland",
+    "description": "Subcarpathia, Powiat przeworski",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor759234",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor759234.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 49.98622
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 22.34671
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1800
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 261
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Warsaw"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Poland"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "PL",
+    "altnames": null
+}

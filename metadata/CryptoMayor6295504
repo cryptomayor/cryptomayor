@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6295504",
+    "name": "Z\u00fcrich (Kreis 6) / Unterstrass, Switzerland",
+    "description": "Zurich, Bezirk Z\u00fcrich",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6295504",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6295504.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.3953
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 8.53721
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 20045
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 476
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Zurich"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Switzerland"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "CH",
+    "altnames": "Unterstrass"
+}

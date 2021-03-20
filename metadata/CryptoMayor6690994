@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6690994",
+    "name": "Rialto, Ireland",
+    "description": "Leinster, Dublin City",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6690994",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6690994.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 53.33625
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -6.29718
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3652
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 20
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Dublin"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Ireland"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IE",
+    "altnames": null
+}

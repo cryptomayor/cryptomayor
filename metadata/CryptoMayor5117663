@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5117663",
+    "name": "Fort Hamilton, United States",
+    "description": "New York, Kings County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5117663",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5117663.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 40.61872
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -74.0332
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 28966
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 23
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/New_York"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

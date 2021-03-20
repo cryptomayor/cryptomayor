@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2659283",
+    "name": "Oron-la-Ville, Switzerland",
+    "description": "Vaud, Lavaux-Oron District",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2659283",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2659283.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 46.57094
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 6.82557
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1198
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 629
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Zurich"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Switzerland"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "CH",
+    "altnames": "Oron-la-Ville"
+}

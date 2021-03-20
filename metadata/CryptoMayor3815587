@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3815587",
+    "name": "Nueva Galilea, Mexico",
+    "description": "Chiapas, Palenque",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3815587",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3815587.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 17.31762
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -91.85292
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 843
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 280
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Galilea,Nueva Galilea"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8950154",
+    "name": "San Giorgio, Italy",
+    "description": "Sicily, Enna",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8950154",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8950154.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 37.64035
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 14.46822
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 577
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 603
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "San Giorgio"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3183070",
+    "name": "Anela, Italy",
+    "description": "Sardinia, Provincia di Sassari",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3183070",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3183070.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 40.44176
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 9.05743
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 652
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 455
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "Anela"
+}

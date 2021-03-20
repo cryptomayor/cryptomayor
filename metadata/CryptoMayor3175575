@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3175575",
+    "name": "Illorai, Italy",
+    "description": "Sardinia, Provincia di Sassari",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3175575",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3175575.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 40.35271
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 9.0017
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 892
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 503
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "Illorai"
+}

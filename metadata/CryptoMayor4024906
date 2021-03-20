@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4024906",
+    "name": "San Juan Grande, Mexico",
+    "description": "Guanajuato, Huan\u00edmaro",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4024906",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4024906.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.37627
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -101.52677
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1027
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1741
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "San Juan El Grande,San Juan Grande"
+}

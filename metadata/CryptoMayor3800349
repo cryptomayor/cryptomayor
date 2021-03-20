@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3800349",
+    "name": "San Juan Yosocani, Mexico",
+    "description": "Oaxaca, San Lorenzo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3800349",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3800349.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 16.43409
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -97.9005
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 504
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 523
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "San Juan Yosocani"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor1106294",
+    "name": "Bairro 25 de Junho B, Mozambique",
+    "description": "Maputo City",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor1106294",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor1106294.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -25.90111
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 32.5775
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 0
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 42
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Africa/Maputo"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mozambique"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AF"
+        }
+    ],
+    "country_code": "MZ",
+    "altnames": "25 de Junho \u201dB\u201d,Bairro 25 de Junho \u201dB\u201d"
+}

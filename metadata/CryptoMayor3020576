@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3020576",
+    "name": "Ebersheim, France",
+    "description": "Grand Est, Bas-Rhin",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3020576",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3020576.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 48.30438
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 7.49903
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1968
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 164
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": null
+}

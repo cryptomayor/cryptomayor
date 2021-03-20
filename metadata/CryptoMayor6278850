@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6278850",
+    "name": "San Isidro, Peru",
+    "description": "Loreto, Mariscal Ramon Castilla",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6278850",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6278850.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -3.86455
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -71.35332
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 621
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 84
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Lima"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Peru"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "PE",
+    "altnames": null
+}

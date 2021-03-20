@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3929790",
+    "name": "San Buenaventura, Peru",
+    "description": "Lima region, Provincia de Canta",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3929790",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3929790.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -11.48889
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -76.66194
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 134
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2707
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Lima"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Peru"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "PE",
+    "altnames": "Buenaventura,San Buenaventura"
+}

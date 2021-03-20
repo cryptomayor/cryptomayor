@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3515505",
+    "name": "Tizayuca, Mexico",
+    "description": "Hidalgo, Tizayuca",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3515505",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3515505.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.83721
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -98.97607
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 43250
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2275
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Tizayuca,Tizayucan"
+}

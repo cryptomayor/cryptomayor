@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3518739",
+    "name": "San Juan Amecac, Mexico",
+    "description": "Puebla, Atzitzihuac\u00e1n",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3518739",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3518739.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.83469
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -98.65909
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3956
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2079
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Amecac,San Juan Amecac"
+}

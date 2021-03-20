@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2062276",
+    "name": "Roebourne, Australia",
+    "description": "Western Australia, Karratha",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2062276",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2062276.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -20.77229
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 117.14648
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 989
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 11
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Perth"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": "RBU,Roebourne"
+}

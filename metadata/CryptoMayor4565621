@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4565621",
+    "name": "Jagual, Puerto Rico",
+    "description": "San Lorenzo, Jagual Barrio",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4565621",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4565621.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.16163
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -65.99544
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1402
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 208
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Puerto_Rico"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Puerto Rico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "PR",
+    "altnames": null
+}

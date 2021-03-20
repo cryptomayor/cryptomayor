@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3682682",
+    "name": "El Zulia, Colombia",
+    "description": "Norte de Santander, El Zulia",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3682682",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3682682.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 7.93248
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -72.60125
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 13521
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 207
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Bogota"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Colombia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "CO",
+    "altnames": "El Zulia,Villa Zulia,Zulia"
+}

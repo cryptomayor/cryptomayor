@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor1493423",
+    "name": "Russkaya Polyana, Russia",
+    "description": "Omsk",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor1493423",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor1493423.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 53.77944
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 73.88056
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 6454
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 127
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Asia/Omsk"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Russia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RU",
+    "altnames": "Russkaja Poljana,Russkaya Polyana,\u0420\u0443\u0441\u0441\u043a\u0430\u044f \u041f\u043e\u043b\u044f\u043d\u0430"
+}

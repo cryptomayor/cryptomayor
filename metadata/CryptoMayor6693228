@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6693228",
+    "name": "Balvanera, Argentina",
+    "description": "Buenos Aires F.D., Comuna 3",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6693228",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6693228.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -34.61032
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -58.39766
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 152198
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 35
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Argentina/Buenos_Aires"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Argentina"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "AR",
+    "altnames": null
+}

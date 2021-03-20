@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor933437",
+    "name": "Makwata, Botswana",
+    "description": "Central",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor933437",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor933437.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -23.28333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 27.3
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1660
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 888
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Africa/Gaborone"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Botswana"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AF"
+        }
+    ],
+    "country_code": "BW",
+    "altnames": null
+}

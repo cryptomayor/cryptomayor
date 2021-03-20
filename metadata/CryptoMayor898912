@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor898912",
+    "name": "Serenje, Zambia",
+    "description": "Central",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor898912",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor898912.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -13.23251
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 30.23522
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 8779
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1424
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Africa/Lusaka"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Zambia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AF"
+        }
+    ],
+    "country_code": "ZM",
+    "altnames": "Serenje"
+}

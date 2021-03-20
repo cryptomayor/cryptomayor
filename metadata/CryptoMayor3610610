@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3610610",
+    "name": "El Puente, Honduras",
+    "description": "Choluteca",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3610610",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3610610.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 13.28333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -87.11667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1325
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 243
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Tegucigalpa"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Honduras"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "HN",
+    "altnames": null
+}

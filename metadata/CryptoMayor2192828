@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2192828",
+    "name": "Bulls, New Zealand",
+    "description": "Manawatu-Wanganui, Rangitikei District",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2192828",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2192828.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -40.17487
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 175.38463
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1781
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 55
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Pacific/Auckland"
+        },
+        {
+            "trait_type": "Country",
+            "value": "New Zealand"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "NZ",
+    "altnames": "Bulls Town District"
+}

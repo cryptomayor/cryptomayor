@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor9957353",
+    "name": "Yeronga, Australia",
+    "description": "Queensland, Brisbane",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor9957353",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor9957353.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -27.51571
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 153.01642
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 6364
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 13
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Brisbane"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": null
+}

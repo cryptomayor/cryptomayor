@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3016306",
+    "name": "Genouilly, France",
+    "description": "Centre, Cher",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3016306",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3016306.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.19114
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 1.88638
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 759
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 138
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Genouilly"
+}

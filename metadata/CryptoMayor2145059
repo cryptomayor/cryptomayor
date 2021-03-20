@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2145059",
+    "name": "Walcha, Australia",
+    "description": "New South Wales, Walcha",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2145059",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2145059.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -30.98493
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 151.59335
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2538
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1047
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Sydney"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": "WLC,Walcha"
+}

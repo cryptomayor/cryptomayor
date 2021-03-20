@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor545400",
+    "name": "Konokovo, Russia",
+    "description": "Krasnodarskiy",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor545400",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor545400.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 44.8616
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 41.3266
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 7507
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 238
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Moscow"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Russia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RU",
+    "altnames": "Kanokovo,Konokovo,\u041a\u043e\u043d\u043e\u043a\u043e\u0432\u043e"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor441816",
+    "name": "Akziyaret, Turkey",
+    "description": "Mardin",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor441816",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor441816.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 37.19737
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 40.49844
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 520
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 468
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Istanbul"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Turkey"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AS"
+        }
+    ],
+    "country_code": "TR",
+    "altnames": "Akziyaret"
+}

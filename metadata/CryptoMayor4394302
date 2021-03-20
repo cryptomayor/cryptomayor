@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4394302",
+    "name": "Lake Saint Louis, United States",
+    "description": "Missouri, Saint Charles County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4394302",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4394302.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 38.79755
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -90.78568
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 14545
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 170
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Chicago"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

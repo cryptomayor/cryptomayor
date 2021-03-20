@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2710291",
+    "name": "Grundsund, Sweden",
+    "description": "V\u00e4stra G\u00f6taland, Lysekils Kommun",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2710291",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2710291.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 58.21217
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 11.41877
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 647
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 4
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Stockholm"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Sweden"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "SE",
+    "altnames": null
+}

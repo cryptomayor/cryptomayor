@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3532636",
+    "name": "Atencingo, Mexico",
+    "description": "Puebla, Chietla",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3532636",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3532636.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.51347
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -98.60542
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 10879
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1096
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Atencingo"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3679130",
+    "name": "La Esperanza, Colombia",
+    "description": "Norte de Santander, C\u00facuta",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3679130",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3679130.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 8.21043
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -72.46399
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2718
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 81
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Bogota"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Colombia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "CO",
+    "altnames": "La Esperanza"
+}

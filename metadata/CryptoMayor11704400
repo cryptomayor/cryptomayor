@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor11704400",
+    "name": "Maryborough West, Australia",
+    "description": "Queensland, Fraser Coast",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor11704400",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor11704400.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -25.5053
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 152.6664
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 535
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 19
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Brisbane"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": null
+}

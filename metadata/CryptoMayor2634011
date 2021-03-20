@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2634011",
+    "name": "Whittlebury, United Kingdom",
+    "description": "England, Northamptonshire",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2634011",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2634011.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 52.09027
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -0.9922
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 589
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 156
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/London"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United Kingdom"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "GB",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3429778",
+    "name": "Puerto Ibicuy, Argentina",
+    "description": "Entre Rios, Departamento de Islas del Ibicuy",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3429778",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3429778.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -33.75305
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -59.17762
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 4477
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 4
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Argentina/Cordoba"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Argentina"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "AR",
+    "altnames": "Puerto Ibicuy,Punta Ibicuy"
+}

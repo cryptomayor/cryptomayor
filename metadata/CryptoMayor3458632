@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3458632",
+    "name": "Leopoldina, Brazil",
+    "description": "Minas Gerais, Leopoldina",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3458632",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3458632.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -21.53194
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -42.64306
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 46742
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 250
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Sao_Paulo"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Brazil"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "BR",
+    "altnames": "LEP"
+}

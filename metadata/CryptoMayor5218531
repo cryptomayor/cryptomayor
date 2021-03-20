@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5218531",
+    "name": "Wesleyville, United States",
+    "description": "Pennsylvania, Erie County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5218531",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5218531.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 42.14033
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -80.01506
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3226
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 221
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/New_York"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3824454",
+    "name": "Tenantitla, Mexico",
+    "description": "Veracruz, Benito Ju\u00e1rez",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3824454",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3824454.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.77031
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -98.14433
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1273
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 326
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Tenantilla,Tenantitla"
+}

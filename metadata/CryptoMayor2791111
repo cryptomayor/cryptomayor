@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2791111",
+    "name": "Moere, Belgium",
+    "description": "Flanders, Provincie West-Vlaanderen",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2791111",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2791111.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 51.12263
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 2.95582
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1220
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Brussels"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Belgium"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "BE",
+    "altnames": "Moere"
+}

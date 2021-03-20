@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3455049",
+    "name": "Paranhos, Brazil",
+    "description": "Mato Grosso do Sul, Paranhos",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3455049",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3455049.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -23.89278
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -55.43111
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 6516
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 417
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Campo_Grande"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Brazil"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "BR",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor685989",
+    "name": "Baba Novac, Romania",
+    "description": "Satu Mare, Ora\u0219 Ardud",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor685989",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor685989.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.64922
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 22.79304
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 648
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 127
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": null
+}

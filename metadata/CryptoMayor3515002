@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3515002",
+    "name": "Tuxtla Chico, Mexico",
+    "description": "Chiapas, Tuxtla Chico",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3515002",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3515002.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 14.93945
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -92.1673
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 7026
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 321
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Tuxtla Chico"
+}

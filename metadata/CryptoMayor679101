@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor679101",
+    "name": "Dopca, Romania",
+    "description": "Bra\u015fov, Comuna Hoghiz",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor679101",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor679101.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 45.98381
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 25.38539
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 547
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 461
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": null
+}

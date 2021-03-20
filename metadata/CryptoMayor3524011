@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3524011",
+    "name": "Los Lirios, Mexico",
+    "description": "Veracruz, Angel R. Cabada",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3524011",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3524011.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.50058
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -95.38828
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1292
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 50
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Lirios,Los Lirios"
+}

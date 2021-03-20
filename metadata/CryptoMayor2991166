@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2991166",
+    "name": "Murato, France",
+    "description": "Corsica, Upper Corsica",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2991166",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2991166.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 42.578
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 9.3271
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 607
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 501
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Murato"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2849855",
+    "name": "Rausdorf, Germany",
+    "description": "Thuringia",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2849855",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2849855.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 50.85767
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 11.68864
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 210
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 263
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Berlin"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Germany"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "DE",
+    "altnames": null
+}

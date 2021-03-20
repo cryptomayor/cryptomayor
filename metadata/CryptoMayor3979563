@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3979563",
+    "name": "Islas Agrarias Grupo B, Mexico",
+    "description": "Baja California, Mexicali",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3979563",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3979563.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 32.60034
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -115.27172
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1054
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 11
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Tijuana"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Islas Agrarias Grupo B,Islas Agrarias-B"
+}

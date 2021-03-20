@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor11704396",
+    "name": "Shepparton East, Australia",
+    "description": "Victoria, Greater Shepparton",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor11704396",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor11704396.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -36.40156
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 145.47765
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1100
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 118
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Melbourne"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": null
+}

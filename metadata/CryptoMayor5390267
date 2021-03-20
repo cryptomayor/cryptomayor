@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5390267",
+    "name": "Saint Helena, United States",
+    "description": "California, Napa County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5390267",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5390267.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 38.50519
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -122.47026
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 5814
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 77
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Los_Angeles"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": "St. Helena"
+}

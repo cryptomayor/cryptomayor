@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3167799",
+    "name": "San Polomatese, Italy",
+    "description": "Molise, Provincia di Campobasso",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3167799",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3167799.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 41.45932
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 14.49343
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 160
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 734
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "San Polo Matese"
+}

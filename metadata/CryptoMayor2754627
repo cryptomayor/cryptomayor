@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2754627",
+    "name": "Heeswijk, Netherlands",
+    "description": "Utrecht, Gemeente Montfoort",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2754627",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2754627.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 52.05167
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 4.96944
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 665
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Amsterdam"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Netherlands"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "NL",
+    "altnames": null
+}

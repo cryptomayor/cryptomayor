@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3035142",
+    "name": "Banize, France",
+    "description": "Nouvelle-Aquitaine, Creuse",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3035142",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3035142.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 45.87479
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 2.06168
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 164
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 611
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": null
+}

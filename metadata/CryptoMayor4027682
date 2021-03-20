@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4027682",
+    "name": "Pueblo Viejo, Mexico",
+    "description": "Guerrero, General Heliodoro Castillo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4027682",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4027682.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 17.53864
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -100.11776
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1152
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1825
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Pueblo Viejo,Puerto Viejo"
+}

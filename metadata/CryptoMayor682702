@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor682702",
+    "name": "Caravane\u021bi, Romania",
+    "description": "Teleorman, Comuna C\u00e3lm\u00e3\u0163uiu",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor682702",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor682702.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 43.95551
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 24.87625
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 519
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 67
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": null
+}

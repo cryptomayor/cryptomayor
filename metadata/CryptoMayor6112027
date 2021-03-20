@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6112027",
+    "name": "Port Stanley, Canada",
+    "description": "Ontario, Elgin County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6112027",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6112027.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 42.66679
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -81.21644
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2148
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 180
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Toronto"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Canada"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "CA",
+    "altnames": null
+}

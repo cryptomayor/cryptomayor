@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor1252423",
+    "name": "Trashigang, Bhutan",
+    "description": "Tashigang",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor1252423",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor1252423.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 27.3331
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 91.55424
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 872
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1174
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Asia/Thimphu"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Bhutan"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AS"
+        }
+    ],
+    "country_code": "BT",
+    "altnames": "Benkar,Tashi Gang Dzong,Tashigang,Trashigang,YON"
+}

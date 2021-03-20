@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4001325",
+    "name": "La Mira Tumbiscatio, Mexico",
+    "description": "Michoac\u00e1n, Tumbiscat\u00edo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4001325",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4001325.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.68333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -102.28333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 14536
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 495
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "La Mira,La Mira Tumbiscatio"
+}

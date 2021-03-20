@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3518530",
+    "name": "San Lorenzo Toxico, Mexico",
+    "description": "M\u00e9xico, Ixtlahuaca",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3518530",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3518530.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.50917
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -99.76278
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3302
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2604
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "San Lorenzo,San Lorenzo Toxico,Toxico"
+}

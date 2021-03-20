@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3982662",
+    "name": "Tacubaya, Mexico",
+    "description": "Guanajuato, P\u00e9njamo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3982662",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3982662.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.30161
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -101.79495
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 857
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1712
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Tacubaya"
+}

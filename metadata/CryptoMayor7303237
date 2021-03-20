@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor7303237",
+    "name": "Saint Saphorin, Switzerland",
+    "description": "Vaud, Lavaux-Oron District",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor7303237",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor7303237.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 46.47329
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 6.79601
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 0
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 403
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Zurich"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Switzerland"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "CH",
+    "altnames": "St-Saphorin (Lavaux)"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor662535",
+    "name": "Voetin, Romania",
+    "description": "Vrancea, Comuna Sihlea",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor662535",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor662535.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 45.4437
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 27.14587
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1305
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 71
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": "Voetenu,Voetin,Voietenu"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8435800",
+    "name": "Dragoslavele, Romania",
+    "description": "Arges, Comuna Dragoslavele",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8435800",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8435800.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 45.34801
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 25.16925
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2480
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 675
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": null
+}

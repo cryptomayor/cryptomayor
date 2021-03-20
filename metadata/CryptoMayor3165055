@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3165055",
+    "name": "Uliveto Terme, Italy",
+    "description": "Tuscany, Province of Pisa",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3165055",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3165055.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 43.69609
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 10.51728
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1337
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 10
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": null
+}

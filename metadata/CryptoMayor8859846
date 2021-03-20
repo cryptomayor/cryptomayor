@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8859846",
+    "name": "Pintillo, Mexico",
+    "description": "Quer\u00e9taro, Quer\u00e9taro",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8859846",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8859846.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.79667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -100.41694
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1035
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2023
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Pintillo"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor775010",
+    "name": "Brzyska, Poland",
+    "description": "Subcarpathia, Powiat jasielski",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor775010",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor775010.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 49.82226
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 21.39004
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1900
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 231
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Warsaw"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Poland"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "PL",
+    "altnames": "Brzyska,Brzyski"
+}

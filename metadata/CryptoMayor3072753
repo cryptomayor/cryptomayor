@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3072753",
+    "name": "K\u0159esetice, Czechia",
+    "description": "Central Bohemia, Okres Kutn\u00e1 Hora",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3072753",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3072753.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 49.90714
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 15.26285
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 613
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 306
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Prague"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Czechia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "CZ",
+    "altnames": null
+}

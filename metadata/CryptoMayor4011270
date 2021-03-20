@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4011270",
+    "name": "El Alamito, Mexico",
+    "description": "Sinaloa, Sinaloa",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4011270",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4011270.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 25.84456
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -108.47907
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 613
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 56
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mazatlan"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "El Alamito"
+}

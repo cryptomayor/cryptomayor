@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2643343",
+    "name": "Luston, United Kingdom",
+    "description": "England, Herefordshire",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2643343",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2643343.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 52.26402
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -2.75406
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 541
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 83
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/London"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United Kingdom"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "GB",
+    "altnames": null
+}

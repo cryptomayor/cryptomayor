@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3455447",
+    "name": "Palmas de Monte Alto, Brazil",
+    "description": "Bahia, Palmas de Monte Alto",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3455447",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3455447.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -14.26722
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -43.16194
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 7091
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 565
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Bahia"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Brazil"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "BR",
+    "altnames": "Monte Alto"
+}

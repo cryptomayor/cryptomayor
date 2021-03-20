@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor1810808",
+    "name": "Fuzhuang, China",
+    "description": "Tianjin",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor1810808",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor1810808.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 39.26611
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 117.93444
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1468
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": -1
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Asia/Shanghai"
+        },
+        {
+            "trait_type": "Country",
+            "value": "China"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AS"
+        }
+    ],
+    "country_code": "CN",
+    "altnames": "Fuzhuang"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6294531",
+    "name": "Schwerzenbach / Chimli, Switzerland",
+    "description": "Zurich, Bezirk Uster",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6294531",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6294531.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.38592
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 8.65888
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1020
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 446
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Zurich"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Switzerland"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "CH",
+    "altnames": "Chimli"
+}

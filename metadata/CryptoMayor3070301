@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3070301",
+    "name": "Mo\u0159ina, Czechia",
+    "description": "Central Bohemia, Okres Beroun",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3070301",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3070301.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 49.95284
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 14.20863
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 591
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 345
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Prague"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Czechia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "CZ",
+    "altnames": null
+}

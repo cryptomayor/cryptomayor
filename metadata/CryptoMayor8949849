@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8949849",
+    "name": "Fumo, Italy",
+    "description": "Lombardy, Provincia di Pavia",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8949849",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8949849.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 45.02306
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 9.15307
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 700
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 94
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "Fumo"
+}

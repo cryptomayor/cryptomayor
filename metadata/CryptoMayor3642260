@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3642260",
+    "name": "El Pao, Venezuela",
+    "description": "Cojedes, Municipio Pao de San Juan Bautista",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3642260",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3642260.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 9.63926
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -68.12917
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 0
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 136
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Caracas"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Venezuela"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "VE",
+    "altnames": "El Pao,Pao"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2758241",
+    "name": "Broeksittard, Netherlands",
+    "description": "Limburg, Gemeente Sittard-Geleen",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2758241",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2758241.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 51.0029
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 5.89511
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1550
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 45
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Amsterdam"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Netherlands"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "NL",
+    "altnames": null
+}

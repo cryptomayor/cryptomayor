@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3833391",
+    "name": "Uriburu, Argentina",
+    "description": "La Pampa, Departamento de Catril\u00f3",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3833391",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3833391.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -36.50682
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -63.86225
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1200
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 144
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Argentina/Salta"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Argentina"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "AR",
+    "altnames": "Uriburu"
+}

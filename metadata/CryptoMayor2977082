@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2977082",
+    "name": "Saint-Santin, France",
+    "description": "Occitanie, Aveyron",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2977082",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2977082.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 44.65
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 2.21667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 547
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 348
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Saint-Santin,Saint-Santin-d'Aveyron,Saint-Santin-des-morts"
+}

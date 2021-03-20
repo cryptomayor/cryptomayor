@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2797731",
+    "name": "Gelinden, Belgium",
+    "description": "Flanders, Provincie Limburg",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2797731",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2797731.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 50.7656
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 5.26121
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1484
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 75
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Brussels"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Belgium"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "BE",
+    "altnames": "Gelinden"
+}

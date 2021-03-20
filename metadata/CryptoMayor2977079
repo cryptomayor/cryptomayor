@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2977079",
+    "name": "Saint-Sardos, France",
+    "description": "Occitanie, Tarn-et-Garonne",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2977079",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2977079.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 43.89972
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 1.13324
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 596
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 179
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Saint-Sardos"
+}

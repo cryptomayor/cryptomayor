@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2970224",
+    "name": "Velaines, France",
+    "description": "Grand Est, Meuse",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2970224",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2970224.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 48.6988
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 5.30483
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1009
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 216
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Velaines"
+}

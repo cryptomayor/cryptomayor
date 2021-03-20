@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3020898",
+    "name": "Doussay, France",
+    "description": "Nouvelle-Aquitaine, Vienne",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3020898",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3020898.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 46.84337
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 0.27519
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 572
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 86
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Doussay"
+}

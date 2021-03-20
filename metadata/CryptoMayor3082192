@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3082192",
+    "name": "Wieprz, Poland",
+    "description": "Lesser Poland, Powiat wadowicki",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3082192",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3082192.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 49.89093
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 19.35688
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 5002
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 289
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Warsaw"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Poland"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "PL",
+    "altnames": null
+}

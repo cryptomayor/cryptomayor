@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4022554",
+    "name": "La Trinidad, Mexico",
+    "description": "Nuevo Le\u00f3n, Aramberri",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4022554",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4022554.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 24.09883
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -100.05902
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 621
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1585
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Monterrey"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "La Trinidad"
+}

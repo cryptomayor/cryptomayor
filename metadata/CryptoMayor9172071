@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor9172071",
+    "name": "Willoughby East, Australia",
+    "description": "New South Wales, Willoughby",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor9172071",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor9172071.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -33.79844
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 151.20518
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1775
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 82
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Sydney"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": null
+}

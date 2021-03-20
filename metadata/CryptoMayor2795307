@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2795307",
+    "name": "Hour, Belgium",
+    "description": "Wallonia, Province de Namur",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2795307",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2795307.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 50.16131
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 5.03878
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 534
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 171
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Brussels"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Belgium"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "BE",
+    "altnames": "Hour"
+}

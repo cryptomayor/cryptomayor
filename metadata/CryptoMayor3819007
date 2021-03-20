@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3819007",
+    "name": "San Juan Llano Grande, Mexico",
+    "description": "Puebla, San Pedro Yeloixtlahuaca",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3819007",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3819007.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.06633
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -98.0866
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 769
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1188
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Llano Grande,San Juan Llano Grande"
+}

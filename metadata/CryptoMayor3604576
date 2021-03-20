@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3604576",
+    "name": "Morolica, Honduras",
+    "description": "Choluteca",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3604576",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3604576.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 13.56667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -86.9
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 973
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 189
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Tegucigalpa"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Honduras"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "HN",
+    "altnames": "Morolica"
+}

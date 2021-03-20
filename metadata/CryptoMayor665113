@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor665113",
+    "name": "Tigveni, Romania",
+    "description": "Arges, Comuna Tigveni",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor665113",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor665113.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 45.13333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 24.58333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3634
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 464
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": null
+}

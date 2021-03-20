@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4262433",
+    "name": "Oaktown, United States",
+    "description": "Indiana, Knox County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4262433",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4262433.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 38.87116
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -87.44141
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 601
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 146
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Indiana/Vincennes"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": "OTN,Oak Station,Oaktown"
+}

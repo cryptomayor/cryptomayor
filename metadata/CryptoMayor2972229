@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2972229",
+    "name": "Tournes, France",
+    "description": "Grand Est, Ardennes",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2972229",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2972229.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 49.797
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 4.63856
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1080
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 164
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Tournes"
+}

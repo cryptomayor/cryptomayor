@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor606249",
+    "name": "Ersmark, Sweden",
+    "description": "V\u00e4sterbotten, Ume\u00e5 Kommun",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor606249",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor606249.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 63.88333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 20.31667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1650
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 44
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Stockholm"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Sweden"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "SE",
+    "altnames": "Ersmark"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor157366",
+    "name": "Kimamba, Tanzania",
+    "description": "Morogoro, Kilosa",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor157366",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor157366.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -6.78333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 37.13333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 11235
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 441
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Africa/Dar_es_Salaam"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Tanzania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AF"
+        }
+    ],
+    "country_code": "TZ",
+    "altnames": "Kimamba"
+}

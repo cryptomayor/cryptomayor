@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3525639",
+    "name": "Lagunillas, Mexico",
+    "description": "San Luis Potos\u00ed, Ciudad del Ma\u00edz",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3525639",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3525639.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 22.32954
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -99.56629
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 692
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1400
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Colonia Lagunillas,Lagunillas"
+}

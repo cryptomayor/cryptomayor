@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8862457",
+    "name": "Santa Ana, Mexico",
+    "description": "Oaxaca, Santa Mar\u00eda Tlahuitoltepec",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8862457",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8862457.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 17.09528
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -96.05472
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 569
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2063
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Santa Ana"
+}

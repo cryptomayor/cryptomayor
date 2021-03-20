@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3010782",
+    "name": "Labrit, France",
+    "description": "Nouvelle-Aquitaine, Landes",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3010782",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3010782.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 44.10521
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -0.5452
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 778
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 82
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": null
+}

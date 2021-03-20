@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3527920",
+    "name": "San Lucas, Mexico",
+    "description": "Chiapas, San Lucas",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3527920",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3527920.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 16.61167
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -92.71806
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 4716
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 665
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "El Zapotal,San Lucas"
+}

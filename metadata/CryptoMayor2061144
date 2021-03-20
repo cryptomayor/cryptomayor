@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2061144",
+    "name": "Springton, Australia",
+    "description": "South Australia, Barossa",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2061144",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2061144.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -34.70744
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 139.08929
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 644
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 391
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Adelaide"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": "Springton"
+}

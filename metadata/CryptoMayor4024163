@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4024163",
+    "name": "Obraje de Ixtla, Mexico",
+    "description": "Guanajuato, Apaseo el Grande",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4024163",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4024163.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.66931
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -100.60828
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 914
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2014
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "El Obraje,Obraje de Ixtla"
+}

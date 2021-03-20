@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3692329",
+    "name": "San Pedro, Peru",
+    "description": "Piura, Morropon",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3692329",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3692329.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -5.08818
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -80.03465
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 642
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 189
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Lima"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Peru"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "PE",
+    "altnames": null
+}

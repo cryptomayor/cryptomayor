@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2944031",
+    "name": "Britten, Germany",
+    "description": "Saarland",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2944031",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2944031.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 49.52061
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 6.67651
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1400
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 367
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Berlin"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Germany"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "DE",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2524496",
+    "name": "Isnello, Italy",
+    "description": "Sicily, Palermo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2524496",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2524496.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 37.94324
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 14.00724
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1352
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 608
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "Isneddu,Isnello"
+}

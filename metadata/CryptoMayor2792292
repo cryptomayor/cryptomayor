@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2792292",
+    "name": "Lint, Belgium",
+    "description": "Flanders, Provincie Antwerpen",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2792292",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2792292.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 51.12707
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 4.49669
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2268
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 11
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Brussels"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Belgium"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "BE",
+    "altnames": "Lint,Linth"
+}

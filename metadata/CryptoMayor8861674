@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8861674",
+    "name": "Loma Bonita, Mexico",
+    "description": "Hidalgo, Cuautepec de Hinojosa",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8861674",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8861674.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.05694
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -98.30611
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 656
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2287
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Loma Bonita"
+}

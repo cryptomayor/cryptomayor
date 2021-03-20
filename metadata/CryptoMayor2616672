@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2616672",
+    "name": "Munkebo, Denmark",
+    "description": "South Denmark, Kerteminde Kommune",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2616672",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2616672.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 55.45553
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 10.55433
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 5225
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Copenhagen"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Denmark"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "DK",
+    "altnames": "Munkebo"
+}

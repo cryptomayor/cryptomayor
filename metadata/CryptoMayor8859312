@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8859312",
+    "name": "Alcozac\u00e1n, Mexico",
+    "description": "Guerrero, Chilapa de \u00c1lvarez",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8859312",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8859312.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 17.50444
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -99.095
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1293
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1878
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Alcozacan,Alcozac\u00e1n"
+}

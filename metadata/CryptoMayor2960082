@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2960082",
+    "name": "Schuttrange, Luxembourg",
+    "description": "Luxembourg, Schuttrange",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2960082",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2960082.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 49.62056
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 6.26861
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 841
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 246
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Luxembourg"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Luxembourg"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "LU",
+    "altnames": "Schuttrange"
+}

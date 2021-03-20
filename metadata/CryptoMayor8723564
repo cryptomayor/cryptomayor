@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8723564",
+    "name": "El Cabellal, Mexico",
+    "description": "Veracruz, Papantla",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8723564",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8723564.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.54639
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -97.36083
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 706
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 189
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "El Cabellal"
+}

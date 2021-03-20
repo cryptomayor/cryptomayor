@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor716081",
+    "name": "Ricse, Hungary",
+    "description": "Borsod-Aba\u00faj-Zempl\u00e9n",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor716081",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor716081.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 48.32565
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 21.97069
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1907
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 102
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Budapest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Hungary"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "HU",
+    "altnames": "Ricse"
+}

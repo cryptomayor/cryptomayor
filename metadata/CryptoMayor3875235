@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3875235",
+    "name": "Pozo Almonte, Chile",
+    "description": "Tarapac\u00e1, Provincia del Tamarugal",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3875235",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3875235.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -20.25585
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -69.7863
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 0
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1035
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Santiago"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Chile"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "CL",
+    "altnames": "Pozo Almonte"
+}

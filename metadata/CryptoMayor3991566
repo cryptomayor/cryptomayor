@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3991566",
+    "name": "Pueblo Nuevo, Mexico",
+    "description": "Nayarit, Santiago Ixcuintla",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3991566",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3991566.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 21.77217
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -105.30939
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 509
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 10
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mazatlan"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Pueblo Nuevo"
+}

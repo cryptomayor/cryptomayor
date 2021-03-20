@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3517992",
+    "name": "San Pedro Itztla, Mexico",
+    "description": "Puebla, Xicotepec",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3517992",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3517992.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.27466
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -97.93449
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1081
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1109
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "San Pedro,San Pedro Itztla,San Pedro Ixtla"
+}

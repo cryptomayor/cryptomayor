@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor7257909",
+    "name": "Fort Meade, United States",
+    "description": "Maryland, Anne Arundel County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor7257909",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor7257909.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 39.10815
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -76.74323
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 9327
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 57
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/New_York"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": "FME,Fort George Meade,Fort Meade,Fort Meade CDP"
+}

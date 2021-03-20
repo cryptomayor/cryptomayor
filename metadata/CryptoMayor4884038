@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4884038",
+    "name": "Bannockburn, United States",
+    "description": "Illinois, Lake County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4884038",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4884038.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 42.19336
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -87.86646
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1571
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 212
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Chicago"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

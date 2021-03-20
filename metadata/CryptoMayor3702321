@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3702321",
+    "name": "Punta Laurel, Panama",
+    "description": "Bocas del Toro",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3702321",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3702321.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 9.14124
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -82.12696
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 69
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 11
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Panama"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Panama"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "PA",
+    "altnames": "Punta Laurel"
+}

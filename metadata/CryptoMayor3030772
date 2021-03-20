@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3030772",
+    "name": "Bout-du-Pont-de-Larn, France",
+    "description": "Occitanie, Tarn",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3030772",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3030772.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 43.50072
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 2.40417
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1138
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 280
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Bout-du-Pont-de-Larn"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3016071",
+    "name": "Gignac, France",
+    "description": "Occitanie, Lot",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3016071",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3016071.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 45.00487
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 1.45763
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 600
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 288
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Gignac"
+}

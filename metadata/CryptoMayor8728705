@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8728705",
+    "name": "Cruz de Palma, Mexico",
+    "description": "Veracruz, Tempoal",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8728705",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8728705.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 21.52465
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -98.28244
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 719
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 138
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Cruz de Palma,El Carmen"
+}

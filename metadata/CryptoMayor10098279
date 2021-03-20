@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor10098279",
+    "name": "Barros Blancos, Uruguay",
+    "description": "Canelones, Barros Blancos",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor10098279",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor10098279.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -34.7524
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -56.00259
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 31650
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 34
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Montevideo"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Uruguay"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "UY",
+    "altnames": null
+}

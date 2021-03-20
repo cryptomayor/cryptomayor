@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3987242",
+    "name": "San Felipe, Mexico",
+    "description": "Zacatecas, R\u00edo Grande",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3987242",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3987242.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 23.78863
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -103.1077
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 776
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1902
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Hacienda San Felipe,San Felipe"
+}

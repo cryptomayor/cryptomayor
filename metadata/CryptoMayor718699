@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor718699",
+    "name": "Kocsord, Hungary",
+    "description": "Szabolcs-Szatm\u00e1r-Bereg",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor718699",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor718699.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.93912
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 22.38333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3054
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 112
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Budapest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Hungary"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "HU",
+    "altnames": "Kocsord"
+}

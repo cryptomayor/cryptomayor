@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor632062",
+    "name": "Vehmaa, Finland",
+    "description": "Southwest Finland, Vakka-Suomi",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor632062",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor632062.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 60.68333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 21.66667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2435
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 7
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Helsinki"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Finland"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FI",
+    "altnames": "Vehmo,Vemo"
+}

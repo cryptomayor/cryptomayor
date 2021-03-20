@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3011361",
+    "name": "Labarde, France",
+    "description": "Nouvelle-Aquitaine, Gironde",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3011361",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3011361.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 45.01475
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -0.64038
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 683
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 6
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Labarde"
+}

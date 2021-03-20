@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5611758",
+    "name": "Wendell, United States",
+    "description": "Idaho, Gooding County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5611758",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5611758.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 42.77574
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -114.70422
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2744
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1048
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Boise"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

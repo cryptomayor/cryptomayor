@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor670788",
+    "name": "Pinoasa, Romania",
+    "description": "Gorj, Comuna C\u00e2lnic",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor670788",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor670788.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 44.90763
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 23.09825
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 585
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 184
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": null
+}

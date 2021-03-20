@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor945813",
+    "name": "Utrecht, South Africa",
+    "description": "KwaZulu-Natal, Amajuba District Municipality",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor945813",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor945813.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -27.65862
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 30.32166
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3575
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1217
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Africa/Johannesburg"
+        },
+        {
+            "trait_type": "Country",
+            "value": "South Africa"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AF"
+        }
+    ],
+    "country_code": "ZA",
+    "altnames": "Utrecht"
+}

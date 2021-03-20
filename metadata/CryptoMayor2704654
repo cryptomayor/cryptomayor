@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2704654",
+    "name": "Hovmantorp, Sweden",
+    "description": "Kronoberg, Lessebo Kommun",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2704654",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2704654.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 56.78685
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 15.14023
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3082
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 152
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Stockholm"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Sweden"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "SE",
+    "altnames": null
+}

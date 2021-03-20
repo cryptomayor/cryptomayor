@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor7871317",
+    "name": "Pleasant View, Canada",
+    "description": "Ontario, Toronto county",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor7871317",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor7871317.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 43.78609
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -79.33502
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 15818
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 182
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Toronto"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Canada"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "CA",
+    "altnames": null
+}

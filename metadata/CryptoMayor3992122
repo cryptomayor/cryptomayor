@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3992122",
+    "name": "Potrerillos, Mexico",
+    "description": "Sinaloa, Rosario",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3992122",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3992122.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 23.02789
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -105.9449
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 958
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 28
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mazatlan"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": null
+}

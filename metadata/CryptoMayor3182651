@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3182651",
+    "name": "Avella, Italy",
+    "description": "Campania, Provincia di Avellino",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3182651",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3182651.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 40.95995
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 14.60087
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 7372
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 206
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "Avella"
+}

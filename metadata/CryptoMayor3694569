@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3694569",
+    "name": "Motupe, Peru",
+    "description": "Lambayeque, Provincia de Lambayeque",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3694569",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3694569.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -6.15194
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -79.71417
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 13681
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 135
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Lima"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Peru"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "PE",
+    "altnames": null
+}

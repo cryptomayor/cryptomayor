@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3008024",
+    "name": "La Motte, France",
+    "description": "Brittany, C\u00f4tes-d'Armor",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3008024",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3008024.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 48.23438
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -2.73367
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2033
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 221
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Ar Voudenn,La Motte"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor11695435",
+    "name": "Kalamunda, Australia",
+    "description": "Western Australia, Kalamunda",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor11695435",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor11695435.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -31.97372
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 116.05845
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 6744
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 289
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Perth"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": null
+}

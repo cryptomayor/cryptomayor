@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2518455",
+    "name": "El Gastor, Spain",
+    "description": "Andalusia, Provincia de C\u00e1diz",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2518455",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2518455.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 36.85478
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -5.32334
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1945
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 599
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Madrid"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Spain"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "ES",
+    "altnames": "El Gastor"
+}

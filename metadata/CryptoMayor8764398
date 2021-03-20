@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8764398",
+    "name": "Carbo, Mexico",
+    "description": "Sonora, Carb\u00f3",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8764398",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8764398.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 29.68306
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -110.95619
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 4516
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 468
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Hermosillo"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Carbo"
+}

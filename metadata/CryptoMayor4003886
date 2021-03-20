@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4003886",
+    "name": "Jomulco, Mexico",
+    "description": "Nayarit, Jala",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4003886",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4003886.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 21.10394
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -104.42378
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3922
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1068
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mazatlan"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Jomulco"
+}

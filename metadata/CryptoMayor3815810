@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3815810",
+    "name": "San Miguel la Sardina, Mexico",
+    "description": "Chiapas, Francisco Le\u00f3n",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3815810",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3815810.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 17.29417
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -93.3525
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1106
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 495
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": null
+}

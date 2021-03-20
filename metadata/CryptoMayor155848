@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor155848",
+    "name": "Longido, Tanzania",
+    "description": "Arusha, Longido District",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor155848",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor155848.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -2.73319
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 36.69773
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 9403
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1348
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Africa/Dar_es_Salaam"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Tanzania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AF"
+        }
+    ],
+    "country_code": "TZ",
+    "altnames": "Longido"
+}

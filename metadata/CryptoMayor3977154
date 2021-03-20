@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3977154",
+    "name": "Apozolco, Mexico",
+    "description": "Nayarit, La Yesca",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3977154",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3977154.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 21.42879
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -103.90944
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 680
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 686
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": null
+}

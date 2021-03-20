@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4026130",
+    "name": "Nuevo Copaltepec, Mexico",
+    "description": "M\u00e9xico, Tlatlaya",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4026130",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4026130.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.38474
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -100.28747
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 655
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 373
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Nuevo Copaltepec"
+}

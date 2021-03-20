@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8348342",
+    "name": "Clifton Beach, Australia",
+    "description": "Tasmania, Clarence",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8348342",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8348342.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -42.98531
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 147.52107
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 579
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 8
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Hobart"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": null
+}

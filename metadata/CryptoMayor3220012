@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3220012",
+    "name": "Passons, Italy",
+    "description": "Friuli Venezia Giulia, Udine",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3220012",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3220012.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 46.06889
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 13.18917
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2649
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 114
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "Passons"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3533157",
+    "name": "Ahuatepec, Mexico",
+    "description": "Puebla, Tecali de Herrera",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3533157",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3533157.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.85831
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -97.91764
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 4366
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2013
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Ahuatepec"
+}

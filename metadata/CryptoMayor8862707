@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8862707",
+    "name": "Poza Verde, Mexico",
+    "description": "Guerrero, San Luis Acatl\u00e1n",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8862707",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8862707.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 16.80389
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -98.90778
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 546
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 487
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Poza Verde"
+}

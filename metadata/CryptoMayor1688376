@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor1688376",
+    "name": "Santa Barbara, Philippines",
+    "description": "Central Luzon, Province of Nueva Ecija",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor1688376",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor1688376.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 15.38494
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 120.79611
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 6525
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 20
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Asia/Manila"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Philippines"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AS"
+        }
+    ],
+    "country_code": "PH",
+    "altnames": "Santa Barbara"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3526992",
+    "name": "Huauchinango, Mexico",
+    "description": "Puebla, Huauchinango",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3526992",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3526992.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.17376
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -98.05491
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 56206
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1531
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Huauchinango"
+}

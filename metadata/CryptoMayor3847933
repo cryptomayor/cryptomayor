@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3847933",
+    "name": "Las Parejas, Argentina",
+    "description": "Santa Fe, Departamento de Belgrano",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3847933",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3847933.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -32.68478
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -61.51637
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 11317
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 104
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Argentina/Cordoba"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Argentina"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "AR",
+    "altnames": "Las Parejas"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8861783",
+    "name": "San Antonio Huitzquilico (Barrio Centro), Mexico",
+    "description": "San Luis Potos\u00ed, Xilitla",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8861783",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8861783.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 21.47722
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -98.99861
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 643
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 903
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "San Antonio Huitzquilico (Barrio Centro)"
+}

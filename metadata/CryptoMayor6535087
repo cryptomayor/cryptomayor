@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6535087",
+    "name": "Tovo San Giacomo, Italy",
+    "description": "Liguria, Provincia di Savona",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6535087",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6535087.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 44.17593
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 8.27045
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1399
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 90
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": null
+}

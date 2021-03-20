@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3529062",
+    "name": "El Crucero, Mexico",
+    "description": "Veracruz, Puente Nacional",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3529062",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3529062.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.31661
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -96.52262
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 563
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 189
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Crucero,El Crucero"
+}

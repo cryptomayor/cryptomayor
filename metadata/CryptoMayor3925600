@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3925600",
+    "name": "Yauli, Peru",
+    "description": "Junin, Provincia de Yauli",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3925600",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3925600.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -11.665
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -76.08639
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 0
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 4123
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Lima"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Peru"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "PE",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor587826",
+    "name": "Vana-Antsla, Estonia",
+    "description": "V\u00f5rumaa, Antsla vald",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor587826",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor587826.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 57.86611
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 26.53222
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1468
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 86
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Tallinn"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Estonia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "EE",
+    "altnames": "Vana-Antsla"
+}

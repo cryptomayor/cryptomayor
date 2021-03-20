@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor158006",
+    "name": "Kibaya, Tanzania",
+    "description": "Manyara, Kiteto",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor158006",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor158006.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -5.3
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 36.56667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 5028
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1579
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Africa/Dar_es_Salaam"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Tanzania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AF"
+        }
+    ],
+    "country_code": "TZ",
+    "altnames": "Kibaya"
+}

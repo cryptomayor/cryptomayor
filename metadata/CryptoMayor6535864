@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6535864",
+    "name": "Lisio, Italy",
+    "description": "Piedmont, Provincia di Cuneo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6535864",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6535864.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 44.30713
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 7.97874
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 211
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 589
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": null
+}

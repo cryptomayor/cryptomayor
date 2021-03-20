@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor511839",
+    "name": "Pechersk, Russia",
+    "description": "Smolensk",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor511839",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor511839.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 54.85355
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 32.03154
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 4000
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 249
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Moscow"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Russia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RU",
+    "altnames": "Pechersk,Pecherskoye,Petsjersk,\u041f\u0435\u0447\u0435\u0440\u0441\u043a"
+}

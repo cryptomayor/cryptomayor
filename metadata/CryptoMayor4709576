@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4709576",
+    "name": "Matagorda, United States",
+    "description": "Texas, Matagorda County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4709576",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4709576.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 28.69082
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -95.96746
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 503
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 8
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Chicago"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8862681",
+    "name": "El Duraznillo, Mexico",
+    "description": "Oaxaca, San Mart\u00edn Toxpalan",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8862681",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8862681.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.11222
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -96.98389
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 549
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2256
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "El Duraznillo"
+}

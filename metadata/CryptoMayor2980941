@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2980941",
+    "name": "Saint-Cyr-le-Gravelais, France",
+    "description": "Pays de la Loire, Mayenne",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2980941",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2980941.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 48.03471
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -1.02705
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 513
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 138
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Saint-Cyr,Saint-Cyr-le-Gravelais"
+}

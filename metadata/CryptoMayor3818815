@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3818815",
+    "name": "Boca Nopal, Mexico",
+    "description": "Puebla, Ca\u00f1ada Morelos",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3818815",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3818815.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.75643
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -97.35191
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 737
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2627
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Boca Nopal"
+}

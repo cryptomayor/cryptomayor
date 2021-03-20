@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2642998",
+    "name": "Marr, United Kingdom",
+    "description": "England, Doncaster",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2642998",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2642998.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 53.54296
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -1.22051
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 138
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 53
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/London"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United Kingdom"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "GB",
+    "altnames": null
+}

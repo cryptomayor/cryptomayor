@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8860694",
+    "name": "Coacoaco, Mexico",
+    "description": "Veracruz, Ilamatl\u00e1n",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8860694",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8860694.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.8275
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -98.43694
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 800
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 857
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Coacoaco"
+}

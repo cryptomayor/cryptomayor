@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4025287",
+    "name": "San Miguel Nocutzepo, Mexico",
+    "description": "Michoac\u00e1n, Erongar\u00edcuaro",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4025287",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4025287.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.53
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -101.69861
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 939
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2050
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3800691",
+    "name": "San Mateo Mixtepec, Mexico",
+    "description": "Oaxaca, Santa Cruz Mixtepec",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3800691",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3800691.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 16.78451
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -96.94322
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 685
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1828
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Mixtepec,San Juan,San Juan Mixtepec,San Mateo Mixtepec"
+}

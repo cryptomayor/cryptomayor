@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6674556",
+    "name": "Paccha, Peru",
+    "description": "Junin, Provincia de Huancayo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6674556",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6674556.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -11.99591
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -75.20881
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 805
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 3371
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Lima"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Peru"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "PE",
+    "altnames": null
+}

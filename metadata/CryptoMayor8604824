@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8604824",
+    "name": "Bingham Canyon, United States",
+    "description": "Utah, Salt Lake County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8604824",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8604824.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 40.55833
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -112.13056
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 726
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1777
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Denver"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

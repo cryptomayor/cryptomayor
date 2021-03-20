@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3181380",
+    "name": "Busca, Italy",
+    "description": "Piedmont, Provincia di Cuneo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3181380",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3181380.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 44.51625
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 7.47662
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 5588
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 499
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "Busca"
+}

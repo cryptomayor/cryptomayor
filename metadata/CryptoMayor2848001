@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2848001",
+    "name": "Rettenbach, Germany",
+    "description": "Bavaria, Swabia",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2848001",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2848001.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 48.45881
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 10.35238
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1606
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 500
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Berlin"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Germany"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "DE",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8860402",
+    "name": "Los Fresnos, Mexico",
+    "description": "Oaxaca, San Juan Mazatl\u00e1n",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8860402",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8860402.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 17.23611
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -95.34111
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 868
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 136
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Los Fresnos"
+}

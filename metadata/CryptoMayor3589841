@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3589841",
+    "name": "San Luis, Guatemala",
+    "description": "Pet\u00e9n",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3589841",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3589841.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 16.19889
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -89.44028
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 6776
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 381
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Guatemala"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Guatemala"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "GT",
+    "altnames": "San Luis"
+}

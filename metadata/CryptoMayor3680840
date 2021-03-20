@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3680840",
+    "name": "Honda, Colombia",
+    "description": "Tolima, Honda",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3680840",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3680840.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 5.20856
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -74.73584
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 28158
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 200
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Bogota"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Colombia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "CO",
+    "altnames": "Honda"
+}

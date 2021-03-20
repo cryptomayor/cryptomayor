@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor7909711",
+    "name": "Santo Isidoro, Portugal",
+    "description": "Lisbon, Mafra",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor7909711",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor7909711.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 38.99593
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -9.3994
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3814
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 73
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Lisbon"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Portugal"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "PT",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4567723",
+    "name": "Rinc\u00f3n, Puerto Rico",
+    "description": "Rinc\u00f3n, Rinc\u00f3n Barrio-Pueblo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4567723",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4567723.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.34023
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -67.2499
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1499
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 15
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Puerto_Rico"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Puerto Rico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "PR",
+    "altnames": "Rincon,Rinon,Santa Rosa de Rincon"
+}

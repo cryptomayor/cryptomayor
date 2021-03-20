@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3983627",
+    "name": "Santiaguillo, Mexico",
+    "description": "Guanajuato, Ac\u00e1mbaro",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3983627",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3983627.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.11063
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -100.64318
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 886
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1913
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Santiaguillo"
+}

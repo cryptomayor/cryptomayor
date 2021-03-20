@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3023540",
+    "name": "Corre, France",
+    "description": "Bourgogne-Franche-Comt\u00e9, Haute-Sa\u00f4ne",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3023540",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3023540.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.919
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 5.99177
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 651
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 225
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Corre"
+}

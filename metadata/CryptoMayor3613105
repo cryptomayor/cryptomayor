@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3613105",
+    "name": "Coyoles Central, Honduras",
+    "description": "Yoro",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3613105",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3613105.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 15.4
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -86.66667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1144
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 199
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Tegucigalpa"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Honduras"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "HN",
+    "altnames": "Coyoles Central"
+}

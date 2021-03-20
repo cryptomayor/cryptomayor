@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2975244",
+    "name": "Seissan, France",
+    "description": "Occitanie, Gers",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2975244",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2975244.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 43.49161
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 0.59185
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1048
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 189
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Seissan"
+}

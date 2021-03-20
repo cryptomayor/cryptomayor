@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4568253",
+    "name": "Santo Domingo, Puerto Rico",
+    "description": "Pe\u00f1uelas, Santo Domingo Barrio",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4568253",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4568253.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.0633
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -66.7524
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3633
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 141
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Puerto_Rico"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Puerto Rico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "PR",
+    "altnames": null
+}

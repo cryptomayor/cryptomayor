@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8725915",
+    "name": "El Guayabal, Mexico",
+    "description": "Veracruz, San Rafael",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8725915",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8725915.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.17139
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -96.87444
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 613
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 11
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "El Guayabal"
+}

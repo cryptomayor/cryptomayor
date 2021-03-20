@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4893720",
+    "name": "Gifford, United States",
+    "description": "Illinois, Champaign County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4893720",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4893720.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 40.30587
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -88.02115
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1092
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 245
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Chicago"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

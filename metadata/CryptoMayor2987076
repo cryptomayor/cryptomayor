@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2987076",
+    "name": "Pinterville, France",
+    "description": "Normandy, Eure",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2987076",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2987076.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 49.19161
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 1.17531
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 800
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 15
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Pinterville"
+}

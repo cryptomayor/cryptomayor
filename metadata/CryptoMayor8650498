@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8650498",
+    "name": "Sinapan, Mexico",
+    "description": "Veracruz, Santiago Tuxtla",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8650498",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8650498.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.5348
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -95.29287
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1125
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 301
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Sinapan"
+}

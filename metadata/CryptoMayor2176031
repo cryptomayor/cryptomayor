@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2176031",
+    "name": "Berwick, Australia",
+    "description": "Victoria, Casey",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2176031",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2176031.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -38.03333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 145.35
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 47074
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 90
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Melbourne"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": "Berwick"
+}

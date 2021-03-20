@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4007522",
+    "name": "El Sauz, Mexico",
+    "description": "Chihuahua, Chihuahua",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4007522",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4007522.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 29.05056
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -106.2528
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1499
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1558
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Chihuahua"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "El Sauz"
+}

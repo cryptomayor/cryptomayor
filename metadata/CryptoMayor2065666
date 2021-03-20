@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2065666",
+    "name": "Mount Barker, Australia",
+    "description": "Western Australia, Plantagenet Shire",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2065666",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2065666.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -34.63084
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 117.66606
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2682
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 254
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Perth"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": "Mount Barker"
+}

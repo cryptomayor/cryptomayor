@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor1811831",
+    "name": "Dunzhai, China",
+    "description": "Guizhou",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor1811831",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor1811831.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 26.50222
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 109.26667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 890
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 382
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Asia/Shanghai"
+        },
+        {
+            "trait_type": "Country",
+            "value": "China"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AS"
+        }
+    ],
+    "country_code": "CN",
+    "altnames": "Dunzhai,Teng-chai"
+}

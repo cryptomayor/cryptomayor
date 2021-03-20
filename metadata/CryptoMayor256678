@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor256678",
+    "name": "Kallithea - Moustaf\u00e1dhes, Greece",
+    "description": "Central Greece, Nom\u00f3s Voiot\u00edas",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor256678",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor256678.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 38.31122
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 23.43916
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 700
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 323
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Athens"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Greece"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "GR",
+    "altnames": "Kallithea"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor12069941",
+    "name": "Dunlop, Canada",
+    "description": "New Brunswick, Gloucester County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor12069941",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor12069941.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.68713
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -65.73386
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 950
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 37
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Moncton"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Canada"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "CA",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3701090",
+    "name": "San Vicente, Panama",
+    "description": "Panam\u00e1, Distrito de Panam\u00e1",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3701090",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3701090.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 9.11445
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -79.59755
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 14109
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 120
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Panama"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Panama"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "PA",
+    "altnames": "San Vicente"
+}

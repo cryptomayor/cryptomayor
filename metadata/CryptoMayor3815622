@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3815622",
+    "name": "Santo Domingo, Mexico",
+    "description": "Chiapas, Ocosingo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3815622",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3815622.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 17.02819
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -91.41682
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1584
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 466
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Santo Domingo"
+}

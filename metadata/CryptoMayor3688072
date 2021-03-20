@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3688072",
+    "name": "Caicedo, Colombia",
+    "description": "Antioquia, Caicedo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3688072",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3688072.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 6.40511
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -75.98255
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1617
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1794
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Bogota"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Colombia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "CO",
+    "altnames": "Caicedo"
+}

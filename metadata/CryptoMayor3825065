@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3825065",
+    "name": "San Leopoldo, Mexico",
+    "description": "Veracruz, San Andr\u00e9s Tuxtla",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3825065",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3825065.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.38208
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -95.31517
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 542
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 85
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": null
+}

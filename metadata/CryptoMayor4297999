@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4297999",
+    "name": "Lexington-Fayette, United States",
+    "description": "Kentucky, Fayette County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4297999",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4297999.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 38.0498
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -84.45855
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 314488
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 304
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/New_York"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": "Fayette County,Lexington,Lexington-Fayette"
+}

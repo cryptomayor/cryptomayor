@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8859737",
+    "name": "El Roble, Mexico",
+    "description": "Hidalgo, Mineral de la Reforma",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8859737",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8859737.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.05806
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -98.75833
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1080
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2355
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "El Roble"
+}

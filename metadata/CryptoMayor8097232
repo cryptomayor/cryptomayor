@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8097232",
+    "name": "Contra Costa Centre, United States",
+    "description": "California, Contra Costa County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8097232",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8097232.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 37.92752
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -122.05786
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 5364
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 33
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Los_Angeles"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

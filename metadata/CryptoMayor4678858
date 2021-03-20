@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4678858",
+    "name": "Canton, United States",
+    "description": "Texas, Van Zandt County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4678858",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4678858.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 32.55652
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -95.8633
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3752
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 158
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Chicago"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

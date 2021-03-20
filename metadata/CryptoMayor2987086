@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2987086",
+    "name": "Pinon, France",
+    "description": "Hauts-de-France, Aisne",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2987086",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2987086.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 49.48916
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 3.44703
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1726
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 74
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Pinon"
+}

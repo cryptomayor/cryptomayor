@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2985005",
+    "name": "Puybrun, France",
+    "description": "Occitanie, Lot",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2985005",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2985005.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 44.91852
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 1.78647
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 785
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 146
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Puybrun"
+}

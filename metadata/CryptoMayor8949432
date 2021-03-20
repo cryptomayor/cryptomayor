@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8949432",
+    "name": "San Michele e Grato, Italy",
+    "description": "Piedmont, Torino",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8949432",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8949432.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 44.85799
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 7.70097
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1000
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 243
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "San Michele e Grato"
+}

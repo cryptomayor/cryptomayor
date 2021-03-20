@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3673379",
+    "name": "Pailitas, Colombia",
+    "description": "Cesar, Pailitas",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3673379",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3673379.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 8.95652
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -73.62548
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 10480
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 74
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Bogota"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Colombia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "CO",
+    "altnames": "Pailitas"
+}

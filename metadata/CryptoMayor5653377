@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5653377",
+    "name": "Frenchtown, United States",
+    "description": "Montana, Missoula County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5653377",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5653377.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.01492
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -114.22984
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1825
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 927
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Denver"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": "French Town,Frenchtown"
+}

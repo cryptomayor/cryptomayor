@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6667373",
+    "name": "San Francisco, Peru",
+    "description": "Ica, Provincia de Chincha",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6667373",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6667373.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -13.48227
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -76.08222
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 586
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 119
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Lima"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Peru"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "PE",
+    "altnames": null
+}

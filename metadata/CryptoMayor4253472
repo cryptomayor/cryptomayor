@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4253472",
+    "name": "Worden, United States",
+    "description": "Illinois, Madison County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4253472",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4253472.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 38.93144
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -89.83899
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1028
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 175
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Chicago"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

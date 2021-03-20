@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor1329239",
+    "name": "Myaydo, Myanmar",
+    "description": "Magway, Thayet District",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor1329239",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor1329239.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.36838
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 95.21512
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 57897
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 48
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Asia/Yangon"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Myanmar"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AS"
+        }
+    ],
+    "country_code": "MM",
+    "altnames": "Allanmyo,Aunglan,Aunglanmyo,Myaydo"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor649825",
+    "name": "Kuusjoki, Finland",
+    "description": "Southwest Finland, Salo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor649825",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor649825.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 60.51667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 23.2
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1775
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 96
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Helsinki"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Finland"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FI",
+    "altnames": "Kuusjoki"
+}

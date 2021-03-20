@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3165551",
+    "name": "Torano, Italy",
+    "description": "Latium, Provincia di Rieti",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3165551",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3165551.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 42.15335
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 13.25981
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 729
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 723
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": null
+}

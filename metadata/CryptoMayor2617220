@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2617220",
+    "name": "Lynge, Denmark",
+    "description": "Capital Region, Aller\u00f8d Kommune",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2617220",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2617220.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 55.83941
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 12.27725
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 4284
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 56
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Copenhagen"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Denmark"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "DK",
+    "altnames": "Lynge"
+}

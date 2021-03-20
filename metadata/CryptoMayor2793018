@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2793018",
+    "name": "Leeuwergem, Belgium",
+    "description": "Flanders, Provincie Oost-Vlaanderen",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2793018",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2793018.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 50.888
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 3.831
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1769
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 65
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Brussels"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Belgium"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "BE",
+    "altnames": "Leeuwergem"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6295489",
+    "name": "Z\u00fcrich (Kreis 1) / Hochschulen, Switzerland",
+    "description": "Zurich, Bezirk Z\u00fcrich",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6295489",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6295489.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.36601
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 8.54594
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 707
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 410
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Zurich"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Switzerland"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "CH",
+    "altnames": "Hochschulen"
+}

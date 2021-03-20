@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor662818",
+    "name": "Vinerea, Romania",
+    "description": "Alba, Ora\u015f Cugir",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor662818",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor662818.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 45.88632
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 23.35289
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2440
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 250
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor456050",
+    "name": "Rucava, Latvia",
+    "description": "Rucavas, Rucavas pagasts",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor456050",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor456050.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 56.16314
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 21.16156
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 547
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 12
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Riga"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Latvia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "LV",
+    "altnames": "Paurupe,Rucava,Rucavas,Rutsava,Ruzau"
+}

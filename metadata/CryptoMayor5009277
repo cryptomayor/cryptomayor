@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5009277",
+    "name": "Scottville, United States",
+    "description": "Michigan, Mason County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5009277",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5009277.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 43.95473
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -86.28008
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1213
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 210
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Detroit"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2623188",
+    "name": "Charlottenlund, Denmark",
+    "description": "Capital Region, Gentofte Kommune",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2623188",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2623188.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 55.75238
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 12.5745
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 40000
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 14
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Copenhagen"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Denmark"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "DK",
+    "altnames": "Charlottenlund"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3530621",
+    "name": "Cintalapa, Mexico",
+    "description": "Chiapas, Escuintla",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3530621",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3530621.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 15.33785
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -92.61577
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 895
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 187
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Cintalapa"
+}

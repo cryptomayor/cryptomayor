@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2173833",
+    "name": "Broughton, Australia",
+    "description": "Queensland, Charters Towers",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2173833",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2173833.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -20.11667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 146.43333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 678
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 230
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Brisbane"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": null
+}

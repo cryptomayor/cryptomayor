@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor1722433",
+    "name": "Burgos, Philippines",
+    "description": "Central Luzon, Province of Tarlac",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor1722433",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor1722433.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 15.72892
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 120.57224
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 28178
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 20
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Asia/Manila"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Philippines"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AS"
+        }
+    ],
+    "country_code": "PH",
+    "altnames": "Burgos"
+}

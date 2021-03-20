@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3521072",
+    "name": "Pueblo Nuevo, Mexico",
+    "description": "Hidalgo, Mineral del Monte",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3521072",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3521072.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.17318
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -98.69061
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 753
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2916
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Pueblo Nuevo"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3815194",
+    "name": "San Luis Apizaquito, Mexico",
+    "description": "Tlaxcala, Apizaco",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3815194",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3815194.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.42524
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -98.11709
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 6099
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2413
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Apizaquito,San Luis Apizaquito"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2970568",
+    "name": "Vauchelles-les-Quesnoy, France",
+    "description": "Hauts-de-France, Somme",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2970568",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2970568.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 50.1
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 1.88333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 855
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 61
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Vauchelles"
+}

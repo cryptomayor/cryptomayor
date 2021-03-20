@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4780011",
+    "name": "Portsmouth Heights, United States",
+    "description": "Virginia, City of Portsmouth",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4780011",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4780011.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 36.82098
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -76.36883
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 99049
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 7
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/New_York"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8859537",
+    "name": "Buenavista Tetela, Mexico",
+    "description": "Puebla, Puebla",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8859537",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8859537.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.91967
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -98.17632
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1172
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2074
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Buenavista Tetela"
+}

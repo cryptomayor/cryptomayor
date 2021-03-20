@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3169534",
+    "name": "Reda, Italy",
+    "description": "Emilia-Romagna, Provincia di Ravenna",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3169534",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3169534.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 44.30162
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 11.96857
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 870
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 20
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": null
+}

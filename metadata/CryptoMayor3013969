@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3013969",
+    "name": "Hanvoile, France",
+    "description": "Hauts-de-France, Oise",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3013969",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3013969.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 49.5102
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 1.88201
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 520
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 142
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Hanvoile"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5054390",
+    "name": "Canton, United States",
+    "description": "Missouri, Lewis County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5054390",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5054390.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 40.1295
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -91.51852
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2377
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 150
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Chicago"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

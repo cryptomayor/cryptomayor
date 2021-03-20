@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2704008",
+    "name": "Hyltebruk, Sweden",
+    "description": "Halland, Hylte Kommun",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2704008",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2704008.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 56.99892
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 13.23958
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3992
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 119
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Stockholm"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Sweden"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "SE",
+    "altnames": null
+}

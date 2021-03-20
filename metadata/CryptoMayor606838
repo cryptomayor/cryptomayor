@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor606838",
+    "name": "Alvik, Sweden",
+    "description": "Norrbotten, Lule\u00e5 kommun",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor606838",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor606838.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 65.51667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 21.76667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 771
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 3
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Stockholm"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Sweden"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "SE",
+    "altnames": "Alvik"
+}

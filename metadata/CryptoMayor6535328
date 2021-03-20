@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6535328",
+    "name": "Valverde, Italy",
+    "description": "Sicily, Catania",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6535328",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6535328.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 37.57695
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 15.12419
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 4913
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 347
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": null
+}

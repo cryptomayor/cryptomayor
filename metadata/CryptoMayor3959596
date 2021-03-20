@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3959596",
+    "name": "Patay, Peru",
+    "description": "Junin, Provincia de Tarma",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3959596",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3959596.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -11.31007
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -75.57022
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 597
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 3165
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Lima"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Peru"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "PE",
+    "altnames": null
+}

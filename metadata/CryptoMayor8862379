@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8862379",
+    "name": "Cerro Alto, Mexico",
+    "description": "Veracruz, Carrillo Puerto",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8862379",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8862379.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.78417
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -96.51972
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 577
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 153
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Cerro Alto"
+}

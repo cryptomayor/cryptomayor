@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor10860857",
+    "name": "Roebuck, Australia",
+    "description": "Western Australia, Broome",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor10860857",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor10860857.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -18.1713
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 122.50116
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1363
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 48
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Perth"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": null
+}

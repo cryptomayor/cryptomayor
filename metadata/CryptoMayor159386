@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor159386",
+    "name": "Igunga, Tanzania",
+    "description": "Tabora, Igunga",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor159386",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor159386.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -4.28333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 33.88333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 35644
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1090
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Africa/Dar_es_Salaam"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Tanzania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AF"
+        }
+    ],
+    "country_code": "TZ",
+    "altnames": null
+}

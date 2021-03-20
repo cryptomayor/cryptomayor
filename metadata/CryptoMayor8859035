@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8859035",
+    "name": "San Jos\u00e9 Ozumba, Mexico",
+    "description": "Puebla, San Jos\u00e9 Chiapa",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8859035",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8859035.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.23306
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -97.72833
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1528
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2359
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "San Jose Ozumba,San Jos\u00e9 Ozumba"
+}

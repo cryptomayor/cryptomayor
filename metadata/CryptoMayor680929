@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor680929",
+    "name": "Cop\u0103ceni, Romania",
+    "description": "V\u00e2lcea, Comuna Cop\u0103ceni",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor680929",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor680929.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 45.0
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 23.98333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3013
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 336
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": "Copaceni,Cop\u0103ceni"
+}

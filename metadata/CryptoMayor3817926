@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3817926",
+    "name": "Endeje, Mexico",
+    "description": "M\u00e9xico, Acambay de Ru\u00edz Casta\u00f1eda",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3817926",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3817926.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.96083
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -99.83667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 984
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2618
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": null
+}

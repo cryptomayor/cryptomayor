@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3433901",
+    "name": "Fontana, Argentina",
+    "description": "Chaco, Departamento de San Fernando",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3433901",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3433901.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -27.41813
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -59.02392
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 26745
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 54
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Argentina/Cordoba"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Argentina"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "AR",
+    "altnames": "Fontana"
+}

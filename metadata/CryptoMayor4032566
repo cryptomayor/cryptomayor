@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4032566",
+    "name": "Kolonga, Tonga",
+    "description": "Tongatapu",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4032566",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4032566.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -21.13333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -175.06667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1100
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 11
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Pacific/Tongatapu"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Tonga"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "TO",
+    "altnames": "Kolonga"
+}

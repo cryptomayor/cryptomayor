@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2164855",
+    "name": "Gorokan, Australia",
+    "description": "New South Wales, Central Coast",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2164855",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2164855.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -33.25764
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 151.5097
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 8211
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 11
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Sydney"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": null
+}

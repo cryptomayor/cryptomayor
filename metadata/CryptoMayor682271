@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor682271",
+    "name": "Cetan, Romania",
+    "description": "Cluj, Comuna Vad",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor682271",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor682271.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.19299
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 23.80282
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 555
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 227
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": "Cetal,Cetan"
+}

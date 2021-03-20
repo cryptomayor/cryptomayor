@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3813473",
+    "name": "Pilcuatla, Mexico",
+    "description": "Hidalgo, Tlanchinol",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3813473",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3813473.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.95016
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -98.55057
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 587
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 453
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Pilcuatla"
+}

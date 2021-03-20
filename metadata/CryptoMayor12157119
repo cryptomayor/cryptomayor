@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor12157119",
+    "name": "Huanchaquito Alto, Peru",
+    "description": "La Libertad, Provincia de Trujillo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor12157119",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor12157119.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -8.08791
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -79.09746
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 7282
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 25
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Lima"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Peru"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "PE",
+    "altnames": null
+}

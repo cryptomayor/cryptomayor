@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4707479",
+    "name": "Lone Star, United States",
+    "description": "Texas, Morris County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4707479",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4707479.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 32.94402
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -94.70715
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1525
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 112
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Chicago"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": "Iron Bluff,Lone Star"
+}

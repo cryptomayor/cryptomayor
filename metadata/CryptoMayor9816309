@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor9816309",
+    "name": "El Coecillo, Mexico",
+    "description": "Guanajuato, Silao de la Victoria",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor9816309",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor9816309.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.97651
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -101.4501
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 4002
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1796
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "El Coecillo"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2413660",
+    "name": "Chilla, Gambia",
+    "description": "North Bank",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2413660",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2413660.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 13.55
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -16.28333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1249
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 36
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Africa/Banjul"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Gambia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AF"
+        }
+    ],
+    "country_code": "GM",
+    "altnames": null
+}

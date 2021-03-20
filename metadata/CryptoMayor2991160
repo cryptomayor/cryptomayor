@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2991160",
+    "name": "Mur-de-Sologne, France",
+    "description": "Centre, Loir-et-Cher",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2991160",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2991160.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.41239
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 1.60832
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1241
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 117
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Mur,Mur-de-Sologne"
+}

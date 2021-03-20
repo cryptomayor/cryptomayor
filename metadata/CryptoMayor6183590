@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6183590",
+    "name": "Woburn, Canada",
+    "description": "Ontario, Toronto county",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6183590",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6183590.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 43.76657
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -79.22773
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 53485
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 157
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Toronto"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Canada"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "CA",
+    "altnames": null
+}

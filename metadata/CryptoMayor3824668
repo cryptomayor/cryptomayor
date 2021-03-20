@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3824668",
+    "name": "Las Lomas, Mexico",
+    "description": "Veracruz, Coyutla",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3824668",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3824668.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.26067
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -97.61528
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1811
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 145
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": null
+}

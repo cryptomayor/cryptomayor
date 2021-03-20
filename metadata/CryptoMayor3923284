@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3923284",
+    "name": "Batallas, Bolivia",
+    "description": "La Paz",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3923284",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3923284.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -16.3
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -68.53333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2597
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 3849
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/La_Paz"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Bolivia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "BO",
+    "altnames": "Batallas"
+}

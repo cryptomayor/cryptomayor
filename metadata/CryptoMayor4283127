@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4283127",
+    "name": "Barbourmeade, United States",
+    "description": "Kentucky, Jefferson County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4283127",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4283127.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 38.29729
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -85.60329
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1258
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 195
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Kentucky/Louisville"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

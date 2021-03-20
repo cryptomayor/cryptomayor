@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3666075",
+    "name": "Victoria, Colombia",
+    "description": "Caldas, Victoria",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3666075",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3666075.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 5.31648
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -74.91101
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 4723
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 712
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Bogota"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Colombia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "CO",
+    "altnames": "Victoria"
+}

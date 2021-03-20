@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8348127",
+    "name": "Wickham, Australia",
+    "description": "New South Wales, Newcastle",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8348127",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8348127.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -32.91923
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 151.75693
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1076
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 4
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Sydney"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": null
+}

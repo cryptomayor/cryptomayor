@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3671765",
+    "name": "Prado, Colombia",
+    "description": "Tolima, Prado",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3671765",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3671765.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 3.75118
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -74.93004
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3556
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 322
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Bogota"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Colombia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "CO",
+    "altnames": "Prado"
+}

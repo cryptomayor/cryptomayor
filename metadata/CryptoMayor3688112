@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3688112",
+    "name": "Cachipay, Colombia",
+    "description": "Cundinamarca, Caparrap\u00ed",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3688112",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3688112.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 5.26667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -74.56667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 4260
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 389
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Bogota"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Colombia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "CO",
+    "altnames": "Cachipay"
+}

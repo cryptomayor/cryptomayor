@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8859136",
+    "name": "Rio de la Soledad, Mexico",
+    "description": "Hidalgo, Mineral de la Reforma",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8859136",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8859136.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.115
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -98.71194
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1436
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2458
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Rio de la Soledad"
+}

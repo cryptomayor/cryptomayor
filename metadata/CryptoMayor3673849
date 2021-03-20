@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3673849",
+    "name": "Nilo, Colombia",
+    "description": "Cundinamarca, Nilo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3673849",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3673849.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 4.30604
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -74.62083
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1117
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 333
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Bogota"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Colombia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "CO",
+    "altnames": "Nilo"
+}

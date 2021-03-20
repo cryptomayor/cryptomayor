@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor679171",
+    "name": "Doftana, Romania",
+    "description": "Prahova, Comuna Telega",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor679171",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor679171.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 45.15
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 25.8
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 6777
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 517
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": "Doftana"
+}

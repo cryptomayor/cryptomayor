@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor232619",
+    "name": "Kakumiro, Uganda",
+    "description": "Western Region, Kakumiro District",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor232619",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor232619.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 0.78056
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 31.32361
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 0
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1311
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Africa/Kampala"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Uganda"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AF"
+        }
+    ],
+    "country_code": "UG",
+    "altnames": null
+}

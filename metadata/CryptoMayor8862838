@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8862838",
+    "name": "La Sabinada, Mexico",
+    "description": "Chiapas, Frontera Comalapa",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8862838",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8862838.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 15.69194
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -92.15278
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 534
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 655
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "La Sabinada"
+}

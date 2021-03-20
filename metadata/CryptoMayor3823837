@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3823837",
+    "name": "Villa Uni\u00f3n, Mexico",
+    "description": "Veracruz, Fort\u00edn",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3823837",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3823837.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.85438
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -96.98246
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1213
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 843
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": null
+}

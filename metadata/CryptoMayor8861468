@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8861468",
+    "name": "Oxtotitla, Mexico",
+    "description": "Veracruz, Tequila",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8861468",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8861468.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.72417
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -97.00806
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 681
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1267
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Oxtotitla"
+}

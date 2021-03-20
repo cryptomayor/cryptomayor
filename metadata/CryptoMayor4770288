@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4770288",
+    "name": "Loch Lomond, United States",
+    "description": "Virginia, Prince William County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4770288",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4770288.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 38.78623
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -77.47804
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3701
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 57
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/New_York"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

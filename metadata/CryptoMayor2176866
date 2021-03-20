@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2176866",
+    "name": "Bargo, Australia",
+    "description": "New South Wales, Wollondilly",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2176866",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2176866.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -34.29301
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 150.57806
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 4335
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 340
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Sydney"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": "Bargo,West Bargo"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4002463",
+    "name": "La Estancia del Refugio, Mexico",
+    "description": "Guanajuato, P\u00e9njamo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4002463",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4002463.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.29625
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -101.93173
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 750
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1679
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Estancia del Refugio,La Estancia,La Estancia del Refugio"
+}

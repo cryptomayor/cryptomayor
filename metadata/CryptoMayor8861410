@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8861410",
+    "name": "San Antonio Abad, Mexico",
+    "description": "Guerrero, Ayutla de los Libres",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8861410",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8861410.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 16.89111
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -99.08
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 687
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 321
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "San Antonio Abad"
+}

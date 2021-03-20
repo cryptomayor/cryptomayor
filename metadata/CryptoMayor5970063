@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5970063",
+    "name": "Hanceville, Canada",
+    "description": "British Columbia",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5970063",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5970063.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 51.91922
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -123.04458
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 10000
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 691
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Vancouver"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Canada"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "CA",
+    "altnames": null
+}

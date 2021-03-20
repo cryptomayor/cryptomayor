@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor674880",
+    "name": "Leordina, Romania",
+    "description": "Maramure\u015f, Comuna Leordina",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor674880",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor674880.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.78333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 24.25
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2537
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 402
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": "Leordina"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4025230",
+    "name": "La Estancia, Mexico",
+    "description": "Michoac\u00e1n, Huandacareo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4025230",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4025230.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.97754
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -101.30391
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 851
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1859
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "La Estancia"
+}

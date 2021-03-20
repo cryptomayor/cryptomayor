@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4989005",
+    "name": "Clawson, United States",
+    "description": "Michigan, Oakland County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4989005",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4989005.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 42.53337
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -83.14632
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 12015
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 203
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Detroit"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

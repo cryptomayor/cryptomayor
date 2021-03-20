@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor11238838",
+    "name": "Merkezefendi, Turkey",
+    "description": "Denizli, Merkezefendi \u0130l\u00e7esi",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor11238838",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor11238838.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 37.80544
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 29.04236
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 280341
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 439
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Istanbul"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Turkey"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AS"
+        }
+    ],
+    "country_code": "TR",
+    "altnames": null
+}

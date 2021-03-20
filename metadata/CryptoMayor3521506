@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3521506",
+    "name": "Piedra Parada, Mexico",
+    "description": "Veracruz, Cosautl\u00e1n de Carvajal",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3521506",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3521506.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.34654
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -96.96013
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1549
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1083
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Piedra Parada"
+}

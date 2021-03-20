@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2761436",
+    "name": "Wetzelsdorf, Austria",
+    "description": "Styria, Graz Stadt",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2761436",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2761436.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.05293
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 15.39923
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 15687
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 362
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Vienna"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Austria"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "AT",
+    "altnames": "Wetzelsdorf"
+}

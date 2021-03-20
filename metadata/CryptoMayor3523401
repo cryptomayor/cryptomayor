@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3523401",
+    "name": "Mecatepec, Mexico",
+    "description": "Tabasco, Huimanguillo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3523401",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3523401.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 17.88988
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -93.52498
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2195
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 33
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Mecatepec"
+}

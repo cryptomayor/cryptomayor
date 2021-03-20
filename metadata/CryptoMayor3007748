@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3007748",
+    "name": "La Neuville-Roy, France",
+    "description": "Hauts-de-France, Oise",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3007748",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3007748.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 49.48333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 2.58333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 908
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 110
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": null
+}

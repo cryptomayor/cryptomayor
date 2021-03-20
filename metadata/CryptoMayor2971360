@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2971360",
+    "name": "Urcel, France",
+    "description": "Hauts-de-France, Aisne",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2971360",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2971360.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 49.49227
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 3.55738
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 560
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 79
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Urcel"
+}

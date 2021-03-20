@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4016864",
+    "name": "Boquilla de las Perlas, Mexico",
+    "description": "Coahuila, Viesca",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4016864",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4016864.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 25.32803
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -103.2887
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1705
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1155
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Monterrey"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Boquilla de las Perlas"
+}

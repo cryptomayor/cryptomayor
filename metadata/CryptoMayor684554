@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor684554",
+    "name": "Boarta, Romania",
+    "description": "Sibiu, Comuna \u015eeica Mare",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor684554",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor684554.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 46.00942
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 24.19861
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 564
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 336
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": null
+}

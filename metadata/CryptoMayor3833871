@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3833871",
+    "name": "Tres Algarrobos, Argentina",
+    "description": "Buenos Aires, Partido de Carlos Tejedor",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3833871",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3833871.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -35.19471
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -62.77396
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2993
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 108
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Argentina/Buenos_Aires"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Argentina"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "AR",
+    "altnames": "Tres Algarrobos"
+}

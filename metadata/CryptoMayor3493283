@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3493283",
+    "name": "Salcedo, Dominican Republic",
+    "description": "Hermanas Mirabal, Salcedo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3493283",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3493283.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.37762
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -70.41762
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 45299
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 196
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Santo_Domingo"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Dominican Republic"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "DO",
+    "altnames": "Salcedo"
+}

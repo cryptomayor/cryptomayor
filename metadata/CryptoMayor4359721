@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4359721",
+    "name": "Kemp Mill, United States",
+    "description": "Maryland, Montgomery County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4359721",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4359721.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 39.039
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -77.01914
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 12564
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 102
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/New_York"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

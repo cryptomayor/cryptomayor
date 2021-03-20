@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6295444",
+    "name": "Z\u00fcrich (Kreis 2) / Mittel-Leimbach, Switzerland",
+    "description": "Zurich, Bezirk Z\u00fcrich",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6295444",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6295444.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.32538
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 8.51391
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1891
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 493
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Zurich"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Switzerland"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "CH",
+    "altnames": "Mittel-Leimbach"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor178040",
+    "name": "Yala, Kenya",
+    "description": "Siaya",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor178040",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor178040.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 0.09438
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 34.53602
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2715
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1371
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Africa/Nairobi"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Kenya"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AF"
+        }
+    ],
+    "country_code": "KE",
+    "altnames": "Yala,Yala Station"
+}

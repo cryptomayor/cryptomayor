@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor1688591",
+    "name": "San Ricardo, Philippines",
+    "description": "Eastern Visayas, Province of Southern Leyte",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor1688591",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor1688591.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 9.9128
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 125.2767
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 0
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 30
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Asia/Manila"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Philippines"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AS"
+        }
+    ],
+    "country_code": "PH",
+    "altnames": "San Ricardo"
+}

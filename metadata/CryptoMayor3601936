@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3601936",
+    "name": "San Luis, Honduras",
+    "description": "Comayagua",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3601936",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3601936.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 14.75
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -87.41667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1967
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 719
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Tegucigalpa"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Honduras"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "HN",
+    "altnames": "San Luis"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8950161",
+    "name": "Tre Croci, Italy",
+    "description": "Abruzzo, Provincia di Pescara",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8950161",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8950161.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 42.35835
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 14.08652
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 574
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 114
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "Tre Croci"
+}

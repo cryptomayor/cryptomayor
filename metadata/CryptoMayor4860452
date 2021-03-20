@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4860452",
+    "name": "Hiawatha, United States",
+    "description": "Iowa, Linn County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4860452",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4860452.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 42.03583
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -91.68212
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 7199
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 261
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Chicago"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

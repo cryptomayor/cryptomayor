@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2764553",
+    "name": "Stein an der Donau, Austria",
+    "description": "Lower Austria, Krems an der Donau",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2764553",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2764553.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 48.40163
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 15.58102
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2024
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 200
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Vienna"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Austria"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "AT",
+    "altnames": "Stein"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3823432",
+    "name": "Emiliano Zapata, Mexico",
+    "description": "Veracruz, Cosautl\u00e1n de Carvajal",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3823432",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3823432.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.29966
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -96.97657
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 963
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1169
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": null
+}

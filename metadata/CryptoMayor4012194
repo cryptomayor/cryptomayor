@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4012194",
+    "name": "Cuitzeo del Porvenir, Mexico",
+    "description": "Michoac\u00e1n, Cuitzeo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4012194",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4012194.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.97025
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -101.1429
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 10239
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1845
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Cuitzeo,Cuitzeo del Porvenir"
+}

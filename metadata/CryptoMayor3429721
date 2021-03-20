@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3429721",
+    "name": "Puerto Tirol, Argentina",
+    "description": "Chaco, Departamento de Libertad",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3429721",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3429721.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -27.37218
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -59.08206
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 9767
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 54
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Argentina/Cordoba"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Argentina"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "AR",
+    "altnames": "Puerto Tirol"
+}

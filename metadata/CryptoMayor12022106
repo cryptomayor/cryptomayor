@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor12022106",
+    "name": "Vingt Cinq, Mauritius",
+    "description": "Agalega Islands",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor12022106",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor12022106.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -10.38803
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 56.61795
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 250
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": -9999
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Indian/Mauritius"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mauritius"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AF"
+        }
+    ],
+    "country_code": "MU",
+    "altnames": null
+}

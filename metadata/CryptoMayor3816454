@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3816454",
+    "name": "Miguel Hidalgo, Mexico",
+    "description": "Chiapas, La Trinitaria",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3816454",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3816454.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 16.10391
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -91.77832
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2428
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1522
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Hidalgo,Miguel Hidalgo"
+}

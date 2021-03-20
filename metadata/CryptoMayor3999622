@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3999622",
+    "name": "Las Mercedes, Mexico",
+    "description": "Durango, Cuencam\u00e9",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3999622",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3999622.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 25.03837
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -103.84729
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 606
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1425
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Monterrey"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Las Mercedes,Mercedes"
+}

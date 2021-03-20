@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2970527",
+    "name": "Vaudes, France",
+    "description": "Grand Est, Aube",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2970527",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2970527.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 48.17805
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 4.18906
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 550
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 125
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Vaudes"
+}

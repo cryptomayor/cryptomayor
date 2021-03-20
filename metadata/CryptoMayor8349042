@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8349042",
+    "name": "Churchlands, Australia",
+    "description": "Western Australia, Stirling",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8349042",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8349042.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -31.92142
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 115.79322
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3337
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 16
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Perth"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": null
+}

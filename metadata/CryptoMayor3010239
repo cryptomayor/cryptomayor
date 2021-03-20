@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3010239",
+    "name": "La Chapelle-sur-Cr\u00e9cy, France",
+    "description": "\u00cele-de-France, Seine-et-Marne",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3010239",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3010239.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 48.85879
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 2.92597
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 4249
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 62
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "La Chapelle"
+}

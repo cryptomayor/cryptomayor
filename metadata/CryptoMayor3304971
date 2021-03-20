@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3304971",
+    "name": "Mucklagh, Ireland",
+    "description": "Leinster, Wicklow",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3304971",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3304971.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 52.81306
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -6.39333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 810
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 136
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Dublin"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Ireland"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IE",
+    "altnames": null
+}

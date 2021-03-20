@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3824529",
+    "name": "Nuevo Tejamanil, Mexico",
+    "description": "Veracruz, Cazones de Herrera",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3824529",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3824529.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.72305
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -97.39243
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 758
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 138
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": null
+}

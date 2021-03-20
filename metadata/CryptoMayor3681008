@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3681008",
+    "name": "Municipio Hato Corozal, Colombia",
+    "description": "Casanare, Hato Corozal",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3681008",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3681008.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 6.15676
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -71.76372
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2640
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 256
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Bogota"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Colombia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "CO",
+    "altnames": "Corozal,HTZ,Hato de Corozal,Hato del Corozal,Municipio Hato Corozal"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8948926",
+    "name": "Lucino, Italy",
+    "description": "Lombardy, Provincia di Como",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8948926",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8948926.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 45.7835
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 9.0434
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2441
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 312
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "Lucino"
+}

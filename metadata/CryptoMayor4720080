@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4720080",
+    "name": "Port O'Connor, United States",
+    "description": "Texas, Calhoun County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4720080",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4720080.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 28.44834
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -96.40581
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1253
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 6
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Chicago"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": "Port O'Conner,Port O'Connor"
+}

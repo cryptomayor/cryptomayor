@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor298451",
+    "name": "Uluborlu, Turkey",
+    "description": "Isparta",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor298451",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor298451.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 38.07825
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 30.45019
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 12514
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1050
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Istanbul"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Turkey"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AS"
+        }
+    ],
+    "country_code": "TR",
+    "altnames": "Uluborlu,Uluborru"
+}

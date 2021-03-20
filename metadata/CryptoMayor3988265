@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3988265",
+    "name": "Sahuaripa, Mexico",
+    "description": "Sonora, Sahuaripa",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3988265",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3988265.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 29.05408
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -109.23399
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 4041
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 435
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Hermosillo"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Sahuaripa"
+}

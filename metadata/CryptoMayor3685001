@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3685001",
+    "name": "Algarrobo, Colombia",
+    "description": "Magdalena, Algarrobo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3685001",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3685001.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 10.18618
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -74.06085
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 0
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 110
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Bogota"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Colombia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "CO",
+    "altnames": "Algarrobo,El Algarrobo"
+}

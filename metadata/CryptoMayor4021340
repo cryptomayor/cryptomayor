@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4021340",
+    "name": "California, Mexico",
+    "description": "Aguascalientes, Rinc\u00f3n de Romos",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4021340",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4021340.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 22.28532
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -102.25133
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 935
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1928
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "California"
+}

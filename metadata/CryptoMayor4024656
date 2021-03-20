@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4024656",
+    "name": "Don Francisco, Mexico",
+    "description": "Guanajuato, San Miguel de Allende",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4024656",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4024656.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.90281
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -100.91873
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1010
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1918
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Don Francisco"
+}

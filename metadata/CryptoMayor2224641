@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2224641",
+    "name": "Ngomedzap, Cameroon",
+    "description": "Centre",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2224641",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2224641.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 3.25
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 11.2
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 4284
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 701
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Africa/Douala"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Cameroon"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AF"
+        }
+    ],
+    "country_code": "CM",
+    "altnames": "Ngomedzap"
+}

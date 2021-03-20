@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2660775",
+    "name": "Filzbach, Switzerland",
+    "description": "Glarus, Glarus",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2660775",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2660775.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.11897
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 9.13239
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 541
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 706
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Zurich"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Switzerland"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "CH",
+    "altnames": null
+}

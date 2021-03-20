@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3392251",
+    "name": "Pesqueira, Brazil",
+    "description": "Pernambuco, Pesqueira",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3392251",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3392251.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -8.35778
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -36.69639
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 41896
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 655
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Recife"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Brazil"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "BR",
+    "altnames": null
+}

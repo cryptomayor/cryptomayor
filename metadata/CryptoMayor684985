@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor684985",
+    "name": "Bertea, Romania",
+    "description": "Prahova, Comuna Bertea",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor684985",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor684985.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 45.23333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 25.86667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3328
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 550
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": "Bertea"
+}

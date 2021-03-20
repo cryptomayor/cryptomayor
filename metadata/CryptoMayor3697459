@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3697459",
+    "name": "Dos Palos, Peru",
+    "description": "Lambayeque, Provincia de Lambayeque",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3697459",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3697459.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -6.57717
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -80.03344
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 506
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 12
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Lima"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Peru"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "PE",
+    "altnames": "Dos Palos"
+}

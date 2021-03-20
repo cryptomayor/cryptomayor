@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6291683",
+    "name": "Regensdorf / Feldblumen-Riedthofstrasse, Switzerland",
+    "description": "Zurich, Bezirk Dielsdorf",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6291683",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6291683.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.43618
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 8.46659
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1122
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 439
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Zurich"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Switzerland"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "CH",
+    "altnames": "Feldblumen-Riedthofstrasse"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8949762",
+    "name": "Croce, Italy",
+    "description": "Veneto, Provincia di Venezia",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8949762",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8949762.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 45.63243
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 12.52255
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 745
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "Croce"
+}

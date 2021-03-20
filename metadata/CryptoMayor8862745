@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8862745",
+    "name": "Estaci\u00f3n Abasolo, Mexico",
+    "description": "Guanajuato, Abasolo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8862745",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8862745.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.50417
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -101.57361
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 543
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1691
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Estacion Abasolo,Estaci\u00f3n Abasolo"
+}

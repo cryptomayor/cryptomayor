@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2960832",
+    "name": "Alzingen, Luxembourg",
+    "description": "Luxembourg, Hesperange",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2960832",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2960832.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 49.565
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 6.16361
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1376
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 265
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Luxembourg"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Luxembourg"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "LU",
+    "altnames": "Altzingen,Alzingen"
+}

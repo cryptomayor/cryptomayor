@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3180864",
+    "name": "Candide, Italy",
+    "description": "Veneto, Provincia di Belluno",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3180864",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3180864.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 46.58913
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 12.51476
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 836
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1215
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "Comelico Superiore"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2611132",
+    "name": "Tune, Denmark",
+    "description": "Zealand, Greve Kommune",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2611132",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2611132.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 55.59287
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 12.16968
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 5168
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 50
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Copenhagen"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Denmark"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "DK",
+    "altnames": "Tune"
+}

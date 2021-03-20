@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3522031",
+    "name": "Palo Dulce, Mexico",
+    "description": "Veracruz, Jes\u00fas Carranza",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3522031",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3522031.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 17.43642
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -95.07977
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 507
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 51
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Palo Dulce"
+}

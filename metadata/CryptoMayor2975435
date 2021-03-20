@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2975435",
+    "name": "Schnersheim, France",
+    "description": "Grand Est, Bas-Rhin",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2975435",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2975435.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 48.65741
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 7.56701
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1055
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 202
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": null
+}

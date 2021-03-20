@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3991532",
+    "name": "Puente del Carmen, Mexico",
+    "description": "Guanajuato, San Miguel de Allende",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3991532",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3991532.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.8866
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -100.64149
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 507
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2056
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "El Puerto del Carmen,Puente del Carmen,Puente del Carmen de Bayola"
+}

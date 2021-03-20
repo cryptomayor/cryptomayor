@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor684338",
+    "name": "Boian, Romania",
+    "description": "Sibiu, Comuna Bazna",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor684338",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor684338.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 46.20159
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 24.22862
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1622
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 305
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": "Boian"
+}

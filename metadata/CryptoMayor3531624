@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3531624",
+    "name": "Cantarranas, Mexico",
+    "description": "Veracruz, Paso de Ovejas",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3531624",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3531624.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.25113
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -96.5395
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 676
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 233
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Cantarranas"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8948911",
+    "name": "Osigo, Italy",
+    "description": "Lombardy, Provincia di Como",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8948911",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8948911.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 45.87532
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 9.29559
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2561
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 494
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "Osigo"
+}

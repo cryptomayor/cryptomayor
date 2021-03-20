@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3690812",
+    "name": "Yanama, Peru",
+    "description": "Ancash, Provincia de Yungay",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3690812",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3690812.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -9.02239
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -77.47465
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 556
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 3498
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Lima"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Peru"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "PE",
+    "altnames": null
+}

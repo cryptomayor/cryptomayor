@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3516350",
+    "name": "Tampico Alto, Mexico",
+    "description": "Veracruz, Tampico Alto",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3516350",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3516350.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 22.1124
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -97.80184
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2564
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 32
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Tampico Alto"
+}

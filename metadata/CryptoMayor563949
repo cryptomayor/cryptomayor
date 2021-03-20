@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor563949",
+    "name": "Dvortsy, Russia",
+    "description": "Kaluga",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor563949",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor563949.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 54.61677
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 35.9974
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1492
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 132
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Moscow"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Russia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RU",
+    "altnames": "Dvorcy,Dvorets,Dvortsy,\u0414\u0432\u043e\u0440\u0446\u044b"
+}

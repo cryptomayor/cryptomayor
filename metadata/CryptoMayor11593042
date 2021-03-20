@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor11593042",
+    "name": "Vorstadt, Austria",
+    "description": "Styria, Politischer Bezirk Murau",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor11593042",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor11593042.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.20313
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 14.28184
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 615
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 833
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Vienna"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Austria"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "AT",
+    "altnames": null
+}

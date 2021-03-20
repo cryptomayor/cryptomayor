@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3983527",
+    "name": "Santo Tom\u00e1s, Mexico",
+    "description": "Jalisco, Hostotipaquillo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3983527",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3983527.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.99656
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -104.11532
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 922
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1148
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": null
+}

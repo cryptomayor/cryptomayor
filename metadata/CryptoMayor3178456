@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3178456",
+    "name": "Coldragone, Italy",
+    "description": "Latium, Provincia di Frosinone",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3178456",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3178456.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 41.55458
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 13.60399
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 544
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 149
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": null
+}

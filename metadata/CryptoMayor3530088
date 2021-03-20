@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3530088",
+    "name": "Cruillas, Mexico",
+    "description": "Tamaulipas, Cruillas",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3530088",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3530088.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 24.75658
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -98.53739
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 759
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 234
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Monterrey"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Cruillas"
+}

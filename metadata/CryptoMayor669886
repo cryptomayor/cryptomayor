@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor669886",
+    "name": "Pope\u0219ti, Romania",
+    "description": "Cluj, Comuna Baciu",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor669886",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor669886.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 46.82437
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 23.53513
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 591
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 527
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": null
+}

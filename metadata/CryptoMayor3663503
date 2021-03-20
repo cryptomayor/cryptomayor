@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3663503",
+    "name": "Manicor\u00e9, Brazil",
+    "description": "Amazonas, Manicor\u00e9",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3663503",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3663503.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -5.80917
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -61.30028
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 14055
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 38
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Manaus"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Brazil"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "BR",
+    "altnames": "MNX"
+}

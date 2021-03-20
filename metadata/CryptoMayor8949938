@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8949938",
+    "name": "Madrigale, Italy",
+    "description": "Tuscany, Province of Arezzo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8949938",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8949938.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 43.56947
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 11.54852
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 660
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 139
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "Madrigale"
+}

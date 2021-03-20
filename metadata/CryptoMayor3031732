@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3031732",
+    "name": "Bonnes, France",
+    "description": "Nouvelle-Aquitaine, Vienne",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3031732",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3031732.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 46.60451
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 0.5954
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1573
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 63
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Bonnes"
+}

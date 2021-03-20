@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor7284903",
+    "name": "Kismaros, Hungary",
+    "description": "Pest",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor7284903",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor7284903.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.83742
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 19.00463
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1911
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 132
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Budapest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Hungary"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "HU",
+    "altnames": null
+}

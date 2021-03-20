@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3179385",
+    "name": "Castorano, Italy",
+    "description": "The Marches, Provincia di Ascoli Piceno",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3179385",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3179385.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 42.89779
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 13.72967
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 757
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 265
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "Castorano"
+}

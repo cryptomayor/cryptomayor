@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3666881",
+    "name": "Toro, Colombia",
+    "description": "Valle del Cauca, Toro",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3666881",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3666881.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 4.61167
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -76.08139
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 13764
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 992
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Bogota"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Colombia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "CO",
+    "altnames": "Toro"
+}

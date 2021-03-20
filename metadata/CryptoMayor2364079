@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2364079",
+    "name": "Sotouboua, Togo",
+    "description": "Centrale",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2364079",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2364079.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 8.5634
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 0.98399
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 21054
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 380
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Africa/Lome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Togo"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AF"
+        }
+    ],
+    "country_code": "TG",
+    "altnames": "Sotouboua"
+}

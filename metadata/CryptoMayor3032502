@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3032502",
+    "name": "Biville-la-Baignarde, France",
+    "description": "Normandy, Seine-Maritime",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3032502",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3032502.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 49.72214
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 1.04857
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 528
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 135
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Biville,Biville-la-Baignarde"
+}

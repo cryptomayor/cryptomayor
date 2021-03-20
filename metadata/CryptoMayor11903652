@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor11903652",
+    "name": "Kamara, Greece",
+    "description": "South Aegean, Dodecanese",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor11903652",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor11903652.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 37.16031
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 26.8248
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 643
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 14
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Athens"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Greece"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "GR",
+    "altnames": null
+}

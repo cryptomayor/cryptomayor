@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor731239",
+    "name": "Gorna Malina, Bulgaria",
+    "description": "Sofia, Obshtina Gorna Malina",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor731239",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor731239.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 42.68333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 23.7
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1501
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 647
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Sofia"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Bulgaria"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "BG",
+    "altnames": "Gorna Malina,\u0413\u043e\u0440\u043d\u0430 \u041c\u0430\u043b\u0438\u043d\u0430"
+}

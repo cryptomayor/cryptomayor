@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3994405",
+    "name": "Ojo de Agua, Mexico",
+    "description": "M\u00e9xico, Tultepec",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3994405",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3994405.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.99576
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -102.19795
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 664
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1599
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Ojo de Agua"
+}

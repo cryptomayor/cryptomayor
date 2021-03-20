@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8859448",
+    "name": "Las Letras, Mexico",
+    "description": "Michoac\u00e1n, Puru\u00e1ndiro",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8859448",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8859448.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.23083
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -101.43361
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1221
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2132
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Las Letras"
+}

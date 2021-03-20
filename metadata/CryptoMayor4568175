@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4568175",
+    "name": "San Sebasti\u00e1n, Puerto Rico",
+    "description": "San Sebasti\u00e1n, San Sebasti\u00e1n Barrio-Pueblo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4568175",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4568175.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.33662
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -66.99018
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 11590
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 83
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Puerto_Rico"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Puerto Rico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "PR",
+    "altnames": "San Sebastian"
+}

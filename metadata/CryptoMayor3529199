@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3529199",
+    "name": "El Chapo, Mexico",
+    "description": "Veracruz, Ixhuatl\u00e1n del Sureste",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3529199",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3529199.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.04635
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -94.35146
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 805
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 34
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Chapo,El Chapo"
+}

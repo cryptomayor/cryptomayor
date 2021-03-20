@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3959023",
+    "name": "San Pedro de Larcay, Peru",
+    "description": "Ayacucho, Provincia de Sucre",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3959023",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3959023.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -14.16976
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -73.57605
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 553
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 3387
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Lima"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Peru"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "PE",
+    "altnames": null
+}

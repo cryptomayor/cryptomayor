@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2412199",
+    "name": "Sami, Gambia",
+    "description": "Central River",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2412199",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2412199.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 13.58333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -15.2
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2794
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 19
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Africa/Banjul"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Gambia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AF"
+        }
+    ],
+    "country_code": "GM",
+    "altnames": null
+}

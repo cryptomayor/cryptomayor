@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2766408",
+    "name": "Sankt Salvator, Austria",
+    "description": "Carinthia, Politischer Bezirk Sankt Veit an der Glan",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2766408",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2766408.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 46.97
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 14.35694
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 520
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 677
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Vienna"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Austria"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "AT",
+    "altnames": null
+}

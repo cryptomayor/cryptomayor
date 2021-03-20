@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3571523",
+    "name": "San Andros, Bahamas",
+    "description": "North Andros",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3571523",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3571523.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 25.06667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -78.05
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 7800
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 15
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Nassau"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Bahamas"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "BS",
+    "altnames": "SAQ,San Andros,San Andros Bahama Village"
+}

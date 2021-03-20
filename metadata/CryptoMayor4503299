@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4503299",
+    "name": "North Cape May, United States",
+    "description": "New Jersey, Cape May County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4503299",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4503299.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 38.98206
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -74.95795
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3226
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 7
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/New_York"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": "Cape May Beach,North Cape May"
+}

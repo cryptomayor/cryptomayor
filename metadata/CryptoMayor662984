@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor662984",
+    "name": "Victoria, Romania",
+    "description": "Boto\u015fani, Comuna Hlipiceni",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor662984",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor662984.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.61018
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 27.1673
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1380
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 100
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": null
+}

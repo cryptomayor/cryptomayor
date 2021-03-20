@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3515726",
+    "name": "Texcala, Mexico",
+    "description": "Morelos, Yecapixtla",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3515726",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3515726.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.93444
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -98.79472
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1444
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2011
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": null
+}

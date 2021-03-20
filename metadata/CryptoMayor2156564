@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2156564",
+    "name": "Mount Morgan, Australia",
+    "description": "Queensland, Rockhampton",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2156564",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2156564.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -23.64532
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 150.38902
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1926
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 243
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Brisbane"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": "Mount Morgan"
+}

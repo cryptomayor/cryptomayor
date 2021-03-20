@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4007286",
+    "name": "El Tequesquite, Mexico",
+    "description": "Michoac\u00e1n, Yur\u00e9cuaro",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4007286",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4007286.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.30174
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -102.28833
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1161
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1544
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "El Tequesquite"
+}

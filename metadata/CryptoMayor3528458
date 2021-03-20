@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3528458",
+    "name": "El Pintor, Mexico",
+    "description": "Hidalgo, Huejutla de Reyes",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3528458",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3528458.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 21.15932
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -98.41284
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1474
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 145
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "El Pintor"
+}

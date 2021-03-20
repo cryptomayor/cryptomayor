@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor933719",
+    "name": "Janeng, Botswana",
+    "description": "South-East",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor933719",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor933719.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -25.41667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 25.55
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 16853
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1311
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Africa/Gaborone"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Botswana"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AF"
+        }
+    ],
+    "country_code": "BW",
+    "altnames": "Janeng"
+}

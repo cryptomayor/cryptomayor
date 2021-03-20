@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3665949",
+    "name": "Villanueva, Colombia",
+    "description": "Santander, Villanueva",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3665949",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3665949.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 6.67169
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -73.17421
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3707
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1454
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Bogota"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Colombia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "CO",
+    "altnames": "Villanueva"
+}

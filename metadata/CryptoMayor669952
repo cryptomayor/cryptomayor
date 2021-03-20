@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor669952",
+    "name": "Pomezeu, Romania",
+    "description": "Bihor, Comuna Pomezeu",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor669952",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor669952.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 46.78333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 22.28333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3310
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 145
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": "Pomezeu"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6534896",
+    "name": "Piovera, Italy",
+    "description": "Piedmont, Provincia di Alessandria",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6534896",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6534896.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 44.95845
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 8.73595
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 767
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 87
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": null
+}

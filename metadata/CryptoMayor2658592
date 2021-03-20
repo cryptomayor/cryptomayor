@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2658592",
+    "name": "Silenen, Switzerland",
+    "description": "Uri, Uri",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2658592",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2658592.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 46.7891
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 8.67325
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2243
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 540
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Zurich"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Switzerland"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "CH",
+    "altnames": "Silenen"
+}

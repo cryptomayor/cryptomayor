@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4014842",
+    "name": "Cerano, Mexico",
+    "description": "Guanajuato, Yuriria",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4014842",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4014842.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.10877
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -101.3871
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 6530
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1882
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Cerano"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6674612",
+    "name": "Masma, Peru",
+    "description": "Junin, Provincia de Jauja",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6674612",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6674612.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -11.78692
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -75.42899
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 785
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 3488
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Lima"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Peru"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "PE",
+    "altnames": null
+}

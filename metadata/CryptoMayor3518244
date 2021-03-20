@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3518244",
+    "name": "Villa Sola de Vega, Mexico",
+    "description": "Oaxaca, Villa Sola de Vega",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3518244",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3518244.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 16.51844
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -96.9781
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1846
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1443
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "San Miguel,San Miguel Sola de Vega,Sola,Sola de Vega,Villa Sola de Vega"
+}

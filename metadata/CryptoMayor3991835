@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3991835",
+    "name": "Presa de Valenzuela, Mexico",
+    "description": "Zacatecas, Villa Hidalgo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3991835",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3991835.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 22.3484
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -101.67179
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 742
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2248
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Presa de Valenzuela,Valenzuela"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2619787",
+    "name": "Hornslet, Denmark",
+    "description": "Central Jutland, Syddjurs Kommune",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2619787",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2619787.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 56.3155
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 10.32041
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 4906
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 28
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Copenhagen"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Denmark"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "DK",
+    "altnames": "Hornslet"
+}

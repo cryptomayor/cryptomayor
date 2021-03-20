@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4024067",
+    "name": "La Cuevita, Mexico",
+    "description": "Guanajuato, Apaseo el Alto",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4024067",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4024067.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.33872
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -100.57891
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1952
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2044
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "La Cuevita"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5124889",
+    "name": "Little Valley, United States",
+    "description": "New York, Cattaraugus County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5124889",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5124889.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 42.25256
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -78.80559
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1105
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 489
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/New_York"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

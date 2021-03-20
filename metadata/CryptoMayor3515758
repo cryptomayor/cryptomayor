@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3515758",
+    "name": "Tetelco, Mexico",
+    "description": "Mexico City, Tl\u00e1huac",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3515758",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3515758.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.21673
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -98.97295
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 4246
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2246
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "San Nicolas Tetelco,San Nicol\u00e1s Tetelco,Tetelco"
+}

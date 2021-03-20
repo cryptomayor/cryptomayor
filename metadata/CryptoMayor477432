@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor477432",
+    "name": "Vachi, Russia",
+    "description": "Dagestan",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor477432",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor477432.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 42.07381
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 47.21474
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 714
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1719
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Moscow"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Russia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RU",
+    "altnames": "Vachi,Vatsji,\u0412\u0430\u0447\u0438"
+}

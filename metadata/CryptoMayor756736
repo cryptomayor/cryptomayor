@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor756736",
+    "name": "Trzciana, Poland",
+    "description": "Lesser Poland, Powiat boche\u0144ski",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor756736",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor756736.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 49.84485
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 20.37415
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1462
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 255
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Warsaw"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Poland"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "PL",
+    "altnames": null
+}

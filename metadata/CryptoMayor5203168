@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5203168",
+    "name": "New Florence, United States",
+    "description": "Pennsylvania, Westmoreland County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5203168",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5203168.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 40.38035
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -79.07531
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 666
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 330
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/New_York"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

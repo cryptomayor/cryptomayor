@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3168206",
+    "name": "San Giustino Valdarno, Italy",
+    "description": "Tuscany, Province of Arezzo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3168206",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3168206.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 43.55269
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 11.70497
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1528
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 299
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "San Giustino,San Giustino Valdarno"
+}

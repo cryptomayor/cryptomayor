@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor667882",
+    "name": "Satulung, Romania",
+    "description": "Maramure\u015f, Comuna Satulung",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor667882",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor667882.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.56667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 23.43333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 5334
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 164
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": null
+}

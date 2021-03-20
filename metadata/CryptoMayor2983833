@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2983833",
+    "name": "Revel, France",
+    "description": "Occitanie, Upper Garonne",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2983833",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2983833.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 43.4589
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 2.00437
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 8710
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 219
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Revel"
+}

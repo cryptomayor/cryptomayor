@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor677822",
+    "name": "Fund\u0103tura, Romania",
+    "description": "Cluj, Comuna Iclod",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor677822",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor677822.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 46.95647
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 23.78074
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 716
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 276
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4015963",
+    "name": "Campo Carretero, Mexico",
+    "description": "Sonora, Imuris",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4015963",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4015963.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 30.77154
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -110.8538
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1252
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 837
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Hermosillo"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Campo Carretera,Campo Carretero"
+}

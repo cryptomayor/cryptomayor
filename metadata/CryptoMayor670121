@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor670121",
+    "name": "Poiana, Romania",
+    "description": "Boto\u015fani, Comuna Br\u0103e\u015fti",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor670121",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor670121.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.84524
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 26.4244
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 526
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 222
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": null
+}

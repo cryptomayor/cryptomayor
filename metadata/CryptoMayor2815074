@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2815074",
+    "name": "Waldenburg, Germany",
+    "description": "Saxony",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2815074",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2815074.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 50.87653
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 12.59919
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 4597
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 267
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Berlin"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Germany"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "DE",
+    "altnames": "Waldenburg"
+}

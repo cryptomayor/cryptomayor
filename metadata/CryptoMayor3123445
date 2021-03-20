@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3123445",
+    "name": "\u00c9ller, Spain",
+    "description": "Catalonia, Prov\u00edncia de Lleida",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3123445",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3123445.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 42.41636
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 1.79223
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1535
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1440
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Madrid"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Spain"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "ES",
+    "altnames": null
+}

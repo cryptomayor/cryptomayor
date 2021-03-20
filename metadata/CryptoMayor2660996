@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2660996",
+    "name": "Dompierre, Switzerland",
+    "description": "Fribourg, Broye District",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2660996",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2660996.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 46.85208
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 6.99075
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 687
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 458
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Zurich"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Switzerland"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "CH",
+    "altnames": null
+}

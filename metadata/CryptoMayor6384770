@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6384770",
+    "name": "La Soledad, Peru",
+    "description": "La Libertad, Provincia de Pataz",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6384770",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6384770.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -8.02806
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -77.47424
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 997
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 3035
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Lima"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Peru"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "PE",
+    "altnames": null
+}

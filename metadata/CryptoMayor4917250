@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4917250",
+    "name": "Yates City, United States",
+    "description": "Illinois, Knox County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4917250",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4917250.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 40.77865
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -90.01484
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 670
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 206
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Chicago"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

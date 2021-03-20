@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5207663",
+    "name": "Rauchtown, United States",
+    "description": "Pennsylvania, Clinton County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5207663",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5207663.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 41.12285
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -77.23608
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 726
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 278
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/New_York"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

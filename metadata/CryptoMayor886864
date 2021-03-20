@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor886864",
+    "name": "Mashava, Zimbabwe",
+    "description": "Masvingo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor886864",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor886864.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -20.03665
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 30.48225
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 12994
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1046
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Africa/Harare"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Zimbabwe"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AF"
+        }
+    ],
+    "country_code": "ZW",
+    "altnames": "Mashaba,Mashava"
+}

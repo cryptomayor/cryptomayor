@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2975143",
+    "name": "Semur-en-Auxois, France",
+    "description": "Bourgogne-Franche-Comt\u00e9, Cote d'Or",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2975143",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2975143.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.48333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 4.33333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 5124
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 264
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Semur"
+}

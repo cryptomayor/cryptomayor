@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2205310",
+    "name": "Ahau, Fiji",
+    "description": "Rotuma",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2205310",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2205310.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -12.5
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 177.05
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 0
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 53
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Pacific/Fiji"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Fiji"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "FJ",
+    "altnames": null
+}

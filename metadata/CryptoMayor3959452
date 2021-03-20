@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3959452",
+    "name": "Aucara, Peru",
+    "description": "Ayacucho, Provincia de Lucanas",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3959452",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3959452.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -14.28083
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -73.97611
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 0
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 3221
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Lima"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Peru"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "PE",
+    "altnames": null
+}

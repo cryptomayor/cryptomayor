@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3711302",
+    "name": "El Cacao, Panama",
+    "description": "Panam\u00e1 Oeste, Distrito de Capira",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3711302",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3711302.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 8.76134
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -80.01294
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 636
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 204
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Panama"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Panama"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "PA",
+    "altnames": "El Cacao"
+}

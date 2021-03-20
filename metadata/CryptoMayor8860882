@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8860882",
+    "name": "Bahosil, Mexico",
+    "description": "Chiapas, Chamula",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8860882",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8860882.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 16.77923
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -92.72749
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 767
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2280
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Bahosil"
+}

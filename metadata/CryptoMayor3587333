@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3587333",
+    "name": "Armenia, El Salvador",
+    "description": "Sonsonate",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3587333",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3587333.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 13.74361
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -89.49889
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 14997
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 559
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/El_Salvador"
+        },
+        {
+            "trait_type": "Country",
+            "value": "El Salvador"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "SV",
+    "altnames": "Armenia,Guaymoco"
+}

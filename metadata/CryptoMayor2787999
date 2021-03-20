@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2787999",
+    "name": "Rivi\u00e8re, Belgium",
+    "description": "Wallonia, Province de Namur",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2787999",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2787999.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 50.35696
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 4.8739
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 563
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 96
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Brussels"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Belgium"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "BE",
+    "altnames": null
+}

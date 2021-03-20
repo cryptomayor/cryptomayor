@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2061758",
+    "name": "Seaton, Australia",
+    "description": "South Australia, Charles Sturt",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2061758",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2061758.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -34.9
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 138.51667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 10208
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 7
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Adelaide"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": "Seaton"
+}

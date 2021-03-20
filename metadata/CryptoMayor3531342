@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3531342",
+    "name": "Ciudad Cerralvo, Mexico",
+    "description": "Nuevo Le\u00f3n, Cerralvo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3531342",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3531342.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 26.08499
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -99.61508
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 7169
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 289
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Monterrey"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Cerralvo,Ciudad Cerralvo"
+}

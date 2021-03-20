@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor11179944",
+    "name": "Nueva Colonia San Carlos, Mexico",
+    "description": "Guanajuato, Le\u00f3n",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor11179944",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor11179944.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 21.04886
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -101.5933
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 550
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1816
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Nueva Colonia San Carlos"
+}

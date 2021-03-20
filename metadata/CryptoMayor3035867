@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3035867",
+    "name": "Auvers-le-Hamon, France",
+    "description": "Pays de la Loire, Sarthe",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3035867",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3035867.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.90181
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -0.35195
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1445
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 63
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Auvers,Auvers-l'Union,Auvers-le-Hamon"
+}

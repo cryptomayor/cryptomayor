@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2516024",
+    "name": "La Cumbre, Spain",
+    "description": "Extremadura, Provincia de C\u00e1ceres",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2516024",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2516024.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 39.4046
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -5.97635
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1027
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 482
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Madrid"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Spain"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "ES",
+    "altnames": "La Cumbre"
+}

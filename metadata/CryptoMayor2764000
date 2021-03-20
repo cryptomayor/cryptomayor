@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2764000",
+    "name": "Sulz im Wienerwald, Austria",
+    "description": "Lower Austria, Politischer Bezirk M\u00f6dling",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2764000",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2764000.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 48.10038
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 16.13746
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 839
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 414
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Vienna"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Austria"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "AT",
+    "altnames": "Sulz,Wien-Sulz"
+}

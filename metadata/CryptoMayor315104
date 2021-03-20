@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor315104",
+    "name": "Evrenseki, Turkey",
+    "description": "Antalya, Manavgat \u0130l\u00e7esi",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor315104",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor315104.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 36.83868
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 31.35559
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2615
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 23
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Istanbul"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Turkey"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AS"
+        }
+    ],
+    "country_code": "TR",
+    "altnames": "Evren,Evrenkoy,Evrenk\u00f6y,Evrenseki,Seki"
+}

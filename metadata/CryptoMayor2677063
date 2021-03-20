@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2677063",
+    "name": "Skultorp, Sweden",
+    "description": "V\u00e4stra G\u00f6taland, Sk\u00f6vde Kommun",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2677063",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2677063.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 58.35
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 13.83333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3644
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 150
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Stockholm"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Sweden"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "SE",
+    "altnames": "Skultorp"
+}

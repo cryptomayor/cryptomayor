@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4004496",
+    "name": "Huitzila, Mexico",
+    "description": "Zacatecas, Te\u00fal de Gonz\u00e1lez Ortega",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4004496",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4004496.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 21.22302
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -103.60691
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 691
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1662
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Huitzila"
+}

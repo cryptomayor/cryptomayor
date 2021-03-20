@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3027021",
+    "name": "Champsecret, France",
+    "description": "Normandy, Orne",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3027021",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3027021.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 48.60925
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -0.55058
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1055
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 213
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": null
+}

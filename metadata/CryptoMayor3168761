@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3168761",
+    "name": "Sabbia, Italy",
+    "description": "Piedmont, Provincia di Vercelli",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3168761",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3168761.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 45.8572
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 8.2358
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 63
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 725
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "Sabbia"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6610738",
+    "name": "Pervomayskoye, Russia",
+    "description": "Altai Krai",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6610738",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6610738.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 52.59888
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 85.25769
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 6500
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 243
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Asia/Barnaul"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Russia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RU",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5728442",
+    "name": "Glasgow, United States",
+    "description": "Oregon, Coos County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5728442",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5728442.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 43.43456
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -124.21122
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 763
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 22
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Los_Angeles"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

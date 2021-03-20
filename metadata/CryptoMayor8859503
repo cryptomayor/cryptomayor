@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8859503",
+    "name": "Lomas de Santa Cruz, Mexico",
+    "description": "Puebla, Tecamachalco",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8859503",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8859503.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.92444
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -97.73
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1190
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2099
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Lomas de Santa Cruz"
+}

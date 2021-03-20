@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor1090126",
+    "name": "Mtsamboro, Mayotte",
+    "description": "Mtsamboro",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor1090126",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor1090126.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -12.69982
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 45.06894
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 7724
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 26
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Indian/Mayotte"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mayotte"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AF"
+        }
+    ],
+    "country_code": "YT",
+    "altnames": "M'Zamboro,Mtsamboro,M\u2019Zamboro"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor680618",
+    "name": "Cosmina de Jos, Romania",
+    "description": "Prahova, Comuna Cosminele",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor680618",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor680618.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 45.15
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 25.88333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 397
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 522
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": null
+}

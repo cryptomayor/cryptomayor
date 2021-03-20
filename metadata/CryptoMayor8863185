@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8863185",
+    "name": "Chuchuclumil, Mexico",
+    "description": "Chiapas, Salto de Agua",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8863185",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8863185.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 17.39417
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -92.27972
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 507
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 309
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Chuchuclumil"
+}

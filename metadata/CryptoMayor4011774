@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4011774",
+    "name": "Dos de Abril, Mexico",
+    "description": "Sinaloa, El Fuerte",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4011774",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4011774.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 25.91116
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -108.94077
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1669
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 21
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mazatlan"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Dos de Abril"
+}

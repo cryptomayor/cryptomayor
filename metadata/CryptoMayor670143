@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor670143",
+    "name": "Poiana, Romania",
+    "description": "Bac\u0103u, Comuna Moto\u015feni",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor670143",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor670143.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 46.27477
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 27.42292
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 520
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 278
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": null
+}

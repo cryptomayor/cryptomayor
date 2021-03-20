@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3673386",
+    "name": "Paicol, Colombia",
+    "description": "Huila, Paicol",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3673386",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3673386.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 2.44962
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -75.775
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1681
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 871
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Bogota"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Colombia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "CO",
+    "altnames": "Paicol"
+}

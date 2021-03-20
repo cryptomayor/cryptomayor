@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2762373",
+    "name": "Vill, Austria",
+    "description": "Tyrol, Innsbruck Stadt",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2762373",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2762373.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.23333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 11.4
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 547
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 838
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Vienna"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Austria"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "AT",
+    "altnames": null
+}

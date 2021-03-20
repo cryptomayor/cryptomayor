@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3816141",
+    "name": "Chiotic, Mexico",
+    "description": "Chiapas, Chamula",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3816141",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3816141.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 16.8475
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -92.62472
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 718
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1782
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": null
+}

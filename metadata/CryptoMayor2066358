@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2066358",
+    "name": "Middle Swan, Australia",
+    "description": "Western Australia, Swan",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2066358",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2066358.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -31.85
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 116.01667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2841
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 16
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Perth"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": "Middle Swan"
+}

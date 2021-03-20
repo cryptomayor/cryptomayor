@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8862727",
+    "name": "Lomas de la Cruz, Mexico",
+    "description": "Quer\u00e9taro, Corregidora",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8862727",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8862727.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.51611
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -100.45333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 545
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1920
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Lomas de la Cruz"
+}

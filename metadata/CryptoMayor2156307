@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2156307",
+    "name": "Mullumbimby, Australia",
+    "description": "New South Wales, Byron Shire",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2156307",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2156307.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -28.55236
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 153.49956
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3629
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 7
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Sydney"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": "Mullumbimby"
+}

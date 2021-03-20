@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4007287",
+    "name": "El Tequesquite, Mexico",
+    "description": "Jalisco, Tomatl\u00e1n",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4007287",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4007287.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.06613
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -105.30064
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1172
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 77
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": null
+}

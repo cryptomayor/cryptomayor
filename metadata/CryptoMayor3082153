@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3082153",
+    "name": "Wierzbinek, Poland",
+    "description": "Greater Poland, Konin County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3082153",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3082153.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 52.44026
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 18.51085
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 380
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 92
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Warsaw"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Poland"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "PL",
+    "altnames": null
+}

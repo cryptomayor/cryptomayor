@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2998222",
+    "name": "Lingreville, France",
+    "description": "Normandy, Manche",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2998222",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2998222.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 48.95114
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -1.52727
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 945
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 24
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Lingreville"
+}

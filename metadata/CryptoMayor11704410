@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor11704410",
+    "name": "Gormans Hill, Australia",
+    "description": "New South Wales, Bathurst Regional",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor11704410",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor11704410.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -33.46714
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 149.59547
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 786
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 699
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Sydney"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": null
+}

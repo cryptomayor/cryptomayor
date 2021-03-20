@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3709830",
+    "name": "El Uvito, Panama",
+    "description": "Veraguas, Distrito de Santiago",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3709830",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3709830.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 8.11648
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -80.98461
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1037
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 85
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Panama"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Panama"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "PA",
+    "altnames": "El Uvito"
+}

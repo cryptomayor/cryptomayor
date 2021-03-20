@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3989551",
+    "name": "Rancho Nuevo, Mexico",
+    "description": "Guanajuato, Apaseo el Grande",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3989551",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3989551.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.52972
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -100.7433
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 920
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1763
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Rancho Nuevo"
+}

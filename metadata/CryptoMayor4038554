@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4038554",
+    "name": "Santa Rita Village, Guam",
+    "description": "Santa Rita",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4038554",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4038554.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 13.38608
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 144.67226
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 7500
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 77
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Pacific/Guam"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Guam"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "GU",
+    "altnames": "Santa Rita"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8863093",
+    "name": "Nuevo M\u00e9xico, Mexico",
+    "description": "Chiapas, Tecpat\u00e1n",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8863093",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8863093.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 17.20778
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -93.58028
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 512
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 101
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Nuevo Mexico,Nuevo M\u00e9xico"
+}

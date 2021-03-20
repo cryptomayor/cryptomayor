@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8858939",
+    "name": "Barrio San Miguel Dorami, Mexico",
+    "description": "M\u00e9xico, Naucalpan de Ju\u00e1rez",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8858939",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8858939.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.44622
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -99.34296
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1649
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2870
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Barrio San Miguel Dorami"
+}

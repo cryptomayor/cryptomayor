@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2669111",
+    "name": "Tidan, Sweden",
+    "description": "V\u00e4stra G\u00f6taland, Sk\u00f6vde Kommun",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2669111",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2669111.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 58.57467
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 14.00495
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 989
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 73
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Stockholm"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Sweden"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "SE",
+    "altnames": null
+}

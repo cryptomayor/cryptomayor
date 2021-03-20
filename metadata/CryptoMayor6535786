@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6535786",
+    "name": "Solza, Italy",
+    "description": "Lombardy, Provincia di Bergamo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6535786",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6535786.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 45.67868
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 9.49075
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1955
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 253
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": null
+}

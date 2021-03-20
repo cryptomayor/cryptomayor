@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5534441",
+    "name": "Aneth, United States",
+    "description": "Utah, San Juan County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5534441",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5534441.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 37.21611
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -109.18706
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 501
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1379
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Denver"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

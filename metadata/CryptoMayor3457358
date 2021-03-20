@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3457358",
+    "name": "Medina, Brazil",
+    "description": "Minas Gerais, Medina",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3457358",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3457358.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -16.2225
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -41.47694
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 14686
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 572
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Sao_Paulo"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Brazil"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "BR",
+    "altnames": "Santa Rita do Itinga,Santa Rita do Medina"
+}

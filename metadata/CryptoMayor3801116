@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3801116",
+    "name": "Mariscala de Ju\u00e1rez, Mexico",
+    "description": "Oaxaca, Mariscala de Ju\u00e1rez",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3801116",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3801116.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 17.85972
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -98.14083
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2017
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1081
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": null
+}

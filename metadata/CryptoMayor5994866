@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5994866",
+    "name": "La Broquerie, Canada",
+    "description": "Manitoba",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5994866",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5994866.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 49.51688
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -96.50029
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1073
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 280
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Winnipeg"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Canada"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "CA",
+    "altnames": null
+}

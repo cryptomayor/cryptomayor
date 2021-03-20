@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3518200",
+    "name": "San Nicol\u00e1s, Mexico",
+    "description": "Quer\u00e9taro, Tequisquiapan",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3518200",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3518200.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.47689
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -99.93749
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 5576
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1899
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "San Nicolas,San Nicol\u00e1s"
+}

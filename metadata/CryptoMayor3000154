@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3000154",
+    "name": "Les Nouillers, France",
+    "description": "Nouvelle-Aquitaine, Charente-Maritime",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3000154",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3000154.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 45.93147
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -0.6641
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 653
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 35
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Les Nouillers"
+}

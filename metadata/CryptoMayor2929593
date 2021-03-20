@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2929593",
+    "name": "Erlabrunn, Germany",
+    "description": "Saxony",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2929593",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2929593.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 50.47255
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 12.7073
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 964
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 652
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Berlin"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Germany"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "DE",
+    "altnames": null
+}

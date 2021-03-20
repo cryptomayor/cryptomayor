@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6292919",
+    "name": "Richterswil / Dorfkern, Switzerland",
+    "description": "Zurich, Bezirk Horgen",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6292919",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6292919.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.20715
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 8.70607
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1216
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 414
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Zurich"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Switzerland"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "CH",
+    "altnames": "Dorfkern"
+}

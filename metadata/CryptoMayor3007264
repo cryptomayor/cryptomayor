@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3007264",
+    "name": "La Plaine, France",
+    "description": "Pays de la Loire, Maine-et-Loire",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3007264",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3007264.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.06808
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -0.63492
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 867
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 185
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "La Plaine"
+}

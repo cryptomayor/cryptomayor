@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3531434",
+    "name": "Castillo de Teayo, Mexico",
+    "description": "Veracruz, Castillo de Teayo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3531434",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3531434.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.74927
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -97.6303
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 4297
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 76
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Castillo de Teayo"
+}

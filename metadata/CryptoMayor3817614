@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3817614",
+    "name": "San Pedro Nexapa, Mexico",
+    "description": "M\u00e9xico, Amecameca",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3817614",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3817614.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.08365
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -98.73724
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 4633
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2629
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "San Pedro Nexapa"
+}

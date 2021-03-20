@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2760943",
+    "name": "Wolfau, Austria",
+    "description": "Burgenland, Politischer Bezirk Oberwart",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2760943",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2760943.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.25
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 16.1
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1436
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 370
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Vienna"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Austria"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "AT",
+    "altnames": null
+}

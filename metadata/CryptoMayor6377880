@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6377880",
+    "name": "Choropampa, Peru",
+    "description": "Cajamarca, Provincia de Chota",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6377880",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6377880.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -6.42308
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -78.34672
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 320
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2876
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Lima"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Peru"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "PE",
+    "altnames": null
+}

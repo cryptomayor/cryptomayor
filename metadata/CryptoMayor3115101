@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3115101",
+    "name": "Olmos de Ojeda, Spain",
+    "description": "Castille and Le\u00f3n, Provincia de Palencia",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3115101",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3115101.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 42.72274
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -4.42446
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 287
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 923
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Madrid"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Spain"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "ES",
+    "altnames": "Olmos de Ojeda"
+}

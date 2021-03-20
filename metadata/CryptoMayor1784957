@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor1784957",
+    "name": "Zhaobenzhuang, China",
+    "description": "Tianjin",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor1784957",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor1784957.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 39.46389
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 117.6325
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 957
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 4
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Asia/Shanghai"
+        },
+        {
+            "trait_type": "Country",
+            "value": "China"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AS"
+        }
+    ],
+    "country_code": "CN",
+    "altnames": null
+}

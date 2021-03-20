@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3695829",
+    "name": "La Huaca, Peru",
+    "description": "Piura, Provincia de Paita",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3695829",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3695829.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -4.91167
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -80.96
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 8468
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 26
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Lima"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Peru"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "PE",
+    "altnames": "La Huaca,Lattuaca"
+}

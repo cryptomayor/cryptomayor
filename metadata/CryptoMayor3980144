@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3980144",
+    "name": "Villa Morelos, Mexico",
+    "description": "Jalisco, La Manzanilla de la Paz",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3980144",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3980144.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.05728
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -103.14629
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 576
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1918
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": null
+}

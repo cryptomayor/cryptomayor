@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor933002",
+    "name": "Tobane, Botswana",
+    "description": "Central",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor933002",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor933002.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -21.95
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 27.9
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1925
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 844
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Africa/Gaborone"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Botswana"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AF"
+        }
+    ],
+    "country_code": "BW",
+    "altnames": "Tobane"
+}

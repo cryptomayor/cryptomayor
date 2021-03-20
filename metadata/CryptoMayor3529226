@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3529226",
+    "name": "Los Cenotes, Mexico",
+    "description": "Tabasco, Balanc\u00e1n",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3529226",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3529226.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 17.63461
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -91.03759
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1047
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 51
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Cenote,El Cenote,Los Cenotes"
+}

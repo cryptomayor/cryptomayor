@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3818890",
+    "name": "San Miguel Atlapulco, Mexico",
+    "description": "Puebla, Huehuetl\u00e1n el Grande",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3818890",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3818890.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.79243
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -98.19482
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1391
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1691
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "San Miguel Atlapulco"
+}

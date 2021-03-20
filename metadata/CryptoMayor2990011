@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2990011",
+    "name": "Nouainville, France",
+    "description": "Normandy, Manche",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2990011",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2990011.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 49.62095
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -1.68297
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 537
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 120
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Nouainville"
+}

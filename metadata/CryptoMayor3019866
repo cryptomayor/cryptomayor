@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3019866",
+    "name": "Errouville, France",
+    "description": "Grand Est, Meurthe et Moselle",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3019866",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3019866.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 49.41584
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 5.9026
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 745
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 357
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Errouville"
+}

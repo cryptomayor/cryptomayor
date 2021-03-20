@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor11703924",
+    "name": "Charters Towers City, Australia",
+    "description": "Queensland, Charters Towers",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor11703924",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor11703924.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -20.07774
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 146.26275
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2165
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 323
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Brisbane"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": null
+}

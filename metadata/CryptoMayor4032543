@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4032543",
+    "name": "Lapaha, Tonga",
+    "description": "Tongatapu",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4032543",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4032543.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -21.17735
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -175.1172
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 8000
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 8
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Pacific/Tongatapu"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Tonga"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "TO",
+    "altnames": "Lapaha"
+}

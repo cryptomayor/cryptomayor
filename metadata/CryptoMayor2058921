@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2058921",
+    "name": "Wasleys, Australia",
+    "description": "South Australia, Light",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2058921",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2058921.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -34.46992
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 138.68562
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 743
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 90
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Adelaide"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": "Wasleys"
+}

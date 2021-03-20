@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2262481",
+    "name": "Tunes, Portugal",
+    "description": "Faro, Silves",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2262481",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2262481.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 37.16592
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -8.25919
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2002
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 64
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Lisbon"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Portugal"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "PT",
+    "altnames": "Tunes"
+}

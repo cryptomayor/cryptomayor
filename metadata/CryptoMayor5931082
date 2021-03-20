@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5931082",
+    "name": "Cow Bay, Canada",
+    "description": "Nova Scotia",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5931082",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5931082.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 44.63141
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -63.43218
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1257
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 41
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Halifax"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Canada"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "CA",
+    "altnames": null
+}

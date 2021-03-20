@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor1811224",
+    "name": "Fengtai, China",
+    "description": "Tianjin",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor1811224",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor1811224.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 39.55806
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 117.74917
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 7230
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 5
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Asia/Shanghai"
+        },
+        {
+            "trait_type": "Country",
+            "value": "China"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AS"
+        }
+    ],
+    "country_code": "CN",
+    "altnames": "Fengtai,Fengtaizhen"
+}

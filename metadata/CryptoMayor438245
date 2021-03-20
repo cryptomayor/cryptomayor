@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor438245",
+    "name": "Tepehan, Turkey",
+    "description": "Hatay",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor438245",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor438245.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 36.15853
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 36.2286
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2483
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 355
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Istanbul"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Turkey"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AS"
+        }
+    ],
+    "country_code": "TR",
+    "altnames": "Tepehan"
+}

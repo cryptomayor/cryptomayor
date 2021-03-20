@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8950032",
+    "name": "Santa Lucia, Italy",
+    "description": "Abruzzo, Provincia di Chieti",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8950032",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8950032.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 42.33216
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 14.40406
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 621
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 93
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "Santa Lucia"
+}

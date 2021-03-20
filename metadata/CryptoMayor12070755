@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor12070755",
+    "name": "Duck Lake, Canada",
+    "description": "British Columbia, Regional District of Central Okanagan",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor12070755",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor12070755.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 50.0088
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -119.39672
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 6982
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 432
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Vancouver"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Canada"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "CA",
+    "altnames": null
+}

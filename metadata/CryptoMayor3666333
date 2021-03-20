@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3666333",
+    "name": "Valdivia, Colombia",
+    "description": "Antioquia, Valdivia",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3666333",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3666333.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 7.29382
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -75.3919
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3398
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 321
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Bogota"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Colombia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "CO",
+    "altnames": "Valdivia"
+}

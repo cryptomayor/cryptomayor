@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3532900",
+    "name": "Santa Maria Amealco, Mexico",
+    "description": "Hidalgo, Chapantongo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3532900",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3532900.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.23771
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -99.54963
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1955
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2384
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Amealco,Santa Maria Amealco"
+}

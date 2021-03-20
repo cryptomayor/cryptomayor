@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8862316",
+    "name": "Tierra y Libertad, Mexico",
+    "description": "Chiapas, La Independencia",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8862316",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8862316.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 16.17333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -91.64917
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 582
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1184
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Tierra y Libertad"
+}

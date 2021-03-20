@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3590406",
+    "name": "Sanarate, Guatemala",
+    "description": "El Progreso, Municipio de Sanarate",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3590406",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3590406.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 14.78828
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -90.19876
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 15843
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 840
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Guatemala"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Guatemala"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "GT",
+    "altnames": "Sanarate"
+}

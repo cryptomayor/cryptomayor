@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor192900",
+    "name": "Kericho, Kenya",
+    "description": "Kericho",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor192900",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor192900.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -0.36774
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 35.28314
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 35748
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2002
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Africa/Nairobi"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Kenya"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AF"
+        }
+    ],
+    "country_code": "KE",
+    "altnames": "KEY,Kericho"
+}

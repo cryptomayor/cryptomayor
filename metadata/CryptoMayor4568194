@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4568194",
+    "name": "Santa Barbara, Puerto Rico",
+    "description": "Can\u00f3vanas, Torrecilla Alta Barrio",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4568194",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4568194.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.39356
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -65.91878
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 5168
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 18
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Puerto_Rico"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Puerto Rico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "PR",
+    "altnames": null
+}

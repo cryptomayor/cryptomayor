@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor769581",
+    "name": "Kanie, Poland",
+    "description": "Mazovia, Powiat pruszkowski",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor769581",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor769581.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 52.13841
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 20.76901
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1000
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 97
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Warsaw"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Poland"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "PL",
+    "altnames": null
+}

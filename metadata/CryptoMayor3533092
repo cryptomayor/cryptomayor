@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3533092",
+    "name": "San Antonio Albarranes, Mexico",
+    "description": "M\u00e9xico, Temascaltepec",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3533092",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3533092.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.11834
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -99.93657
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 965
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2460
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Albarranes,San Antonio Albarranes"
+}

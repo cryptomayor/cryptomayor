@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5598674",
+    "name": "Lincoln, United States",
+    "description": "Idaho, Bonneville County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5598674",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5598674.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 43.51297
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -111.96441
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3647
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1451
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Boise"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

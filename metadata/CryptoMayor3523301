@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3523301",
+    "name": "Metepec, Mexico",
+    "description": "Hidalgo, Metepec",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3523301",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3523301.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.23762
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -98.32122
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2090
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2159
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Metepec"
+}

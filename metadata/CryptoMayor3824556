@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3824556",
+    "name": "El Sauce, Mexico",
+    "description": "Veracruz, Cazones de Herrera",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3824556",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3824556.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.72733
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -97.34723
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 577
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 22
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": null
+}

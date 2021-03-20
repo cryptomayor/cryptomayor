@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3016725",
+    "name": "Ganac, France",
+    "description": "Occitanie, Ari\u00e8ge",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3016725",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3016725.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 42.94694
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 1.56292
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 695
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 536
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Ganac"
+}

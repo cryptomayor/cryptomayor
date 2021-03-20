@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8858596",
+    "name": "Colonia Campesina, Mexico",
+    "description": "Chihuahua, Delicias",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8858596",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8858596.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 28.14028
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -105.52667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2365
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1193
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Chihuahua"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Colonia Campesina"
+}

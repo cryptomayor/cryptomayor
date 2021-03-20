@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor10104896",
+    "name": "Mount Louisa, Australia",
+    "description": "Queensland, Townsville",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor10104896",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor10104896.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -19.274
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 146.75091
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 8604
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 10
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Brisbane"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": null
+}

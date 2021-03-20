@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor9036389",
+    "name": "Santa Maria la Stella, Italy",
+    "description": "Sicily, Catania",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor9036389",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor9036389.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 37.62349
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 15.12071
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 4467
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 341
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "Santa Maria la Stella"
+}

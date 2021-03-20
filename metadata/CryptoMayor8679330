@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8679330",
+    "name": "Miguel de la Madrid, Mexico",
+    "description": "Tamaulipas, Soto la Marina",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8679330",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8679330.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 23.78393
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -97.75377
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 522
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 3
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Monterrey"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "El Canal,Miguel de la Madrid"
+}

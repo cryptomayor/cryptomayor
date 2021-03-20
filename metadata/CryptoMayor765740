@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor765740",
+    "name": "\u0141ukowe, Poland",
+    "description": "Subcarpathia, Powiat sanocki",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor765740",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor765740.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 49.42761
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 22.24079
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 647
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 368
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Warsaw"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Poland"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "PL",
+    "altnames": null
+}

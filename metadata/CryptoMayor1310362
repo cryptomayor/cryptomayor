@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor1310362",
+    "name": "Maubin, Myanmar",
+    "description": "Ayeyarwady, Ma-ubin District",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor1310362",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor1310362.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 16.73148
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 95.65441
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 51542
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 11
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Asia/Yangon"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Myanmar"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AS"
+        }
+    ],
+    "country_code": "MM",
+    "altnames": "Ma-oo-beng,Manbin,Maubin"
+}

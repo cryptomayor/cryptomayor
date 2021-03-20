@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8862176",
+    "name": "Vicente Guerrero, Mexico",
+    "description": "Chiapas, Reforma",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8862176",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8862176.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 17.88639
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -93.13917
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 596
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 14
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Vicente Guerrero"
+}

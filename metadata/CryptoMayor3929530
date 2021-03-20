@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3929530",
+    "name": "San Juan, Peru",
+    "description": "Huancavelica, Provincia de Castrovirreyna",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3929530",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3929530.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -13.2
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -75.65
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 146
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2872
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Lima"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Peru"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "PE",
+    "altnames": "Huanac,San Juan,San Juan Huanaco,San Juan de Cacrillo,San Juan de Castrovirreyna"
+}

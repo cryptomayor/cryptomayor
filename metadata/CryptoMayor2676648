@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2676648",
+    "name": "Anneberg, Sweden",
+    "description": "J\u00f6nk\u00f6ping, N\u00e4ssj\u00f6 Kommun",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2676648",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2676648.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 57.72349
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 14.80627
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 834
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 226
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Stockholm"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Sweden"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "SE",
+    "altnames": null
+}

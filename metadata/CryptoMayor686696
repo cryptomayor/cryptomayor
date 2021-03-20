@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor686696",
+    "name": "Acmariu, Romania",
+    "description": "Alba, Comuna Bl\u00e2ndiana",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor686696",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor686696.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 45.96598
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 23.36337
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 503
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 253
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": null
+}

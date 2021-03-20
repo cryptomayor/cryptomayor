@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5112460",
+    "name": "Cherry Valley, United States",
+    "description": "New York, Otsego County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5112460",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5112460.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 42.79563
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -74.7532
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 503
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 411
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/New_York"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor7284824",
+    "name": "Budapest XI. ker\u00fclet, Hungary",
+    "description": "Budapest, Budapest XI.",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor7284824",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor7284824.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.47603
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 19.03605
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 139049
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 107
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Budapest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Hungary"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "HU",
+    "altnames": null
+}

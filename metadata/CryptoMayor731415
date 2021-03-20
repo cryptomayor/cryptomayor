@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor731415",
+    "name": "Glavinitsa, Bulgaria",
+    "description": "Silistra, Obshtina Glavinitsa",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor731415",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor731415.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 43.91667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 26.83333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2220
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 108
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Sofia"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Bulgaria"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "BG",
+    "altnames": "Asfatchioi,Astvatchioi,Asvatchioi,Asvatk'oy,Asvatk\u2019oy,Glavinica,Glavinitsa,Glawinica,\u0413\u043b\u0430\u0432\u0438\u043d\u0438\u0446\u0430"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3180029",
+    "name": "Casasco, Italy",
+    "description": "Piedmont, Provincia di Alessandria",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3180029",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3180029.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 44.82734
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 9.00565
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 51
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 369
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "Casasco"
+}

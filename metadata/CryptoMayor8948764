@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8948764",
+    "name": "Sala, Italy",
+    "description": "Campania, Provincia di Avellino",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8948764",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8948764.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 40.85536
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 14.87343
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 6237
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 412
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "Sala"
+}

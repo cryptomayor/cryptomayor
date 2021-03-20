@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8859642",
+    "name": "Tentic, Mexico",
+    "description": "Chiapas, Chamula",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8859642",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8859642.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 16.86333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -92.68222
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1121
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2034
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Tentic"
+}

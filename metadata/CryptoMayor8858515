@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8858515",
+    "name": "San Vicente la Mesilla, Mexico",
+    "description": "Chiapas, Tzimol",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8858515",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8858515.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 16.17861
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -92.29333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2604
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 627
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "San Vicente la Mesilla"
+}

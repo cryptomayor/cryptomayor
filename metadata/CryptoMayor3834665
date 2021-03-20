@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3834665",
+    "name": "Tancacha, Argentina",
+    "description": "Cordoba, Departamento de Tercero Arriba",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3834665",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3834665.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -32.24309
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -63.9807
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 5184
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 354
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Argentina/Cordoba"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Argentina"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "AR",
+    "altnames": "Tancacha"
+}

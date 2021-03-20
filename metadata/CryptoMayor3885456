@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3885456",
+    "name": "La Ligua, Chile",
+    "description": "Valpara\u00edso, Petorca Province",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3885456",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3885456.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -32.45242
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -71.23106
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 24857
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 78
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Santiago"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Chile"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "CL",
+    "altnames": null
+}

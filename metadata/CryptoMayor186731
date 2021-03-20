@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor186731",
+    "name": "Migori, Kenya",
+    "description": "Migori",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor186731",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor186731.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -1.06343
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 34.47313
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 35240
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1382
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Africa/Nairobi"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Kenya"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AF"
+        }
+    ],
+    "country_code": "KE",
+    "altnames": "Migori"
+}

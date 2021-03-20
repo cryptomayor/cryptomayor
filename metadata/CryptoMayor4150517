@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4150517",
+    "name": "Century, United States",
+    "description": "Florida, Escambia County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4150517",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4150517.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 30.97324
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -87.26386
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1762
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 35
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Chicago"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

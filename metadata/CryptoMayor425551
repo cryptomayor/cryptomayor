@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor425551",
+    "name": "Muramvya, Burundi",
+    "description": "Muramvya",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor425551",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor425551.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -3.2682
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 29.6079
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 18041
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1878
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Africa/Bujumbura"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Burundi"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AF"
+        }
+    ],
+    "country_code": "BI",
+    "altnames": "Muramvya"
+}

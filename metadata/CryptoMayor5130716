@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5130716",
+    "name": "Pavilion, United States",
+    "description": "New York, Genesee County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5130716",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5130716.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 42.87617
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -78.02279
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 646
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 294
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/New_York"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

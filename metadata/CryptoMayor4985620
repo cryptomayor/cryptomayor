@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4985620",
+    "name": "Belmont, United States",
+    "description": "Michigan, Kent County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4985620",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4985620.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 43.07558
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -85.6092
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 9244
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 205
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Detroit"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

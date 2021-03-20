@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3170384",
+    "name": "Policoro, Italy",
+    "description": "Basilicate, Provincia di Matera",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3170384",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3170384.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 40.2128
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 16.67795
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 11810
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 25
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "Policoro"
+}

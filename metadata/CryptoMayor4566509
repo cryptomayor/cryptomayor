@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4566509",
+    "name": "Parcelas La Milagrosa, Puerto Rico",
+    "description": "Cidra, Rabanal Barrio",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4566509",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4566509.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.17079
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -66.18822
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1344
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 552
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Puerto_Rico"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Puerto Rico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "PR",
+    "altnames": null
+}

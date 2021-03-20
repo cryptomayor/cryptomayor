@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3070306",
+    "name": "Moravsk\u00fd \u017di\u017ekov, Czechia",
+    "description": "South Moravian, Okres B\u0159eclav",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3070306",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3070306.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 48.83285
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 16.9314
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1396
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 195
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Prague"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Czechia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "CZ",
+    "altnames": null
+}

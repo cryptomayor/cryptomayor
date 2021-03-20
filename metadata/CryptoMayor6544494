@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6544494",
+    "name": "City Center, Spain",
+    "description": "Madrid, Provincia de Madrid",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6544494",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6544494.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 40.41831
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -3.70275
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 149718
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 673
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Madrid"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Spain"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "ES",
+    "altnames": "Madrid Centro,Madrid City Center"
+}

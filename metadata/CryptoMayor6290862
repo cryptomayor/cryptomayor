@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6290862",
+    "name": "Oberstammheim, Switzerland",
+    "description": "Zurich, Bezirk Andelfingen",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6290862",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6290862.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.63244
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 8.79963
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 863
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 447
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Zurich"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Switzerland"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "CH",
+    "altnames": null
+}

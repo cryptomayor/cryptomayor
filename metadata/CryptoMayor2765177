@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2765177",
+    "name": "Selpritsch, Austria",
+    "description": "Carinthia, Politischer Bezirk Villach Land",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2765177",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2765177.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 46.59954
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 14.02556
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 789
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 490
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Vienna"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Austria"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "AT",
+    "altnames": null
+}

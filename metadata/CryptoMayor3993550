@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3993550",
+    "name": "Pamplona, Mexico",
+    "description": "Durango, Tlahualilo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3993550",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3993550.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 26.10344
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -103.39969
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 765
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1093
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Monterrey"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Ejido Pamplona,Pamplona"
+}

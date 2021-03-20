@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3929480",
+    "name": "San Juan de Iris, Peru",
+    "description": "Lima region, Provincia de Huarochir\u00ed",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3929480",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3929480.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -11.68322
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -76.52495
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 998
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 3247
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Lima"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Peru"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "PE",
+    "altnames": "San Juan de Iris"
+}

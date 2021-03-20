@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3528687",
+    "name": "El Molino, Mexico",
+    "description": "Veracruz, P\u00e1nuco",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3528687",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3528687.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 21.91602
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -98.29885
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1186
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 27
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "El Molino,Molino"
+}

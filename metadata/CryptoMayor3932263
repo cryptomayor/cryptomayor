@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3932263",
+    "name": "Pillpinto, Peru",
+    "description": "Cusco, Provincia de Paruro",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3932263",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3932263.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -13.95328
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -71.762
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 587
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2867
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Lima"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Peru"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "PE",
+    "altnames": null
+}

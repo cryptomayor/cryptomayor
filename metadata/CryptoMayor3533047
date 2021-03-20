@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3533047",
+    "name": "San Miguel Almaya, Mexico",
+    "description": "Morelos",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3533047",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3533047.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.21047
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -99.44195
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 4941
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2726
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Almaya,San Miguel Almaya"
+}

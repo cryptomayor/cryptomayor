@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8859276",
+    "name": "Ahuihuiyuco, Mexico",
+    "description": "Guerrero, Chilapa de \u00c1lvarez",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8859276",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8859276.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 17.62958
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -99.22738
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1320
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1653
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Ahuihuiyuco"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8861359",
+    "name": "Palma de la Cruz, Mexico",
+    "description": "San Luis Potos\u00ed, Soledad de Graciano S\u00e1nchez",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8861359",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8861359.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 22.22778
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -100.87056
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 695
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1837
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Palma de la Cruz"
+}

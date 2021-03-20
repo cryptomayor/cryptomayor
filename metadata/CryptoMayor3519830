@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3519830",
+    "name": "San Antonio, Mexico",
+    "description": "Puebla, Chilchotla",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3519830",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3519830.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.27053
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -97.18687
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1069
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2401
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "San Antonio"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3859828",
+    "name": "Cruz del Eje, Argentina",
+    "description": "Cordoba, Departamento de Cruz del Eje",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3859828",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3859828.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -30.72644
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -64.80387
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 28166
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 465
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Argentina/Cordoba"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Argentina"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "AR",
+    "altnames": "Cruz del Eje"
+}

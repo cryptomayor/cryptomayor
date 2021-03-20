@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3220280",
+    "name": "Madrisio, Italy",
+    "description": "Friuli Venezia Giulia, Udine",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3220280",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3220280.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 46.11928
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 13.05975
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 788
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 183
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6697288",
+    "name": "Lauffohr (Brugg), Switzerland",
+    "description": "Aargau, Bezirk Brugg",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6697288",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6697288.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.50154
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 8.23122
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2000
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 336
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Zurich"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Switzerland"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "CH",
+    "altnames": "Lauffohr"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3695806",
+    "name": "La Jalca, Peru",
+    "description": "Amazonas, Provincia de Chachapoyas",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3695806",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3695806.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -6.48611
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -77.81528
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 0
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2850
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Lima"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Peru"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "PE",
+    "altnames": "Jalca,La Jalca"
+}

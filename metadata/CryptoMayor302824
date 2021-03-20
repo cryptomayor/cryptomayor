@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor302824",
+    "name": "Pasinler, Turkey",
+    "description": "Erzurum",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor302824",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor302824.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 39.97975
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 41.66997
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 24553
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1663
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Istanbul"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Turkey"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AS"
+        }
+    ],
+    "country_code": "TR",
+    "altnames": "Hasankale,Pasinler"
+}

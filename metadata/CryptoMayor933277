@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor933277",
+    "name": "Mosetse, Botswana",
+    "description": "Central",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor933277",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor933277.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -20.75
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 26.65
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1780
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1034
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Africa/Gaborone"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Botswana"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AF"
+        }
+    ],
+    "country_code": "BW",
+    "altnames": "Mosetse"
+}

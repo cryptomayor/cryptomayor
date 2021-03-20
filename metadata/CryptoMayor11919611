@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor11919611",
+    "name": "Markt, Austria",
+    "description": "Upper Austria, Politischer Bezirk Gmunden",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor11919611",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor11919611.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.73936
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 13.44691
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 579
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 572
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Vienna"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Austria"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "AT",
+    "altnames": null
+}

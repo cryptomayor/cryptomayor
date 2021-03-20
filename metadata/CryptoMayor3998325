@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3998325",
+    "name": "Lomas de Tejeda, Mexico",
+    "description": "Jalisco, Tlajomulco de Z\u00fa\u00f1iga",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3998325",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3998325.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.46658
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -103.40202
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2773
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1573
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": null
+}

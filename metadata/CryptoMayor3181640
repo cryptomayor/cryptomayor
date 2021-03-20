@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3181640",
+    "name": "Marchesino-Bovo, Italy",
+    "description": "Veneto, Provincia di Verona",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3181640",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3181640.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 45.36667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 11.0
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1754
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 43
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor756091",
+    "name": "W\u0105wolnica, Poland",
+    "description": "Lublin, Powiat pu\u0142awski",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor756091",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor756091.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 51.29467
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 22.14681
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1041
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 159
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Warsaw"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Poland"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "PL",
+    "altnames": null
+}

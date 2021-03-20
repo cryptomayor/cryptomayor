@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3441803",
+    "name": "Mariscala, Uruguay",
+    "description": "Lavalleja",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3441803",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3441803.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -34.04085
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -54.77732
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1695
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 92
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Montevideo"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Uruguay"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "UY",
+    "altnames": "La Mariscala,Mariscala"
+}

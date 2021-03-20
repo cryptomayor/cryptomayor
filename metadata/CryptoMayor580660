@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor580660",
+    "name": "Asha, Russia",
+    "description": "Chelyabinsk",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor580660",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor580660.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 54.9973
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 57.2722
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 33006
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 140
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Asia/Yekaterinburg"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Russia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RU",
+    "altnames": "Asha,\u0410\u0448\u0430"
+}

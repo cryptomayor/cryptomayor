@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3175740",
+    "name": "Grutti, Italy",
+    "description": "Umbria, Provincia di Perugia",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3175740",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3175740.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 42.84944
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 12.47666
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 599
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 508
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": null
+}

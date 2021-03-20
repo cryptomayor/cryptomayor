@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3177381",
+    "name": "Envie, Italy",
+    "description": "Piedmont, Provincia di Cuneo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3177381",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3177381.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 44.6821
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 7.37206
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 780
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 332
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "Envie"
+}

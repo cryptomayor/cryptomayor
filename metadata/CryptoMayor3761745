@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3761745",
+    "name": "Santa Teresa, Mexico",
+    "description": "Guerrero, Iguala de la Independencia",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3761745",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3761745.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.22966
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -99.50697
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2676
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 841
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Santa Teresa"
+}

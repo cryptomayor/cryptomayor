@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5951289",
+    "name": "Fall River, Canada",
+    "description": "Nova Scotia",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5951289",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5951289.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 44.81685
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -63.6154
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 11526
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 33
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Halifax"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Canada"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "CA",
+    "altnames": null
+}

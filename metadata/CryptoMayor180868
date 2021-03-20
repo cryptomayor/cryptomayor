@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor180868",
+    "name": "Sagana, Kenya",
+    "description": "Kirinyaga",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor180868",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor180868.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -0.66806
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 37.20875
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3297
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1201
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Africa/Nairobi"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Kenya"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AF"
+        }
+    ],
+    "country_code": "KE",
+    "altnames": "Sagana"
+}

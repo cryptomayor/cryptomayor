@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3018210",
+    "name": "Flourens, France",
+    "description": "Occitanie, Upper Garonne",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3018210",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3018210.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 43.59273
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 1.56259
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1703
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 225
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Flourens"
+}

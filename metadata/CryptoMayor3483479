@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3483479",
+    "name": "Santa Mar\u00eda Acapulco, Mexico",
+    "description": "San Luis Potos\u00ed, Santa Catarina",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3483479",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3483479.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 21.4719
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -99.44165
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 712
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 871
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Santa Maria Acapulco,Santa Mar\u00eda Acapulco"
+}

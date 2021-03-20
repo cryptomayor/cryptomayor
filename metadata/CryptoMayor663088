@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor663088",
+    "name": "Vedea, Romania",
+    "description": "Giurgiu, Comuna Vedea",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor663088",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor663088.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 43.78333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 25.78333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 5785
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 27
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": "Arsache,Vedea"
+}

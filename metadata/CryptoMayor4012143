@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4012143",
+    "name": "Cumpas, Mexico",
+    "description": "Sonora, Cumpas",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4012143",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4012143.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 29.99587
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -109.78087
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3003
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 748
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Hermosillo"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Cumpas,C\u00fampas"
+}

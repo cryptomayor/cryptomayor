@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4870988",
+    "name": "Peosta, United States",
+    "description": "Iowa, Dubuque County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4870988",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4870988.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 42.45056
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -90.85041
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1618
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 321
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Chicago"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5268010",
+    "name": "Prairie du Sac, United States",
+    "description": "Wisconsin, Sauk County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5268010",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5268010.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 43.28693
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -89.72401
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 4255
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 238
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Chicago"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": "Prairie du Sac,Sauk Prairie"
+}

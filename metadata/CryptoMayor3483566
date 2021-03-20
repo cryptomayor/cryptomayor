@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3483566",
+    "name": "Las Armas, Mexico",
+    "description": "San Luis Potos\u00ed, Tancanhuitz",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3483566",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3483566.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 21.69685
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -98.96752
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1042
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 66
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Las Armas"
+}

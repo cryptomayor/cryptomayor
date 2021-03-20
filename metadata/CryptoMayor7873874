@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor7873874",
+    "name": "Kop van Zuid, Netherlands",
+    "description": "South Holland, Gemeente Rotterdam",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor7873874",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor7873874.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 51.90553
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 4.48706
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2235
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 0
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Amsterdam"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Netherlands"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "NL",
+    "altnames": null
+}

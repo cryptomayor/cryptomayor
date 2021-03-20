@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2152917",
+    "name": "Pitt Town, Australia",
+    "description": "New South Wales, Hawkesbury",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2152917",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2152917.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -33.58718
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 150.85857
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2982
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 11
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Sydney"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": "Pitt Town"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3178225",
+    "name": "Compiano, Italy",
+    "description": "Emilia-Romagna, Provincia di Parma",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3178225",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3178225.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 44.49605
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 9.66207
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 125
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 519
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "Compiano"
+}

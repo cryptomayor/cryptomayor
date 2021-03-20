@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8862146",
+    "name": "Linderos, Mexico",
+    "description": "Veracruz, Jilotepec",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8862146",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8862146.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.62361
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -96.97111
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 600
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1651
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Linderos"
+}

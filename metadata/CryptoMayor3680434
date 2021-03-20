@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3680434",
+    "name": "Ituango, Colombia",
+    "description": "Antioquia, Ituango",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3680434",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3680434.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 7.17117
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -75.76404
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 10769
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1623
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Bogota"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Colombia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "CO",
+    "altnames": "Ituango"
+}

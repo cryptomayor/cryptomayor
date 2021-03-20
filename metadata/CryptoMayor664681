@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor664681",
+    "name": "Traian, Romania",
+    "description": "Tulcea, Comuna Cerna",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor664681",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor664681.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 45.02876
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 28.23518
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1306
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 9
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": null
+}

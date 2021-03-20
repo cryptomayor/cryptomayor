@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8858742",
+    "name": "Colonia Latinoamericana, Mexico",
+    "description": "Guanajuato, Le\u00f3n",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8858742",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8858742.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 21.03028
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -101.70583
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1972
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1779
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Colonia Latinoamericana"
+}

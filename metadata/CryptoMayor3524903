@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3524903",
+    "name": "Las Choapas, Mexico",
+    "description": "Veracruz, Las Choapas",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3524903",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3524903.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 17.91177
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -94.09646
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 42693
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 22
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Las Choapas"
+}

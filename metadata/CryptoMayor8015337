@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8015337",
+    "name": "Pianoconte, Italy",
+    "description": "Sicily, Messina",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8015337",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8015337.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 38.47432
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 14.92857
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1082
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 284
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": null
+}

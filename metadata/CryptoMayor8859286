@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8859286",
+    "name": "Colonia San Francisco (San Francisco), Mexico",
+    "description": "Zacatecas, Noria de \u00c1ngeles",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8859286",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8859286.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 22.30361
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -101.82056
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1314
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2133
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Colonia San Francisco (San Francisco)"
+}

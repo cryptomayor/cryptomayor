@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8859777",
+    "name": "Praderas del Potrero, Mexico",
+    "description": "Hidalgo, Atotonilco de Tula",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8859777",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8859777.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.88472
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -99.23028
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1066
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2319
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Praderas del Potrero"
+}

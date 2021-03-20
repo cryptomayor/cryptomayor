@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor671641",
+    "name": "Ostra, Romania",
+    "description": "Suceava, Comuna Ostra",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor671641",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor671641.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.4
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 25.76667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3145
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 765
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": null
+}

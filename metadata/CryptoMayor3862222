@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3862222",
+    "name": "Cavanagh, Argentina",
+    "description": "Cordoba, Departamento de Marcos Ju\u00e1rez",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3862222",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3862222.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -33.47606
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -62.33888
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1150
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 123
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Argentina/Cordoba"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Argentina"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "AR",
+    "altnames": null
+}

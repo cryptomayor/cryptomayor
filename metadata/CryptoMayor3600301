@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3600301",
+    "name": "Waksma, Honduras",
+    "description": "Gracias a Dios",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3600301",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3600301.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 15.43333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -84.4
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 969
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 16
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Tegucigalpa"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Honduras"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "HN",
+    "altnames": "Waksma"
+}

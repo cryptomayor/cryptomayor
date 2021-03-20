@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3929631",
+    "name": "San Isidro, Peru",
+    "description": "Lima region, Lima",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3929631",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3929631.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -12.09655
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -77.04258
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 68309
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 84
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Lima"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Peru"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "PE",
+    "altnames": null
+}

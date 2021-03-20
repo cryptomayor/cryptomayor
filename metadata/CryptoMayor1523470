@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor1523470",
+    "name": "Karabas, Kazakhstan",
+    "description": "",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor1523470",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor1523470.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 46.53333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 76.2
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2672
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 340
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Asia/Almaty"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Kazakhstan"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AS"
+        }
+    ],
+    "country_code": "KZ",
+    "altnames": null
+}

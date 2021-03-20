@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3070531",
+    "name": "Mlad\u011bjovice, Czechia",
+    "description": "Olomouck\u00fd, Okres Olomouc",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3070531",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3070531.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 49.75238
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 17.23143
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 637
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 246
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Prague"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Czechia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "CZ",
+    "altnames": "Bladowitz"
+}

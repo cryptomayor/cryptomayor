@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3005540",
+    "name": "La Ville-aux-Dames, France",
+    "description": "Centre, Indre-et-Loire",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3005540",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3005540.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.39551
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 0.76837
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 4925
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 52
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "La Ville,La Ville-aux-Dames,Les Sables"
+}

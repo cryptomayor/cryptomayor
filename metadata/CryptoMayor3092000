@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3092000",
+    "name": "Miedzichowo, Poland",
+    "description": "Greater Poland, Powiat nowotomyski",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3092000",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3092000.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 52.37581
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 15.95876
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 471
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 67
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Warsaw"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Poland"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "PL",
+    "altnames": null
+}

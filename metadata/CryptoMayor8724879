@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8724879",
+    "name": "Lomas de Arena, Mexico",
+    "description": "Veracruz, Guti\u00e9rrez Zamora",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8724879",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8724879.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.41
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -97.16083
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 957
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 32
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Lomas de Arena"
+}

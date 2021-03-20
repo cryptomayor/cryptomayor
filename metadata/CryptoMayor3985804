@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3985804",
+    "name": "San Juan Pan de Arriba, Mexico",
+    "description": "Guanajuato, San Diego de la Uni\u00f3n",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3985804",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3985804.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 21.47151
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -100.92021
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2867
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2111
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "San Juan Pan de Arriba"
+}

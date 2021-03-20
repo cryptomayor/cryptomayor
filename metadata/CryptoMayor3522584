@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3522584",
+    "name": "Pueblo Nuevo, Mexico",
+    "description": "Morelos, Tlaltizap\u00e1n de Zapata",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3522584",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3522584.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.70068
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -99.15277
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1147
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 983
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Nuevo,Pueblo Nuevo"
+}

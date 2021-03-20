@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5240304",
+    "name": "Ripton, United States",
+    "description": "Vermont, Addison County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5240304",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5240304.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 43.97367
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -73.034
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 593
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 336
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/New_York"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

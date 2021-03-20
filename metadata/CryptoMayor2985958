@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2985958",
+    "name": "Port-Mort, France",
+    "description": "Normandy, Eure",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2985958",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2985958.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 49.16487
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 1.41511
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 870
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 18
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Port-Mort"
+}

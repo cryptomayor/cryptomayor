@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4008637",
+    "name": "El Pescadito, Mexico",
+    "description": "San Luis Potos\u00ed, Rioverde",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4008637",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4008637.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 21.87467
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -100.09416
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 538
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1061
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "El Pescadito,Pescadito,Pescaditos"
+}

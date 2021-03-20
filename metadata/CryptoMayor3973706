@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3973706",
+    "name": "Colonia Emiliano Zapata, Mexico",
+    "description": "San Luis Potos\u00ed, Villa de Arriaga",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3973706",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3973706.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 21.93946
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -101.26401
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 539
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2153
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": null
+}

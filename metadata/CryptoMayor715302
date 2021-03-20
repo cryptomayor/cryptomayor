@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor715302",
+    "name": "Szerencs, Hungary",
+    "description": "Borsod-Aba\u00faj-Zempl\u00e9n",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor715302",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor715302.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 48.15993
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 21.2097
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 10046
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 97
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Budapest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Hungary"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "HU",
+    "altnames": "Ond,Szerencs"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor11820632",
+    "name": "Union City, United States",
+    "description": "Ohio, Darke County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor11820632",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor11820632.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 40.19938
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -84.80353
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1620
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 321
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/New_York"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

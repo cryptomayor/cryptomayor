@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3933345",
+    "name": "Palpa, Peru",
+    "description": "Ica, Provincia de Palpa",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3933345",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3933345.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -14.53361
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -75.18556
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 5883
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 349
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Lima"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Peru"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "PE",
+    "altnames": "Palpa"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3168381",
+    "name": "San Fior di Sopra, Italy",
+    "description": "Veneto, Provincia di Treviso",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3168381",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3168381.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 45.92219
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 12.36137
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2898
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 57
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "San Fior"
+}

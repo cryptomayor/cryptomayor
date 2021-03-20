@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4363654",
+    "name": "New Market, United States",
+    "description": "Maryland, Frederick County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4363654",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4363654.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 39.3826
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -77.26943
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 697
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 160
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/New_York"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": "New Market,Newmarket"
+}

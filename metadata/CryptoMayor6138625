@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6138625",
+    "name": "Saint-L\u00e9onard, Canada",
+    "description": "Quebec, Montr\u00e9al",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6138625",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6138625.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 45.58773
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -73.59501
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 73423
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 43
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Toronto"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Canada"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "CA",
+    "altnames": null
+}

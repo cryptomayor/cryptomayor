@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor7284889",
+    "name": "Marseille 08, France",
+    "description": "Provence-Alpes-C\u00f4te d'Azur, Bouches-du-Rh\u00f4ne",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor7284889",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor7284889.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 43.27083
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 5.3821
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 78837
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 24
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": null
+}

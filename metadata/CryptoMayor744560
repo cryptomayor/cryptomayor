@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor744560",
+    "name": "Karabulduk, Turkey",
+    "description": "Giresun",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor744560",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor744560.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 40.82043
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 38.54941
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 0
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 338
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Istanbul"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Turkey"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AS"
+        }
+    ],
+    "country_code": "TR",
+    "altnames": "Karabulduk"
+}

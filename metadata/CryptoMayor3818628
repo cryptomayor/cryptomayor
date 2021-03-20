@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3818628",
+    "name": "Tenexate, Mexico",
+    "description": "Puebla, Hueytamalco",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3818628",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3818628.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.14344
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -97.35766
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 728
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 281
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Tenexate"
+}

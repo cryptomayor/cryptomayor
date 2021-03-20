@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4975080",
+    "name": "Peru, United States",
+    "description": "Maine, Oxford County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4975080",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4975080.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 44.50673
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -70.40534
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1575
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 124
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/New_York"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

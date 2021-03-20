@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor1906202",
+    "name": "Maolan, China",
+    "description": "Guizhou",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor1906202",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor1906202.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 25.38972
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 108.07583
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 848
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 644
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Asia/Shanghai"
+        },
+        {
+            "trait_type": "Country",
+            "value": "China"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AS"
+        }
+    ],
+    "country_code": "CN",
+    "altnames": null
+}

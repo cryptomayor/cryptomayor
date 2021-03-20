@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor668554",
+    "name": "Rovine, Romania",
+    "description": "Dolj, Municipiul Craiova",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor668554",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor668554.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 44.36136
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 23.7203
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 655
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 84
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": null
+}

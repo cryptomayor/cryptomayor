@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor675231",
+    "name": "Jilava, Romania",
+    "description": "Ilfov, Comuna Jilava",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor675231",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor675231.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 44.33333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 26.07806
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 12023
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 73
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": "Jilava"
+}

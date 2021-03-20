@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2072728",
+    "name": "Chidlow, Australia",
+    "description": "Western Australia, Mundaring",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2072728",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2072728.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -31.86094
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 116.27243
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1783
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 299
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Perth"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": null
+}

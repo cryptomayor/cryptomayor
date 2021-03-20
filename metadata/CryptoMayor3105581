@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3105581",
+    "name": "Villafufre, Spain",
+    "description": "Cantabria, Provincia de Cantabria",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3105581",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3105581.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 43.26557
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -3.8937
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1109
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 222
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Madrid"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Spain"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "ES",
+    "altnames": "Villafufre"
+}

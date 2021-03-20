@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3816586",
+    "name": "Nuevo Vicente Guerrero, Mexico",
+    "description": "Chiapas, Villa Corzo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3816586",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3816586.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 16.0386
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -92.97542
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2906
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 605
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Nuevo Vicente Guerrero,Vicente Guerrero"
+}

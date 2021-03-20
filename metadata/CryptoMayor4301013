@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4301013",
+    "name": "Millersburg, United States",
+    "description": "Kentucky, Bourbon County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4301013",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4301013.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 38.30202
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -84.14743
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 796
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 254
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/New_York"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

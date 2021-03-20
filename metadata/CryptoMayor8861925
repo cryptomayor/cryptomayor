@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8861925",
+    "name": "San Rafael de Horta, Mexico",
+    "description": "Guanajuato, Abasolo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8861925",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8861925.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.62639
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -101.5425
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 626
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1699
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "San Rafael de Horta"
+}

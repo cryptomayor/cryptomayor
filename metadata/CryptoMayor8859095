@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8859095",
+    "name": "San Juan Pancoac, Mexico",
+    "description": "Puebla, Huejotzingo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8859095",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8859095.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.14917
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -98.44194
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1476
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2380
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "San Juan Pancoac"
+}

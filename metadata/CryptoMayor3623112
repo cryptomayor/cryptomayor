@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3623112",
+    "name": "La Suiza, Costa Rica",
+    "description": "Cartago, Turrialba",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3623112",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3623112.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 9.85065
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -83.6169
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2434
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 611
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Costa_Rica"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Costa Rica"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "CR",
+    "altnames": "La Suiza,Suiza"
+}

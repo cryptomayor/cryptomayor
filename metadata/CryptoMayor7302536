@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor7302536",
+    "name": "Oberurnen, Switzerland",
+    "description": "Glarus, Glarus",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor7302536",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor7302536.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.11412
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 9.05866
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1932
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 431
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Zurich"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Switzerland"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "CH",
+    "altnames": null
+}

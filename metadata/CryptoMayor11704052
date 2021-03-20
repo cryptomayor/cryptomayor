@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor11704052",
+    "name": "Wasenbruck, Austria",
+    "description": "Lower Austria, Politischer Bezirk Bruck an der Leitha",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor11704052",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor11704052.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.9867
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 16.55794
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 662
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 175
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Vienna"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Austria"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "AT",
+    "altnames": null
+}

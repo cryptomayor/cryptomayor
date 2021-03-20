@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3633063",
+    "name": "Maporal, Venezuela",
+    "description": "Barinas, Municipio Pedraza",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3633063",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3633063.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 7.645
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -70.41985
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 0
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 115
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Caracas"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Venezuela"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "VE",
+    "altnames": null
+}

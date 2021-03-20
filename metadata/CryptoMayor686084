@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor686084",
+    "name": "A\u015fchileu Dorna, Romania",
+    "description": "Cluj, Comuna A\u015fchileu",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor686084",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor686084.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 46.98333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 23.48333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1831
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 436
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3976881",
+    "name": "La Arrocera, Mexico",
+    "description": "Sinaloa, El Fuerte",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3976881",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3976881.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 25.82047
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -108.86146
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 712
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 31
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mazatlan"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "La Arrocera"
+}

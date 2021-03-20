@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor790248",
+    "name": "Gradec, North Macedonia",
+    "description": "Bogovinje",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor790248",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor790248.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 41.89611
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 20.90417
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3751
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 538
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Skopje"
+        },
+        {
+            "trait_type": "Country",
+            "value": "North Macedonia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "MK",
+    "altnames": null
+}

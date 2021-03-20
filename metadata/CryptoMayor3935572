@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3935572",
+    "name": "Mala, Peru",
+    "description": "Lima region, Provincia de Ca\u00f1ete",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3935572",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3935572.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -12.65806
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -76.63083
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 17260
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 34
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Lima"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Peru"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "PE",
+    "altnames": null
+}

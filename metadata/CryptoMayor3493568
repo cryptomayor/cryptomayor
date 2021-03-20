@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3493568",
+    "name": "Sabana de la Mar, Dominican Republic",
+    "description": "Hato Mayor, Sabana de La Mar",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3493568",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3493568.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.05934
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -69.38843
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 13977
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 9
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Santo_Domingo"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Dominican Republic"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "DO",
+    "altnames": "SNX,Sabana de la Mar,Sabana la Mar,Savana la Mar"
+}

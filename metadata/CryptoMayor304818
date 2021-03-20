@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor304818",
+    "name": "Mansurlu, Turkey",
+    "description": "Adana",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor304818",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor304818.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 37.84853
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 35.65436
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 0
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1007
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Istanbul"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Turkey"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AS"
+        }
+    ],
+    "country_code": "TR",
+    "altnames": "Mansurlu"
+}

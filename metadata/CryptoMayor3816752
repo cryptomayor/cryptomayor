@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3816752",
+    "name": "San Luque\u00f1o, Mexico",
+    "description": "Chiapas, Tonal\u00e1",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3816752",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3816752.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 16.01278
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -93.84583
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1016
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 5
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": null
+}

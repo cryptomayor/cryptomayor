@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3007730",
+    "name": "Langeac, France",
+    "description": "Auvergne-Rh\u00f4ne-Alpes, Haute-Loire",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3007730",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3007730.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 45.10028
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 3.4942
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3997
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 480
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Langeac"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor535966",
+    "name": "Leonovo, Russia",
+    "description": "Moscow",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor535966",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor535966.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 55.85
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 37.65
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 30000
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 140
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Moscow"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Russia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RU",
+    "altnames": "Leonovo,\u041b\u0435\u043e\u043d\u043e\u0432\u043e"
+}

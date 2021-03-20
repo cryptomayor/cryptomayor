@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3802191",
+    "name": "El Yucateco, Mexico",
+    "description": "Tabasco, C\u00e1rdenas",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3802191",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3802191.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.21284
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -94.01803
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 947
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 12
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Cinco Presidentes,El Yucateco"
+}

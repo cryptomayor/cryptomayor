@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3436100",
+    "name": "Basail, Argentina",
+    "description": "Chaco, Departamento de San Fernando",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3436100",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3436100.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -27.88539
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -59.28245
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3652
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 57
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Argentina/Cordoba"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Argentina"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "AR",
+    "altnames": "Basail"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor10287505",
+    "name": "Lower Sackville, Canada",
+    "description": "Nova Scotia",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor10287505",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor10287505.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 44.77599
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -63.67865
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 21379
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 53
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Halifax"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Canada"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "CA",
+    "altnames": null
+}

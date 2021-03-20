@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2768238",
+    "name": "Purgstall, Austria",
+    "description": "Styria, Politischer Bezirk Graz-Umgebung",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2768238",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2768238.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.11667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 15.56667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 990
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 525
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Vienna"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Austria"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "AT",
+    "altnames": "Purgstall,Purgstall bei Eggersdorf"
+}

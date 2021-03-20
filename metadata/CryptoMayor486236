@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor486236",
+    "name": "Suna, Russia",
+    "description": "Kirov",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor486236",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor486236.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 57.83379
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 50.05884
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2400
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 120
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Kirov"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Russia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RU",
+    "altnames": "Suna,\u0421\u0443\u043d\u0430"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3165894",
+    "name": "Tavarnuzze, Italy",
+    "description": "Tuscany, Province of Florence",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3165894",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3165894.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 43.71019
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 11.21721
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 4228
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 75
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": null
+}

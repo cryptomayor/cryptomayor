@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3827013",
+    "name": "San Ignacio del Pedregal, Mexico",
+    "description": "M\u00e9xico, Ixtlahuaca",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3827013",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3827013.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.60667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -99.8525
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 986
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2533
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": null
+}

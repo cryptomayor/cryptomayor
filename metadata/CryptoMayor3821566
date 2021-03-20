@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3821566",
+    "name": "Maxela, Mexico",
+    "description": "Guerrero, Tepecoacuilco de Trujano",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3821566",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3821566.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.05364
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -99.59473
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1318
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 939
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Maxela"
+}

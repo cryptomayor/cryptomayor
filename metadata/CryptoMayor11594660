@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor11594660",
+    "name": "Sticklberg, Austria",
+    "description": "Styria, Politischer Bezirk Weiz",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor11594660",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor11594660.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.53036
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 15.77911
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 0
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 900
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Vienna"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Austria"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "AT",
+    "altnames": null
+}

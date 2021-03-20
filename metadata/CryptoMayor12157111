@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor12157111",
+    "name": "Miramar, Peru",
+    "description": "La Libertad, Provincia de Trujillo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor12157111",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor12157111.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -8.17945
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -78.99381
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 9614
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 50
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Lima"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Peru"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "PE",
+    "altnames": null
+}

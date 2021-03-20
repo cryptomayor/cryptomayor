@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6535621",
+    "name": "Villa San Giovanni in Tuscia, Italy",
+    "description": "Latium, Provincia di Viterbo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6535621",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6535621.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 42.27882
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 12.05346
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1251
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 333
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": null
+}

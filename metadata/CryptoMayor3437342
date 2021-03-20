@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3437342",
+    "name": "Puerto Rosario, Paraguay",
+    "description": "San Pedro, Villa Del Rosario",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3437342",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3437342.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -24.44127
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -57.14272
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 5123
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 70
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Asuncion"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Paraguay"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "PY",
+    "altnames": "Oculto,Puerto Rosario,Puerto Villa del Rosario"
+}

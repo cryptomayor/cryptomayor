@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor686139",
+    "name": "Armeni, Romania",
+    "description": "Sibiu, Comuna Loamne\u015f",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor686139",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor686139.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 45.96616
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 23.97527
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 794
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 362
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": null
+}

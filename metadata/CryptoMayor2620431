@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2620431",
+    "name": "Herlev, Denmark",
+    "description": "Capital Region, Herlev Kommune",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2620431",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2620431.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 55.72366
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 12.43998
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 0
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 24
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Copenhagen"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Denmark"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "DK",
+    "altnames": "Herlev"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8859888",
+    "name": "Doxteje Barrio Primero, Mexico",
+    "description": "M\u00e9xico, Acambay de Ru\u00edz Casta\u00f1eda",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8859888",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8859888.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.95972
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -99.95861
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1020
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2594
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Doxteje Barrio Primero"
+}

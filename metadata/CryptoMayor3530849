@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3530849",
+    "name": "San Pedro Chimay, Mexico",
+    "description": "Yucat\u00e1n, M\u00e9rida",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3530849",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3530849.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.86465
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -89.5796
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1241
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 13
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Merida"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Chimay,San Pedro Chima,San Pedro Chimay"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4001463",
+    "name": "La Manzanilla, Mexico",
+    "description": "Jalisco, La Huerta",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4001463",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4001463.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.28133
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -104.78771
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1305
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 8
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "La Manzanilla"
+}

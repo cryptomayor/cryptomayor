@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor160798",
+    "name": "Butiama, Tanzania",
+    "description": "Mara, Butiama",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor160798",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor160798.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -1.76667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 33.96667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 16376
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1500
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Africa/Dar_es_Salaam"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Tanzania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AF"
+        }
+    ],
+    "country_code": "TZ",
+    "altnames": "Buliama,Butiama"
+}

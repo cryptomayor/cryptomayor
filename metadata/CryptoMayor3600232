@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3600232",
+    "name": "Yarumela, Honduras",
+    "description": "La Paz",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3600232",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3600232.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 14.33333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -87.63333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3059
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 593
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Tegucigalpa"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Honduras"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "HN",
+    "altnames": "Yarumela"
+}

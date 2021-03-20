@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3725364",
+    "name": "Fond des Blancs, Haiti",
+    "description": "Sud, Arrondissement d'Aquin",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3725364",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3725364.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.27782
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -73.12733
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2653
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 303
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Port-au-Prince"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Haiti"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "HT",
+    "altnames": "Fond des Blancs"
+}

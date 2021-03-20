@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3429399",
+    "name": "Saladillo, Argentina",
+    "description": "Buenos Aires, Partido de Saladillo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3429399",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3429399.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -35.63708
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -59.77788
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 0
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 45
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Argentina/Buenos_Aires"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Argentina"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "AR",
+    "altnames": "Saladillo"
+}

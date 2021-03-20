@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3928450",
+    "name": "Sondondo, Peru",
+    "description": "Ayacucho, Provincia de Lucanas",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3928450",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3928450.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -14.29795
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -73.93928
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 566
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2983
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Lima"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Peru"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "PE",
+    "altnames": null
+}

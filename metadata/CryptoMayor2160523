@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2160523",
+    "name": "Latrobe, Australia",
+    "description": "Tasmania, Latrobe",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2160523",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2160523.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -41.24641
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 146.42458
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 4058
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 18
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Hobart"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": "LTB,Latrobe"
+}

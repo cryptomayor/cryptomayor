@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3009395",
+    "name": "La Force, France",
+    "description": "Nouvelle-Aquitaine, Dordogne",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3009395",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3009395.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 44.86872
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 0.3753
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2500
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 65
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "La Force"
+}

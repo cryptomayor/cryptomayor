@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2741648",
+    "name": "Campo, Portugal",
+    "description": "Porto, Valongo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2741648",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2741648.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 41.18516
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -8.46493
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 8916
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 127
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Lisbon"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Portugal"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "PT",
+    "altnames": "Campo"
+}

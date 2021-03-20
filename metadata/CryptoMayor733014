@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor733014",
+    "name": "Botevgrad, Bulgaria",
+    "description": "Sofia, Obshtina Botevgrad",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor733014",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor733014.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 42.9
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 23.78333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 20909
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 363
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Sofia"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Bulgaria"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "BG",
+    "altnames": "Botevgrad,Orchanie,Orhanie,Orhanje,Orkhanie,\u0411\u043e\u0442\u0435\u0432\u0433\u0440\u0430\u0434"
+}

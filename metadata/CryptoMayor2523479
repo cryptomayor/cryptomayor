@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2523479",
+    "name": "San Giacomo, Italy",
+    "description": "Calabria, Provincia di Cosenza",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2523479",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2523479.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 39.5254
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 16.46424
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 655
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 755
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "San Giacomo,San Giacomo d'Acri"
+}

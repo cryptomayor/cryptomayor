@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4027564",
+    "name": "Colonia Cuauht\u00e9moc, Mexico",
+    "description": "Guerrero, Atoyac de \u00c1lvarez",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4027564",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4027564.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 17.10333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -100.33583
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 576
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 22
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": null
+}

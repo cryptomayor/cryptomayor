@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3174210",
+    "name": "Mairano, Italy",
+    "description": "Lombardy, Citt\u00e0 metropolitana di Milano",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3174210",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3174210.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 45.35794
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 9.06939
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 795
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 104
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": null
+}

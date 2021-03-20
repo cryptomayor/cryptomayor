@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor150436",
+    "name": "Rulenge, Tanzania",
+    "description": "Kagera, Ngara",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor150436",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor150436.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -2.7175
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 30.6325
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 22069
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1422
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Africa/Dar_es_Salaam"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Tanzania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AF"
+        }
+    ],
+    "country_code": "TZ",
+    "altnames": null
+}

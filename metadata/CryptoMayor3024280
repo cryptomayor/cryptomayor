@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3024280",
+    "name": "Cologne, France",
+    "description": "Occitanie, Gers",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3024280",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3024280.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 43.7221
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 0.97741
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 728
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 203
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Cologne"
+}

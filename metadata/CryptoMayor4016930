@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4016930",
+    "name": "Bol\u00edvar, Mexico",
+    "description": "Coahuila, San Pedro",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4016930",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4016930.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 25.77543
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -103.01292
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 560
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1101
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Monterrey"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": null
+}

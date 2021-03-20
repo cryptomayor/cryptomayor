@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3594575",
+    "name": "La Gomera, Guatemala",
+    "description": "Escuintla, Municipio de La Gomera",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3594575",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3594575.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 14.08213
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -91.05383
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 24001
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 38
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Guatemala"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Guatemala"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "GT",
+    "altnames": "La Gomera"
+}

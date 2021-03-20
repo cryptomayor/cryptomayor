@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3693441",
+    "name": "Poroto, Peru",
+    "description": "La Libertad, Provincia de Trujillo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3693441",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3693441.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -8.01137
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -78.76788
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 753
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 644
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Lima"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Peru"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "PE",
+    "altnames": null
+}

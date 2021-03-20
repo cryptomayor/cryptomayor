@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3065465",
+    "name": "Sruby, Czechia",
+    "description": "Pardubick\u00fd, Okres \u00dast\u00ed nad Orlic\u00ed",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3065465",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3065465.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 49.99688
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 16.17425
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 541
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 276
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Prague"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Czechia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "CZ",
+    "altnames": null
+}

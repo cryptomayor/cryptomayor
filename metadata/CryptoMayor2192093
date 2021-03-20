@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2192093",
+    "name": "Coromandel, New Zealand",
+    "description": "Waikato, Thames-Coromandel District",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2192093",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2192093.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -36.7611
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 175.49634
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1502
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 7
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Pacific/Auckland"
+        },
+        {
+            "trait_type": "Country",
+            "value": "New Zealand"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "NZ",
+    "altnames": "CMV,Coromandel"
+}

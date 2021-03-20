@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4026131",
+    "name": "El Temblor, Mexico",
+    "description": "M\u00e9xico, Tlatlaya",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4026131",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4026131.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.39162
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -100.30972
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 515
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 378
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "El Temblor"
+}

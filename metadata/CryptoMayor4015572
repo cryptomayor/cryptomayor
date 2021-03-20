@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4015572",
+    "name": "El Canutillo, Mexico",
+    "description": "Sinaloa, El Fuerte",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4015572",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4015572.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 26.37384
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -108.62523
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 637
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 93
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mazatlan"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Canutillo,El Canutillo,Guasimas,Gu\u00e1simas"
+}

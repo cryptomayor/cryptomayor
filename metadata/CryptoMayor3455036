@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3455036",
+    "name": "Paraty, Brazil",
+    "description": "Rio de Janeiro, Paraty",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3455036",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3455036.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -23.21778
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -44.71306
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 15118
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 8
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Sao_Paulo"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Brazil"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "BR",
+    "altnames": "Paraty"
+}

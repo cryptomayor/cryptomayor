@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2703880",
+    "name": "Idre, Sweden",
+    "description": "Dalarna, \u00c4lvdalens kommun",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2703880",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2703880.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 61.85821
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 12.71401
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 706
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 445
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Stockholm"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Sweden"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "SE",
+    "altnames": "IDB"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4370109",
+    "name": "Spencerville, United States",
+    "description": "Maryland, Montgomery County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4370109",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4370109.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 39.11427
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -76.97831
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1594
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 152
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/New_York"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

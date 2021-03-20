@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3826874",
+    "name": "Loma Alta, Mexico",
+    "description": "M\u00e9xico, Zinacantepec",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3826874",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3826874.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.17202
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -99.80691
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 530
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 3449
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Loma Alta"
+}

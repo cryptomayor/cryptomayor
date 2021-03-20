@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8347756",
+    "name": "Caniaba, Australia",
+    "description": "New South Wales, Lismore Municipality",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8347756",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8347756.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -28.83023
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 153.20357
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 666
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 46
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Sydney"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": null
+}

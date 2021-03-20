@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor857689",
+    "name": "Vnukovo, Russia",
+    "description": "Moscow, Zapadnyy Administrativnyy Okrug",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor857689",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor857689.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 55.61194
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 37.29611
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 20000
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 190
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Moscow"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Russia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RU",
+    "altnames": "Vnukovo,\u0412\u043d\u0443\u043a\u043e\u0432\u043e"
+}

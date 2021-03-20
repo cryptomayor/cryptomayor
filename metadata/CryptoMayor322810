@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor322810",
+    "name": "Tillo, Turkey",
+    "description": "Siirt",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor322810",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor322810.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 37.94911
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 42.0121
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3052
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1199
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Istanbul"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Turkey"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AS"
+        }
+    ],
+    "country_code": "TR",
+    "altnames": "Aydinlar,Ayd\u0131nlar,Tillo"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4008048",
+    "name": "El Refugio, Mexico",
+    "description": "Coahuila, Matamoros",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4008048",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4008048.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 25.43263
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -103.17315
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 888
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1122
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Monterrey"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "El Refugio"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor155244",
+    "name": "Majengo, Tanzania",
+    "description": "Tanga, Tanga",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor155244",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor155244.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -5.15
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 38.98333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 9874
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 95
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Africa/Dar_es_Salaam"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Tanzania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AF"
+        }
+    ],
+    "country_code": "TZ",
+    "altnames": "Majengo"
+}

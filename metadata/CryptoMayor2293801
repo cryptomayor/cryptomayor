@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2293801",
+    "name": "Yendi, Ghana",
+    "description": "Northern, Yendi",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2293801",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2293801.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 9.44272
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -0.00991
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 42972
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 208
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Africa/Accra"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Ghana"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AF"
+        }
+    ],
+    "country_code": "GH",
+    "altnames": "Jendi,Yendi"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3027445",
+    "name": "Chamarandes-Choignes, France",
+    "description": "Grand Est, Haute-Marne",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3027445",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3027445.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 48.08333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 5.15
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1196
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 339
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": null
+}

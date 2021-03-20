@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3181519",
+    "name": "Grand Brissogne, Italy",
+    "description": "Aosta Valley, Valle d'Aosta",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3181519",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3181519.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 45.72566
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 7.3926
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 95
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 891
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "Brissogne"
+}

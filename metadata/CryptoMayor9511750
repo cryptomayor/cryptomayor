@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor9511750",
+    "name": "San Jose de los Olvera, Mexico",
+    "description": "Quer\u00e9taro, Corregidora",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor9511750",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor9511750.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.55307
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -100.41518
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 18406
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1857
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "San Jose de los Olvera"
+}

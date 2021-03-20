@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6137971",
+    "name": "Sainte-Madeleine, Canada",
+    "description": "Quebec, Mont\u00e9r\u00e9gie",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6137971",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6137971.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 45.60008
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -73.09914
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1959
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 30
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Toronto"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Canada"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "CA",
+    "altnames": null
+}

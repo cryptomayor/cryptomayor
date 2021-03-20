@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3821820",
+    "name": "Tepetlatipa, Mexico",
+    "description": "Guerrero, Ahuacuotzingo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3821820",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3821820.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 17.80601
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -99.02524
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 508
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1427
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": null
+}

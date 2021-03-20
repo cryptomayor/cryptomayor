@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3987877",
+    "name": "San Antonio, Mexico",
+    "description": "Aguascalientes, Tepezal\u00e1",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3987877",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3987877.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 22.22823
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -102.25034
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3345
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1918
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "San Antonio"
+}

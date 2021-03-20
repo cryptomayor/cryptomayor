@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3822727",
+    "name": "El Ideal, Mexico",
+    "description": "Quintana Roo, L\u00e1zaro C\u00e1rdenas",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3822727",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3822727.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.88137
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -87.54437
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 818
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 21
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Cancun"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "El Ideal"
+}

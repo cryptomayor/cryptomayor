@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor11592143",
+    "name": "Dunbeg, United Kingdom",
+    "description": "Scotland, Argyll and Bute",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor11592143",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor11592143.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 56.44489
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -5.44141
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 610
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 12
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/London"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United Kingdom"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "GB",
+    "altnames": null
+}

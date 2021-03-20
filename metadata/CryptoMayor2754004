@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2754004",
+    "name": "Hoenderloo, Netherlands",
+    "description": "Gelderland, Gemeente Apeldoorn",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2754004",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2754004.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 52.1175
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 5.87917
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 730
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 51
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Amsterdam"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Netherlands"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "NL",
+    "altnames": "Hoenderlo"
+}

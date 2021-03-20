@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8348265",
+    "name": "Blind Bight, Australia",
+    "description": "Victoria, Casey",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8348265",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8348265.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -38.21427
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 145.3377
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1252
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 13
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Melbourne"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": null
+}

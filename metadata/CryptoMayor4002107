@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4002107",
+    "name": "Laguna Prieta, Mexico",
+    "description": "Guanajuato, Yuriria",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4002107",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4002107.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.21746
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -101.34709
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 858
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2164
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Laguna Prieta"
+}

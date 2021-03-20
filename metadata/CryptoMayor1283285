@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor1283285",
+    "name": "Jumla, Nepal",
+    "description": "Karnali Pradesh, Jumla",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor1283285",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor1283285.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 29.27472
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 82.18383
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 9073
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2354
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Asia/Kathmandu"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Nepal"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AS"
+        }
+    ],
+    "country_code": "NP",
+    "altnames": "JUM,Jumla"
+}

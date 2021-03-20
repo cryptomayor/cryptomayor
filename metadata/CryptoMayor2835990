@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2835990",
+    "name": "Schuld, Germany",
+    "description": "Rheinland-Pfalz",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2835990",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2835990.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 50.44767
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 6.88894
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 847
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 243
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Berlin"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Germany"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "DE",
+    "altnames": null
+}

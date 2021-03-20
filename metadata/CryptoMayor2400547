@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2400547",
+    "name": "Gamba, Gabon",
+    "description": "Ogoou\u00e9-Maritime",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2400547",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2400547.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -2.65
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 10.0
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 9928
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 43
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Africa/Libreville"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Gabon"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AF"
+        }
+    ],
+    "country_code": "GA",
+    "altnames": "GAX,Gamba"
+}

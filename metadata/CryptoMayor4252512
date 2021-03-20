@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4252512",
+    "name": "Washington Park, United States",
+    "description": "Illinois, Saint Clair County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4252512",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4252512.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 38.63505
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -90.09289
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3990
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 130
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Chicago"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

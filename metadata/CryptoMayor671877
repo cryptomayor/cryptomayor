@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor671877",
+    "name": "Olari, Romania",
+    "description": "Prahova, Comuna Olari",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor671877",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor671877.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 44.78482
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 26.21728
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 792
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 85
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": "Olari"
+}

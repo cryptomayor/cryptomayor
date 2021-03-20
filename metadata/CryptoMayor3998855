@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3998855",
+    "name": "La Ventana, Mexico",
+    "description": "San Luis Potos\u00ed, Guadalc\u00e1zar",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3998855",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3998855.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 23.01039
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -100.2642
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 758
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1470
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "La Ventana,Ventana"
+}

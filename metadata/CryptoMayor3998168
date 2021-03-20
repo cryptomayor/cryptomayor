@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3998168",
+    "name": "Los Amoles, Mexico",
+    "description": "Guanajuato, Romita",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3998168",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3998168.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.79534
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -101.62693
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 825
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1750
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Amoles,El Amole,Guadalupe de Amoles,Los Amoles"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3548000",
+    "name": "Manguito, Cuba",
+    "description": "Matanzas",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3548000",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3548000.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 22.58733
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -80.91451
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3155
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 50
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Havana"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Cuba"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "CU",
+    "altnames": "Manguito"
+}

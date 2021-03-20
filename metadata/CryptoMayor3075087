@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3075087",
+    "name": "Hosta\u0161ovice, Czechia",
+    "description": "Moravskoslezsk\u00fd, Okres Nov\u00fd Ji\u010d\u00edn",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3075087",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3075087.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 49.53426
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 17.9973
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 685
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 357
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Prague"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Czechia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "CZ",
+    "altnames": null
+}

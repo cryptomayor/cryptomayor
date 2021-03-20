@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3529085",
+    "name": "El Corte, Mexico",
+    "description": "Veracruz, Amatitl\u00e1n",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3529085",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3529085.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.45226
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -95.7351
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2126
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 12
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "El Corte"
+}

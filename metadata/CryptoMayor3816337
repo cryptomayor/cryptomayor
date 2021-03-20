@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3816337",
+    "name": "San Luis Potos\u00ed, Mexico",
+    "description": "Chiapas, Altamirano",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3816337",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3816337.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 16.6036
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -91.64599
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 642
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 747
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": null
+}

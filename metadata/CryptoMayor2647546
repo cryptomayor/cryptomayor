@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2647546",
+    "name": "Hampton in Arden, United Kingdom",
+    "description": "England, Solihull",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2647546",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2647546.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 52.4254
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -1.70271
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1692
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 123
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/London"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United Kingdom"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "GB",
+    "altnames": "Hampton in Arden"
+}

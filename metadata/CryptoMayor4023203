@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4023203",
+    "name": "Mineral de la Luz, Mexico",
+    "description": "Guanajuato, Guanajuato",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4023203",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4023203.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 21.06456
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -101.33806
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1040
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2402
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "La Luz,Mineral de la Luz"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3170482",
+    "name": "Poggio Bustone, Italy",
+    "description": "Latium, Provincia di Rieti",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3170482",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3170482.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 42.5033
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 12.88524
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 847
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 750
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "Poggio Bustone"
+}

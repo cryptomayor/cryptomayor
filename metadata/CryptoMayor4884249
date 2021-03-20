@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4884249",
+    "name": "Beach Park, United States",
+    "description": "Illinois, Lake County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4884249",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4884249.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 42.42224
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -87.8573
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 13976
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 215
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Chicago"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor1702032",
+    "name": "Manay, Philippines",
+    "description": "Davao, Province of Davao Oriental",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor1702032",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor1702032.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 7.215
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 126.53972
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 20336
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 15
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Asia/Manila"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Philippines"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AS"
+        }
+    ],
+    "country_code": "PH",
+    "altnames": "Manay"
+}

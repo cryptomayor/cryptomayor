@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3006511",
+    "name": "La Saulce, France",
+    "description": "Provence-Alpes-C\u00f4te d'Azur, Hautes-Alpes",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3006511",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3006511.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 44.42544
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 6.0069
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 976
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 579
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "La Saulce"
+}

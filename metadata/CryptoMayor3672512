@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3672512",
+    "name": "Peque, Colombia",
+    "description": "Antioquia, Peque",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3672512",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3672512.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 7.02123
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -75.90926
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1793
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1204
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Bogota"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Colombia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "CO",
+    "altnames": "Peque"
+}

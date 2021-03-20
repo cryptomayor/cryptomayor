@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4014799",
+    "name": "Cerritos, Mexico",
+    "description": "Guanajuato, San Miguel de Allende",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4014799",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4014799.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.88552
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -100.5988
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1015
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2075
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Cerritos,Los Cerritos"
+}

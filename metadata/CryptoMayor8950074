@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8950074",
+    "name": "Casette, Italy",
+    "description": "Friuli Venezia Giulia, Pordenone",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8950074",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8950074.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 45.85409
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 12.87982
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 603
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 14
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "Casette"
+}

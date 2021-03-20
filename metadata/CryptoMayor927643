@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor927643",
+    "name": "Machinga, Malawi",
+    "description": "Southern Region, Machinga District",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor927643",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor927643.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -15.16849
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 35.30002
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1418
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 768
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Africa/Blantyre"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Malawi"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AF"
+        }
+    ],
+    "country_code": "MW",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3687644",
+    "name": "Candelaria, Colombia",
+    "description": "Valle del Cauca, Candelaria",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3687644",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3687644.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 3.40671
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -76.34819
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 23989
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 977
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Bogota"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Colombia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "CO",
+    "altnames": "Candelaria"
+}

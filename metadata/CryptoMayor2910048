@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2910048",
+    "name": "Hartmannsdorf, Germany",
+    "description": "Saxony",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2910048",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2910048.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 50.88635
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 12.79904
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 4732
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 332
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Berlin"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Germany"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "DE",
+    "altnames": null
+}

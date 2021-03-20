@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5418150",
+    "name": "Cottonwood, United States",
+    "description": "Colorado, Douglas County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5418150",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5418150.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 39.56249
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -104.80192
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 931
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1756
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Denver"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

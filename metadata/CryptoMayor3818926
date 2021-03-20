@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3818926",
+    "name": "Tlapetlahuaya, Mexico",
+    "description": "Puebla, Huaquechula",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3818926",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3818926.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.75528
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -98.57139
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 601
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1526
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": null
+}

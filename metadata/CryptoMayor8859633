@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8859633",
+    "name": "Betania, Mexico",
+    "description": "Tabasco, Comalcalco",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8859633",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8859633.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.28003
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -93.32081
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1125
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 12
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Betania"
+}

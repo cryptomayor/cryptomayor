@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2768081",
+    "name": "Raggal, Austria",
+    "description": "Vorarlberg, Politischer Bezirk Bludenz",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2768081",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2768081.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.21082
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 9.83688
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 673
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1011
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Vienna"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Austria"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "AT",
+    "altnames": null
+}

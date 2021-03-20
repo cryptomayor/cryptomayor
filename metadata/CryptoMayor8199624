@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8199624",
+    "name": "Villa Felice, Italy",
+    "description": "Latium, Provincia di Frosinone",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8199624",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8199624.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 41.555
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 13.61803
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 515
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 159
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": null
+}

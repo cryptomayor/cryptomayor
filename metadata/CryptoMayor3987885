@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3987885",
+    "name": "San Antonio, Mexico",
+    "description": "Guanajuato, San Diego de la Uni\u00f3n",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3987885",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3987885.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 21.41178
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -100.89832
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 530
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2089
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "San Antonio"
+}

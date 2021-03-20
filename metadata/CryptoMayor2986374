@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2986374",
+    "name": "Pompignan, France",
+    "description": "Occitanie, Gard",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2986374",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2986374.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 43.89491
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 3.85641
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 709
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 180
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Pompignan"
+}

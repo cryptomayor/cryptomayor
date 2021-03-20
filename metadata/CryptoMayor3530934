@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3530934",
+    "name": "Chiconamel, Mexico",
+    "description": "Veracruz",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3530934",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3530934.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 21.2305
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -98.46024
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1502
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 139
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Chiconamel"
+}

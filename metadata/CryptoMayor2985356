@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2985356",
+    "name": "Preux-au-Bois, France",
+    "description": "Hauts-de-France, North",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2985356",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2985356.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 50.16465
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 3.65816
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 825
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 150
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Preux,Preux-au-Bois"
+}

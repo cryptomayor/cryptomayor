@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor235191",
+    "name": "Amudat, Uganda",
+    "description": "Northern Region, Amudat District",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor235191",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor235191.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 1.95
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 34.95
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1873
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1244
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Africa/Kampala"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Uganda"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AF"
+        }
+    ],
+    "country_code": "UG",
+    "altnames": "Amdat,Amudat"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2796403",
+    "name": "Haut-Ittre, Belgium",
+    "description": "Wallonia, Province du Brabant Wallon",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2796403",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2796403.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 50.65305
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 4.2978
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 878
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 116
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Brussels"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Belgium"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "BE",
+    "altnames": "Ittre (Haut-Ittre)"
+}

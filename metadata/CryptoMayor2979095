@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2979095",
+    "name": "Saint-Julien-de-Peyrolas, France",
+    "description": "Occitanie, Gard",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2979095",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2979095.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 44.2882
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 4.56487
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1206
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 106
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Peyrolas,Saint-Julien,Saint-Julien-de-Peyrolas"
+}

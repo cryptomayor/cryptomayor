@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3590188",
+    "name": "San Gaspar Ixchil, Guatemala",
+    "description": "Huehuetenango, Municipio de San Gaspar Ixchil",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3590188",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3590188.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 15.38796
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -91.72564
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 551
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1391
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Guatemala"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Guatemala"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "GT",
+    "altnames": "San Gaspar,San Gaspar Ixchil"
+}

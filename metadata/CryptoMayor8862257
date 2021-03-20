@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8862257",
+    "name": "Hermosillo, Mexico",
+    "description": "Chiapas, Tapachula",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8862257",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8862257.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 14.99401
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -92.19725
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 587
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 479
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Hermosillo"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3828283",
+    "name": "Santa Isabel, Colombia",
+    "description": "Tolima, Alpujarra",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3828283",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3828283.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 3.34944
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -74.98056
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 6382
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1094
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Bogota"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Colombia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "CO",
+    "altnames": "Santa Isabel"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3015442",
+    "name": "Gouy-sous-Bellonne, France",
+    "description": "Hauts-de-France, Pas-de-Calais",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3015442",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3015442.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 50.31139
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 3.05657
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1308
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 47
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Gouy,Gouy-sous-Bellonne"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3821734",
+    "name": "Cerro de Piedra, Mexico",
+    "description": "Guerrero, Acapulco de Ju\u00e1rez",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3821734",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3821734.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 16.77646
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -99.63037
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1487
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 45
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Cerro de Piedra"
+}

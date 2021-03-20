@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor716706",
+    "name": "Ostoros, Hungary",
+    "description": "Heves",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor716706",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor716706.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.86667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 20.43333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2362
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 158
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Budapest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Hungary"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "HU",
+    "altnames": "Ostoros"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor575423",
+    "name": "Bokino, Russia",
+    "description": "Tambov",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor575423",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor575423.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 52.63744
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 41.45968
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 4016
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 120
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Moscow"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Russia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RU",
+    "altnames": "Bokino,\u0411\u043e\u043a\u0438\u043d\u043e"
+}

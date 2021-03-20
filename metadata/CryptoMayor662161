@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor662161",
+    "name": "Zlatna, Romania",
+    "description": "Alba, Ora\u015f Zlatna",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor662161",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor662161.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 46.10633
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 23.23162
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 8393
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 407
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": "Zlatna"
+}

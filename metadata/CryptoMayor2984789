@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2984789",
+    "name": "Quesnoy-le-Montant, France",
+    "description": "Hauts-de-France, Somme",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2984789",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2984789.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 50.11055
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 1.68932
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 563
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 58
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Quesnoy,Quesnoy-le-Montant"
+}

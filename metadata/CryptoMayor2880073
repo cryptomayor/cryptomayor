@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2880073",
+    "name": "Laurenburg, Germany",
+    "description": "Rheinland-Pfalz",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2880073",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2880073.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 50.33222
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 7.91139
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 326
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 177
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Berlin"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Germany"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "DE",
+    "altnames": null
+}

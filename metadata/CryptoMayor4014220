@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4014220",
+    "name": "Chinobampo, Mexico",
+    "description": "Sinaloa, El Fuerte",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4014220",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4014220.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 26.39
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -108.3644
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1495
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 287
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mazatlan"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Chinobampo"
+}

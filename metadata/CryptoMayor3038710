@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3038710",
+    "name": "Achery, France",
+    "description": "Hauts-de-France, Aisne",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3038710",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3038710.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 49.69374
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 3.3898
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 549
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 55
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Achery"
+}

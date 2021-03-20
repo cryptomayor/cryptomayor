@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8858122",
+    "name": "Venceremos, Mexico",
+    "description": "Quer\u00e9taro, Corregidora",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8858122",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8858122.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.55083
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -100.39806
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 15538
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1896
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Venceremos"
+}

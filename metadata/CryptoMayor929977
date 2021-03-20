@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor929977",
+    "name": "Dowa, Malawi",
+    "description": "Central Region, Dowa District",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor929977",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor929977.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -13.65399
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 33.93754
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 5565
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1361
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Africa/Blantyre"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Malawi"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AF"
+        }
+    ],
+    "country_code": "MW",
+    "altnames": "Dowa"
+}

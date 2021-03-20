@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2968528",
+    "name": "Villeneuve-Saint-Germain, France",
+    "description": "Hauts-de-France, Aisne",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2968528",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2968528.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 49.37976
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 3.35952
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2331
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 47
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Villeneuve-Saint-Germain"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3928298",
+    "name": "Sumbilca, Peru",
+    "description": "Lima region, Provincia de Huaral",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3928298",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3928298.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -11.4075
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -76.82
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 442
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 3367
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Lima"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Peru"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "PE",
+    "altnames": null
+}

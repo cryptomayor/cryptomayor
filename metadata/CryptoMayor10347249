@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor10347249",
+    "name": "La Bonita, Panama",
+    "description": "Chiriqu\u00ed, Distrito de Renacimiento",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor10347249",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor10347249.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 8.61903
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -82.76392
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 598
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 515
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Panama"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Panama"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "PA",
+    "altnames": "La Bonita"
+}

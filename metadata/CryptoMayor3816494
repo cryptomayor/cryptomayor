@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3816494",
+    "name": "El Progreso, Mexico",
+    "description": "Chiapas, La Trinitaria",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3816494",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3816494.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 16.11598
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -91.8603
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1399
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1543
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "El Progreso"
+}

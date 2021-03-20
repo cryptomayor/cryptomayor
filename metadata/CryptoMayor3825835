@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3825835",
+    "name": "Horno de Cal, Mexico",
+    "description": "Quer\u00e9taro, Tolim\u00e1n",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3825835",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3825835.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.89969
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -99.91889
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 646
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1602
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Horno de Cal"
+}

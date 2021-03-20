@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3623258",
+    "name": "La Cruz, Costa Rica",
+    "description": "Guanacaste, La Cruz",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3623258",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3623258.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 11.07377
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -85.63272
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 4319
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 241
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Costa_Rica"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Costa Rica"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "CR",
+    "altnames": "La Cruz"
+}

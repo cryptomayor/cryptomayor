@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor324651",
+    "name": "Akkent, Turkey",
+    "description": "Denizli",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor324651",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor324651.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 38.15268
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 29.3789
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2451
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 851
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Istanbul"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Turkey"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AS"
+        }
+    ],
+    "country_code": "TR",
+    "altnames": "Akkent"
+}

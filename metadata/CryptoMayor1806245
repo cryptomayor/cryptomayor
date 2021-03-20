@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor1806245",
+    "name": "Jiangwakou, China",
+    "description": "Tianjin",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor1806245",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor1806245.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 39.5225
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 117.7025
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2018
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 0
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Asia/Shanghai"
+        },
+        {
+            "trait_type": "Country",
+            "value": "China"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AS"
+        }
+    ],
+    "country_code": "CN",
+    "altnames": "Chiang-wa-k'ou,Chiang-wa-k\u2019ou,Jiangwakou"
+}

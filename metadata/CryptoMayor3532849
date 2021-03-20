@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3532849",
+    "name": "Angostillo, Mexico",
+    "description": "Veracruz, Paso de Ovejas",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3532849",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3532849.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.21797
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -96.54174
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 660
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 261
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Angostillo"
+}

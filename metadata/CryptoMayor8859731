@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8859731",
+    "name": "San Benito Encinal, Mexico",
+    "description": "Oaxaca, Loma Bonita",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8859731",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8859731.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 17.98722
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -95.91056
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1082
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 81
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "San Benito Encinal"
+}

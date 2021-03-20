@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3178591",
+    "name": "Civitanova del Sannio, Italy",
+    "description": "Molise, Provincia di Isernia",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3178591",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3178591.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 41.66829
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 14.40285
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 650
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 657
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "Civitanova del Sannio"
+}

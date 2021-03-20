@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4989127",
+    "name": "Climax, United States",
+    "description": "Michigan, Kalamazoo County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4989127",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4989127.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 42.23838
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -85.33499
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 781
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 298
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Detroit"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3183505",
+    "name": "Acquavella, Italy",
+    "description": "Campania, Provincia di Salerno",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3183505",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3183505.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 40.20925
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 15.11794
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 568
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 235
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": null
+}

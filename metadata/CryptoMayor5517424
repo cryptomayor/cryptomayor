@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5517424",
+    "name": "Booker, United States",
+    "description": "Texas, Lipscomb County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5517424",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5517424.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 36.45336
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -100.53737
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1636
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 870
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Chicago"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

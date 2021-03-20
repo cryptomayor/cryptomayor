@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8858490",
+    "name": "San Pedro Yancuitlalpan, Mexico",
+    "description": "Puebla, San Nicol\u00e1s de los Ranchos",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8858490",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8858490.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.0775
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -98.48333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2694
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2437
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "San Pedro Yancuitlalpan"
+}

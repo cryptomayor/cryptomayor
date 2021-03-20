@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor430086",
+    "name": "Buganda, Burundi",
+    "description": "Cibitoke, Commune of Buganda",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor430086",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor430086.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -2.9663
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 29.1944
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 0
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 884
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Africa/Bujumbura"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Burundi"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AF"
+        }
+    ],
+    "country_code": "BI",
+    "altnames": null
+}

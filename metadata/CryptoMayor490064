@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor490064",
+    "name": "Sovetskaya, Russia",
+    "description": "Rostov",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor490064",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor490064.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 49.00912
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 42.12178
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2293
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 74
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Moscow"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Russia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RU",
+    "altnames": "Chernyshevskaya,Sovetskaja,Sovetskaya,\u0421\u043e\u0432\u0435\u0442\u0441\u043a\u0430\u044f"
+}

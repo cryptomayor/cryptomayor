@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5596729",
+    "name": "Inkom, United States",
+    "description": "Idaho, Bannock County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5596729",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5596729.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 42.7963
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -112.25414
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 870
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1386
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Boise"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

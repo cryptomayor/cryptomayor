@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3691647",
+    "name": "Suyo, Peru",
+    "description": "Piura, Provincia de Ayabaca",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3691647",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3691647.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -4.51367
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -80.00173
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 985
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 406
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Lima"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Peru"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "PE",
+    "altnames": null
+}

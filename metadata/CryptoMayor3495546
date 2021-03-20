@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3495546",
+    "name": "Palmar de Ocoa, Dominican Republic",
+    "description": "Azua, Las Charcas",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3495546",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3495546.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.29656
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -70.58635
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1997
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": -9999
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Santo_Domingo"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Dominican Republic"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "DO",
+    "altnames": "Palmar de Ocoa"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5138437",
+    "name": "Smallwood, United States",
+    "description": "New York, Sullivan County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5138437",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5138437.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 41.66537
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -74.81933
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 580
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 370
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/New_York"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

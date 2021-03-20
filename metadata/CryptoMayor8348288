@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8348288",
+    "name": "Cape Woolamai, Australia",
+    "description": "Victoria, Bass Coast",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8348288",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8348288.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -38.54285
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 145.34407
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1641
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 20
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Melbourne"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": null
+}

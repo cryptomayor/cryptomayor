@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor775908",
+    "name": "Bircza, Poland",
+    "description": "Subcarpathia, Powiat przemyski",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor775908",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor775908.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 49.69173
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 22.47854
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1000
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 262
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Warsaw"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Poland"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "PL",
+    "altnames": "Berch,Bircha,Bircza,Birtch"
+}

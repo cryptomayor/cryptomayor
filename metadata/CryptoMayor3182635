@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3182635",
+    "name": "Aviano, Italy",
+    "description": "Friuli Venezia Giulia, Pordenone",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3182635",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3182635.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 46.07056
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 12.59472
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 8225
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 159
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "AVB,Aviano"
+}

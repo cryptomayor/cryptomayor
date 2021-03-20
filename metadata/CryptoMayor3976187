@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3976187",
+    "name": "Cristo Rey, Mexico",
+    "description": "Sinaloa, Escuinapa",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3976187",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3976187.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 22.58167
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -105.72444
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1934
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 6
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mazatlan"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": null
+}

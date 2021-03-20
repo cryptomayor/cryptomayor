@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor963241",
+    "name": "Randburg, South Africa",
+    "description": "Gauteng, City of Johannesburg Metropolitan Municipality",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor963241",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor963241.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -26.0941
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 28.00123
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 337053
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1593
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Africa/Johannesburg"
+        },
+        {
+            "trait_type": "Country",
+            "value": "South Africa"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AF"
+        }
+    ],
+    "country_code": "ZA",
+    "altnames": null
+}

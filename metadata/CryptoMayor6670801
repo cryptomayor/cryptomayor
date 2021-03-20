@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6670801",
+    "name": "Yuracmayo, Peru",
+    "description": "Junin, Provincia de Tarma",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6670801",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6670801.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -11.46976
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -75.52546
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 586
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 3496
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Lima"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Peru"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "PE",
+    "altnames": null
+}

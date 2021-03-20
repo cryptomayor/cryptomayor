@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3023051",
+    "name": "Courcy, France",
+    "description": "Grand Est, Marne",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3023051",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3023051.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 49.32361
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 4.00257
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1453
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 80
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Courcy"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor721257",
+    "name": "Ebes, Hungary",
+    "description": "Hajd\u00fa-Bihar",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor721257",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor721257.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.46667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 21.5
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 4468
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 100
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Budapest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Hungary"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "HU",
+    "altnames": "Ebes"
+}

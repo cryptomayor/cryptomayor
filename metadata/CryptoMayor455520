@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor455520",
+    "name": "Skrunda, Latvia",
+    "description": "Skrunda, Skrunda",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor455520",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor455520.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 56.67749
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 22.01649
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2659
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 43
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Riga"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Latvia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "LV",
+    "altnames": "Skrunda"
+}

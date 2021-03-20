@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3985541",
+    "name": "San Marcos de Abajo, Mexico",
+    "description": "Guanajuato, Dolores Hidalgo Cuna de la Independencia Nacional",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3985541",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3985541.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 21.02148
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -101.01683
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 515
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2029
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "San Marcos,San Marcos de Abajo"
+}

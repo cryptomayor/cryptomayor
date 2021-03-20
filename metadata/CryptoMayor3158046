@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3158046",
+    "name": "Espeland, Norway",
+    "description": "Vestland, Bergen",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3158046",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3158046.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 60.38249
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 5.4657
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1793
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 120
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Oslo"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Norway"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "NO",
+    "altnames": "Espeland"
+}

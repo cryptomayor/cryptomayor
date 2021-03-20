@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2638992",
+    "name": "Rudgwick, United Kingdom",
+    "description": "England, West Sussex",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2638992",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2638992.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 51.08735
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -0.45164
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1955
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 41
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/London"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United Kingdom"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "GB",
+    "altnames": null
+}

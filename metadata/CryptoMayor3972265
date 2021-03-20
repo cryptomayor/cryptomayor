@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3972265",
+    "name": "Piedra Gorda, Mexico",
+    "description": "Zacatecas, Cuauht\u00e9moc",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3972265",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3972265.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 22.50759
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -102.33187
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1007
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2069
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Piedra Gorda"
+}

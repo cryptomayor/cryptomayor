@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3080024",
+    "name": "\u017b\u00f3\u0142tnica, Poland",
+    "description": "West Pomerania, Powiat szczecinecki",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3080024",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3080024.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 53.67404
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 16.80925
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 590
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 147
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Warsaw"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Poland"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "PL",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3985019",
+    "name": "San Pedro Lagunillas, Mexico",
+    "description": "Nayarit, San Pedro Lagunillas",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3985019",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3985019.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 21.2192
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -104.75228
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3753
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1293
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mazatlan"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Lagunillas,San Pedro,San Pedro Lagunas,San Pedro Lagunillas"
+}

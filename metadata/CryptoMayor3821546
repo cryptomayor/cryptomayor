@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3821546",
+    "name": "Sasamulco, Mexico",
+    "description": "Guerrero, Tepecoacuilco de Trujano",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3821546",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3821546.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.1583
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -99.57547
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 737
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 842
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Sasamuico,Sasamulco"
+}

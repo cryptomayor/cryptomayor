@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8348637",
+    "name": "Leda, Australia",
+    "description": "Western Australia, Kwinana",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8348637",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8348637.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -32.26766
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 115.7993
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3233
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 18
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Perth"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": null
+}

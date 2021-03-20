@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6671323",
+    "name": "Ullusca, Peru",
+    "description": "Junin, Provincia de Jauja",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6671323",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6671323.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -11.82034
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -75.51057
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 578
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 3417
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Lima"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Peru"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "PE",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor672443",
+    "name": "Nedeia, Romania",
+    "description": "Dolj, Comuna Gighera",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor672443",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor672443.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 43.84992
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 23.77643
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1380
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 39
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": null
+}

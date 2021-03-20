@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2976964",
+    "name": "Saint-Sernin, France",
+    "description": "Auvergne-Rh\u00f4ne-Alpes, Ard\u00e8che",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2976964",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2976964.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 44.57147
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 4.39186
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1224
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 183
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Saint-Sernin"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6291167",
+    "name": "Embrach / Wildbach, Switzerland",
+    "description": "Zurich, Bezirk B\u00fclach",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6291167",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6291167.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.51178
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 8.59092
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 543
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 422
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Zurich"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Switzerland"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "CH",
+    "altnames": "Wildbach"
+}

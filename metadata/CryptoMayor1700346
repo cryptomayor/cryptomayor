@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor1700346",
+    "name": "Matiao, Philippines",
+    "description": "Davao, Davao de Oro",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor1700346",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor1700346.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 7.0828
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 125.9362
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2814
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 15
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Asia/Manila"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Philippines"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AS"
+        }
+    ],
+    "country_code": "PH",
+    "altnames": "Matiao"
+}

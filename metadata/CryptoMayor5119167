@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5119167",
+    "name": "Gravesend, United States",
+    "description": "New York, Kings County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5119167",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5119167.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 40.5976
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -73.96514
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 112229
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 5
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/New_York"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

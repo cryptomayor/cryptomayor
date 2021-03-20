@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3016645",
+    "name": "Gardouch, France",
+    "description": "Occitanie, Upper Garonne",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3016645",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3016645.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 43.39073
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 1.68406
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1111
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 188
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Gardouch"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8863148",
+    "name": "Kikab, Mexico",
+    "description": "Campeche, Campeche",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8863148",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8863148.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.28889
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -90.20917
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 509
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 31
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Merida"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Kikab"
+}

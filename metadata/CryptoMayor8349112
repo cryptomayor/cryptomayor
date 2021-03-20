@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8349112",
+    "name": "Wannanup, Australia",
+    "description": "Western Australia, Mandurah",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8349112",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8349112.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -32.59946
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 115.64488
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3364
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 7
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Perth"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": null
+}

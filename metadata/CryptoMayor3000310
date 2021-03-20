@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3000310",
+    "name": "Les Mesneux, France",
+    "description": "Grand Est, Marne",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3000310",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3000310.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 49.21933
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 3.96146
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 876
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 96
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Les Mesneux"
+}

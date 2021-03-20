@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2525734",
+    "name": "Altavilla Milicia, Italy",
+    "description": "Sicily, Palermo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2525734",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2525734.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 38.038
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 13.54947
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 5151
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 93
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "Altavilla Milicia"
+}

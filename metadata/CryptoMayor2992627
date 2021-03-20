@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2992627",
+    "name": "Montfaucon, France",
+    "description": "Occitanie, Gard",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2992627",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2992627.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 44.0742
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 4.75403
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1300
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 29
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Montfaucon"
+}

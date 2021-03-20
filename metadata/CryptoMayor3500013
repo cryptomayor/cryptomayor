@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3500013",
+    "name": "La Uvilla, Dominican Republic",
+    "description": "Baoruco, Tamayo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3500013",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3500013.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.36186
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -71.21046
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2178
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 26
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Santo_Domingo"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Dominican Republic"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "DO",
+    "altnames": "La Uvilla,Ubilla,Uvilla"
+}

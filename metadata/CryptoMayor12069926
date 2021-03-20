@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor12069926",
+    "name": "Ocean Grove, Australia",
+    "description": "Victoria, Greater Geelong",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor12069926",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor12069926.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -38.25772
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 144.51919
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 13523
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Melbourne"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": null
+}

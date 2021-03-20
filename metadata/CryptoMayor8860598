@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8860598",
+    "name": "Campo Sotelo, Mexico",
+    "description": "Morelos, Temixco",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8860598",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8860598.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.83333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -99.21361
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 820
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1238
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Campo Sotelo"
+}

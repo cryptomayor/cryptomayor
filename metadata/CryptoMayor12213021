@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor12213021",
+    "name": "Prozorje, Croatia",
+    "description": "Zagreba\u010dka, Grad Dugo Selo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor12213021",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor12213021.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 45.82483
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 16.24292
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 521
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 131
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Zagreb"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Croatia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "HR",
+    "altnames": null
+}

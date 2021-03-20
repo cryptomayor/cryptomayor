@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4566035",
+    "name": "Lomas, Puerto Rico",
+    "description": "Can\u00f3vanas, Lomas Barrio",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4566035",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4566035.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.26857
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -65.90878
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 953
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 244
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Puerto_Rico"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Puerto Rico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "PR",
+    "altnames": null
+}

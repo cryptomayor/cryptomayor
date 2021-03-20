@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3984942",
+    "name": "San Rafael de Abajo, Mexico",
+    "description": "Coahuila, San Pedro",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3984942",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3984942.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 25.65969
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -103.0091
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 631
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1102
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Monterrey"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "San Rafael,San Rafael de Abajo"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor681405",
+    "name": "Ciuperceni, Romania",
+    "description": "Teleorman, Comuna Cosme\u015fti",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor681405",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor681405.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 44.3175
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 25.37869
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1624
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 117
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": null
+}

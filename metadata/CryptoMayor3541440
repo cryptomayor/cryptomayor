@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3541440",
+    "name": "Sagua la Grande, Cuba",
+    "description": "Villa Clara",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3541440",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3541440.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 22.80667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -80.07556
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 62073
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 13
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Havana"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Cuba"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "CU",
+    "altnames": "Sagua,Sagua la Grande"
+}

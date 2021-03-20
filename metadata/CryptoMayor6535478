@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6535478",
+    "name": "Piozzo, Italy",
+    "description": "Piedmont, Provincia di Cuneo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6535478",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6535478.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 44.51384
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 7.89254
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 480
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 329
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": null
+}

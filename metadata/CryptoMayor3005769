@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3005769",
+    "name": "Lavardac, France",
+    "description": "Nouvelle-Aquitaine, Lot-et-Garonne",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3005769",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3005769.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 44.17952
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 0.29829
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2384
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 59
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Lavardac"
+}

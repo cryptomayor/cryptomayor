@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3666760",
+    "name": "Tres Esquinas, Colombia",
+    "description": "Tolima, Cunday",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3666760",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3666760.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 3.86512
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -74.70906
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1181
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1164
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Bogota"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Colombia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "CO",
+    "altnames": "Tres Esquinas"
+}

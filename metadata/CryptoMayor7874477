@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor7874477",
+    "name": "Santa Monica, Brazil",
+    "description": "Santa Catarina, Florian\u00f3polis",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor7874477",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor7874477.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -27.59137
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -48.50756
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 5100
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 5
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Sao_Paulo"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Brazil"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "BR",
+    "altnames": null
+}

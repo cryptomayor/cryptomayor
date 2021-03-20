@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2147139",
+    "name": "Templestowe Lower, Australia",
+    "description": "Victoria, Manningham",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2147139",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2147139.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -37.76667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 145.11667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 13233
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 74
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Melbourne"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": "Lower Templestowe,Templestowe Lower"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4326320",
+    "name": "Gray, United States",
+    "description": "Louisiana, Terrebonne Parish",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4326320",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4326320.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 29.69771
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -90.78648
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 5584
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 6
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Chicago"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": "Beatieville,Gray"
+}

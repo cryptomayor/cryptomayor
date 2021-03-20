@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3683149",
+    "name": "El Rosario, Colombia",
+    "description": "Nari\u00f1o, El Rosario",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3683149",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3683149.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 1.74404
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -77.33481
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2607
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1237
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Bogota"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Colombia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "CO",
+    "altnames": "El Rosario,Rosario"
+}

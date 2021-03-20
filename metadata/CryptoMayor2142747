@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2142747",
+    "name": "Wynyard, Australia",
+    "description": "Tasmania, Waratah/Wynyard",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2142747",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2142747.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -40.9897
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 145.72617
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 5820
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 17
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Hobart"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": "Wynyard"
+}

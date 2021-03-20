@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6103581",
+    "name": "Petrolia, Canada",
+    "description": "Ontario, Lambton County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6103581",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6103581.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 42.86678
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -82.14981
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 5375
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 190
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Toronto"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Canada"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "CA",
+    "altnames": null
+}

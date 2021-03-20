@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor1522466",
+    "name": "Koktal, Kazakhstan",
+    "description": "Karaganda",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor1522466",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor1522466.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 49.65
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 73.51667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1403
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 552
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Asia/Almaty"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Kazakhstan"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AS"
+        }
+    ],
+    "country_code": "KZ",
+    "altnames": null
+}

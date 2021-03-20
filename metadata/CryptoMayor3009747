@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3009747",
+    "name": "La Croix-Blanche, France",
+    "description": "Nouvelle-Aquitaine, Lot-et-Garonne",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3009747",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3009747.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 44.2948
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 0.69245
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 785
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 203
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "La Croix-Blanche"
+}

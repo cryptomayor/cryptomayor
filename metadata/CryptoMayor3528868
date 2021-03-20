@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3528868",
+    "name": "El Humo, Mexico",
+    "description": "Veracruz, Tepetzintla",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3528868",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3528868.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 21.17568
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -97.94169
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1797
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 297
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "El Humo"
+}

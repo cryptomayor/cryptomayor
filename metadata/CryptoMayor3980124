@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3980124",
+    "name": "Villa Uni\u00f3n, Mexico",
+    "description": "Durango, Poanas",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3980124",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3980124.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 23.9746
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -104.04705
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 10753
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1906
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Monterrey"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Villa Union,Villa Uni\u00f3n"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4004452",
+    "name": "Pozo de Ibarra, Mexico",
+    "description": "Nayarit, Santiago Ixcuintla",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4004452",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4004452.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 21.86692
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -105.27949
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3233
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 13
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mazatlan"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Ibarra,Pozo de Ibarra"
+}

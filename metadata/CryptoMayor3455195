@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3455195",
+    "name": "Papagaios, Brazil",
+    "description": "Minas Gerais, Papagaios",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3455195",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3455195.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -19.44917
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -44.74778
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 11850
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 722
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Sao_Paulo"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Brazil"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "BR",
+    "altnames": null
+}

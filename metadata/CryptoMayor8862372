@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8862372",
+    "name": "San Isidro Chihuiro, Mexico",
+    "description": "Oaxaca, Nejapa de Madero",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8862372",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8862372.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 16.51472
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -96.0375
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 577
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 756
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "San Isidro Chihuiro"
+}

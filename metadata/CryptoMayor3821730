@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3821730",
+    "name": "La Estaci\u00f3n, Mexico",
+    "description": "Guerrero, Acapulco de Ju\u00e1rez",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3821730",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3821730.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 16.76734
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -99.66716
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1366
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 26
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": null
+}

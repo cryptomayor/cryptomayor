@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3514404",
+    "name": "Xopilapa, Mexico",
+    "description": "Veracruz, Tehuipango",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3514404",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3514404.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.50472
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -97.07944
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1833
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2483
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": null
+}

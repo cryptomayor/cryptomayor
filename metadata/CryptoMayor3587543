@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3587543",
+    "name": "Zaragoza, Guatemala",
+    "description": "Chimaltenango, Municipio de Zaragoza",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3587543",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3587543.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 14.64968
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -90.89034
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 9361
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2083
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Guatemala"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Guatemala"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "GT",
+    "altnames": "Zaragoza"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3685435",
+    "name": "Cumaribo, Colombia",
+    "description": "Vichada, Cumaribo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3685435",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3685435.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 4.44552
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -69.79897
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 23990
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 161
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Bogota"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Colombia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "CO",
+    "altnames": "Cumaribo"
+}

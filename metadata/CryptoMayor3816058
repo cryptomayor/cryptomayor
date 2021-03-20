@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3816058",
+    "name": "Am\u00e9rica Libre, Mexico",
+    "description": "Chiapas, Chiapa de Corzo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3816058",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3816058.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 16.61462
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -92.99185
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1073
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 423
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "America Libre,Am\u00e9rica Libre"
+}

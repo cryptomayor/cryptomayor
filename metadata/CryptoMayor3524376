@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3524376",
+    "name": "Libertad Ventanas, Mexico",
+    "description": "Chiapas, Siltepec",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3524376",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3524376.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 15.53954
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -92.27576
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1283
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2159
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Libertad Ventanas"
+}

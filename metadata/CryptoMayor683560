@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor683560",
+    "name": "Buciumi, Romania",
+    "description": "Bac\u0103u, Comuna Buciumi",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor683560",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor683560.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 46.2023
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 26.78445
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1474
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 316
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": "Buciumi,Buciumii"
+}

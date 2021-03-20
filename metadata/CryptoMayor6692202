@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6692202",
+    "name": "Burswood, Australia",
+    "description": "Western Australia, Belmont",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6692202",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6692202.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -31.95872
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 115.90396
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2780
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 16
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Perth"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": null
+}

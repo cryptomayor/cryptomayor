@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8858431",
+    "name": "La Mesa, Mexico",
+    "description": "Sonora, Nogales",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8858431",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8858431.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 31.15972
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -110.97444
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2996
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1182
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Hermosillo"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "La Mesa"
+}

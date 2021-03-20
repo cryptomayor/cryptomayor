@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3517970",
+    "name": "San Pedro Pochutla, Mexico",
+    "description": "Oaxaca, San Pedro Pochutla",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3517970",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3517970.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 15.74587
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -96.46601
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 13685
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 156
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "PUH,Pochutla,San Pedro,San Pedro Pochutla"
+}

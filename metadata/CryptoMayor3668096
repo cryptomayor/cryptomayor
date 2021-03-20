@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3668096",
+    "name": "Siachoque, Colombia",
+    "description": "Boyac\u00e1, Siachoque",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3668096",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3668096.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 5.51238
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -73.24436
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1375
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2760
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Bogota"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Colombia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "CO",
+    "altnames": "Siachoque"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4013850",
+    "name": "Cieneguillas, Mexico",
+    "description": "Zacatecas, Zacatecas",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4013850",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4013850.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 22.75698
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -102.66267
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1650
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2270
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Cieneguilla,Cieneguillas"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor662598",
+    "name": "Vladimir, Romania",
+    "description": "Gorj, Comuna Vladimir",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor662598",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor662598.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 44.83333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 23.56667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 699
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 209
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": null
+}

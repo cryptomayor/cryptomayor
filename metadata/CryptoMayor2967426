@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2967426",
+    "name": "Watten, France",
+    "description": "Hauts-de-France, North",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2967426",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2967426.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 50.83685
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 2.21346
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3000
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 5
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Watten"
+}

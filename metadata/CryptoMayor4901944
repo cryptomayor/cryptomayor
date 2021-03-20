@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4901944",
+    "name": "Mendota, United States",
+    "description": "Illinois, LaSalle County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4901944",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4901944.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 41.54725
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -89.11759
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 7204
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 229
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Chicago"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

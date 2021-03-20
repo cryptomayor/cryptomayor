@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3995041",
+    "name": "Navajas, Mexico",
+    "description": "Jalisco, Tala",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3995041",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3995041.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.53318
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -103.67972
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2037
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1482
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": null
+}

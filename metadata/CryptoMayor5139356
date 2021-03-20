@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5139356",
+    "name": "Spuyten Duyvil, United States",
+    "description": "New York, Bronx County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5139356",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5139356.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 40.88121
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -73.91736
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 10971
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 64
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/New_York"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

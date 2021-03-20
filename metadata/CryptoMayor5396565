@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5396565",
+    "name": "Smith Corner, United States",
+    "description": "California, Kern County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5396565",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5396565.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 35.47829
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -119.27872
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 524
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 102
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Los_Angeles"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

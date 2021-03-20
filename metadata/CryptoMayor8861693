@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8861693",
+    "name": "Loma Chica, Mexico",
+    "description": "Chihuahua, Saucillo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8861693",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8861693.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 28.11583
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -105.34306
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 653
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1183
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Chihuahua"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Loma Chica"
+}

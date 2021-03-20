@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2986711",
+    "name": "Plomion, France",
+    "description": "Hauts-de-France, Aisne",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2986711",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2986711.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 49.80901
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 4.02036
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 512
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 185
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Plomion"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2266938",
+    "name": "Luz, Portugal",
+    "description": "Faro, Tavira",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2266938",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2266938.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 37.09216
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -7.70433
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3627
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 39
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Lisbon"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Portugal"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "PT",
+    "altnames": null
+}

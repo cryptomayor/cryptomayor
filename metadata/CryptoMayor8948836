@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8948836",
+    "name": "Villa d'Agri, Italy",
+    "description": "Basilicate, Provincia di Potenza",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8948836",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8948836.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 40.35426
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 15.8277
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3595
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 597
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "Villa d'Agri"
+}

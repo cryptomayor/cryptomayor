@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3484015",
+    "name": "El Limonal, Mexico",
+    "description": "San Luis Potos\u00ed, El Naranjo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3484015",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3484015.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 22.59155
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -99.45499
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 542
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 588
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "El Limonal"
+}

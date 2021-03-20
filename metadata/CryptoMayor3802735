@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3802735",
+    "name": "Hueso de Puerco, Mexico",
+    "description": "Tabasco, Centro",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3802735",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3802735.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 17.78891
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -92.89647
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 639
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 16
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Hueso de Puerco"
+}

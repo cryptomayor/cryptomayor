@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor509104",
+    "name": "Platonovka, Russia",
+    "description": "Tambov",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor509104",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor509104.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 52.71058
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 41.95199
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3761
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 172
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Moscow"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Russia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RU",
+    "altnames": "Platonovka,\u041f\u043b\u0430\u0442\u043e\u043d\u043e\u0432\u043a\u0430"
+}

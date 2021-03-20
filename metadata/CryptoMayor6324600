@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6324600",
+    "name": "Fratte Rosa, Italy",
+    "description": "The Marches, Provincia di Pesaro e Urbino",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6324600",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6324600.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 43.63346
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 12.90236
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 525
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 403
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "Fratterosa"
+}

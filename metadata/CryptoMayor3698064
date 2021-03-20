@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3698064",
+    "name": "Chuquis, Peru",
+    "description": "Huanuco, Provincia de Dos de Mayo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3698064",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3698064.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -9.67691
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -76.70508
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 840
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 3381
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Lima"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Peru"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "PE",
+    "altnames": null
+}

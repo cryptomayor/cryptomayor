@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3982573",
+    "name": "Tamazula, Mexico",
+    "description": "Sinaloa, Guasave",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3982573",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3982573.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 25.44639
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -108.45528
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3217
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 11
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mazatlan"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": null
+}

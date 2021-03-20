@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2713762",
+    "name": "Fredriksberg, Sweden",
+    "description": "Dalarna, Ludvika Kommun",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2713762",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2713762.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 60.13333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 14.38333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 717
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 350
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Stockholm"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Sweden"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "SE",
+    "altnames": "Fredriksberg"
+}

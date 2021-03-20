@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5268148",
+    "name": "Pulaski, United States",
+    "description": "Wisconsin, Brown County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5268148",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5268148.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 44.67222
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -88.2426
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3550
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 248
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Chicago"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

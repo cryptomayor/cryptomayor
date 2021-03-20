@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3823955",
+    "name": "Jicacal, Mexico",
+    "description": "Veracruz, Pajapan",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3823955",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3823955.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.21413
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -94.61251
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 951
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 12
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Jicacal"
+}

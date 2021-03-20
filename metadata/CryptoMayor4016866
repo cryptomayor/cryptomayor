@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4016866",
+    "name": "Boquilla de Arriba, Mexico",
+    "description": "Zacatecas, R\u00edo Grande",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4016866",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4016866.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 23.56591
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -102.8932
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 874
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2140
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Boquilla de Arriba"
+}

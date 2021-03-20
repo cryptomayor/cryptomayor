@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3494329",
+    "name": "Pueblo Viejo, Dominican Republic",
+    "description": "Azua, Pueblo Viejo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3494329",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3494329.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.4
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -70.76765
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 4192
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 24
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Santo_Domingo"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Dominican Republic"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "DO",
+    "altnames": "Pueblo Viejo"
+}

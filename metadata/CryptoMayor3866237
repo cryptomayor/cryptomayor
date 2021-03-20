@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3866237",
+    "name": "Almafuerte, Argentina",
+    "description": "Cordoba, Departamento de Tercero Arriba",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3866237",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3866237.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -32.19296
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -64.25559
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 10534
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 430
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Argentina/Cordoba"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Argentina"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "AR",
+    "altnames": "Almafuerte"
+}

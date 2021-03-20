@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3671020",
+    "name": "Apulo, Colombia",
+    "description": "Cundinamarca, Apulo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3671020",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3671020.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 4.51952
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -74.59293
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 4084
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 415
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Bogota"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Colombia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "CO",
+    "altnames": "Apulo,Rafael Reyes"
+}

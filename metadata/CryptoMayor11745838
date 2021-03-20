@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor11745838",
+    "name": "Woongarra, Australia",
+    "description": "Queensland, Bundaberg",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor11745838",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor11745838.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -24.89866
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 152.4217
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 524
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 21
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Brisbane"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": null
+}

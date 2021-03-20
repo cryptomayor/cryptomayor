@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6065253",
+    "name": "Manitouwadge, Canada",
+    "description": "Ontario, Thunder Bay District",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6065253",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6065253.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 49.12152
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -85.8403
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1708
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 331
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Toronto"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Canada"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "CA",
+    "altnames": "YMG"
+}

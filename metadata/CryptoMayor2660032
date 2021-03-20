@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2660032",
+    "name": "Langnau, Switzerland",
+    "description": "Bern, Emmental District",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2660032",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2660032.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 46.93936
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 7.78738
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 8784
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 677
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Zurich"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Switzerland"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "CH",
+    "altnames": "Langnau,Langnau im Emmental"
+}

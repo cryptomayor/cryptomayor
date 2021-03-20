@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4015392",
+    "name": "Carmen, Mexico",
+    "description": "Nuevo Le\u00f3n, El Carmen",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4015392",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4015392.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 25.9365
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -100.36396
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 9568
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 505
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Monterrey"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Carmen,El Carmen"
+}

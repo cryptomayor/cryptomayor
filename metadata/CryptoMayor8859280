@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8859280",
+    "name": "Barrio San Diego, Mexico",
+    "description": "Oaxaca, Heroica Ciudad de Tlaxiaco",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8859280",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8859280.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 17.27917
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -97.67417
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1317
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2082
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Barrio San Diego"
+}

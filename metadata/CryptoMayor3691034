@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3691034",
+    "name": "Urpay, Peru",
+    "description": "La Libertad, Sanchez Carrion",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3691034",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3691034.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -7.79641
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -78.07856
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 805
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 3211
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Lima"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Peru"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "PE",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3984417",
+    "name": "Santa Elena, Mexico",
+    "description": "Zacatecas, Pinos",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3984417",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3984417.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 21.97657
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -101.50842
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1548
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2243
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Santa Elena"
+}

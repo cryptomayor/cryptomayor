@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8862424",
+    "name": "Corral de Piedra, Mexico",
+    "description": "Jalisco, Encarnaci\u00f3n de D\u00edaz",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8862424",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8862424.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 21.48333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -102.11806
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 572
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1935
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Corral de Piedra"
+}

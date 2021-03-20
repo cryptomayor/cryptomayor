@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8349111",
+    "name": "Waikiki, Australia",
+    "description": "Western Australia, Rockingham",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8349111",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8349111.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -32.31606
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 115.7546
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 12008
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 6
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Perth"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": null
+}

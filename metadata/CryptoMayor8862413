@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8862413",
+    "name": "El Amatal, Mexico",
+    "description": "Guerrero, Tecoanapa",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8862413",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8862413.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 16.8775
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -99.31222
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 573
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 351
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "El Amatal"
+}

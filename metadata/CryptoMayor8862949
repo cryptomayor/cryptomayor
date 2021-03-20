@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8862949",
+    "name": "La Paz, Mexico",
+    "description": "Chiapas, \u00c1ngel Albino Corzo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8862949",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8862949.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 15.78213
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -92.63064
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 524
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 832
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "La Paz"
+}

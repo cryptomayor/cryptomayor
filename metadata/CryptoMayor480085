@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor480085",
+    "name": "Tuzha, Russia",
+    "description": "Kirov",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor480085",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor480085.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 57.60615
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 47.93597
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 5002
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 110
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Kirov"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Russia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RU",
+    "altnames": "Tuzha,Tuzja,\u0422\u0443\u0436\u0430"
+}

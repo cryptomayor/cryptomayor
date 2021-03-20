@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor472732",
+    "name": "Nagornyy, Russia",
+    "description": "Moscow, Yuzhnyy Administrativnyy Okrug",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor472732",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor472732.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 55.65
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 37.61667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 76000
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 185
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Moscow"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Russia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RU",
+    "altnames": "Nagornyj,Nagornyy,Volkhonka,\u041d\u0430\u0433\u043e\u0440\u043d\u044b\u0439"
+}

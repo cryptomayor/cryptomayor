@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3981630",
+    "name": "El Tigre, Mexico",
+    "description": "Zacatecas, Villanueva",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3981630",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3981630.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 22.44111
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -102.91777
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 501
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2024
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "El Tigre,Tigre"
+}

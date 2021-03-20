@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2793600",
+    "name": "La Gleize, Belgium",
+    "description": "Wallonia, Province de Li\u00e8ge",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2793600",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2793600.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 50.41074
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 5.84699
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1212
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 302
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Brussels"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Belgium"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "BE",
+    "altnames": "La Gleize"
+}

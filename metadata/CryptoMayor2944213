@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2944213",
+    "name": "Brest, Germany",
+    "description": "Lower Saxony",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2944213",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2944213.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 53.45
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 9.38333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 827
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 30
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Berlin"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Germany"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "DE",
+    "altnames": null
+}

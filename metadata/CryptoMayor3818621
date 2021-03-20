@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3818621",
+    "name": "Ixtepec, Mexico",
+    "description": "Puebla, Ixtepec",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3818621",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3818621.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.02461
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -97.64612
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3276
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1059
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Ixtepec"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3797740",
+    "name": "Atarjea, Mexico",
+    "description": "Guanajuato, Atarjea",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3797740",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3797740.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 21.26777
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -99.71914
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 389
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1215
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Atarjea"
+}

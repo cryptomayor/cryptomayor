@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2856200",
+    "name": "Ostseebad Ahrenshoop, Germany",
+    "description": "Mecklenburg-Vorpommern",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2856200",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2856200.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 54.38346
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 12.42425
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 784
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 3
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Berlin"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Germany"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "DE",
+    "altnames": "Ahrenshoop"
+}

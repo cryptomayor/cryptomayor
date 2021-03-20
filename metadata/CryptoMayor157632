@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor157632",
+    "name": "Kijini, Tanzania",
+    "description": "Zanzibar North, Kaskazini A",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor157632",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor157632.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -5.85
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 39.31667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3720
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 38
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Africa/Dar_es_Salaam"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Tanzania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AF"
+        }
+    ],
+    "country_code": "TZ",
+    "altnames": "Kijini"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor671311",
+    "name": "Parva, Romania",
+    "description": "Bistri\u0163a-N\u0103s\u0103ud, Comuna Parva",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor671311",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor671311.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.4
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 24.55
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2611
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 622
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": "Parva"
+}

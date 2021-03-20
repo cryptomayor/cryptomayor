@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3976251",
+    "name": "Chilillos, Mexico",
+    "description": "Sinaloa, Rosario",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3976251",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3976251.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 22.99694
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -105.84139
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 536
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 29
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mazatlan"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3435356",
+    "name": "Colegiales, Argentina",
+    "description": "Buenos Aires F.D., Comuna 13",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3435356",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3435356.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -34.57365
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -58.44924
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 57000
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 27
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Argentina/Buenos_Aires"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Argentina"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "AR",
+    "altnames": "Colegiales"
+}

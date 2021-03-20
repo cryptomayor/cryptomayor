@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2249222",
+    "name": "Louga, Senegal",
+    "description": "Louga",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2249222",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2249222.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 15.61867
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -16.22436
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 67154
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 42
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Africa/Dakar"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Senegal"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AF"
+        }
+    ],
+    "country_code": "SN",
+    "altnames": "Louga,Luga"
+}

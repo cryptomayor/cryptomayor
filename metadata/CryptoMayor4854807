@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4854807",
+    "name": "Earlville, United States",
+    "description": "Iowa, Delaware County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4854807",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4854807.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 42.48166
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -91.27236
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 790
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 305
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Chicago"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

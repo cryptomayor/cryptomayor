@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor1681873",
+    "name": "Tindog, Philippines",
+    "description": "Central Visayas, Province of Cebu",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor1681873",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor1681873.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 11.1247
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 124.0118
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3306
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 9
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Asia/Manila"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Philippines"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AS"
+        }
+    ],
+    "country_code": "PH",
+    "altnames": "Tindog,Tindog Norte,Tindug"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2788211",
+    "name": "Remicourt, Belgium",
+    "description": "Wallonia, Province de Li\u00e8ge",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2788211",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2788211.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 50.68069
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 5.32785
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 5050
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 126
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Brussels"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Belgium"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "BE",
+    "altnames": "Remicourt"
+}

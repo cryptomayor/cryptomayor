@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3199391",
+    "name": "Hercegovac, Croatia",
+    "description": "Bjelovarsko-Bilogorska, Hercegovac",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3199391",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3199391.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 45.65861
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 17.01361
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1273
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 139
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Zagreb"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Croatia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "HR",
+    "altnames": "Hercegovac"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3673142",
+    "name": "Palmito, Colombia",
+    "description": "Sucre, Palmito",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3673142",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3673142.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 9.33189
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -75.5417
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 5345
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 38
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Bogota"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Colombia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "CO",
+    "altnames": "Palmito,Palmitos"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4004738",
+    "name": "Hostotipaquillo, Mexico",
+    "description": "Jalisco, Hostotipaquillo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4004738",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4004738.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 21.06035
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -104.05091
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3762
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1303
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Hostotipaquillo"
+}

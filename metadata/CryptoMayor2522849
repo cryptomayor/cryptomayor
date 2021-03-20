@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2522849",
+    "name": "Troina / Draginai, Italy",
+    "description": "Sicily, Enna",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2522849",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2522849.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 37.78437
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 14.59605
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 9081
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1055
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "Troina,Truina"
+}

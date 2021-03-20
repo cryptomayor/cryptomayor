@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2176262",
+    "name": "Belmont, Australia",
+    "description": "Victoria, Greater Geelong",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2176262",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2176262.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -38.17485
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 144.34276
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 13767
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 43
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Melbourne"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": null
+}

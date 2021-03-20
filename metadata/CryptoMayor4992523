@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4992523",
+    "name": "Farmington Hills, United States",
+    "description": "Michigan, Oakland County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4992523",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4992523.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 42.48531
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -83.37716
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 81330
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 260
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Detroit"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

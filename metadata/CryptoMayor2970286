@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2970286",
+    "name": "Vayres, France",
+    "description": "Nouvelle-Aquitaine, Haute-Vienne",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2970286",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2970286.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 45.75919
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 0.81045
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 936
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 295
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Vayres"
+}

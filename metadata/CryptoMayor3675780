@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3675780",
+    "name": "Macaravita, Colombia",
+    "description": "Santander, Macaravita",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3675780",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3675780.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 6.50567
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -72.59299
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 538
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2291
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Bogota"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Colombia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "CO",
+    "altnames": "Macaravita"
+}

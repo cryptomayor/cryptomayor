@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4244880",
+    "name": "Morrisonville, United States",
+    "description": "Illinois, Christian County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4244880",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4244880.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 39.42005
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -89.45565
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1028
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 193
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Chicago"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

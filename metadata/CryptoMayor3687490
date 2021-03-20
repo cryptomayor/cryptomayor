@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3687490",
+    "name": "Capitanejo, Colombia",
+    "description": "Santander, Capitanejo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3687490",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3687490.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 6.52881
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -72.69595
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3791
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1102
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Bogota"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Colombia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "CO",
+    "altnames": "Capitanejo"
+}

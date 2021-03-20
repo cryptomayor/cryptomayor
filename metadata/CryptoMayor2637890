@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2637890",
+    "name": "Shrewton, United Kingdom",
+    "description": "England, Wiltshire",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2637890",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2637890.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 51.19194
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -1.90264
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1723
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 85
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/London"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United Kingdom"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "GB",
+    "altnames": null
+}

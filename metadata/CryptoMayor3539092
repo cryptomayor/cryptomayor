@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3539092",
+    "name": "San Luis, Cuba",
+    "description": "Pinar del R\u00edo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3539092",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3539092.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 22.27898
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -83.75956
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 6690
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 29
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Havana"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Cuba"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "CU",
+    "altnames": "San Luis"
+}

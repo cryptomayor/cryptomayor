@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor1705051",
+    "name": "Lungog, Philippines",
+    "description": "Ilocos, Province of Ilocos Sur",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor1705051",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor1705051.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 17.4645
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 120.4784
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2097
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 23
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Asia/Manila"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Philippines"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AS"
+        }
+    ],
+    "country_code": "PH",
+    "altnames": "Lungog"
+}

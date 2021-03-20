@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2800701",
+    "name": "Buvrinnes, Belgium",
+    "description": "Wallonia, Province du Hainaut",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2800701",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2800701.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 50.38873
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 4.2054
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1955
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 159
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Brussels"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Belgium"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "BE",
+    "altnames": "Buvrinnes"
+}

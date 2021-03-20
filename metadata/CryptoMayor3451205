@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3451205",
+    "name": "Rio das Ostras, Brazil",
+    "description": "Rio de Janeiro, Rio das Ostras",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3451205",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3451205.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -22.52694
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -41.945
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 100000
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 11
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Sao_Paulo"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Brazil"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "BR",
+    "altnames": null
+}

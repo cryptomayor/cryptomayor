@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4918667",
+    "name": "Camden, United States",
+    "description": "Indiana, Carroll County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4918667",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4918667.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 40.60865
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -86.54
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 600
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 206
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Indiana/Indianapolis"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

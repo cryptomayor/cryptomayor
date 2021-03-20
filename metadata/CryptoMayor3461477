@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3461477",
+    "name": "Iguaba Grande, Brazil",
+    "description": "Rio de Janeiro, Iguaba Grande",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3461477",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3461477.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -22.83917
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -42.22889
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 11104
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 17
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Sao_Paulo"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Brazil"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "BR",
+    "altnames": null
+}

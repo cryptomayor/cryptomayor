@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3122695",
+    "name": "Fabero, Spain",
+    "description": "Castille and Le\u00f3n, Provincia de Le\u00f3n",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3122695",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3122695.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 42.76803
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -6.62651
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 5150
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 700
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Madrid"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Spain"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "ES",
+    "altnames": "Fabero"
+}

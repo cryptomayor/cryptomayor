@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2763061",
+    "name": "Unterdorf, Austria",
+    "description": "Salzburg, Politischer Bezirk Salzburg-Umgebung",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2763061",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2763061.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.84467
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 13.22762
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 996
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 567
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Vienna"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Austria"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "AT",
+    "altnames": null
+}

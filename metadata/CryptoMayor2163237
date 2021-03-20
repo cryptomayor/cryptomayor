@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2163237",
+    "name": "Home Hill, Australia",
+    "description": "Queensland, Burdekin",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2163237",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2163237.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -19.65921
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 147.41232
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3013
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 17
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Brisbane"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": "Home Hill"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor7670730",
+    "name": "Tobi Village, Palau",
+    "description": "Hatohobei",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor7670730",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor7670730.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 3.00488
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 131.12168
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 44
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 21
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Pacific/Palau"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Palau"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "PW",
+    "altnames": "Hatohobei"
+}

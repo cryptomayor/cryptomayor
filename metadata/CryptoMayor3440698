@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3440698",
+    "name": "San Bautista, Uruguay",
+    "description": "Canelones, San Bautista",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3440698",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3440698.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -34.44016
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -55.95861
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1905
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 74
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Montevideo"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Uruguay"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "UY",
+    "altnames": "San Bautista"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3995671",
+    "name": "Mochicahui, Mexico",
+    "description": "Sinaloa, El Fuerte",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3995671",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3995671.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 25.95095
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -108.92991
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 5623
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 23
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mazatlan"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Mochicahui"
+}

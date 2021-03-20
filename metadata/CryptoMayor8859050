@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8859050",
+    "name": "Ejido P\u00e1tzcuaro, Mexico",
+    "description": "Baja California, Mexicali",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8859050",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8859050.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 32.35139
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -115.06583
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1513
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 19
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Tijuana"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Ejido Patzcuaro,Ejido P\u00e1tzcuaro"
+}

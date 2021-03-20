@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3813641",
+    "name": "Apartadero, Mexico",
+    "description": "Hidalgo, Huichapan",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3813641",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3813641.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.50225
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -99.55519
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 516
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2270
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Apartadero,El Apartadero"
+}

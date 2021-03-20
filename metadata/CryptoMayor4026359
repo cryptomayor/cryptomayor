@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4026359",
+    "name": "Llano Grande, Mexico",
+    "description": "M\u00e9xico, Tejupilco",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4026359",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4026359.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.83288
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -100.10217
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 639
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1210
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Llano Grande"
+}

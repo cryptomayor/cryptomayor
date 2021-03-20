@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3800612",
+    "name": "Las Cuevas, Mexico",
+    "description": "Oaxaca, Santo Domingo de Morelos",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3800612",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3800612.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 15.80503
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -96.60538
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 614
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 229
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Las Cuevas"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor7259771",
+    "name": "Fort Knox, United States",
+    "description": "Kentucky, Hardin County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor7259771",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor7259771.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 37.89113
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -85.96363
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 10124
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 224
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/New_York"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": "FTK,Fort Knox,Fort Knox CDP,Ft. Knox"
+}

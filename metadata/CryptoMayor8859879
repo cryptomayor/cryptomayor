@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8859879",
+    "name": "El Moreno (San Miguel Moreno), Mexico",
+    "description": "Hidalgo, Progreso de Obreg\u00f3n",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8859879",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8859879.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.30139
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -99.17361
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1024
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2031
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "El Moreno (San Miguel Moreno)"
+}

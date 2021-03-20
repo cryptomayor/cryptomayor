@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3699129",
+    "name": "Cachaquito, Peru",
+    "description": "Piura, Provincia de Ayabaca",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3699129",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3699129.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -4.43437
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -79.97396
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 538
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 449
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Lima"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Peru"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "PE",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8859808",
+    "name": "El Ramal (Porvenir), Mexico",
+    "description": "Chiapas, La Concordia",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8859808",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8859808.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 15.86583
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -92.94556
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1054
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 675
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "El Ramal (Porvenir)"
+}

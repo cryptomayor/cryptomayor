@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3173460",
+    "name": "Micigliano, Italy",
+    "description": "Latium, Provincia di Rieti",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3173460",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3173460.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 42.45203
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 13.05318
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 125
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 905
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "Micigliano"
+}

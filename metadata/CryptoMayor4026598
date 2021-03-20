@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4026598",
+    "name": "San Francisco Mihualtepec, Mexico",
+    "description": "M\u00e9xico, Donato Guerra",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4026598",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4026598.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.24507
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -100.0983
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2354
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2050
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "San Francisco Mihualtepec"
+}

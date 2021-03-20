@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3821556",
+    "name": "Venta de Palula, Mexico",
+    "description": "Guerrero, Tepecoacuilco de Trujano",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3821556",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3821556.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.11074
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -99.55064
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 536
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 688
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Venta de Palula"
+}

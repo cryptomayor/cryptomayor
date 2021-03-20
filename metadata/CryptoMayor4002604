@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4002604",
+    "name": "La Dichosa, Mexico",
+    "description": "Aguascalientes, Asientos",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4002604",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4002604.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 22.04125
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -102.1111
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 961
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1947
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Dichosa,La Dichosa"
+}

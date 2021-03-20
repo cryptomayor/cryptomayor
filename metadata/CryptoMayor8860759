@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8860759",
+    "name": "Monte Alto, Mexico",
+    "description": "M\u00e9xico, Valle de Bravo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8860759",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8860759.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.17454
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -100.11393
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 788
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1982
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Monte Alto"
+}

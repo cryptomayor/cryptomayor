@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor1308415",
+    "name": "Mudon, Myanmar",
+    "description": "Mon, Mawlamyine District",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor1308415",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor1308415.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 16.25624
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 97.7246
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 89123
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 22
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Asia/Yangon"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Myanmar"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AS"
+        }
+    ],
+    "country_code": "MM",
+    "altnames": "Mudon"
+}

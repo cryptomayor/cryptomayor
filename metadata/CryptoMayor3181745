@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3181745",
+    "name": "Borgo Velino, Italy",
+    "description": "Latium, Provincia di Rieti",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3181745",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3181745.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 42.40508
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 13.0565
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 867
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 462
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "Borgo Velino"
+}

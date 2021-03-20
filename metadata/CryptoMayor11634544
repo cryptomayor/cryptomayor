@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor11634544",
+    "name": "San Mart\u00edn Ejido, Mexico",
+    "description": "M\u00e9xico",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor11634544",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor11634544.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.07156
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -99.69393
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1852
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2648
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "San Martin Ejido,San Mart\u00edn Ejido"
+}

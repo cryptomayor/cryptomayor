@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3549463",
+    "name": "Los Arabos, Cuba",
+    "description": "Matanzas",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3549463",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3549463.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 22.72969
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -80.72081
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 12504
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 77
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Havana"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Cuba"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "CU",
+    "altnames": "Los Arabos"
+}

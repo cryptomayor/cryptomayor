@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8863110",
+    "name": "Jochinteol, Mexico",
+    "description": "Chiapas, Tila",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8863110",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8863110.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 17.50583
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -92.39806
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 511
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 408
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Jochinteol"
+}

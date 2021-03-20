@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3524646",
+    "name": "Las Piedras, Mexico",
+    "description": "Hidalgo, San Felipe Orizatl\u00e1n",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3524646",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3524646.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 21.36031
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -98.50311
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1000
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 75
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Las Piedras"
+}

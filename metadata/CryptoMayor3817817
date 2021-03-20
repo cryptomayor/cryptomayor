@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3817817",
+    "name": "San Antonio Coayuca, Mexico",
+    "description": "Hidalgo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3817817",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3817817.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.8525
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -98.80367
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 588
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2381
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "San Antonio Coayuca,San Antonio Coayucan"
+}

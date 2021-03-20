@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5273110",
+    "name": "Shullsburg, United States",
+    "description": "Wisconsin, Lafayette County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5273110",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5273110.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 42.57334
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -90.23096
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1210
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 306
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Chicago"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

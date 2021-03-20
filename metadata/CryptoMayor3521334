@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3521334",
+    "name": "Playa Vicente, Mexico",
+    "description": "Veracruz, Playa Vicente",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3521334",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3521334.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 17.83107
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -95.81189
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 9083
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 57
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Playa Vicente,Venustiano Carranza"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2826258",
+    "name": "Strasburg, Germany",
+    "description": "Mecklenburg-Vorpommern",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2826258",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2826258.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 53.5103
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 13.74513
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 6286
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 63
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Berlin"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Germany"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "DE",
+    "altnames": "Strasburg"
+}

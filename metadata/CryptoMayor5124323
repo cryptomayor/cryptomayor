@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5124323",
+    "name": "Liberty, United States",
+    "description": "New York, Sullivan County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5124323",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5124323.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 41.8012
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -74.74655
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 4134
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 460
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/New_York"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

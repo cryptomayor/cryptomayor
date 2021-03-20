@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor10116111",
+    "name": "South Albury, Australia",
+    "description": "New South Wales, Albury Municipality",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor10116111",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor10116111.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -36.08654
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 146.90905
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1469
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 153
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Sydney"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": null
+}

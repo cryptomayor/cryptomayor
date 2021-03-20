@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2149847",
+    "name": "Seven Hills, Australia",
+    "description": "New South Wales, Blacktown",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2149847",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2149847.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -33.78333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 150.93333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 19196
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 47
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Sydney"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": "Seven Hills"
+}

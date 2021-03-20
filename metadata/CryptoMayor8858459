@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8858459",
+    "name": "Sector H Tres, Mexico",
+    "description": "Oaxaca, Santa Mar\u00eda Huatulco",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8858459",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8858459.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 15.76611
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -96.14694
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2837
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 77
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Sector H Tres"
+}

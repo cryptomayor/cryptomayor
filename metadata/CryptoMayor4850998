@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4850998",
+    "name": "Central City, United States",
+    "description": "Iowa, Linn County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4850998",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4850998.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 42.20388
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -91.52406
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1269
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 256
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Chicago"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

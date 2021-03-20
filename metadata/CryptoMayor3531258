@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3531258",
+    "name": "Chacaltianguis, Mexico",
+    "description": "Veracruz, Chacaltianguis",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3531258",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3531258.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.30528
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -95.84167
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 4133
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 15
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Chacaltianguis,Tecuanapa"
+}

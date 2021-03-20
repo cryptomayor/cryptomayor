@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4510342",
+    "name": "Dry Run, United States",
+    "description": "Ohio, Hamilton County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4510342",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4510342.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 39.10423
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -84.33049
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 7281
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 266
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/New_York"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

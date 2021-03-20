@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor680673",
+    "name": "Corund, Romania",
+    "description": "Satu Mare, Comuna Bogdand",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor680673",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor680673.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.42219
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 22.86922
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 541
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 171
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": null
+}

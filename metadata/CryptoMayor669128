@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor669128",
+    "name": "Rast, Romania",
+    "description": "Dolj, Rastu Vechi",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor669128",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor669128.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 43.88333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 23.28333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3343
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 33
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": null
+}

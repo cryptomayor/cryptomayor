@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6534377",
+    "name": "Valloriate, Italy",
+    "description": "Piedmont, Provincia di Cuneo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6534377",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6534377.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 44.33763
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 7.37393
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 166
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 785
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": null
+}

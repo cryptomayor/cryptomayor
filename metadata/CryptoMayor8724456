@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8724456",
+    "name": "Nuevo Zoquiapan, Mexico",
+    "description": "Puebla, Jalpan",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8724456",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8724456.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.43778
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -97.76139
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 718
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 207
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Nuevo Zoquiapan"
+}

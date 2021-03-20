@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3603169",
+    "name": "Puerto Alto, Honduras",
+    "description": "Cort\u00e9s",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3603169",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3603169.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 15.7
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -87.86667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1385
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 11
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Tegucigalpa"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Honduras"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "HN",
+    "altnames": "Puente Alto,Puerto Alto"
+}

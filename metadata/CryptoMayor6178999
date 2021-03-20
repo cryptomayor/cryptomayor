@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6178999",
+    "name": "West Hill, Canada",
+    "description": "Ontario, Toronto county",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6178999",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6178999.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 43.76737
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -79.1795
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 27392
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 121
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Toronto"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Canada"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "CA",
+    "altnames": null
+}

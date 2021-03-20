@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor931070",
+    "name": "Chikwawa, Malawi",
+    "description": "Southern Region, Chikwawa District",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor931070",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor931070.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -16.03352
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 34.80091
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 6987
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 106
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Africa/Blantyre"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Malawi"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AF"
+        }
+    ],
+    "country_code": "MW",
+    "altnames": "Chikwawa"
+}

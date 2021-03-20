@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor1730509",
+    "name": "Antipolo, Philippines",
+    "description": "Bicol, Province of Camarines Sur",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor1730509",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor1730509.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 13.3927
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 123.5231
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2257
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 106
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Asia/Manila"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Philippines"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AS"
+        }
+    ],
+    "country_code": "PH",
+    "altnames": "Antipolo"
+}

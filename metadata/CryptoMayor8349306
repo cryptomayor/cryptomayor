@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8349306",
+    "name": "Franklin, Australia",
+    "description": "Australian Capital Territory",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8349306",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8349306.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -35.19946
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 149.14329
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 6324
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 611
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Sydney"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": null
+}

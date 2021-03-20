@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4000530",
+    "name": "Ejido La Quemada, Mexico",
+    "description": "Chihuahua, Cuauht\u00e9moc",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4000530",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4000530.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 28.84761
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -107.02152
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1272
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2038
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Chihuahua"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Ejido La Quemada,La Quemada"
+}

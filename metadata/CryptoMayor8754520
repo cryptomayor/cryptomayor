@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8754520",
+    "name": "Providencia, Mexico",
+    "description": "Sonora, Cajeme",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8754520",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8754520.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 27.51219
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -109.9908
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 4501
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 28
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Hermosillo"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Providencia"
+}

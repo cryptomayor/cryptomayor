@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4012399",
+    "name": "Palmar de Cuautla, Mexico",
+    "description": "Nayarit, Santiago Ixcuintla",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4012399",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4012399.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 22.21972
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -105.6475
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1359
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 4
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mazatlan"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Cuantla,Cuautla"
+}

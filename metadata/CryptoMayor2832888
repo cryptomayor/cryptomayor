@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2832888",
+    "name": "Setzin, Germany",
+    "description": "Mecklenburg-Vorpommern",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2832888",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2832888.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 53.41096
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 11.08212
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 531
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 57
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Berlin"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Germany"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "DE",
+    "altnames": null
+}

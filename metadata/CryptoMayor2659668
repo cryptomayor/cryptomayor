@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2659668",
+    "name": "Mex, Switzerland",
+    "description": "Valais, Saint-Maurice District",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2659668",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2659668.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 46.18548
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 7.00004
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 538
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1126
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Zurich"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Switzerland"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "CH",
+    "altnames": "Mex"
+}

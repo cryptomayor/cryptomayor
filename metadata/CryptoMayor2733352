@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2733352",
+    "name": "Trofa, Portugal",
+    "description": "Porto, Trofa",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2733352",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2733352.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 41.33729
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -8.5596
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 20692
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 44
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Lisbon"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Portugal"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "PT",
+    "altnames": null
+}

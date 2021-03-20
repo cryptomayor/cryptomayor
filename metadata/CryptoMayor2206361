@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2206361",
+    "name": "Patea, New Zealand",
+    "description": "Taranaki, South Taranaki District",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2206361",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2206361.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -39.75833
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 174.48333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1286
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 10
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Pacific/Auckland"
+        },
+        {
+            "trait_type": "Country",
+            "value": "New Zealand"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "NZ",
+    "altnames": null
+}

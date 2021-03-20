@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4564256",
+    "name": "Emajagua, Puerto Rico",
+    "description": "Maunabo, Emajagua Barrio",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4564256",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4564256.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.00052
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -65.88266
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3099
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 22
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Puerto_Rico"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Puerto Rico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "PR",
+    "altnames": null
+}

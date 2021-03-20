@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8862755",
+    "name": "Yucat\u00e1n, Mexico",
+    "description": "Veracruz, Paso de Ovejas",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8862755",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8862755.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.34472
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -96.36167
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 543
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 16
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Yucatan,Yucat\u00e1n"
+}

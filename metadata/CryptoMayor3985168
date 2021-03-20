@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3985168",
+    "name": "San Patricio, Mexico",
+    "description": "Jalisco, Cihuatl\u00e1n",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3985168",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3985168.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.22534
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -104.70447
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 7569
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 10
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Melaque,San Patricio"
+}

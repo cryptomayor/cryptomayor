@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8861963",
+    "name": "El Tejoruco, Mexico",
+    "description": "Guerrero, Quechultenango",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8861963",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8861963.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 17.24
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -99.12278
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 620
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 969
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "El Tejoruco"
+}

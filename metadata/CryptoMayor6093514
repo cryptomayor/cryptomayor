@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6093514",
+    "name": "Oliver, Canada",
+    "description": "British Columbia, Regional District of Okanagan-Similkameen",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6093514",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6093514.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 49.18306
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -119.5524
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 5279
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 309
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Vancouver"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Canada"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "CA",
+    "altnames": null
+}

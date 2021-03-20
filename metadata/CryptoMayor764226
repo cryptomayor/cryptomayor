@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor764226",
+    "name": "Mysiad\u0142o, Poland",
+    "description": "Mazovia, Powiat piaseczy\u0144ski",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor764226",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor764226.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 52.10216
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 21.01856
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3000
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 106
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Warsaw"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Poland"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "PL",
+    "altnames": null
+}

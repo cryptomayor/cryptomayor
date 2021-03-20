@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2692748",
+    "name": "Mantorp, Sweden",
+    "description": "\u00d6sterg\u00f6tland, Mj\u00f6lby Kommun",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2692748",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2692748.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 58.35
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 15.28333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3781
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 115
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Stockholm"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Sweden"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "SE",
+    "altnames": "Mantorp"
+}

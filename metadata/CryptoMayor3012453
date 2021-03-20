@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3012453",
+    "name": "Jars, France",
+    "description": "Centre, Cher",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3012453",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3012453.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.39553
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 2.6821
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 512
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 266
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Jars"
+}

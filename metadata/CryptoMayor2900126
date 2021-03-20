@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2900126",
+    "name": "Holthusen, Germany",
+    "description": "Mecklenburg-Vorpommern",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2900126",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2900126.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 53.54131
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 11.35375
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 861
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 48
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Berlin"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Germany"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "DE",
+    "altnames": "Holthusen"
+}

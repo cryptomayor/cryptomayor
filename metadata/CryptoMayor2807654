@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2807654",
+    "name": "Wintzingerode, Germany",
+    "description": "Thuringia",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2807654",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2807654.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 51.4432
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 10.33436
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 582
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 286
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Berlin"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Germany"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "DE",
+    "altnames": null
+}

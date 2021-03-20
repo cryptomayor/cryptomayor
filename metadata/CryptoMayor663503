@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor663503",
+    "name": "Valea Popii, Romania",
+    "description": "Arges, Comuna Priboieni",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor663503",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor663503.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 44.86726
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 25.08668
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 526
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 270
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": null
+}

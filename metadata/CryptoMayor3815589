@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3815589",
+    "name": "Egipto, Mexico",
+    "description": "Chiapas, Salto de Agua",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3815589",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3815589.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 17.26207
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -91.9715
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1419
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 98
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Egipto"
+}

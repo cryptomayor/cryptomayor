@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor1735168",
+    "name": "Ampang, Malaysia",
+    "description": "Selangor, Hulu Langat",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor1735168",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor1735168.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 3.15
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 101.76667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 126285
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 56
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Asia/Kuala_Lumpur"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Malaysia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AS"
+        }
+    ],
+    "country_code": "MY",
+    "altnames": "Ampang,Ampang Jaya"
+}

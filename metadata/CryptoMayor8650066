@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8650066",
+    "name": "Chaca, Peru",
+    "description": "Ayacucho, Provincia de Huanta",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8650066",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8650066.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -12.78519
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -74.20525
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 947
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 3432
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Lima"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Peru"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "PE",
+    "altnames": null
+}

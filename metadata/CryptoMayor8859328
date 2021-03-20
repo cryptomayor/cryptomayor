@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8859328",
+    "name": "San Pedro Matamoros, Mexico",
+    "description": "Puebla, Tlahuapan",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8859328",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8859328.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.36972
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -98.55472
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1286
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2542
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "San Pedro Matamoros"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor670922",
+    "name": "Piatra, Romania",
+    "description": "Olt, Ora\u015f Piatra-Olt",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor670922",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor670922.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 44.36054
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 24.29557
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2097
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 123
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": "Petra,Piatra,Pintra"
+}

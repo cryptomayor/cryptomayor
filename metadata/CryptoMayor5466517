@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5466517",
+    "name": "El Rancho, United States",
+    "description": "New Mexico, Santa Fe County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5466517",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5466517.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 35.88919
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -106.07975
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1199
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1731
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Denver"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

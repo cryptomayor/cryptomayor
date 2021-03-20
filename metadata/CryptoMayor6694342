@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6694342",
+    "name": "Great Marton, United Kingdom",
+    "description": "England, Lancashire",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6694342",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6694342.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 53.81185
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -3.02261
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1603
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 12
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/London"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United Kingdom"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "GB",
+    "altnames": null
+}

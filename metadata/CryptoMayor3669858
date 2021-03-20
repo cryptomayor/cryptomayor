@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3669858",
+    "name": "San Francisco, Colombia",
+    "description": "Antioquia, San Francisco",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3669858",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3669858.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 5.96426
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -75.10165
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 0
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1276
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Bogota"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Colombia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "CO",
+    "altnames": "San Francisco"
+}

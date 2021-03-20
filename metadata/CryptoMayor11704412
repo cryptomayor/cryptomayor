@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor11704412",
+    "name": "Morangup, Australia",
+    "description": "Western Australia, Toodyay",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor11704412",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor11704412.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -31.66887
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 116.29097
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 740
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 303
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Perth"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": null
+}

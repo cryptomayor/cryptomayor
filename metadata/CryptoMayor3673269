@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3673269",
+    "name": "Palestina, Colombia",
+    "description": "Caldas, Palestina",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3673269",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3673269.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 5.0161
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -75.62854
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 7865
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1527
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Bogota"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Colombia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "CO",
+    "altnames": "Palestina"
+}

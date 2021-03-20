@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4003772",
+    "name": "Juan Lucas, Mexico",
+    "description": "Guanajuato, Yuriria",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4003772",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4003772.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.18098
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -101.305
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 833
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1746
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Juan Lucas,San Lucas"
+}

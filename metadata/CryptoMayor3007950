@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3007950",
+    "name": "La Murette, France",
+    "description": "Auvergne-Rh\u00f4ne-Alpes, Is\u00e8re",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3007950",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3007950.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 45.37891
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 5.542
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1752
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 438
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "La Murette"
+}

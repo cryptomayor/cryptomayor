@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor12165690",
+    "name": "Cerro Verde, Peru",
+    "description": "Arequipa, Provincia de Arequipa",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor12165690",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor12165690.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -16.45026
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -71.61552
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3602
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2324
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Lima"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Peru"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "PE",
+    "altnames": null
+}

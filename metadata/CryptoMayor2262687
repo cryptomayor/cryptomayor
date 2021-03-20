@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2262687",
+    "name": "Terrugem, Portugal",
+    "description": "Lisbon, Oeiras",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2262687",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2262687.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 38.70647
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -9.28693
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 4693
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 87
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Lisbon"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Portugal"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "PT",
+    "altnames": "Terrugem"
+}

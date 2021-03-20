@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3825368",
+    "name": "Paso del Moral, Mexico",
+    "description": "Veracruz, Uxpanapa",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3825368",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3825368.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 17.23583
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -94.59889
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 504
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 84
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": null
+}

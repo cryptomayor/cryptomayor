@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4014566",
+    "name": "Chandiablo, Mexico",
+    "description": "Colima, Manzanillo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4014566",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4014566.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.19883
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -104.33933
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 501
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 126
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Chandiablo"
+}

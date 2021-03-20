@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8859447",
+    "name": "Majastic, Mexico",
+    "description": "Chiapas, Sabanilla",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8859447",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8859447.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 17.28944
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -92.62833
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1221
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 813
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Majastic"
+}

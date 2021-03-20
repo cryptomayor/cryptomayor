@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3615213",
+    "name": "Amapala, Honduras",
+    "description": "Valle",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3615213",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3615213.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 13.29222
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -87.65389
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2136
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 25
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Tegucigalpa"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Honduras"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "HN",
+    "altnames": "Amapala"
+}

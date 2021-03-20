@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6674588",
+    "name": "Casacancha, Peru",
+    "description": "Junin, Provincia de Huancayo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6674588",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6674588.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -11.90519
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -75.25652
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 527
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 3522
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Lima"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Peru"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "PE",
+    "altnames": null
+}

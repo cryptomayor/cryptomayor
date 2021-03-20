@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2749344",
+    "name": "Oostrum, Netherlands",
+    "description": "Limburg, Gemeente Venray",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2749344",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2749344.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 51.52917
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 6.01667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2375
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 23
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Amsterdam"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Netherlands"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "NL",
+    "altnames": null
+}

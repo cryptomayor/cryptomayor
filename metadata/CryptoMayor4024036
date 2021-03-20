@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4024036",
+    "name": "San Isidro, Mexico",
+    "description": "Guanajuato, Salvatierra",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4024036",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4024036.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.29181
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -100.8851
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 810
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1765
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "San Isidro"
+}

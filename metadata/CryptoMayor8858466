@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8858466",
+    "name": "El Huaxtho, Mexico",
+    "description": "Hidalgo, Actopan",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8858466",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8858466.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.23444
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -98.96222
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2798
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2001
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "El Huaxtho"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8858809",
+    "name": "Cerro las Iguanas, Mexico",
+    "description": "Veracruz, San Andr\u00e9s Tuxtla",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8858809",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8858809.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.41083
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -95.19972
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1844
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 252
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Cerro las Iguanas"
+}

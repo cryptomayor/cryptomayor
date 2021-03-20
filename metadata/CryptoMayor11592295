@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor11592295",
+    "name": "Thornliebank, United Kingdom",
+    "description": "Scotland, East Renfrewshire",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor11592295",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor11592295.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 55.80454
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -4.31746
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 4190
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 48
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/London"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United Kingdom"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "GB",
+    "altnames": null
+}

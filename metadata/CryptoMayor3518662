@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3518662",
+    "name": "San Juanito, Mexico",
+    "description": "Tamaulipas, Jaumave",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3518662",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3518662.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 23.45499
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -99.41462
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 512
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 806
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Monterrey"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "San Juanito"
+}

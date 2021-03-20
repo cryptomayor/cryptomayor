@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor156111",
+    "name": "Kyela, Tanzania",
+    "description": "Mbeya, Kyela",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor156111",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor156111.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -9.58333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 33.85
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 30684
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 498
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Africa/Dar_es_Salaam"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Tanzania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AF"
+        }
+    ],
+    "country_code": "TZ",
+    "altnames": "Kyela"
+}

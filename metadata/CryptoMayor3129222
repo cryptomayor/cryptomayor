@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3129222",
+    "name": "Asturianos, Spain",
+    "description": "Castille and Le\u00f3n, Provincia de Zamora",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3129222",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3129222.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 42.05201
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -6.4894
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 327
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 970
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Madrid"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Spain"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "ES",
+    "altnames": "Asturianos"
+}

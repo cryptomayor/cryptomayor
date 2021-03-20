@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3201592",
+    "name": "Donja Vrba, Croatia",
+    "description": "Slavonski Brod-Posavina, Gornja Vrba",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3201592",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3201592.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 45.16583
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 18.10667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 599
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 91
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Zagreb"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Croatia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "HR",
+    "altnames": "Donja Vrba,Vrba Donja"
+}

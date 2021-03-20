@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8949426",
+    "name": "Case Nuove, Italy",
+    "description": "Lombardy, Provincia di Brescia",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8949426",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8949426.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 45.60998
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 10.39416
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1006
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 293
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "Case Nuove"
+}

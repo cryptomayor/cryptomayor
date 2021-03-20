@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4027736",
+    "name": "Carrera Larga, Mexico",
+    "description": "Guerrero, Coyuca de Ben\u00edtez",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4027736",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4027736.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 17.04261
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -100.09908
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 555
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 29
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Carrera Larga"
+}

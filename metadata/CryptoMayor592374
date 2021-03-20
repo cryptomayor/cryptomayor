@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor592374",
+    "name": "Aste, Estonia",
+    "description": "Saare, Saaremaa vald",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor592374",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor592374.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 58.34361
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 22.45889
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 546
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 26
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Tallinn"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Estonia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "EE",
+    "altnames": "Aste"
+}

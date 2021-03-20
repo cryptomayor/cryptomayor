@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2523229",
+    "name": "Sardara, Italy",
+    "description": "Sardinia, Provincia del Sud Sardegna",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2523229",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2523229.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 39.61465
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 8.82088
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 4080
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 150
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "Sardara"
+}

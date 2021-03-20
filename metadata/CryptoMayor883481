@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor883481",
+    "name": "Nyanga, Zimbabwe",
+    "description": "Manicaland",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor883481",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor883481.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -18.21667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 32.75
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 4852
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1706
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Africa/Harare"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Zimbabwe"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AF"
+        }
+    ],
+    "country_code": "ZW",
+    "altnames": null
+}

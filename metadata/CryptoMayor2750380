@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2750380",
+    "name": "Nietap, Netherlands",
+    "description": "Drenthe, Gemeente Noordenveld",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2750380",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2750380.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 53.15917
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 6.4
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 870
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Amsterdam"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Netherlands"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "NL",
+    "altnames": null
+}

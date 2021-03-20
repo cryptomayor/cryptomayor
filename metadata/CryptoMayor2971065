@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2971065",
+    "name": "Valdurenque, France",
+    "description": "Occitanie, Tarn",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2971065",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2971065.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 43.56874
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 2.30829
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 654
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 215
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Valdurenque"
+}

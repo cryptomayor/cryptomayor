@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6535728",
+    "name": "Caprezzo, Italy",
+    "description": "Piedmont, Provincia Verbano-Cusio-Ossola",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6535728",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6535728.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 45.98198
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 8.56282
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 174
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 554
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": null
+}

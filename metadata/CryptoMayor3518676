@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3518676",
+    "name": "San Juan Guichicovi, Mexico",
+    "description": "Oaxaca, San Juan Guichicovi",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3518676",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3518676.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 16.96231
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -95.09418
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 4284
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 264
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Guichicovi,San Juan,San Juan Guichicovi"
+}

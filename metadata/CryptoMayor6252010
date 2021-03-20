@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6252010",
+    "name": "Wettswil / Wettswil (Dorf), Switzerland",
+    "description": "Zurich, Bezirk Affoltern",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6252010",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6252010.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.34152
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 8.47149
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3605
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 563
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Zurich"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Switzerland"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "CH",
+    "altnames": "Wettswil (Dorf),Wettswil am Albis"
+}

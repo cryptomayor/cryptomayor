@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3685442",
+    "name": "Cumaral, Colombia",
+    "description": "Meta, Cumaral",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3685442",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3685442.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 4.2708
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -73.48669
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 11263
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 412
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Bogota"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Colombia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "CO",
+    "altnames": "Cumaral"
+}

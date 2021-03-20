@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6560901",
+    "name": "Miricharo, Peru",
+    "description": "Junin, Chanchamayo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6560901",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6560901.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -11.014
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -75.01242
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 708
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1042
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Lima"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Peru"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "PE",
+    "altnames": null
+}

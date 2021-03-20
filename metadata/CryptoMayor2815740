@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2815740",
+    "name": "Wachenheim, Germany",
+    "description": "Rheinland-Pfalz",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2815740",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2815740.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 49.63736
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 8.16541
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 644
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 160
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Berlin"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Germany"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "DE",
+    "altnames": "Wachenheim"
+}

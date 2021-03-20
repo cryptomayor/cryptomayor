@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3666481",
+    "name": "Une, Colombia",
+    "description": "Cundinamarca, Une",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3666481",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3666481.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 4.40306
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -74.02528
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3208
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2371
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Bogota"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Colombia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "CO",
+    "altnames": "Une"
+}

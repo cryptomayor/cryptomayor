@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3847911",
+    "name": "Las Perdices, Argentina",
+    "description": "Cordoba, Departamento de Tercero Arriba",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3847911",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3847911.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -32.69794
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -63.70634
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 4615
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 253
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Argentina/Cordoba"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Argentina"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "AR",
+    "altnames": "Las Perdices"
+}

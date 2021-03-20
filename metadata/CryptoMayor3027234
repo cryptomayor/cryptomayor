@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3027234",
+    "name": "Champagnolles, France",
+    "description": "Nouvelle-Aquitaine, Charente-Maritime",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3027234",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3027234.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 45.51368
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -0.63683
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 536
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 38
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Champagnolles"
+}

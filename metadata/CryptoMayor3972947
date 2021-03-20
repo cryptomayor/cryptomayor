@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3972947",
+    "name": "La Encantada, Mexico",
+    "description": "Zacatecas, Fresnillo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3972947",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3972947.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 23.46365
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -102.8739
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 680
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2047
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "La Encantada"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2814572",
+    "name": "Wallhausen, Germany",
+    "description": "Baden-W\u00fcrttemberg, Regierungsbezirk Stuttgart",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2814572",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2814572.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 49.21042
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 10.06219
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3630
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 438
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Berlin"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Germany"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "DE",
+    "altnames": null
+}

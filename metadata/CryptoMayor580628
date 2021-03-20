@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor580628",
+    "name": "Ashe, Russia",
+    "description": "Krasnodarskiy",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor580628",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor580628.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 43.95668
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 39.27911
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1000
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 126
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Moscow"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Russia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RU",
+    "altnames": "Ashe,Asje,\u0410\u0448\u0435"
+}

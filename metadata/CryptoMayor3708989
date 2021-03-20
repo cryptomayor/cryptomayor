@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3708989",
+    "name": "Guabito, Panama",
+    "description": "Bocas del Toro, Distrito de Changuinola",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3708989",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3708989.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 9.49437
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -82.61152
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1978
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Panama"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Panama"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "PA",
+    "altnames": "Guabito"
+}

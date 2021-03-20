@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3769988",
+    "name": "Sabanalarga, Colombia",
+    "description": "Casanare, Sabanalarga",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3769988",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3769988.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 4.8543
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -73.04003
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1419
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 471
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Bogota"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Colombia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "CO",
+    "altnames": "Sabanalarga"
+}

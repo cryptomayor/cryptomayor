@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor179634",
+    "name": "Takaungu, Kenya",
+    "description": "Kilifi",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor179634",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor179634.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -3.6835
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 39.85687
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 10760
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 16
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Africa/Nairobi"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Kenya"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AF"
+        }
+    ],
+    "country_code": "KE",
+    "altnames": "Takaungu"
+}

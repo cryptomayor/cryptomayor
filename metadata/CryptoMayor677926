@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor677926",
+    "name": "Frata, Romania",
+    "description": "Cluj, Comuna Frata",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor677926",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor677926.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 46.7
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 24.05
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 4323
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 403
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": "Frata"
+}

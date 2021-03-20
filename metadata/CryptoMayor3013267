@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3013267",
+    "name": "Hipsheim, France",
+    "description": "Grand Est, Bas-Rhin",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3013267",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3013267.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 48.4668
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 7.67614
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 769
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 151
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": null
+}

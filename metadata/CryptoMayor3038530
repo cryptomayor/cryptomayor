@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3038530",
+    "name": "Aigneville, France",
+    "description": "Hauts-de-France, Somme",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3038530",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3038530.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 50.03456
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 1.62082
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 675
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 116
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Aigneville"
+}

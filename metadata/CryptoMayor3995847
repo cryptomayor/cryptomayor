@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3995847",
+    "name": "Mina, Mexico",
+    "description": "Nuevo Le\u00f3n, Mina",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3995847",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3995847.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 26.0011
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -100.52988
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 4495
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 591
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Monterrey"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": null
+}

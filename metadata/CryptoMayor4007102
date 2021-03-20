@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4007102",
+    "name": "El Tuito, Mexico",
+    "description": "Jalisco, Cabo Corrientes",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4007102",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4007102.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.32042
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -105.32469
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3211
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 604
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "El Tuito"
+}

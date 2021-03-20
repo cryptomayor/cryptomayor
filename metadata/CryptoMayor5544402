@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5544402",
+    "name": "Orangeville, United States",
+    "description": "Utah, Emery County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5544402",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5544402.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 39.22719
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -111.0535
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1394
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1764
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Denver"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3927587",
+    "name": "Ticaco, Peru",
+    "description": "Tacna, Provincia de Tarata",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3927587",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3927587.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -17.44828
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -70.0466
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 741
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 3274
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Lima"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Peru"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "PE",
+    "altnames": null
+}

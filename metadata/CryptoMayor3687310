@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3687310",
+    "name": "Carolina, Colombia",
+    "description": "Antioquia, Carolina",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3687310",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3687310.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 6.72439
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -75.28168
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3160
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1797
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Bogota"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Colombia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "CO",
+    "altnames": "Carolina"
+}

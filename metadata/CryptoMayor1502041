@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor1502041",
+    "name": "Krasnoyarka, Russia",
+    "description": "Omsk",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor1502041",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor1502041.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 55.33333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 73.11667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 4006
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 92
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Asia/Omsk"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Russia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RU",
+    "altnames": "Krasnojarka,Krasnoyarka,\u041a\u0440\u0430\u0441\u043d\u043e\u044f\u0440\u043a\u0430"
+}

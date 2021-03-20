@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor10245175",
+    "name": "Talysarn, United Kingdom",
+    "description": "Wales, Gwynedd",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor10245175",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor10245175.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 53.05365
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -4.25767
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1086
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 120
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/London"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United Kingdom"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "GB",
+    "altnames": null
+}

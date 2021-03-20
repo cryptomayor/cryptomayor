@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4565676",
+    "name": "Jauca, Puerto Rico",
+    "description": "Santa Isabel, Jauca 1 Barrio",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4565676",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4565676.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 17.96913
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -66.36572
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1838
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Puerto_Rico"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Puerto Rico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "PR",
+    "altnames": "Jaucas"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3196928",
+    "name": "Kupari, Croatia",
+    "description": "Dubrova\u010dko-Neretvanska, \u017dupa dubrova\u010dka",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3196928",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3196928.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 42.62028
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 18.19139
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 808
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 6
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Zagreb"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Croatia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "HR",
+    "altnames": "Kupari"
+}

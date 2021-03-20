@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3983548",
+    "name": "Santo Domingo, Mexico",
+    "description": "San Luis Potos\u00ed, Santo Domingo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3983548",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3983548.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 23.3267
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -101.7361
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 730
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1972
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Santo Domingo,Santo Domingo Laguna"
+}

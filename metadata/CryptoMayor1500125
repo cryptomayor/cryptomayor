@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor1500125",
+    "name": "Lyubinskiy, Russia",
+    "description": "Omsk",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor1500125",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor1500125.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 55.15421
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 72.69247
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 10461
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 114
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Asia/Omsk"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Russia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RU",
+    "altnames": "Ljubinskij,Lyubino,Lyubinskiy,Novo-Lyubino,\u041b\u044e\u0431\u0438\u043d\u0441\u043a\u0438\u0439"
+}

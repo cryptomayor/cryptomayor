@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3042210",
+    "name": "Maughold, Isle of Man",
+    "description": "Maughold",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3042210",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3042210.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 54.29877
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -4.31844
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 0
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 70
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Isle_of_Man"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Isle of Man"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IM",
+    "altnames": "Saint Maughold"
+}

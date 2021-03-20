@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor721208",
+    "name": "Egyek, Hungary",
+    "description": "Hajd\u00fa-Bihar",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor721208",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor721208.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.63333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 20.9
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 5573
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 86
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Budapest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Hungary"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "HU",
+    "altnames": "Egyek"
+}

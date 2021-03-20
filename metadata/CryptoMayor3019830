@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3019830",
+    "name": "Escassefort, France",
+    "description": "Nouvelle-Aquitaine, Lot-et-Garonne",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3019830",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3019830.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 44.54796
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 0.23746
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 581
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 132
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Escassefort"
+}

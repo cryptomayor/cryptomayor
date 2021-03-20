@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2668365",
+    "name": "Tomelilla, Sweden",
+    "description": "Sk\u00e5ne, Tomelilla Kommun",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2668365",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2668365.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 55.54293
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 13.9546
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 6826
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 65
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Stockholm"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Sweden"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "SE",
+    "altnames": null
+}

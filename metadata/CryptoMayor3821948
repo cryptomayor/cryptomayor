@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3821948",
+    "name": "Colombia de Guadalupe, Mexico",
+    "description": "Guerrero, Malinaltepec",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3821948",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3821948.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 17.0884
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -98.75901
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1161
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1385
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Colombia de Guadalupe"
+}

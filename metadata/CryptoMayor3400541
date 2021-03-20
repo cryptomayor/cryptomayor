@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3400541",
+    "name": "Exu, Brazil",
+    "description": "Pernambuco, Exu",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3400541",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3400541.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -7.51194
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -39.72417
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 10875
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 525
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Recife"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Brazil"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "BR",
+    "altnames": "Novo Exu"
+}

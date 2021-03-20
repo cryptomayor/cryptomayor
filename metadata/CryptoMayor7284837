@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor7284837",
+    "name": "Budapest XXIII. ker\u00fclet, Hungary",
+    "description": "Budapest, Budapest XXIII.",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor7284837",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor7284837.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.39788
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 19.11492
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 20387
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 105
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Budapest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Hungary"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "HU",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3386957",
+    "name": "Taipu, Brazil",
+    "description": "Rio Grande do Norte, Taipu",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3386957",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3386957.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -5.62167
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -35.59667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 4606
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 42
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Fortaleza"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Brazil"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "BR",
+    "altnames": null
+}

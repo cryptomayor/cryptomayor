@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3992126",
+    "name": "Potrerillos, Mexico",
+    "description": "Jalisco, Jocotepec",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3992126",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3992126.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.33837
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -103.37762
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1542
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1844
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": null
+}

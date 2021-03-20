@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2811384",
+    "name": "Welt, Germany",
+    "description": "Schleswig-Holstein",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2811384",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2811384.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 54.30248
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 8.79458
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 219
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Berlin"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Germany"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "DE",
+    "altnames": null
+}

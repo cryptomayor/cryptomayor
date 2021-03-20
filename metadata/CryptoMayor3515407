@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3515407",
+    "name": "Tlamanca, Mexico",
+    "description": "Puebla, Zautla",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3515407",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3515407.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.67457
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -97.6964
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1226
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1999
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Tlamanaca,Tlamanca,Tlamauca"
+}

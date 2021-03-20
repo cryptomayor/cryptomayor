@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3991072",
+    "name": "Ramblas Chico, Mexico",
+    "description": "Jalisco, Tototl\u00e1n",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3991072",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3991072.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.62027
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -102.81075
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 634
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1861
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": null
+}

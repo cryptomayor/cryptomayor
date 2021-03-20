@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3482872",
+    "name": "Benito Ju\u00e1rez, Mexico",
+    "description": "Tamaulipas, Altamira",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3482872",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3482872.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 22.49068
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -98.02647
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 766
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 33
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Monterrey"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": null
+}

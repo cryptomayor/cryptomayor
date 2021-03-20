@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor11704376",
+    "name": "Sinclair, Australia",
+    "description": "Western Australia, Esperance Shire",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor11704376",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor11704376.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -33.86347
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 121.87185
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 837
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 16
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Perth"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": null
+}

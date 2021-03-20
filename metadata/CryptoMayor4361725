@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4361725",
+    "name": "Marlton, United States",
+    "description": "Maryland, Prince George's County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4361725",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4361725.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 38.77373
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -76.78997
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 9031
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 60
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/New_York"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

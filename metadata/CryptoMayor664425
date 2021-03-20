@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor664425",
+    "name": "Turulung, Romania",
+    "description": "Satu Mare, Comuna Turulung",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor664425",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor664425.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.93333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 23.08333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3815
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 132
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": "Turulung"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3000465",
+    "name": "Les Loges, France",
+    "description": "Normandy, Seine-Maritime",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3000465",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3000465.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 49.6986
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 0.28403
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1131
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 100
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Les Loges"
+}

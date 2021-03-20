@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3068941",
+    "name": "Opatovice, Czechia",
+    "description": "South Moravian, Okres Brno-venkov",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3068941",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3068941.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 49.07503
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 16.64097
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 962
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 187
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Prague"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Czechia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "CZ",
+    "altnames": null
+}

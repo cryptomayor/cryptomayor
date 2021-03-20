@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor521123",
+    "name": "Nizhneivkino, Russia",
+    "description": "Kirov",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor521123",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor521123.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 58.19398
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 49.52137
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2234
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 144
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Kirov"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Russia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RU",
+    "altnames": "Nizhneivkino,Nizhneye Ivkino,Nizjneivkino,\u041d\u0438\u0436\u043d\u0435\u0438\u0432\u043a\u0438\u043d\u043e"
+}

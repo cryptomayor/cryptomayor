@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3665951",
+    "name": "Villanueva, Colombia",
+    "description": "Casanare, San Luis de Palenque",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3665951",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3665951.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 5.28333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -71.96667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 20032
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 185
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Bogota"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Colombia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "CO",
+    "altnames": "Villanueva"
+}

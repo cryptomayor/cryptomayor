@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor765914",
+    "name": "Lubenia, Poland",
+    "description": "Subcarpathia, Powiat rzeszowski",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor765914",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor765914.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 49.93078
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 21.92665
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2400
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 245
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Warsaw"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Poland"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "PL",
+    "altnames": null
+}

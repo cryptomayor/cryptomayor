@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3980487",
+    "name": "Venado, Mexico",
+    "description": "San Luis Potos\u00ed, Venado",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3980487",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3980487.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 22.92997
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -101.09537
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 5743
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1799
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Venado"
+}

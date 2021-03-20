@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3928017",
+    "name": "Tambillo, Peru",
+    "description": "Ayacucho, Provincia de Huamanga",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3928017",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3928017.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -13.19194
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -74.11139
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 192
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 3081
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Lima"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Peru"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "PE",
+    "altnames": null
+}

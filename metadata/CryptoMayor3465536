@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3465536",
+    "name": "Corb\u00e9lia, Brazil",
+    "description": "Paran\u00e1, Corb\u00e9lia",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3465536",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3465536.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -24.79889
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -53.30667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 12725
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 639
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Sao_Paulo"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Brazil"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "BR",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4025819",
+    "name": "El Letrero, Mexico",
+    "description": "Michoac\u00e1n, M\u00fagica",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4025819",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4025819.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.96339
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -102.11025
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1859
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 314
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "El Letrero"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3164281",
+    "name": "Villa Celiera, Italy",
+    "description": "Abruzzo, Provincia di Pescara",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3164281",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3164281.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 42.38184
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 13.8586
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 231
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 728
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "Villa Celiera"
+}

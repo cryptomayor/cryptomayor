@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6458911",
+    "name": "Santa Rosa, Chile",
+    "description": "Los R\u00edos Region, Provincia de Valdivia",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6458911",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6458911.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -40.17625
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -72.56058
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1000
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 239
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Santiago"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Chile"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "CL",
+    "altnames": null
+}

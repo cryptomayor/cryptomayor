@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3069395",
+    "name": "Novosedly, Czechia",
+    "description": "South Moravian, Okres B\u0159eclav",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3069395",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3069395.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 48.83704
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 16.49273
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1162
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 176
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Prague"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Czechia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "CZ",
+    "altnames": "Neusiedl"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor1732811",
+    "name": "Kluang, Malaysia",
+    "description": "Johor",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor1732811",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor1732811.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 2.03046
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 103.31689
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 169828
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 51
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Asia/Kuala_Lumpur"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Malaysia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AS"
+        }
+    ],
+    "country_code": "MY",
+    "altnames": "Keluang,Kluang"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor1189056",
+    "name": "Sakhipur, Bangladesh",
+    "description": "Dhaka, Tangail",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor1189056",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor1189056.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 24.31988
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 90.16943
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 40869
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 25
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Asia/Dhaka"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Bangladesh"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AS"
+        }
+    ],
+    "country_code": "BD",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2148513",
+    "name": "Stanmore, Australia",
+    "description": "New South Wales, Inner West",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2148513",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2148513.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -33.89407
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 151.16424
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 7879
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 30
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Sydney"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": null
+}

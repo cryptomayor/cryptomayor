@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2692625",
+    "name": "Marieholm, Sweden",
+    "description": "Sk\u00e5ne, Esl\u00f6vs Kommun",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2692625",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2692625.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 55.86667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 13.15
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1604
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 33
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Stockholm"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Sweden"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "SE",
+    "altnames": "Marieholm"
+}

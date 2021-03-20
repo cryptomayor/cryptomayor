@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3971782",
+    "name": "Tenayuca, Mexico",
+    "description": "Jalisco, Acatl\u00e1n de Ju\u00e1rez",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3971782",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3971782.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 21.50318
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -102.65799
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1901
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1855
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Tenayuca"
+}

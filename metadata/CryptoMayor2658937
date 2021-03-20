@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2658937",
+    "name": "Rudolfstetten, Switzerland",
+    "description": "Aargau, Bezirk Bremgarten",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2658937",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2658937.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.37101
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 8.38083
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3800
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 483
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Zurich"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Switzerland"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "CH",
+    "altnames": "Rudolfstetten"
+}

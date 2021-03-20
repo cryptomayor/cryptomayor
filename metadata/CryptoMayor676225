@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor676225",
+    "name": "Herla, Romania",
+    "description": "Suceava, Comuna Slatina",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor676225",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor676225.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.44286
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 26.01254
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1318
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 476
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor773695",
+    "name": "Czudec, Poland",
+    "description": "Subcarpathia, Powiat strzy\u017cowski",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor773695",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor773695.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 49.94487
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 21.84134
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2900
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 228
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Warsaw"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Poland"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "PL",
+    "altnames": null
+}

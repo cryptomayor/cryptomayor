@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6951335",
+    "name": "Forresters Beach, Australia",
+    "description": "New South Wales, Central Coast",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6951335",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6951335.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -33.407
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 151.476
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2796
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 49
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Sydney"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": null
+}

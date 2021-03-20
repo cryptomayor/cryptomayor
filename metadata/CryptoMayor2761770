@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2761770",
+    "name": "Weichstetten, Austria",
+    "description": "Upper Austria, Politischer Bezirk Linz-Land",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2761770",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2761770.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 48.12101
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 14.32085
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 888
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 355
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Vienna"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Austria"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "AT",
+    "altnames": null
+}

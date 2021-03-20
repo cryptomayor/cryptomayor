@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor686716",
+    "name": "Abram, Romania",
+    "description": "Bihor, Comuna Abram",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor686716",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor686716.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.31667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 22.38333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3291
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 130
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": null
+}

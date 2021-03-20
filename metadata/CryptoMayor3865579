@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3865579",
+    "name": "Arauco, Argentina",
+    "description": "La Rioja, Departamento de Arauco",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3865579",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3865579.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -28.58071
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -66.7925
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 13720
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 820
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Argentina/La_Rioja"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Argentina"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "AR",
+    "altnames": "Arauca,Arauco"
+}

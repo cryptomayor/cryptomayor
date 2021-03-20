@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2524300",
+    "name": "Mangone, Italy",
+    "description": "Calabria, Provincia di Cosenza",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2524300",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2524300.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 39.20437
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 16.33262
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 580
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 753
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "Mangone"
+}

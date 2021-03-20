@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor663624",
+    "name": "Valea Mare, Romania",
+    "description": "Covasna, Comuna Valea Mare",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor663624",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor663624.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 45.76667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 26.0
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1156
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 777
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": "Nagyatak"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6294612",
+    "name": "Hegnau / Alt-Hegnau, Switzerland",
+    "description": "Zurich, Bezirk Uster",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6294612",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6294612.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.38877
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 8.67482
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 703
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 459
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Zurich"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Switzerland"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "CH",
+    "altnames": "Alt-Hegnau"
+}

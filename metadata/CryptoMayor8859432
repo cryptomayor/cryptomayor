@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8859432",
+    "name": "Izotepec, Mexico",
+    "description": "Guerrero, General Heliodoro Castillo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8859432",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8859432.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 17.585
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -99.95444
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1232
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1364
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Izotepec"
+}

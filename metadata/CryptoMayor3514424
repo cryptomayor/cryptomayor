@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3514424",
+    "name": "Xocotla, Mexico",
+    "description": "Veracruz, Coscomatepec",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3514424",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3514424.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.01511
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -97.10092
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 7168
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2013
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Xocotla"
+}

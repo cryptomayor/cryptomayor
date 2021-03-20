@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3547600",
+    "name": "Mariel, Cuba",
+    "description": "Artemisa",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3547600",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3547600.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 22.98931
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -82.75376
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 28987
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 16
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Havana"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Cuba"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "CU",
+    "altnames": "Mariel"
+}

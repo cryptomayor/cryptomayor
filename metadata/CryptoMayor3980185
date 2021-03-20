@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3980185",
+    "name": "Villa Emiliano Zapata, Mexico",
+    "description": "Jalisco, Tizap\u00e1n el Alto",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3980185",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3980185.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.16651
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -102.99123
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2869
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1544
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": null
+}

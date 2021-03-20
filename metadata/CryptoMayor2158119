@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2158119",
+    "name": "Menindee, Australia",
+    "description": "New South Wales, Central Darling",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2158119",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2158119.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -32.39286
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 142.41823
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 605
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 67
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Sydney"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": "Menindee"
+}

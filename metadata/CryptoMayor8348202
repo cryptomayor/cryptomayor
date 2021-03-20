@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8348202",
+    "name": "Petrie Terrace, Australia",
+    "description": "Queensland, Brisbane",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8348202",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8348202.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -27.46298
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 153.01312
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1091
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 26
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Brisbane"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": null
+}

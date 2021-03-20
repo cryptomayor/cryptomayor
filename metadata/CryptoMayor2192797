@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2192797",
+    "name": "Burnham, New Zealand",
+    "description": "Canterbury, Selwyn District",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2192797",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2192797.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -43.61667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 172.31667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1239
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 62
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Pacific/Auckland"
+        },
+        {
+            "trait_type": "Country",
+            "value": "New Zealand"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "NZ",
+    "altnames": null
+}

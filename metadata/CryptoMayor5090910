@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5090910",
+    "name": "Pelham, United States",
+    "description": "New Hampshire, Hillsborough County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5090910",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5090910.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 42.73453
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -71.32451
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 12676
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 50
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/New_York"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

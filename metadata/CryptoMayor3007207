@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3007207",
+    "name": "La Porcherie, France",
+    "description": "Nouvelle-Aquitaine, Haute-Vienne",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3007207",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3007207.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 45.58077
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 1.54403
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 635
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 500
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "La Porcherie"
+}

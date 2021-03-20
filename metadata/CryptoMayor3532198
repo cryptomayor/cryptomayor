@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3532198",
+    "name": "Boca del Monte, Mexico",
+    "description": "Veracruz, Santiago Tuxtla",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3532198",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3532198.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.38583
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -95.37611
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 519
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 60
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Boca Monte,Boca del Monte"
+}

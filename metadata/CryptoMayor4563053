@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4563053",
+    "name": "Campanilla, Puerto Rico",
+    "description": "Toa Baja, Media Luna Barrio",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4563053",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4563053.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.42134
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -66.23683
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 7757
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 8
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Puerto_Rico"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Puerto Rico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "PR",
+    "altnames": null
+}

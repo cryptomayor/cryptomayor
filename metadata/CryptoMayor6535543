@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6535543",
+    "name": "Dernice, Italy",
+    "description": "Piedmont, Provincia di Alessandria",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6535543",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6535543.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 44.7666
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 9.05001
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 66
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 586
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": null
+}

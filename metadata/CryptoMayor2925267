@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2925267",
+    "name": "Fraureuth, Germany",
+    "description": "Saxony",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2925267",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2925267.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 50.7
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 12.35
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 5841
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 309
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Berlin"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Germany"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "DE",
+    "altnames": "Frauenreuth,Fraureuth"
+}

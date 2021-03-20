@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6543999",
+    "name": "Cesi, Italy",
+    "description": "Umbria, Provincia di Terni",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6543999",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6543999.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 42.61075
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 12.58452
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 640
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 448
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": null
+}

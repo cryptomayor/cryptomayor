@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6544761",
+    "name": "Nieuw Moscou, Netherlands",
+    "description": "Drenthe, Gemeente Hoogeveen",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6544761",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6544761.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 52.6725
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 6.5375
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 547
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 12
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Amsterdam"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Netherlands"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "NL",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8950250",
+    "name": "Villa, Italy",
+    "description": "Trentino-Alto Adige, Bolzano",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8950250",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8950250.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 46.77977
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 11.69047
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 542
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 904
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "Villa"
+}

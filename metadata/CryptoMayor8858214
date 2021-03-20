@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8858214",
+    "name": "Lomas de Santa Anita, Mexico",
+    "description": "Baja California, Tecate",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8858214",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8858214.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 32.54278
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -116.65139
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 6604
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 569
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Tijuana"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Lomas de Santa Anita"
+}

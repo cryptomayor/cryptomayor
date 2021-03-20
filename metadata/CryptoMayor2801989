@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2801989",
+    "name": "Bierghes, Belgium",
+    "description": "Wallonia, Province du Brabant Wallon",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2801989",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2801989.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 50.69578
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 4.1192
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1947
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 57
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Brussels"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Belgium"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "BE",
+    "altnames": "Bierghes,Bierk"
+}

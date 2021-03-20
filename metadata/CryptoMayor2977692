@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2977692",
+    "name": "Saint-Paul, France",
+    "description": "Normandy, Orne",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2977692",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2977692.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 48.74227
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -0.63273
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 575
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 273
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Saint-Paul"
+}

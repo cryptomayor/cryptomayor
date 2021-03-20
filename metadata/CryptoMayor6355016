@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6355016",
+    "name": "Can Pastilla, Spain",
+    "description": "Balearic Islands, Illes Balears",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6355016",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6355016.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 39.53615
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 2.71766
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 5390
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 8
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Madrid"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Spain"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "ES",
+    "altnames": "Ca'n Pastilla"
+}

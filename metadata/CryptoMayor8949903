@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8949903",
+    "name": "Santa Venere, Italy",
+    "description": "Campania, Provincia di Salerno",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8949903",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8949903.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 40.4106
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 15.0123
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 674
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 15
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "Santa Venere"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2976577",
+    "name": "Saint-Vite, France",
+    "description": "Nouvelle-Aquitaine, Lot-et-Garonne",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2976577",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2976577.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 44.47333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 0.94004
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1308
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 77
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Saint-Vite"
+}

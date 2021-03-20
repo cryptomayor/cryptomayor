@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2770966",
+    "name": "Naas, Austria",
+    "description": "Styria, Politischer Bezirk Weiz",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2770966",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2770966.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.25086
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 15.59449
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 257
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 541
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Vienna"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Austria"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "AT",
+    "altnames": "Naas"
+}

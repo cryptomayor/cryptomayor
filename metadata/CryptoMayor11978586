@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor11978586",
+    "name": "Enfield, Australia",
+    "description": "New South Wales, Burwood",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor11978586",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor11978586.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -33.89148
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 151.09318
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2833
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Sydney"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": null
+}

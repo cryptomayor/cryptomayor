@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3827255",
+    "name": "San Pedro Totoltepec, Mexico",
+    "description": "Morelos",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3827255",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3827255.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.31108
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -99.57197
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 21076
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2588
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "San Pedro Tololtepec,San Pedro Totoltepec"
+}

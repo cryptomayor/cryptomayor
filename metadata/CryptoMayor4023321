@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4023321",
+    "name": "Cantera Sur, Mexico",
+    "description": "Guanajuato, San Felipe",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4023321",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4023321.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 21.28888
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -101.27582
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 925
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2103
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Cantera Sur,La Cantera Sur"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2147657",
+    "name": "Table Top, Australia",
+    "description": "New South Wales, Albury Municipality",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2147657",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2147657.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -35.96667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 147.0
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1372
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 248
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Sydney"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": "Table Top"
+}

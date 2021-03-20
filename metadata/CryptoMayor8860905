@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8860905",
+    "name": "Pinar de la Venta, Mexico",
+    "description": "Jalisco, Zapopan",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8860905",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8860905.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.71889
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -103.52361
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 764
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1788
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Pinar de la Venta"
+}

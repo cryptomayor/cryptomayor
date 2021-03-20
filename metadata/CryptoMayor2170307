@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2170307",
+    "name": "Corio, Australia",
+    "description": "Victoria, Greater Geelong",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2170307",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2170307.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -38.08333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 144.38333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 15215
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 9
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Melbourne"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": null
+}

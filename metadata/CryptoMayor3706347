@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3706347",
+    "name": "Las Minas, Panama",
+    "description": "Herrera, Distrito de Las Minas",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3706347",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3706347.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 7.79581
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -80.7457
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 889
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 337
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Panama"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Panama"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "PA",
+    "altnames": "Las Minas"
+}

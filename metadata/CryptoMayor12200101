@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor12200101",
+    "name": "Pampas Grande, Peru",
+    "description": "Ancash, Provincia de Huaraz",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor12200101",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor12200101.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -9.65537
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -77.82657
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 0
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 3840
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Lima"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Peru"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "PE",
+    "altnames": null
+}

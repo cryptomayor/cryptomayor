@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor667706",
+    "name": "Scheia, Romania",
+    "description": "Suceava, Comuna Scheia",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor667706",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor667706.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.65
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 26.23333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 7533
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 307
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": null
+}

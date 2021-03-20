@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3589923",
+    "name": "San Juan Bautista, Guatemala",
+    "description": "Suchitepeque",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3589923",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3589923.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 14.42274
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -91.17904
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2680
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 291
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Guatemala"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Guatemala"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "GT",
+    "altnames": "San Juan,San Juan Bautista"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2976044",
+    "name": "Sarceaux, France",
+    "description": "Normandy, Orne",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2976044",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2976044.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 48.71899
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -0.04076
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 899
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 161
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Sarceaux"
+}

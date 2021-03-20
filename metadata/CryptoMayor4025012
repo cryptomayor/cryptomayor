@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4025012",
+    "name": "La Palma, Mexico",
+    "description": "Michoac\u00e1n, Angamacutiro",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4025012",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4025012.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.09225
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -101.74033
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 505
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1724
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "La Palma"
+}

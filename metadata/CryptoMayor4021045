@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4021045",
+    "name": "El Salitre, Mexico",
+    "description": "Aguascalientes, Calvillo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4021045",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4021045.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 21.82063
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -102.77115
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 854
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1604
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "El Salitre"
+}

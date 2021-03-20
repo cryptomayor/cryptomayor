@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2155411",
+    "name": "Newport, Australia",
+    "description": "Victoria, Hobsons Bay",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2155411",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2155411.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -37.84427
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 144.88483
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 12751
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 17
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Melbourne"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": null
+}

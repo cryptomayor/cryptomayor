@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5520110",
+    "name": "Denver City, United States",
+    "description": "Texas, Yoakum County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5520110",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5520110.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 32.96455
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -102.8291
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 4864
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1095
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Chicago"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": "Denver,Denver City"
+}

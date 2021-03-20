@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4011929",
+    "name": "Diez de Octubre, Mexico",
+    "description": "Durango, San Juan del R\u00edo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4011929",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4011929.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 24.72849
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -104.63626
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1500
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1884
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Monterrey"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Diez de Octubre,Ocampo,San Lucas,San Lucas de Ocampo"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4011631",
+    "name": "Ejido El Largo, Mexico",
+    "description": "Chihuahua, Madera",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4011631",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4011631.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 29.68333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -108.26667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 4964
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2216
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Chihuahua"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Ejido El Largo"
+}

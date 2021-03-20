@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3817197",
+    "name": "La Quebrada, Peru",
+    "description": "Piura, Provincia de Piura",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3817197",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3817197.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -4.96338
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -80.58306
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 879
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 55
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Lima"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Peru"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "PE",
+    "altnames": null
+}

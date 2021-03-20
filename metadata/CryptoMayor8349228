@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8349228",
+    "name": "Simpson, Australia",
+    "description": "Victoria, Corangamite",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8349228",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8349228.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -38.50225
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 143.25007
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 545
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 170
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Melbourne"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": null
+}

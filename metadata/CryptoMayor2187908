@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2187908",
+    "name": "Maketu, New Zealand",
+    "description": "Bay of Plenty, Western Bay of Plenty District",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2187908",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2187908.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -37.76667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 176.45
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1083
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 12
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Pacific/Auckland"
+        },
+        {
+            "trait_type": "Country",
+            "value": "New Zealand"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "NZ",
+    "altnames": null
+}

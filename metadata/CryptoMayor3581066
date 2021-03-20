@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3581066",
+    "name": "Shipyard, Belize",
+    "description": "Orange Walk",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3581066",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3581066.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 17.89382
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -88.65452
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3522
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 20
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Belize"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Belize"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "BZ",
+    "altnames": "Shipyard"
+}

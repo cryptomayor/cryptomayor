@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6293088",
+    "name": "Gattikon, Switzerland",
+    "description": "Zurich, Bezirk Horgen",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6293088",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6293088.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.28439
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 8.5483
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2142
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 507
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Zurich"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Switzerland"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "CH",
+    "altnames": null
+}

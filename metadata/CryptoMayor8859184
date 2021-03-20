@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8859184",
+    "name": "Las Masas (La Luz Masas), Mexico",
+    "description": "Guanajuato, Abasolo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8859184",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8859184.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.59917
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -101.54278
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1396
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1699
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Las Masas (La Luz Masas)"
+}

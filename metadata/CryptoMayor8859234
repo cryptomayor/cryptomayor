@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8859234",
+    "name": "Xochitepec, Mexico",
+    "description": "Guerrero, Quechultenango",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8859234",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8859234.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 17.1825
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -99.22639
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1356
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 667
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Xochitepec"
+}

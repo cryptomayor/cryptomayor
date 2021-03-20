@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3944553",
+    "name": "Chalcos, Peru",
+    "description": "Ayacucho, Provincia de Sucre",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3944553",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3944553.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -13.84778
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -73.75333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 253
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 3650
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Lima"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Peru"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "PE",
+    "altnames": "Chalcos"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3011454",
+    "name": "Kirchberg, France",
+    "description": "Grand Est, Haut-Rhin",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3011454",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3011454.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.79753
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 6.95795
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 879
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 453
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": null
+}

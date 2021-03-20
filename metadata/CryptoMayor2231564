@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2231564",
+    "name": "Fontem, Cameroon",
+    "description": "South-West",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2231564",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2231564.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 5.4685
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 9.8818
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 42689
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 902
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Africa/Douala"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Cameroon"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AF"
+        }
+    ],
+    "country_code": "CM",
+    "altnames": "Fontem"
+}

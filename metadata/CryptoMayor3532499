@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3532499",
+    "name": "Ayutla de los Libres, Mexico",
+    "description": "Guerrero, Ayutla de los Libres",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3532499",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3532499.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 16.96376
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -99.09616
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 15370
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 376
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Ayutla,Ayutla de los Libres"
+}

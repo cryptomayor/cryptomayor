@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2233056",
+    "name": "Dimako, Cameroon",
+    "description": "East",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2233056",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2233056.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 4.38333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 13.56667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 8476
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 649
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Africa/Douala"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Cameroon"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AF"
+        }
+    ],
+    "country_code": "CM",
+    "altnames": "Dimako"
+}

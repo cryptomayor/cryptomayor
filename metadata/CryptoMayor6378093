@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6378093",
+    "name": "Santa Catalina, Peru",
+    "description": "Amazonas, Provincia de Luya",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6378093",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6378093.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -6.11167
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -78.06139
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 423
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2564
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Lima"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Peru"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "PE",
+    "altnames": null
+}

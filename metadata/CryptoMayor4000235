@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4000235",
+    "name": "La Sauceda, Mexico",
+    "description": "Guanajuato, San Diego de la Uni\u00f3n",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4000235",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4000235.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 21.48457
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -100.72124
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1305
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2058
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "La Sauceda"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3825064",
+    "name": "Ocelota, Mexico",
+    "description": "Veracruz, San Andr\u00e9s Tuxtla",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3825064",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3825064.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.3992
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -95.28333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1330
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 118
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Ocelota,Oceloto"
+}

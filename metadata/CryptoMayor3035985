@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3035985",
+    "name": "Aussonne, France",
+    "description": "Occitanie, Upper Garonne",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3035985",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3035985.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 43.68392
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 1.31926
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 4749
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 140
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Aussonne"
+}

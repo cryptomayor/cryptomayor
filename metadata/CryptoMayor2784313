@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2784313",
+    "name": "Vreren, Belgium",
+    "description": "Flanders, Provincie Limburg",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2784313",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2784313.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 50.75168
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 5.49588
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2143
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 105
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Brussels"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Belgium"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "BE",
+    "altnames": "Freeren,Vreeren,Vreren"
+}

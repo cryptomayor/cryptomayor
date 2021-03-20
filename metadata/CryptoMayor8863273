@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8863273",
+    "name": "Piedra Parada, Mexico",
+    "description": "Chiapas, Ocozocoautla de Espinosa",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8863273",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8863273.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 16.82806
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -93.43667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 501
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 826
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Piedra Parada"
+}

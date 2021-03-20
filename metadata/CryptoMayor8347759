@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8347759",
+    "name": "Canley Vale, Australia",
+    "description": "New South Wales, Fairfield",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8347759",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8347759.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -33.88657
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 150.94802
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 10162
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 12
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Sydney"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": null
+}

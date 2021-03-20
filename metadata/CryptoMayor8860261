@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8860261",
+    "name": "La Mocha, Mexico",
+    "description": "Guanajuato, Cortazar",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8860261",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8860261.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.40583
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -100.99833
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 902
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1733
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "La Mocha"
+}

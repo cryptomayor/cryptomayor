@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2958032",
+    "name": "Altdorf, Germany",
+    "description": "Bavaria, Upper Bavaria",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2958032",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2958032.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 48.15374
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 12.18419
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 11355
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 508
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Berlin"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Germany"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "DE",
+    "altnames": "Altdorf"
+}

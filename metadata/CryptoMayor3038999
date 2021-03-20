@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3038999",
+    "name": "Soldeu, Andorra",
+    "description": "Canillo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3038999",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3038999.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 42.57688
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 1.66769
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 602
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1832
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Andorra"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Andorra"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "AD",
+    "altnames": null
+}

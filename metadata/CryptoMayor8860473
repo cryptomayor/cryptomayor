@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8860473",
+    "name": "Cerro Colorado, Mexico",
+    "description": "Guanajuato, Coroneo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8860473",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8860473.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.235
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -100.35444
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 848
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2417
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Cerro Colorado"
+}

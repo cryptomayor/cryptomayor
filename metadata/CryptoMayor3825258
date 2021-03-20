@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3825258",
+    "name": "Nuevo Atoyac, Mexico",
+    "description": "Veracruz, Minatitl\u00e1n",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3825258",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3825258.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 17.65749
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -94.40402
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 867
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 33
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Nuevo Atoyac"
+}

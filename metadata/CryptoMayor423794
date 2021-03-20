@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor423794",
+    "name": "Mwaro, Burundi",
+    "description": "Mwaro",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor423794",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor423794.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -3.51128
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 29.70334
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 4924
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1974
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Africa/Bujumbura"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Burundi"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AF"
+        }
+    ],
+    "country_code": "BI",
+    "altnames": "Mwaro"
+}

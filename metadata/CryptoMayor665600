@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor665600",
+    "name": "Talpa, Romania",
+    "description": "Boto\u015fani, Comuna C\u00e2nde\u015fti",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor665600",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor665600.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.90194
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 26.2363
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 510
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 290
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": null
+}

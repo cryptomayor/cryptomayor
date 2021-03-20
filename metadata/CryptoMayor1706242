@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor1706242",
+    "name": "San Miguel, Philippines",
+    "description": "Mimaropa, Province of Palawan",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor1706242",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor1706242.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 11.4924
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 119.8703
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2972
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 16
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Asia/Manila"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Philippines"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AS"
+        }
+    ],
+    "country_code": "PH",
+    "altnames": "Linapacan,San Miguel"
+}

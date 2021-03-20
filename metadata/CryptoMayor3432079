@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3432079",
+    "name": "La Paz, Argentina",
+    "description": "Entre Rios, Departamento de La Paz",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3432079",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3432079.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -30.74179
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -59.64517
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 24716
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 53
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Argentina/Cordoba"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Argentina"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "AR",
+    "altnames": "La Paz"
+}

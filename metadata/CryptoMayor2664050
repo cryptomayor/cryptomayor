@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2664050",
+    "name": "V\u00e4stra Fr\u00f6lunda, Sweden",
+    "description": "V\u00e4stra G\u00f6taland, G\u00f6teborgs stad",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2664050",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2664050.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 57.64667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 11.92944
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 15924
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 4
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Stockholm"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Sweden"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "SE",
+    "altnames": "Vastra Frolunda,V\u00e4stra Fr\u00f6lunda"
+}

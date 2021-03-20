@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3430668",
+    "name": "Miramar, Argentina",
+    "description": "Buenos Aires, Partido de General Alvarado",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3430668",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3430668.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -38.27161
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -57.8389
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 0
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 14
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Argentina/Buenos_Aires"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Argentina"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "AR",
+    "altnames": "MJR,Miramar"
+}

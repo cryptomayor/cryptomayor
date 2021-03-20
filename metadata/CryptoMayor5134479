@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5134479",
+    "name": "Round Lake, United States",
+    "description": "New York, Saratoga County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5134479",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5134479.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 42.93869
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -73.78984
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 621
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 51
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/New_York"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": "Round Lake,Roundlake"
+}

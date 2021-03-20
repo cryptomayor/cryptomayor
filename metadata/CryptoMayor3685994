@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3685994",
+    "name": "Confines, Colombia",
+    "description": "Santander, Confines",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3685994",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3685994.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 6.35625
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -73.24131
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 472
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1545
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Bogota"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Colombia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "CO",
+    "altnames": "Confines"
+}

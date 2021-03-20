@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3620358",
+    "name": "Cinco Pinos, Nicaragua",
+    "description": "Chinandega",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3620358",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3620358.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 13.22956
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -86.86808
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 784
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 409
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Managua"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Nicaragua"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "NI",
+    "altnames": "Cinco Pinos"
+}

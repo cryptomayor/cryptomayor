@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor7306528",
+    "name": "Wotje, Marshall Islands",
+    "description": "Wotje Atoll",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor7306528",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor7306528.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 9.45429
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 170.23674
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 880
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 9
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Pacific/Majuro"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Marshall Islands"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "MH",
+    "altnames": null
+}

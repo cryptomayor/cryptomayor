@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3466913",
+    "name": "Carmo, Brazil",
+    "description": "Rio de Janeiro, Carmo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3466913",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3466913.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -21.93361
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -42.60861
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 11555
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 354
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Sao_Paulo"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Brazil"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "BR",
+    "altnames": null
+}

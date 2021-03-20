@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor309008",
+    "name": "Karpuzlu, Turkey",
+    "description": "Ayd\u0131n",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor309008",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor309008.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 37.55861
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 27.83528
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2166
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 99
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Istanbul"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Turkey"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AS"
+        }
+    ],
+    "country_code": "TR",
+    "altnames": "Demircidere,Karpuzlu"
+}

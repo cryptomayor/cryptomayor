@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3531111",
+    "name": "Chapultepec (Santo Domingo), Mexico",
+    "description": "Puebla, Tepexi de Rodr\u00edguez",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3531111",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3531111.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.4867
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -97.99074
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 607
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1791
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": null
+}

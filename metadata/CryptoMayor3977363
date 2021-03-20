@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3977363",
+    "name": "Huachichil, Mexico",
+    "description": "Coahuila, Arteaga",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3977363",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3977363.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 25.21114
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -100.8257
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1616
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2097
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Monterrey"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Huachichil,Huachichila"
+}

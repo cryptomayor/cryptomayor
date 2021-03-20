@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5126968",
+    "name": "Mill Neck, United States",
+    "description": "New York, Nassau County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5126968",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5126968.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 40.88704
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -73.55512
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1015
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 45
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/New_York"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

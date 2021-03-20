@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3688254",
+    "name": "Bugalagrande, Colombia",
+    "description": "Valle del Cauca, Bugalagrande",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3688254",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3688254.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 4.21207
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -76.15564
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 12418
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 948
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Bogota"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Colombia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "CO",
+    "altnames": "Bugalagrande"
+}

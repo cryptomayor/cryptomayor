@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3003025",
+    "name": "Le Pas, France",
+    "description": "Pays de la Loire, Mayenne",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3003025",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3003025.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 48.42972
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -0.70073
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 536
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 149
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Le Pas"
+}

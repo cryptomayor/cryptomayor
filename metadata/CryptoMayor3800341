@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3800341",
+    "name": "El Carasol, Mexico",
+    "description": "Oaxaca, Santiago Ixtayutla",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3800341",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3800341.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 16.51361
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -97.78083
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 707
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 805
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "El Caracol"
+}

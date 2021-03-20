@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3621831",
+    "name": "San Josecito, Costa Rica",
+    "description": "Heredia, San Rafael",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3621831",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3621831.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 10.01667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -84.1
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 12195
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1272
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Costa_Rica"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Costa Rica"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "CR",
+    "altnames": "San Josecito"
+}

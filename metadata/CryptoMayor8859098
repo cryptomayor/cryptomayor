@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8859098",
+    "name": "El Sibal, Mexico",
+    "description": "Chiapas, Ocosingo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8859098",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8859098.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 16.98
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -91.49111
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1472
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 685
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "El Sibal,Sival"
+}

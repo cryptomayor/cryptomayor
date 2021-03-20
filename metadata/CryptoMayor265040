@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor265040",
+    "name": "Andros, Greece",
+    "description": "South Aegean, Nom\u00f3s Kykl\u00e1don",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor265040",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor265040.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 37.83333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 24.93333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1556
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 14
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Athens"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Greece"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "GR",
+    "altnames": "ANDROU,Andros,Kastron,K\u00e1stron,\u0386\u03bd\u03b4\u03c1\u03bf\u03c2,\u0391\u039d\u0394\u03a1\u039f\u03a5"
+}

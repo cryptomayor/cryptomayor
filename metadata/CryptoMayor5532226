@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5532226",
+    "name": "Texline, United States",
+    "description": "Texas, Dallam County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5532226",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5532226.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 36.37781
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -103.0241
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 525
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1431
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Chicago"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

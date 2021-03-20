@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor11919776",
+    "name": "La Rose, France",
+    "description": "Provence-Alpes-C\u00f4te d'Azur, Bouches-du-Rh\u00f4ne",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor11919776",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor11919776.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 43.32889
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 5.42859
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 13835
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 102
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": null
+}

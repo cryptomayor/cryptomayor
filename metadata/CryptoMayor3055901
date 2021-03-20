@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3055901",
+    "name": "Apc, Hungary",
+    "description": "Heves",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3055901",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3055901.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.79419
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 19.69429
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2754
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 147
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Budapest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Hungary"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "HU",
+    "altnames": "Apc"
+}

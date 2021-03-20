@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2764183",
+    "name": "Strassen, Austria",
+    "description": "Tyrol, Politischer Bezirk Lienz",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2764183",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2764183.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 46.75389
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 12.48417
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 808
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1222
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Vienna"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Austria"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "AT",
+    "altnames": "Strassen"
+}

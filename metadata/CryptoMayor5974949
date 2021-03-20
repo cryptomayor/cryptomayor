@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5974949",
+    "name": "Highland Creek, Canada",
+    "description": "Ontario, Toronto county",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5974949",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5974949.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 43.79068
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -79.17555
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 12494
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 125
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Toronto"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Canada"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "CA",
+    "altnames": null
+}

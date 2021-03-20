@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2519584",
+    "name": "Cervera del Llano, Spain",
+    "description": "Castille-La Mancha, Provincia de Cuenca",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2519584",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2519584.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 39.78312
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -2.42019
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 294
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 899
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Madrid"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Spain"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "ES",
+    "altnames": "Cervera del Llano"
+}

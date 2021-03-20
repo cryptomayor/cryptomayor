@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3109766",
+    "name": "Santa Mar\u00eda de Ord\u00e1s, Spain",
+    "description": "Castille and Le\u00f3n, Provincia de Le\u00f3n",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3109766",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3109766.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 42.72653
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -5.82301
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 364
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 950
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Madrid"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Spain"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "ES",
+    "altnames": "Santa Maria,Santa Maria de Ordas,Santa Mar\u00eda de Ord\u00e1s"
+}

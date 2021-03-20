@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4887137",
+    "name": "Chadwick, United States",
+    "description": "Illinois, Carroll County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4887137",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4887137.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 42.01336
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -89.89068
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 526
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 245
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Chicago"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

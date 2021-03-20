@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5117961",
+    "name": "Freeville, United States",
+    "description": "New York, Tompkins County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5117961",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5117961.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 42.51396
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -76.3466
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 520
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 319
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/New_York"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

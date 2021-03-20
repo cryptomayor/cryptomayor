@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8348175",
+    "name": "Springdale Heights, Australia",
+    "description": "New South Wales, Albury Municipality",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8348175",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8348175.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -36.03095
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 146.94783
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2020
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 203
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Sydney"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": null
+}

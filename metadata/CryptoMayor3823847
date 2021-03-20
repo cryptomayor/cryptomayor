@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3823847",
+    "name": "Monte Salas, Mexico",
+    "description": "Veracruz, Fort\u00edn",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3823847",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3823847.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.93722
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -97.01833
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1850
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1180
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": null
+}

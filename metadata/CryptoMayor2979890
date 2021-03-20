@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2979890",
+    "name": "Saint-Georges-sur-Eure, France",
+    "description": "Centre, Eure-et-Loir",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2979890",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2979890.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 48.41869
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 1.3546
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2553
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 149
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Saint-Georges,Saint-Georges-sur-Eure"
+}

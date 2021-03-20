@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3001020",
+    "name": "Les Forges, France",
+    "description": "Grand Est, Vosges",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3001020",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3001020.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 48.17747
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 6.38846
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2113
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 371
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Les Forges"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8948865",
+    "name": "Cerza, Italy",
+    "description": "Sicily, Catania",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8948865",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8948865.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 37.54297
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 15.1051
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3124
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 133
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "Cerza"
+}

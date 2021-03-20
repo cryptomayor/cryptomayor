@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3003495",
+    "name": "Lemberg, France",
+    "description": "Grand Est, Moselle",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3003495",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3003495.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 49.00199
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 7.37889
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1511
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 359
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Lemberg"
+}

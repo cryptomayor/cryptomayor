@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3500641",
+    "name": "Las Charcas, Dominican Republic",
+    "description": "Azua, Las Charcas",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3500641",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3500641.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.45026
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -70.61724
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 4720
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 68
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Santo_Domingo"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Dominican Republic"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "DO",
+    "altnames": "Las Charcas"
+}

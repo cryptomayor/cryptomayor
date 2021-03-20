@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor1283600",
+    "name": "Bhojpur, Nepal",
+    "description": "Province 1, Bhojpur",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor1283600",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor1283600.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 27.1715
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 87.04607
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3250
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1573
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Asia/Kathmandu"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Nepal"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AS"
+        }
+    ],
+    "country_code": "NP",
+    "altnames": "BHP"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4011119",
+    "name": "El Arenal, Mexico",
+    "description": "Jalisco, El Arenal",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4011119",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4011119.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.77538
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -103.69353
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 11610
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1389
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Arenal,El Arenal"
+}

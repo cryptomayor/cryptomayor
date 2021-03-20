@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3173926",
+    "name": "Marina di Ravenna, Italy",
+    "description": "Emilia-Romagna, Provincia di Ravenna",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3173926",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3173926.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 44.48625
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 12.28087
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3476
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 3
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": null
+}

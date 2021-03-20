@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3832622",
+    "name": "Villa Santa Rosa, Argentina",
+    "description": "San Juan, Departamento de Veinticinco de Mayo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3832622",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3832622.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -31.74434
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -68.31411
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 0
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 572
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Argentina/San_Juan"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Argentina"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "AR",
+    "altnames": null
+}

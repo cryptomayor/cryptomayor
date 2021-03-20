@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor772467",
+    "name": "Frydman, Poland",
+    "description": "Lesser Poland, Powiat nowotarski",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor772467",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor772467.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 49.44927
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 20.22961
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1622
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 530
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Warsaw"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Poland"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "PL",
+    "altnames": null
+}

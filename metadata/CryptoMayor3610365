@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3610365",
+    "name": "El Rusio, Honduras",
+    "description": "Olancho",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3610365",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3610365.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 14.46667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -86.36667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1016
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 632
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Tegucigalpa"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Honduras"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "HN",
+    "altnames": "El Rusio"
+}

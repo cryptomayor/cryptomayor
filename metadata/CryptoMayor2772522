@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2772522",
+    "name": "Liebenau, Austria",
+    "description": "Styria, Graz Stadt",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2772522",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2772522.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.03333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 15.46667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 14447
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 344
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Vienna"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Austria"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "AT",
+    "altnames": "Liebenau"
+}

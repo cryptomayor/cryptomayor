@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4023958",
+    "name": "La Granjena, Mexico",
+    "description": "Guanajuato, P\u00e9njamo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4023958",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4023958.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.39454
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -101.65933
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 630
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1695
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "La Granjena"
+}

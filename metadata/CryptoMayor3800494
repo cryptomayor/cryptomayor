@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3800494",
+    "name": "La Reforma, Mexico",
+    "description": "Oaxaca, San Pedro Mixtepec -Dto. 22 -",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3800494",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3800494.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 15.98667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -96.98227
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 651
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 191
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "La Reforma"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor935005",
+    "name": "Malkerns, Eswatini",
+    "description": "Manzini",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor935005",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor935005.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -26.56667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 31.18333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 9724
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 684
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Africa/Mbabane"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Eswatini"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AF"
+        }
+    ],
+    "country_code": "SZ",
+    "altnames": "Malkerns"
+}

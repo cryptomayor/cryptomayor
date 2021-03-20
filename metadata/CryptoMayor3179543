@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3179543",
+    "name": "Castelnuovo, Italy",
+    "description": "Umbria, Provincia di Perugia",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3179543",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3179543.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 43.0294
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 12.58408
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 791
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 194
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "Castelnuovo"
+}

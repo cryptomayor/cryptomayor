@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4023067",
+    "name": "La Grulla, Mexico",
+    "description": "Guanajuato, Dolores Hidalgo Cuna de la Independencia Nacional",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4023067",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4023067.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 21.10327
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -100.72567
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 558
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1962
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "La Grulla,La Grulla de Abajo"
+}

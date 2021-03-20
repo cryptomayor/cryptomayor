@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3524456",
+    "name": "La Victoria, Mexico",
+    "description": "Chiapas, Mazat\u00e1n",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3524456",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3524456.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 14.8196
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -92.49637
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 610
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 10
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "La Victoria"
+}

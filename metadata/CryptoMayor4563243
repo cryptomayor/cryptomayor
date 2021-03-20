@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4563243",
+    "name": "Carolina, Puerto Rico",
+    "description": "Carolina, Carolina Barrio-Pueblo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4563243",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4563243.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.38078
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -65.95739
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 170404
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 22
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Puerto_Rico"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Puerto Rico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "PR",
+    "altnames": "San Fernando de la Carolina"
+}

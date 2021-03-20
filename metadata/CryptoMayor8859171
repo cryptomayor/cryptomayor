@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8859171",
+    "name": "Santa Anita, Mexico",
+    "description": "Guerrero, Copanatoyac",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8859171",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8859171.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 17.42583
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -98.71889
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1408
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1571
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Santa Anita"
+}

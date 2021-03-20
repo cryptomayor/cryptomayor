@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor303354",
+    "name": "Ortaca, Turkey",
+    "description": "Mu\u011fla",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor303354",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor303354.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 36.83915
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 28.76457
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 19741
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 30
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Istanbul"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Turkey"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AS"
+        }
+    ],
+    "country_code": "TR",
+    "altnames": "Ortaca"
+}

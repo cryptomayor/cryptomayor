@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3521111",
+    "name": "Progreso Industrial, Mexico",
+    "description": "M\u00e9xico, Nicol\u00e1s Romero",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3521111",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3521111.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.63635
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -99.35687
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 11289
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2451
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Progreso,Progreso Industrial"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2723503",
+    "name": "Bankeryd, Sweden",
+    "description": "J\u00f6nk\u00f6ping, J\u00f6nk\u00f6pings Kommun",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2723503",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2723503.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 57.86021
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 14.124
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 8506
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 116
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Stockholm"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Sweden"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "SE",
+    "altnames": "Bankeryd"
+}

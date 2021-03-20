@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2732345",
+    "name": "Vila Seca, Portugal",
+    "description": "Braga, Barcelos",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2732345",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2732345.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 41.50031
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -8.68525
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1197
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 35
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Lisbon"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Portugal"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "PT",
+    "altnames": "Vila Seca,Vila Secca"
+}

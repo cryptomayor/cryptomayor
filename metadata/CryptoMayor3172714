@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3172714",
+    "name": "Monteverdi Marittimo, Italy",
+    "description": "Tuscany, Province of Pisa",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3172714",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3172714.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 43.17787
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 10.71133
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 365
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 334
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "Monteverdi,Monteverdi Marittimo"
+}

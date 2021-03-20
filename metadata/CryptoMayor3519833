@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3519833",
+    "name": "San Antonio la Isla, Mexico",
+    "description": "M\u00e9xico, San Antonio la Isla",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3519833",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3519833.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.16441
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -99.56685
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 12525
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2589
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "San Antonio,San Antonio la Isla"
+}

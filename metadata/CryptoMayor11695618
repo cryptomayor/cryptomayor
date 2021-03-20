@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor11695618",
+    "name": "Schleifen, Austria",
+    "description": "Carinthia, Politischer Bezirk Wolfsberg",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor11695618",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor11695618.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 46.83488
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 14.82963
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 556
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 459
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Vienna"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Austria"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "AT",
+    "altnames": null
+}

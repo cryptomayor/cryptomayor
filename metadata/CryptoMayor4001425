@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4001425",
+    "name": "La Mazata, Mexico",
+    "description": "Jalisco, Etzatl\u00e1n",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4001425",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4001425.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.87971
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -104.08883
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 757
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1410
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": null
+}

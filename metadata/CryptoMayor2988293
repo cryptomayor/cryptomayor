@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2988293",
+    "name": "Payrignac, France",
+    "description": "Occitanie, Lot",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2988293",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2988293.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 44.75615
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 1.35136
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 631
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 153
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Payrignac"
+}

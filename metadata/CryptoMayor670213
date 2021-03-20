@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor670213",
+    "name": "Poieni, Romania",
+    "description": "Cluj, Comuna Poieni",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor670213",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor670213.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 46.9188
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 22.85826
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1051
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 479
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": "Kissebes,Poeni"
+}

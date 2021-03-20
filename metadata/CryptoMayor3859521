@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3859521",
+    "name": "Darwin, Argentina",
+    "description": "Rio Negro, Departamento de Avellaneda",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3859521",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3859521.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -39.20334
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -65.73952
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1052
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 137
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Argentina/Salta"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Argentina"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "AR",
+    "altnames": "Darwin"
+}

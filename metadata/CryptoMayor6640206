@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6640206",
+    "name": "Wolli Creek, Australia",
+    "description": "New South Wales, Rockdale",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6640206",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6640206.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -33.93133
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 151.15222
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 6614
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 3
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Sydney"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": null
+}

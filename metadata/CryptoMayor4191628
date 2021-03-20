@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4191628",
+    "name": "Dock Junction, United States",
+    "description": "Georgia, Glynn County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4191628",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4191628.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 31.20245
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -81.51677
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 7721
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 10
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/New_York"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

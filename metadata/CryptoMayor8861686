@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8861686",
+    "name": "Alta Luz, Mexico",
+    "description": "Veracruz, Huatusco",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8861686",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8861686.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.08583
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -96.95
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 655
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1147
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Alta Luz"
+}

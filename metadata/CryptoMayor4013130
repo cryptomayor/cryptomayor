@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4013130",
+    "name": "Comala, Mexico",
+    "description": "Colima, Comala",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4013130",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4013130.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.32717
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -103.75926
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 9442
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 625
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Comala"
+}

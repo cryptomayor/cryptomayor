@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4276166",
+    "name": "Ness City, United States",
+    "description": "Kansas, Ness County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4276166",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4276166.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 38.45279
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -99.90651
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1407
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 695
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Chicago"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": "Iowa,Ness City"
+}

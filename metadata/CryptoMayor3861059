@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3861059",
+    "name": "Cintra, Argentina",
+    "description": "Cordoba, Departamento de Uni\u00f3n",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3861059",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3861059.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -32.30673
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -62.65214
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1054
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 130
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Argentina/Cordoba"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Argentina"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "AR",
+    "altnames": "Cintra"
+}

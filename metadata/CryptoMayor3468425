@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3468425",
+    "name": "Cachoeiras de Macacu, Brazil",
+    "description": "Rio de Janeiro, Cachoeiras de Macacu",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3468425",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3468425.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -22.4625
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -42.65306
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 46177
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 63
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Sao_Paulo"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Brazil"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "BR",
+    "altnames": "Cachoeiras"
+}

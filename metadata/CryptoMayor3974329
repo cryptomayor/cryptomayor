@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3974329",
+    "name": "Dulce Grande, Mexico",
+    "description": "San Luis Potos\u00ed, Villa de Ramos",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3974329",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3974329.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 23.00175
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -102.17405
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 5967
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1988
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Dulce Grande"
+}

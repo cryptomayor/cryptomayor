@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3995404",
+    "name": "Morcillo, Mexico",
+    "description": "Durango, Durango",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3995404",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3995404.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 24.17015
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -104.70162
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 885
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1918
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Monterrey"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": null
+}

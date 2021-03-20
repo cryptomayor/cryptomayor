@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3448033",
+    "name": "Sapucaia, Brazil",
+    "description": "Rio de Janeiro, Sapucaia",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3448033",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3448033.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -21.995
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -42.91444
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 12329
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 224
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Sao_Paulo"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Brazil"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "BR",
+    "altnames": null
+}

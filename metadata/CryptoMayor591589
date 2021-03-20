@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor591589",
+    "name": "Karksi, Estonia",
+    "description": "Viljandimaa, Mulgi vald",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor591589",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor591589.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 58.11722
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 25.58778
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 528
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 110
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Tallinn"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Estonia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "EE",
+    "altnames": "Karksi,Karksi Asundus,Karski,Myza Karksi"
+}

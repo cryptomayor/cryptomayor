@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4029463",
+    "name": "Los Olvera, Mexico",
+    "description": "Quer\u00e9taro, Corregidora",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4029463",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4029463.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.53434
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -100.40795
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3539
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1870
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Los Olvera"
+}

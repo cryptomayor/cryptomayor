@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4025180",
+    "name": "Las Trojes, Mexico",
+    "description": "Michoac\u00e1n, \u00c1lvaro Obreg\u00f3n",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4025180",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4025180.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.88396
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -101.05642
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 650
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1865
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Las Trojes"
+}

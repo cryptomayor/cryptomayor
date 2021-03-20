@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4013579",
+    "name": "Cocula, Mexico",
+    "description": "Jalisco, Cocula",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4013579",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4013579.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.36517
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -103.82215
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 14548
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1349
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": null
+}

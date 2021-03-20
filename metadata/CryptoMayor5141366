@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5141366",
+    "name": "Tribes Hill, United States",
+    "description": "New York, Montgomery County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5141366",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5141366.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 42.95535
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -74.28513
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1003
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 130
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/New_York"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": "Tribes Hill,Tribeshill"
+}

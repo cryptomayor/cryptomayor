@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3986254",
+    "name": "San Jos\u00e9 de Aura, Mexico",
+    "description": "Coahuila, Progreso",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3986254",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3986254.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 27.58778
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -101.3725
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1219
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 475
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Monterrey"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Aura,San Jose de Aura,San Jos\u00e9 de Aura"
+}

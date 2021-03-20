@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8860840",
+    "name": "Cuaxicala, Mexico",
+    "description": "Puebla, Huauchinango",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8860840",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8860840.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.23888
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -98.02676
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 774
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1479
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Cuaxicala"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2158145",
+    "name": "Melton South, Australia",
+    "description": "Victoria, Melton",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2158145",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2158145.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -37.70773
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 144.57493
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 11426
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 119
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Melbourne"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": null
+}

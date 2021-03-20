@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2178180",
+    "name": "Albion, Australia",
+    "description": "Victoria, Brimbank",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2178180",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2178180.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -37.78017
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 144.81724
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 4337
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 43
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Melbourne"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": null
+}

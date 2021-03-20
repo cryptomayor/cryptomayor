@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor11704254",
+    "name": "Tweed Heads South, Australia",
+    "description": "New South Wales, Tweed",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor11704254",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor11704254.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -28.19517
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 153.53964
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 8210
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 7
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Sydney"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": null
+}

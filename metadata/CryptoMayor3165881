@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3165881",
+    "name": "Tavernelle, Italy",
+    "description": "Umbria, Provincia di Perugia",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3165881",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3165881.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 43.00333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 12.1452
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3177
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 237
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": null
+}

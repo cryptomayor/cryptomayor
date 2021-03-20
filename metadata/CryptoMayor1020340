@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor1020340",
+    "name": "Belfast, South Africa",
+    "description": "Mpumalanga, Nkangala District Municipality",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor1020340",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor1020340.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -25.68991
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 30.03504
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 11916
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1873
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Africa/Johannesburg"
+        },
+        {
+            "trait_type": "Country",
+            "value": "South Africa"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AF"
+        }
+    ],
+    "country_code": "ZA",
+    "altnames": "Belfast"
+}

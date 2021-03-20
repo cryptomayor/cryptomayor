@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3174520",
+    "name": "Lucignano, Italy",
+    "description": "Tuscany, Province of Arezzo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3174520",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3174520.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 43.27259
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 11.74599
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1748
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 380
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "Lucignano"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3483548",
+    "name": "El Carrizal, Mexico",
+    "description": "San Luis Potos\u00ed, Tampamol\u00f3n Corona",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3483548",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3483548.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 21.60344
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -98.74544
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 666
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 76
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Carrizal,El Carrizal"
+}

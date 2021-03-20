@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4028386",
+    "name": "El Centenario, Mexico",
+    "description": "Nayarit, Acaponeta",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4028386",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4028386.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 22.51139
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -105.36444
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 701
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 34
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mazatlan"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": null
+}

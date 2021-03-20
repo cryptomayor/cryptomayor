@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2660631",
+    "name": "Gersau, Switzerland",
+    "description": "Schwyz, Bezirk Gersau",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2660631",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2660631.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 46.99419
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 8.525
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1983
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 465
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Zurich"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Switzerland"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "CH",
+    "altnames": "Gersau"
+}

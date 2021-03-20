@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3802196",
+    "name": "Villa la Venta, Mexico",
+    "description": "Tabasco, Huimanguillo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3802196",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3802196.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.09863
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -94.04593
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 8821
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 20
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "La Venta,Villa la Venta"
+}

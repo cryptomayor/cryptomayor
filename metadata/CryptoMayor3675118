@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3675118",
+    "name": "Matanza, Colombia",
+    "description": "Santander, Matanza",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3675118",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3675118.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 7.32233
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -73.01516
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1669
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1588
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Bogota"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Colombia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "CO",
+    "altnames": "Matanza"
+}

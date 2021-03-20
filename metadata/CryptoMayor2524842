@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2524842",
+    "name": "Domus de Maria, Italy",
+    "description": "Sardinia, Provincia del Sud Sardegna",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2524842",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2524842.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 38.94451
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 8.8625
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1015
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 73
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "Domus de Maria"
+}

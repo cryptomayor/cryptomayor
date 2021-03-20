@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3984416",
+    "name": "Santa Elena, Mexico",
+    "description": "Zacatecas, General P\u00e1nfilo Natera",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3984416",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3984416.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 22.5924
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -102.07141
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1770
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2047
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": null
+}

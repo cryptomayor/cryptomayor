@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3130123",
+    "name": "Amusco, Spain",
+    "description": "Castille and Le\u00f3n, Provincia de Palencia",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3130123",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3130123.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 42.17306
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -4.47018
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 494
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 774
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Madrid"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Spain"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "ES",
+    "altnames": "Amusco"
+}

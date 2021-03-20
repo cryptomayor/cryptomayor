@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3519588",
+    "name": "San Carlos, Mexico",
+    "description": "Tabasco, Balanc\u00e1n",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3519588",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3519588.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 17.55221
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -91.15408
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 13054
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 56
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": null
+}

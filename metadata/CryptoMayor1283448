@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor1283448",
+    "name": "Dhulikhel, Nepal",
+    "description": "Bagmati Province, Kavrepalanchok",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor1283448",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor1283448.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 27.6221
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 85.54281
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 16263
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1484
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Asia/Kathmandu"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Nepal"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AS"
+        }
+    ],
+    "country_code": "NP",
+    "altnames": null
+}

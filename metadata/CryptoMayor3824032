@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3824032",
+    "name": "El Encanto, Mexico",
+    "description": "Veracruz, Agua Dulce",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3824032",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3824032.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 17.99363
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -94.12104
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 754
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 25
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "El Encanto,El Pesquero"
+}

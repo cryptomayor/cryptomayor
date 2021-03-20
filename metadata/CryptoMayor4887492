@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4887492",
+    "name": "Chicago Ridge, United States",
+    "description": "Illinois, Cook County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4887492",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4887492.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 41.70142
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -87.77922
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 14373
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 184
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Chicago"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

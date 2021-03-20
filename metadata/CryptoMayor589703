@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor589703",
+    "name": "Paikuse, Estonia",
+    "description": "P\u00e4rnumaa, P\u00e4rnu linn",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor589703",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor589703.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 58.37917
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 24.63444
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1996
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 11
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Tallinn"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Estonia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "EE",
+    "altnames": "Paikuse"
+}

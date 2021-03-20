@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6940549",
+    "name": "Haag (Rheintal), Switzerland",
+    "description": "Saint Gallen, Wahlkreis Werdenberg",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6940549",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6940549.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.20989
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 9.48931
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1180
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 441
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Zurich"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Switzerland"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "CH",
+    "altnames": "Haag,Haag (Rheintal)"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4010311",
+    "name": "El Coacoyul, Mexico",
+    "description": "Guerrero, Zihuatanejo de Azueta",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4010311",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4010311.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 17.6381
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -101.47571
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 6850
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 22
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Coacoyul,El Coacoyul"
+}

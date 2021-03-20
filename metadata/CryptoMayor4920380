@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4920380",
+    "name": "Flora, United States",
+    "description": "Indiana, Carroll County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4920380",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4920380.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 40.54726
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -86.52444
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1985
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 216
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Indiana/Indianapolis"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

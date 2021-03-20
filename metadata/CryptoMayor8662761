@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8662761",
+    "name": "Chupaca, Peru",
+    "description": "Huancavelica, Provincia de Huancavelica",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8662761",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8662761.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -12.52319
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -74.82953
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 623
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 3336
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Lima"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Peru"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "PE",
+    "altnames": null
+}

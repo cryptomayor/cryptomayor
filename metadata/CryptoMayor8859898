@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8859898",
+    "name": "Ejido Miraflores, Mexico",
+    "description": "M\u00e9xico, Isidro Fabela",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8859898",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8859898.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.57
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -99.3975
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1017
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2679
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Ejido Miraflores"
+}

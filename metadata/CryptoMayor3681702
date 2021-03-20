@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3681702",
+    "name": "Guaduas, Colombia",
+    "description": "Cundinamarca, Guaduas",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3681702",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3681702.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 5.06692
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -74.59499
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 14392
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 993
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Bogota"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Colombia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "CO",
+    "altnames": "Guaduas"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6535195",
+    "name": "Corzano, Italy",
+    "description": "Lombardy, Provincia di Brescia",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6535195",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6535195.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 45.44378
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 10.00737
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 724
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 94
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3033415",
+    "name": "Berck, France",
+    "description": "Hauts-de-France, Pas-de-Calais",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3033415",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3033415.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 50.4
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 1.6
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 15609
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 3
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Berck-sur-Mer"
+}

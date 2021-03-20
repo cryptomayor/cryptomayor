@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3824811",
+    "name": "Balzapote, Mexico",
+    "description": "Veracruz, San Andr\u00e9s Tuxtla",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3824811",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3824811.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.61836
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -95.07222
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 525
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 19
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Balzapote"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor7522183",
+    "name": "Atafu Village, Tokelau",
+    "description": "Atafu",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor7522183",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor7522183.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -8.54212
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -172.51591
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 524
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 10
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Pacific/Fakaofo"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Tokelau"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "TK",
+    "altnames": "Atafu,Atafu Village"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3180920",
+    "name": "Camposampiero, Italy",
+    "description": "Veneto, Provincia di Padova",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3180920",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3180920.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 45.56368
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 11.93534
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 8722
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 23
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "Campo San Piero,Camposampiero"
+}

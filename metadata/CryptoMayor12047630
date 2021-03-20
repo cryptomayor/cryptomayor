@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor12047630",
+    "name": "Pilczyce, Poland",
+    "description": "Lower Silesia, Wroc\u0142aw",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor12047630",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor12047630.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 51.13704
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 16.95752
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 5582
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 117
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Warsaw"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Poland"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "PL",
+    "altnames": null
+}

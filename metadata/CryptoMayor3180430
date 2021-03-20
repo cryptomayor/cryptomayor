@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3180430",
+    "name": "Carpineto Sinello, Italy",
+    "description": "Abruzzo, Provincia di Chieti",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3180430",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3180430.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 42.01044
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 14.50418
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 526
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 379
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "Carpineto Sinello"
+}

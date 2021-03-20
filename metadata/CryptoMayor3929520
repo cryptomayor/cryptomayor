@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3929520",
+    "name": "San Juan, Peru",
+    "description": "Ica, Provincia de Nazca",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3929520",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3929520.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -15.36528
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -75.16222
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 12795
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 23
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Lima"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Peru"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "PE",
+    "altnames": "Puerto San Juan,SJA,San Juan de Marcona"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4682380",
+    "name": "Coleman, United States",
+    "description": "Texas, Coleman County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4682380",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4682380.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 31.82737
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -99.42645
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 4393
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 521
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Chicago"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": "COM"
+}

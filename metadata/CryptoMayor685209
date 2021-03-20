@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor685209",
+    "name": "Beciu, Romania",
+    "description": "Teleorman, Comuna Beciu",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor685209",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor685209.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 44.00429
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 24.66571
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1430
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 76
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": "Beciu,Beciul"
+}

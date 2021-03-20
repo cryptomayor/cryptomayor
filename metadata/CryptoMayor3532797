@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3532797",
+    "name": "Apetzuca, Mexico",
+    "description": "Guerrero, Acatepec",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3532797",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3532797.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 17.29428
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -98.83215
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 521
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1894
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Apetzuca"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3003672",
+    "name": "Le Longeron, France",
+    "description": "Pays de la Loire, Maine-et-Loire",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3003672",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3003672.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.01845
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -1.05763
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2004
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 121
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Le Longeron"
+}

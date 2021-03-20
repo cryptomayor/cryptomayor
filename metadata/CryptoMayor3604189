@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3604189",
+    "name": "Orocuina, Honduras",
+    "description": "Choluteca",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3604189",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3604189.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 13.48167
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -87.105
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1655
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 121
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Tegucigalpa"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Honduras"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "HN",
+    "altnames": "Orocuina"
+}

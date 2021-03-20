@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4026592",
+    "name": "Tutuapan, Mexico",
+    "description": "M\u00e9xico, Ixtapan del Oro",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4026592",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4026592.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.23694
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -100.2676
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 693
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1727
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": null
+}

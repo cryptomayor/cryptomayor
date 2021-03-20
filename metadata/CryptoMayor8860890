@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8860890",
+    "name": "Poblado San Felipe, Mexico",
+    "description": "Sonora, Caborca",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8860890",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8860890.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 30.8375
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -112.82028
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 767
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 65
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Hermosillo"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Poblado San Felipe"
+}

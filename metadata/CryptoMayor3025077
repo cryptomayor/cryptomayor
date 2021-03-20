@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3025077",
+    "name": "Chivres-Val, France",
+    "description": "Hauts-de-France, Aisne",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3025077",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3025077.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 49.3956
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 3.43559
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 576
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 78
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Chivres,Chivres-Val"
+}

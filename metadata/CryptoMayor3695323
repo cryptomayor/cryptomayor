@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3695323",
+    "name": "Llapa, Peru",
+    "description": "Cajamarca, Provincia de San Miguel",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3695323",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3695323.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -6.98027
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -78.80736
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 732
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 3023
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Lima"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Peru"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "PE",
+    "altnames": null
+}

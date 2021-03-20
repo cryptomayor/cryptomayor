@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8950238",
+    "name": "La Vittoria, Italy",
+    "description": "Latium, Provincia di Frosinone",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8950238",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8950238.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 41.67248
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 13.42559
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 548
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 392
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "La Vittoria"
+}

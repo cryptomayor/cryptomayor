@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8950195",
+    "name": "Santa Croce, Italy",
+    "description": "Latium, Provincia di Rieti",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8950195",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8950195.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 42.46726
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 12.91524
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 562
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 724
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "Santa Croce"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3428577",
+    "name": "San Pedro, Argentina",
+    "description": "Misiones, Departamento de San Pedro",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3428577",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3428577.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -26.62207
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -54.10842
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 23736
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 554
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Argentina/Cordoba"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Argentina"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "AR",
+    "altnames": "San Pedro"
+}

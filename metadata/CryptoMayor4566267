@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4566267",
+    "name": "Miranda, Puerto Rico",
+    "description": "Vega Baja, Almirante Sur Barrio",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4566267",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4566267.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.38662
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -66.38378
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2057
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 149
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Puerto_Rico"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Puerto Rico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "PR",
+    "altnames": null
+}

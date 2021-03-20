@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor670611",
+    "name": "Piteasca, Romania",
+    "description": "Ilfov, Comuna G\u0103neasa",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor670611",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor670611.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 44.49339
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 26.33025
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1362
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 76
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": null
+}

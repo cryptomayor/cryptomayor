@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3591851",
+    "name": "Palencia, Guatemala",
+    "description": "Guatemala, Municipio de Palencia",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3591851",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3591851.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 14.66715
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -90.35721
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 18574
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1344
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Guatemala"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Guatemala"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "GT",
+    "altnames": "Palencia"
+}

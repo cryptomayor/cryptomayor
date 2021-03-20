@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3604384",
+    "name": "Nueva Ocotepeque, Honduras",
+    "description": "Ocotepeque",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3604384",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3604384.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 14.43333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -89.18333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 8780
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 808
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Tegucigalpa"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Honduras"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "HN",
+    "altnames": "Nueva Ocotepeque,Ocotepeque"
+}

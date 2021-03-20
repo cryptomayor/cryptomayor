@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8862132",
+    "name": "Dolores (La Borrega), Mexico",
+    "description": "Durango, Lerdo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8862132",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8862132.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 25.5925
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -103.54944
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 601
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1130
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Monterrey"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Dolores (La Borrega)"
+}

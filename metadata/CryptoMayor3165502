@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3165502",
+    "name": "Tornata, Italy",
+    "description": "Lombardy, Provincia di Cremona",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3165502",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3165502.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 45.10437
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 10.43078
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 222
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 29
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3994588",
+    "name": "Nuevo Urecho, Mexico",
+    "description": "Michoac\u00e1n, Nuevo Urecho",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3994588",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3994588.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.16602
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -101.86816
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1325
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 765
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Nuevo Urecho"
+}

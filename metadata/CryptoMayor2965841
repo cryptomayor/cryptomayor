@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2965841",
+    "name": "Callan, Ireland",
+    "description": "Leinster, Kilkenny",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2965841",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2965841.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 52.545
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -7.39111
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2330
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 67
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Dublin"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Ireland"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IE",
+    "altnames": "Callain,Callan"
+}

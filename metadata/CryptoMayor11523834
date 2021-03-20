@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor11523834",
+    "name": "Alice Springs city centre, Australia",
+    "description": "Northern Territory, Alice Springs",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor11523834",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor11523834.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -23.69697
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 133.88176
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 639
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 582
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Darwin"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": null
+}

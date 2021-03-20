@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3263332",
+    "name": "Podgora, Croatia",
+    "description": "Dubrova\u010dko-Neretvanska, Dubrova\u010dko primorje",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3263332",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3263332.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 42.84861
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 17.83639
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1541
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 249
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Zagreb"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Croatia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "HR",
+    "altnames": null
+}

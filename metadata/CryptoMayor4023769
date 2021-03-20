@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4023769",
+    "name": "San Pedro de los Agustinos, Mexico",
+    "description": "Guanajuato, Jer\u00e9cuaro",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4023769",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4023769.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.22578
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -100.5694
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 628
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2213
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "San Pedro,San Pedro de Agustinos,San Pedro de los Agustinos"
+}

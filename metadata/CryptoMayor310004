@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor310004",
+    "name": "Kara\u00e7oban, Turkey",
+    "description": "Erzurum",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor310004",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor310004.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 39.34364
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 42.09918
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 20467
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1522
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Istanbul"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Turkey"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AS"
+        }
+    ],
+    "country_code": "TR",
+    "altnames": "Karacoban,Kara\u00e7oban"
+}

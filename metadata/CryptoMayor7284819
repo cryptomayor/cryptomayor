@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor7284819",
+    "name": "La Punta, Argentina",
+    "description": "San Luis, Juan Mart\u00edn de Pueyrred\u00f3n",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor7284819",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor7284819.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -33.18368
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -66.3127
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 15000
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 814
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Argentina/San_Luis"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Argentina"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "AR",
+    "altnames": null
+}

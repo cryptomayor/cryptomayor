@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2705393",
+    "name": "Holm, Sweden",
+    "description": "Halland, Halmstads Kommun",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2705393",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2705393.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 56.73948
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 12.85462
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 764
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 48
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Stockholm"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Sweden"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "SE",
+    "altnames": "Holm"
+}

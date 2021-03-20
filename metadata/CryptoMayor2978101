@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2978101",
+    "name": "Saint-Maximin, France",
+    "description": "Hauts-de-France, Oise",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2978101",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2978101.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 49.22182
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 2.45359
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2685
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 60
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Maximum,Saint-Maximin"
+}

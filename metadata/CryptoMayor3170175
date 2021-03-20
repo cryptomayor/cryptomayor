@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3170175",
+    "name": "Popoli, Italy",
+    "description": "Abruzzo, Provincia di Pescara",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3170175",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3170175.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 42.16866
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 13.82997
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 5394
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 245
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "Popoli"
+}

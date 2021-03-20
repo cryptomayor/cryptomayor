@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2638439",
+    "name": "Scalloway, United Kingdom",
+    "description": "Scotland, Shetland Islands",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2638439",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2638439.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 60.13832
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -1.2769
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1100
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 62
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/London"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United Kingdom"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "GB",
+    "altnames": "Scalloway"
+}

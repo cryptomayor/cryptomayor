@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3687903",
+    "name": "Calimita, Colombia",
+    "description": "Valle del Cauca, Calima",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3687903",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3687903.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 3.91667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -76.5
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 0
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1542
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Bogota"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Colombia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "CO",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3427687",
+    "name": "Tortuguitas, Argentina",
+    "description": "Buenos Aires, Partido de Malvinas Argentinas",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3427687",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3427687.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -34.47513
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -58.75367
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 41390
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 20
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Argentina/Buenos_Aires"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Argentina"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "AR",
+    "altnames": "Tortuguitas"
+}

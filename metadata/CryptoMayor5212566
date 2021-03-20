@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5212566",
+    "name": "Slovan, United States",
+    "description": "Pennsylvania, Washington County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5212566",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5212566.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 40.35924
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -80.38979
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 555
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 313
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/New_York"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

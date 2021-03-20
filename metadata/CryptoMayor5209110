@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5209110",
+    "name": "Rothsville, United States",
+    "description": "Pennsylvania, Lancaster County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5209110",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5209110.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 40.15121
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -76.25107
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3044
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 154
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/New_York"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

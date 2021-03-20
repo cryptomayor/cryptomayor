@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor11198071",
+    "name": "Cuevas de Morales, Mexico",
+    "description": "Guanajuato",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor11198071",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor11198071.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.29333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -101.84323
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 683
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1701
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Cuevas de Morales"
+}

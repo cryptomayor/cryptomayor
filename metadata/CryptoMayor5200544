@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5200544",
+    "name": "McMurray, United States",
+    "description": "Pennsylvania, Washington County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5200544",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5200544.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 40.27785
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -80.08394
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 4647
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 310
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/New_York"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": "McMurray,McMurry,Mcmurry"
+}

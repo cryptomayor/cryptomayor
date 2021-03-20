@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8862153",
+    "name": "Flor de Mayo, Mexico",
+    "description": "Chiapas, La Trinitaria",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8862153",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8862153.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 15.85306
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -92.00778
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 598
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 579
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Chichilar,Flor de Mayo"
+}

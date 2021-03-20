@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3825895",
+    "name": "La Pur\u00edsima, Mexico",
+    "description": "Quer\u00e9taro, Ezequiel Montes",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3825895",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3825895.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.67444
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -99.91361
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 519
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1968
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": null
+}

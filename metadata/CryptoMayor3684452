@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3684452",
+    "name": "El Copey, Colombia",
+    "description": "Cesar, El Copey",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3684452",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3684452.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 10.15031
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -73.9614
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 18136
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 141
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Bogota"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Colombia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "CO",
+    "altnames": "Copei,Corregimiento El Copey,El Copey"
+}

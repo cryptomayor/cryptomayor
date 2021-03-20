@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3042196",
+    "name": "Port Erin, Isle of Man",
+    "description": "Port Erin",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3042196",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3042196.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 54.08487
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -4.75099
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3530
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 24
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Isle_of_Man"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Isle of Man"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IM",
+    "altnames": "Port-Ehrin,\u041f\u043e\u0440\u0442-\u042d\u0440\u0438\u043d"
+}

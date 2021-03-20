@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8862877",
+    "name": "Los Tejocotes, Mexico",
+    "description": "M\u00e9xico, Xalatlaco",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8862877",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8862877.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.18278
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -99.39917
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 531
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2907
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Los Tejocotes"
+}

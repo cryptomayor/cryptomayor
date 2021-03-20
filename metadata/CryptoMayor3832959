@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3832959",
+    "name": "Viale, Argentina",
+    "description": "Entre Rios, Departamento de Paran\u00e1",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3832959",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3832959.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -31.86782
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -60.00722
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 8939
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 71
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Argentina/Cordoba"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Argentina"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "AR",
+    "altnames": "Viale"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3606097",
+    "name": "La Virtud, Honduras",
+    "description": "Lempira",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3606097",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3606097.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 14.05
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -88.7
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1315
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 386
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Tegucigalpa"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Honduras"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "HN",
+    "altnames": "La Virtud,Virtud"
+}

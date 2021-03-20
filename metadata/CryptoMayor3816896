@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3816896",
+    "name": "Monte Sina\u00ed, Mexico",
+    "description": "Chiapas, Chicomuselo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3816896",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3816896.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 15.68924
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -92.3667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 549
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1234
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Monte Sinai,Monte Sina\u00ed"
+}

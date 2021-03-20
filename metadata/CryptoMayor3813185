@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3813185",
+    "name": "Las Moras, Mexico",
+    "description": "Hidalgo, Pisaflores",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3813185",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3813185.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 21.28818
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -98.94623
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 642
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 410
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Las Moras"
+}

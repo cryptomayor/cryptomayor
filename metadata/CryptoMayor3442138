@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3442138",
+    "name": "La Floresta, Uruguay",
+    "description": "Canelones, La Floresta",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3442138",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3442138.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -34.75572
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -55.68141
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1107
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 18
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Montevideo"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Uruguay"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "UY",
+    "altnames": "Floresta,La Floresta"
+}

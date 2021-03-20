@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6267069",
+    "name": "Nueva Vida, Peru",
+    "description": "Loreto, Provincia de Alto Amazonas",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6267069",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6267069.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -5.55232
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -76.69299
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 740
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 196
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Lima"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Peru"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "PE",
+    "altnames": "Nueva Vida"
+}

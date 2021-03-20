@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2696412",
+    "name": "Liatorp, Sweden",
+    "description": "Kronoberg, \u00c4lmhults Kommun",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2696412",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2696412.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 56.66667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 14.26667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 531
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 164
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Stockholm"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Sweden"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "SE",
+    "altnames": "Liatorp"
+}

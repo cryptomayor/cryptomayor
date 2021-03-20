@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor9972587",
+    "name": "Ravenhall, Australia",
+    "description": "Victoria, Melton",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor9972587",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor9972587.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -37.76552
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 144.75105
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1155
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 69
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Melbourne"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": null
+}

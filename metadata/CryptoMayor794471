@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor794471",
+    "name": "Parksepa, Estonia",
+    "description": "V\u00f5rumaa, V\u00f5ru vald",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor794471",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor794471.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 57.90972
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 26.98306
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 737
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 83
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Tallinn"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Estonia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "EE",
+    "altnames": "Parksepa"
+}

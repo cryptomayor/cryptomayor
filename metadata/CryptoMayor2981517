@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2981517",
+    "name": "Saint-Auvent, France",
+    "description": "Nouvelle-Aquitaine, Haute-Vienne",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2981517",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2981517.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 45.80506
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 0.9319
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 867
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 272
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Saint-Auvent"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3181456",
+    "name": "Bucine, Italy",
+    "description": "Tuscany, Province of Arezzo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3181456",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3181456.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 43.47685
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 11.61399
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2572
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 234
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "Bucine"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4024989",
+    "name": "El Acebuche, Mexico",
+    "description": "Guanajuato, Tarimoro",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4024989",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4024989.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.22311
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -100.74196
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1542
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1890
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Acebuche,El Acebuche"
+}

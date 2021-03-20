@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3014745",
+    "name": "Grenade, France",
+    "description": "Occitanie, Upper Garonne",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3014745",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3014745.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 43.77128
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 1.29282
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 6486
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 109
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Grenade,Grenade-sur-Garonne"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3531010",
+    "name": "Chiapilla, Mexico",
+    "description": "Chiapas, Chiapilla",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3531010",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3531010.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 16.56975
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -92.72037
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3809
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 543
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Chiapilla"
+}

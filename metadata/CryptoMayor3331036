@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3331036",
+    "name": "Skavkulla, Sweden",
+    "description": "Blekinge, Karlskrona Kommun",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3331036",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3331036.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 56.18333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 15.51667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 784
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 0
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Stockholm"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Sweden"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "SE",
+    "altnames": null
+}

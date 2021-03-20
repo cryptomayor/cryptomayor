@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8347757",
+    "name": "Casuarina, Australia",
+    "description": "New South Wales, Tweed",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8347757",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8347757.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -28.30042
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 153.57064
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2700
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 11
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Sydney"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": null
+}

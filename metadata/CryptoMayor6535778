@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6535778",
+    "name": "Onore, Italy",
+    "description": "Lombardy, Provincia di Bergamo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6535778",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6535778.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 45.89159
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 10.01076
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 756
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 700
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": null
+}

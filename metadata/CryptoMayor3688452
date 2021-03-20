@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3688452",
+    "name": "Buenaventura, Colombia",
+    "description": "Valle del Cauca, Buenaventura",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3688452",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3688452.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 3.58333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -77.0
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 24842
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 169
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Bogota"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Colombia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "CO",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2145911",
+    "name": "Tullimbar, Australia",
+    "description": "New South Wales, Shellharbour",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2145911",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2145911.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -34.57891
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 150.73911
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 523
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 48
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Sydney"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3018362",
+    "name": "Flavin, France",
+    "description": "Occitanie, Aveyron",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3018362",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3018362.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 44.2889
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 2.60513
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2019
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 648
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Flavin"
+}

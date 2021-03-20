@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor528734",
+    "name": "Maslovka, Russia",
+    "description": "Voronezj",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor528734",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor528734.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 51.5502
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 39.2447
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 7518
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 105
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Moscow"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Russia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RU",
+    "altnames": "Maslovka,\u041c\u0430\u0441\u043b\u043e\u0432\u043a\u0430"
+}

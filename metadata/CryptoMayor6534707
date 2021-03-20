@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6534707",
+    "name": "Tresana, Italy",
+    "description": "Tuscany, Provincia di Massa-Carrara",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6534707",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6534707.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 44.25425
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 9.91288
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 99
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 160
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": null
+}

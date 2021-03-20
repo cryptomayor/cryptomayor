@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8950012",
+    "name": "Borgo Europa, Italy",
+    "description": "Sicily, Ragusa",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8950012",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8950012.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 36.927
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 14.46711
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 633
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 120
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "Borgo Europa"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3526661",
+    "name": "1ra. Secci\u00f3n de Izapa, Mexico",
+    "description": "Chiapas, Tuxtla Chico",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3526661",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3526661.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 14.92083
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -92.17083
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1329
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 279
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Izapa"
+}

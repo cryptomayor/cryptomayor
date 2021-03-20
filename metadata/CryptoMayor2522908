@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2522908",
+    "name": "Torregrotta, Italy",
+    "description": "Sicily, Messina",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2522908",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2522908.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 38.20262
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 15.3501
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 7324
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 26
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "Torregrotta"
+}

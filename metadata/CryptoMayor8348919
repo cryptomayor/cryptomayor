@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8348919",
+    "name": "Pacific Haven, Australia",
+    "description": "Queensland, Fraser Coast",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8348919",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8348919.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -25.26583
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 152.55212
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 746
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 15
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Brisbane"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": null
+}

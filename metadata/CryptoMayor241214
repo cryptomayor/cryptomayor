@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor241214",
+    "name": "Port Glaud, Seychelles",
+    "description": "Port Glaud",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor241214",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor241214.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -4.66667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 55.41667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2174
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": -9999
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Indian/Mahe"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Seychelles"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AF"
+        }
+    ],
+    "country_code": "SC",
+    "altnames": null
+}

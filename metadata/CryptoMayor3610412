@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3610412",
+    "name": "El Rodeo, Honduras",
+    "description": "El Para\u00edso",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3610412",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3610412.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 14.28333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -86.6
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 893
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 763
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Tegucigalpa"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Honduras"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "HN",
+    "altnames": null
+}

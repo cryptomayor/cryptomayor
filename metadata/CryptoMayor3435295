@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3435295",
+    "name": "Colonias Unidas, Argentina",
+    "description": "Chaco, Departamento de Sargento Cabral",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3435295",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3435295.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -26.69825
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -59.63154
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 4093
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 83
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Argentina/Cordoba"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Argentina"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "AR",
+    "altnames": "Colonia Unidas,Colonias Unidas"
+}

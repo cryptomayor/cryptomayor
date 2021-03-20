@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8348795",
+    "name": "Park Avenue, Australia",
+    "description": "Queensland, Rockhampton",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8348795",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8348795.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -23.35327
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 150.5189
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 5001
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 22
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Brisbane"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": null
+}

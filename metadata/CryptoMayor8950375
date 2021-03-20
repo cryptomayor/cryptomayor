@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8950375",
+    "name": "Crociate, Italy",
+    "description": "Sicily, Enna",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8950375",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8950375.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 37.75477
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 14.40305
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 505
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 732
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "Crociate"
+}

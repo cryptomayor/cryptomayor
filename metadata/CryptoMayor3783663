@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3783663",
+    "name": "San Carlos, Colombia",
+    "description": "C\u00f3rdoba, San Carlos",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3783663",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3783663.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 8.74372
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -75.71331
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3447
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 27
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Bogota"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Colombia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "CO",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor761663",
+    "name": "Pokrzywnica, Poland",
+    "description": "Mazovia, Powiat pu\u0142tuski",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor761663",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor761663.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 52.62072
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 21.01925
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 510
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 107
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Warsaw"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Poland"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "PL",
+    "altnames": null
+}

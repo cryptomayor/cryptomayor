@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor1627035",
+    "name": "Simpang, Indonesia",
+    "description": "Jambi",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor1627035",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor1627035.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -1.26424
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 104.09701
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 36652
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 5
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Asia/Jakarta"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Indonesia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AS"
+        }
+    ],
+    "country_code": "ID",
+    "altnames": "Simpang"
+}

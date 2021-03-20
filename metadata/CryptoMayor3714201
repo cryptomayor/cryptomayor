@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3714201",
+    "name": "Bejuco, Panama",
+    "description": "Panam\u00e1 Oeste, Distrito de Chame",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3714201",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3714201.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 8.60037
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -79.88988
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3897
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 29
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Panama"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Panama"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "PA",
+    "altnames": "Bejuco"
+}

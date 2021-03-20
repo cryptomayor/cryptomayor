@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2987083",
+    "name": "Pinsac, France",
+    "description": "Occitanie, Lot",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2987083",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2987083.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 44.85567
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 1.51412
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 762
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 131
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Pinsac"
+}

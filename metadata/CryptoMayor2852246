@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2852246",
+    "name": "Prem, Germany",
+    "description": "Bavaria, Upper Bavaria",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2852246",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2852246.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.68333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 10.8
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 895
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 733
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Berlin"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Germany"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "DE",
+    "altnames": null
+}

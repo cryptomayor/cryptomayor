@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3823676",
+    "name": "Ejidal, Mexico",
+    "description": "Veracruz, Cotaxtla",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3823676",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3823676.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.9038
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -96.22583
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1111
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 24
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Colonia Ejidal,Ejidal,La Candelaria"
+}

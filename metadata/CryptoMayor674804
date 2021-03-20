@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor674804",
+    "name": "Licurici, Romania",
+    "description": "Gorj, Comuna Licurici",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor674804",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor674804.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 44.91667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 23.61667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 579
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 342
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": null
+}

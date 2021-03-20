@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3996542",
+    "name": "Maripita, Mexico",
+    "description": "Sinaloa, Sinaloa",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3996542",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3996542.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 25.85339
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -108.17663
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 544
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 65
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mazatlan"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Maripita"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5342657",
+    "name": "Descanso, United States",
+    "description": "California, San Diego County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5342657",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5342657.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 32.85283
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -116.61585
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1423
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1039
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Los_Angeles"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

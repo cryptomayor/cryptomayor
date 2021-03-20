@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8859048",
+    "name": "La Pen\u00ednsula, Mexico",
+    "description": "Tabasco, C\u00e1rdenas",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8859048",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8859048.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 17.94347
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -93.36148
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1516
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 28
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "La Peninsula,La Pen\u00ednsula"
+}

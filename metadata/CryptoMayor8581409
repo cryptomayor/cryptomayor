@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8581409",
+    "name": "Colonia Francisco Santana Peralta, Mexico",
+    "description": "Baja California, Mexicali",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8581409",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8581409.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 32.68056
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -114.75417
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 578
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 38
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Tijuana"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Colonia Francisco Santa Ana Peralta"
+}

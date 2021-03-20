@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8859848",
+    "name": "Fraccionamiento la Mezquitera, Mexico",
+    "description": "Guanajuato, San Francisco del Rinc\u00f3n",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8859848",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8859848.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 21.00972
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -101.83472
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1034
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1756
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Fraccionamiento la Mezquitera"
+}

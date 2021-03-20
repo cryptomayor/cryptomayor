@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5138811",
+    "name": "South Corning, United States",
+    "description": "New York, Steuben County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5138811",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5138811.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 42.12174
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -77.03719
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1124
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 293
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/New_York"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": "Mossy Glen,South Corning"
+}

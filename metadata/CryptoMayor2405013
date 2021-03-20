@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2405013",
+    "name": "Moyamba, Sierra Leone",
+    "description": "Southern Province",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2405013",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2405013.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 8.15898
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -12.43168
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 6700
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 58
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Africa/Freetown"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Sierra Leone"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AF"
+        }
+    ],
+    "country_code": "SL",
+    "altnames": "Moyamba"
+}

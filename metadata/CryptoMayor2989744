@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2989744",
+    "name": "Odomez, France",
+    "description": "Hauts-de-France, North",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2989744",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2989744.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 50.45324
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 3.52346
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 934
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 20
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Odomez"
+}

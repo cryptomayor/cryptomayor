@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3792375",
+    "name": "Carepa, Colombia",
+    "description": "Antioquia, Carepa",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3792375",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3792375.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 7.75849
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -76.65255
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 20627
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 38
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Bogota"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Colombia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "CO",
+    "altnames": "Carepa"
+}

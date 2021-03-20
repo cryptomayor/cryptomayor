@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8860512",
+    "name": "Tayoltita, Mexico",
+    "description": "Sinaloa, Elota",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8860512",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8860512.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 23.86194
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -106.865
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 840
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 37
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mazatlan"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Tayoltita"
+}

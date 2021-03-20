@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor9972802",
+    "name": "Lane Cove West, Australia",
+    "description": "New South Wales, Lane Cove",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor9972802",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor9972802.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -33.81613
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 151.15145
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2619
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 51
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Sydney"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": null
+}

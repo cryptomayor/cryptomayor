@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3815677",
+    "name": "Chivaltic Nuevo, Mexico",
+    "description": "Chiapas, Salto de Agua",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3815677",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3815677.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 17.41751
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -92.07917
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 885
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 648
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": null
+}

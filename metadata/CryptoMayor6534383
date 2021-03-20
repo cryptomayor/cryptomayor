@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6534383",
+    "name": "Davagna, Italy",
+    "description": "Liguria, Provincia di Genova",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6534383",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6534383.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 44.46585
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 9.08666
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 218
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 533
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": null
+}

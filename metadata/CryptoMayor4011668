@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4011668",
+    "name": "Esperanza, Mexico",
+    "description": "Sonora, Cajeme",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4011668",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4011668.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 27.57916
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -109.9298
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 38969
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 38
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Hermosillo"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Ejido de Esperanza,Esperanza"
+}

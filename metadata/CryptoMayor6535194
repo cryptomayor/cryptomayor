@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6535194",
+    "name": "Cellatica, Italy",
+    "description": "Lombardy, Provincia di Brescia",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6535194",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6535194.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 45.58198
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 10.18017
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3515
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 161
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": null
+}

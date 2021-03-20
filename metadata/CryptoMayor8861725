@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8861725",
+    "name": "Frijolillo, Mexico",
+    "description": "Veracruz, Mariano Escobedo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8861725",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8861725.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.94778
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -97.20333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 650
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2333
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Frijolillo"
+}

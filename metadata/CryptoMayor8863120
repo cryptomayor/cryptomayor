@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8863120",
+    "name": "Cuartillo Nuevo, Mexico",
+    "description": "San Luis Potos\u00ed, Xilitla",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8863120",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8863120.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 21.35444
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -98.94222
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 511
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 773
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Cuartillo Nuevo"
+}

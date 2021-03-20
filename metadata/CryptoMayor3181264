@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3181264",
+    "name": "Cairano, Italy",
+    "description": "Campania, Provincia di Avellino",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3181264",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3181264.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 40.89552
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 15.37069
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 305
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 745
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "Cairano"
+}

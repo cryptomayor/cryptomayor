@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6294615",
+    "name": "Hegnau / Im Zentrum, Switzerland",
+    "description": "Zurich, Bezirk Uster",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6294615",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6294615.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.38722
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 8.68079
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 942
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 461
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Zurich"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Switzerland"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "CH",
+    "altnames": "Im Zentrum"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4562529",
+    "name": "Aibonito, Puerto Rico",
+    "description": "Aibonito, Aibonito Barrio-Pueblo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4562529",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4562529.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.13996
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -66.266
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 8947
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 607
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Puerto_Rico"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Puerto Rico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "PR",
+    "altnames": "Jatibonicu"
+}

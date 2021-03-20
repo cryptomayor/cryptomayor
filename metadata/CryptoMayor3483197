@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3483197",
+    "name": "San Fernando, Mexico",
+    "description": "Tamaulipas, San Fernando",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3483197",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3483197.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 24.84749
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -98.14828
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 29171
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 44
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Monterrey"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "San Fernando,San Fernando de Presas"
+}

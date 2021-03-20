@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3699095",
+    "name": "Cajabamba, Peru",
+    "description": "Cajamarca, Provincia de Cajabamba",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3699095",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3699095.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -7.61667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -78.05
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 13486
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2636
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Lima"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Peru"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "PE",
+    "altnames": "Cajabamba"
+}

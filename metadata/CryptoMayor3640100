@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3640100",
+    "name": "Guaraque, Venezuela",
+    "description": "M\u00e9rida, Municipio Guaraque",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3640100",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3640100.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 8.15405
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -71.73562
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 0
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1557
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Caracas"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Venezuela"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "VE",
+    "altnames": "Guaraque"
+}

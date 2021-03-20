@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor679265",
+    "name": "Dobra, Romania",
+    "description": "Satu Mare, Comuna Supur",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor679265",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor679265.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.49477
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 22.82762
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1330
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 142
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": null
+}

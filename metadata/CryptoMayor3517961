@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3517961",
+    "name": "San Pedro Taviche, Mexico",
+    "description": "Oaxaca, San Pedro Taviche",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3517961",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3517961.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 16.63858
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -96.53687
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1089
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1587
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "San Pedro,San Pedro Taviche,Taviche"
+}

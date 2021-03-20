@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8700816",
+    "name": "Santa Rosa, Peru",
+    "description": "Ayacucho, Provincia de Huanta",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8700816",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8700816.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -12.33524
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -73.9715
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 512
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 501
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Lima"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Peru"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "PE",
+    "altnames": "Santa Rosa"
+}

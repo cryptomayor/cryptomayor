@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5116036",
+    "name": "East Randolph, United States",
+    "description": "New York, Cattaraugus County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5116036",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5116036.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 42.17284
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -78.94782
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 620
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 405
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/New_York"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

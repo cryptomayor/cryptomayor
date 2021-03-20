@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor11704259",
+    "name": "Manly Vale, Australia",
+    "description": "New South Wales, Northern Beaches",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor11704259",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor11704259.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -33.78457
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 151.262
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 6057
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 59
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Sydney"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": null
+}

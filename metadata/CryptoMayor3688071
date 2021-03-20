@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3688071",
+    "name": "Caicedonia, Colombia",
+    "description": "Valle del Cauca, Caicedonia",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3688071",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3688071.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 4.3324
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -75.82665
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 32417
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1165
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Bogota"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Colombia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "CO",
+    "altnames": "Caicedonia"
+}

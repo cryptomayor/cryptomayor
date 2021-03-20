@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8860219",
+    "name": "El Paisano, Mexico",
+    "description": "Veracruz, Las Vigas de Ram\u00edrez",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8860219",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8860219.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.57361
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -97.09944
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 913
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2957
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "El Paisano"
+}

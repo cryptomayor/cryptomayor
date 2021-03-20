@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2975578",
+    "name": "Savignac, France",
+    "description": "Occitanie, Aveyron",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2975578",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2975578.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 44.35878
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 1.96519
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 564
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 394
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Savignac"
+}

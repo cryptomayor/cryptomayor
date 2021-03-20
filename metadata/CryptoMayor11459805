@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor11459805",
+    "name": "Banteay Meas, Cambodia",
+    "description": "Kampot, Banteay Meas",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor11459805",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor11459805.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 10.66781
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 104.56026
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 0
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 9
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Asia/Phnom_Penh"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Cambodia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AS"
+        }
+    ],
+    "country_code": "KH",
+    "altnames": "Banteay Meas"
+}

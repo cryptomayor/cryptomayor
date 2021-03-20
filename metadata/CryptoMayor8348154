@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8348154",
+    "name": "Petersham, Australia",
+    "description": "New South Wales, Inner West",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8348154",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8348154.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -33.8946
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 151.15495
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 8040
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 42
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Sydney"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": null
+}

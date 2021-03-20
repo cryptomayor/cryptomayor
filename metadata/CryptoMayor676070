@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor676070",
+    "name": "Holod, Romania",
+    "description": "Bihor, Comuna Holod",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor676070",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor676070.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 46.78333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 22.13333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3493
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 130
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": "Holod"
+}

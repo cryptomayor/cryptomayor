@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2523166",
+    "name": "Selargius, Italy",
+    "description": "Sardinia, Provincia di Cagliari",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2523166",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2523166.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 39.25779
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 9.16323
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 23285
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 13
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "Selargius"
+}

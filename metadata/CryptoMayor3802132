@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3802132",
+    "name": "Frontera, Mexico",
+    "description": "Tabasco, Centla",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3802132",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3802132.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.41773
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -92.82737
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 538
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 6
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Frontera,Fronterita"
+}

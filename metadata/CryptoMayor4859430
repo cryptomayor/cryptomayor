@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4859430",
+    "name": "Grundy Center, United States",
+    "description": "Iowa, Grundy County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4859430",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4859430.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 42.36165
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -92.76853
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2714
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 314
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Chicago"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

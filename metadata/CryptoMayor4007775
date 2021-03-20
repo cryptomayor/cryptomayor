@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4007775",
+    "name": "El Rucio, Mexico",
+    "description": "Zacatecas, Villa de Cos",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4007775",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4007775.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 23.40743
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -102.08194
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1369
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1992
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "El Rucio,Rusio"
+}

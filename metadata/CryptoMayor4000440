@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4000440",
+    "name": "Rinconada del Mimbre, Mexico",
+    "description": "Chihuahua, Guadalupe",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4000440",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4000440.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 31.34644
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -106.04827
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 539
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1091
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Chihuahua"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Ejido Rinconada Mimbre,La Rinconada,Rinconada,Rinconada del Mimbre,Santa Isabel"
+}

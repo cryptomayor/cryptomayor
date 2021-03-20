@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor677530",
+    "name": "Gemeni, Romania",
+    "description": "Mehedin\u0163i, Comuna D\u00e2rvari",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor677530",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor677530.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 44.17265
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 23.08251
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1403
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 97
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": null
+}

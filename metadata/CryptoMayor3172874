@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3172874",
+    "name": "Monteleone di Spoleto, Italy",
+    "description": "Umbria, Provincia di Perugia",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3172874",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3172874.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 42.65046
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 12.95158
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 275
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 944
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "Monteleone,Monteleone di Spoleto"
+}

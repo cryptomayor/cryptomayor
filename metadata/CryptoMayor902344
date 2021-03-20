@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor902344",
+    "name": "Nakambala, Zambia",
+    "description": "Southern",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor902344",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor902344.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -15.83244
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 27.77994
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 10425
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1023
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Africa/Lusaka"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Zambia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AF"
+        }
+    ],
+    "country_code": "ZM",
+    "altnames": "Nakambala"
+}

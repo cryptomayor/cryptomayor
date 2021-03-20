@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8950182",
+    "name": "Porossan, Italy",
+    "description": "Aosta Valley, Valle d'Aosta",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8950182",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8950182.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 45.75568
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 7.32711
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 565
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 728
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "Porossan"
+}

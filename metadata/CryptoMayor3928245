@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3928245",
+    "name": "Santiago de Surco, Peru",
+    "description": "Lima region, Lima",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3928245",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3928245.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -12.13588
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -77.00742
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 251648
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 92
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Lima"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Peru"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "PE",
+    "altnames": "Santiago de Surco,Surco"
+}

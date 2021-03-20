@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3012921",
+    "name": "Ibos, France",
+    "description": "Occitanie, Hautes-Pyr\u00e9n\u00e9es",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3012921",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3012921.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 43.23339
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 0.00123
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2643
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 321
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Ibos"
+}

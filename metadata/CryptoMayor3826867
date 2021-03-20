@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3826867",
+    "name": "La Comunidad, Mexico",
+    "description": "M\u00e9xico, Temascaltepec",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3826867",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3826867.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.12827
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -99.93306
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 793
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2475
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "La Comunidad"
+}

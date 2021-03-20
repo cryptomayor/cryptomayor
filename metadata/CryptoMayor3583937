@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3583937",
+    "name": "Rosario de Mora, El Salvador",
+    "description": "San Salvador",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3583937",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3583937.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 13.57528
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -89.20889
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 5178
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 500
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/El_Salvador"
+        },
+        {
+            "trait_type": "Country",
+            "value": "El Salvador"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "SV",
+    "altnames": "Rosario de Mora"
+}

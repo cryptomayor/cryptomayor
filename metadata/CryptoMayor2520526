@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2520526",
+    "name": "Caleruela, Spain",
+    "description": "Castille-La Mancha, Province of Toledo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2520526",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2520526.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 39.87483
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -5.25693
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 296
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 373
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Madrid"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Spain"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "ES",
+    "altnames": "Caleruela"
+}

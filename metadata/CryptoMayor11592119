@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor11592119",
+    "name": "Blackridge, United Kingdom",
+    "description": "Scotland, West Lothian",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor11592119",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor11592119.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 55.88523
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -3.77479
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1950
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 198
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/London"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United Kingdom"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "GB",
+    "altnames": null
+}

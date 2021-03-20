@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3020696",
+    "name": "Duneau, France",
+    "description": "Pays de la Loire, Sarthe",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3020696",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3020696.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 48.06918
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 0.51939
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 890
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 114
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Duneau"
+}

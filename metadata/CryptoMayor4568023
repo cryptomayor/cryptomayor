@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4568023",
+    "name": "Sabana Seca, Puerto Rico",
+    "description": "Toa Baja, Sabana Seca Barrio",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4568023",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4568023.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.42689
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -66.18461
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 6247
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 16
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Puerto_Rico"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Puerto Rico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "PR",
+    "altnames": "Sabana Seco"
+}

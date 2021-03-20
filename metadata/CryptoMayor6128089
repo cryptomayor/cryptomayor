@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6128089",
+    "name": "Rougemont, Canada",
+    "description": "Quebec, Mont\u00e9r\u00e9gie",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6128089",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6128089.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 45.43338
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -73.04914
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1481
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 49
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Toronto"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Canada"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "CA",
+    "altnames": "Rougemont"
+}

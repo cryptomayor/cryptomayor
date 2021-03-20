@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor1092162",
+    "name": "Sidjou, Comoros",
+    "description": "Grande Comore",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor1092162",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor1092162.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -11.67139
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 43.405
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 555
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 130
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Indian/Comoro"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Comoros"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AF"
+        }
+    ],
+    "country_code": "KM",
+    "altnames": "Sidjou"
+}

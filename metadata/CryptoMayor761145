@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor761145",
+    "name": "Przesmyki, Poland",
+    "description": "Mazovia, Powiat siedlecki",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor761145",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor761145.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 52.26816
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 22.58394
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 670
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 172
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Warsaw"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Poland"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "PL",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3821518",
+    "name": "Tepochica, Mexico",
+    "description": "Guerrero, Iguala de la Independencia",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3821518",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3821518.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.30254
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -99.524
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 740
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 950
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Tepochica"
+}

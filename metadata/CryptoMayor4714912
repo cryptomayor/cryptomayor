@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4714912",
+    "name": "Noonday, United States",
+    "description": "Texas, Smith County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4714912",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4714912.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 32.23571
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -95.40607
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 777
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 147
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Chicago"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5007525",
+    "name": "Romeo, United States",
+    "description": "Michigan, Macomb County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5007525",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5007525.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 42.80281
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -83.01299
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3625
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 247
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Detroit"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

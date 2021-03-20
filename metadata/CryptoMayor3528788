@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3528788",
+    "name": "El Llano, Mexico",
+    "description": "Hidalgo, Tula de Allende",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3528788",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3528788.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.06537
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -99.31976
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 14559
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2086
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "El Llano"
+}

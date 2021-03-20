@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3813359",
+    "name": "Santa Catarina, Mexico",
+    "description": "Hidalgo, Huejutla de Reyes",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3813359",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3813359.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 21.10045
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -98.38077
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1111
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 164
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Santa Catarina"
+}

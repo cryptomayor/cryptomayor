@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3521923",
+    "name": "Santa Cruz Papalutla, Mexico",
+    "description": "Oaxaca, Santa Cruz Papalutla",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3521923",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3521923.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 16.95627
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -96.5831
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1835
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1593
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Papaluta,Santa Cruz Papalutla"
+}

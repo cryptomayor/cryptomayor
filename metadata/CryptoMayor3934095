@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3934095",
+    "name": "Ocuviri, Peru",
+    "description": "Puno, Provincia de Lampa",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3934095",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3934095.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -15.11304
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -70.91174
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 823
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 4278
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Lima"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Peru"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "PE",
+    "altnames": null
+}

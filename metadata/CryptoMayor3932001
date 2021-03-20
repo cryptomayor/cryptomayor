@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3932001",
+    "name": "Pocsi, Peru",
+    "description": "Arequipa, Provincia de Arequipa",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3932001",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3932001.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -16.51639
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -71.38833
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 203
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 3055
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Lima"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Peru"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "PE",
+    "altnames": null
+}

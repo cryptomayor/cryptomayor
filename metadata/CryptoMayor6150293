@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6150293",
+    "name": "Smoky Lake, Canada",
+    "description": "Alberta",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6150293",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6150293.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 54.11687
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -112.46863
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1063
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 618
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Edmonton"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Canada"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "CA",
+    "altnames": null
+}

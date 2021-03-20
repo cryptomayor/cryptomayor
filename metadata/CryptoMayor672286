@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor672286",
+    "name": "Nicani, Romania",
+    "description": "Suceava, Comuna Zamostea",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor672286",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor672286.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.86844
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 26.22755
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 538
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 299
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": null
+}

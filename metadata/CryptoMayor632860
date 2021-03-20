@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor632860",
+    "name": "Vahto, Finland",
+    "description": "Southwest Finland, Turku",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor632860",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor632860.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 60.6
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 22.3
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1916
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 30
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Helsinki"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Finland"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FI",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor933432",
+    "name": "Malaka, Botswana",
+    "description": "Central",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor933432",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor933432.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -22.6155
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 27.3294
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 798
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 986
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Africa/Gaborone"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Botswana"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AF"
+        }
+    ],
+    "country_code": "BW",
+    "altnames": "Malaka,Malake"
+}

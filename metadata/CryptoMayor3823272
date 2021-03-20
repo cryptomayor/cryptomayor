@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3823272",
+    "name": "El Espinal, Mexico",
+    "description": "Veracruz, Naolinco",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3823272",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3823272.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.62444
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -96.8725
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2024
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 986
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": null
+}

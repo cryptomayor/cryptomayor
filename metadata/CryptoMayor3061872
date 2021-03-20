@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3061872",
+    "name": "Z\u00e1mrsk, Czechia",
+    "description": "Pardubick\u00fd, Okres \u00dast\u00ed nad Orlic\u00ed",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3061872",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3061872.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 49.98618
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 16.12874
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 732
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 257
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Prague"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Czechia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "CZ",
+    "altnames": null
+}

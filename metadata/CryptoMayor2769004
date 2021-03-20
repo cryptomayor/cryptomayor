@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2769004",
+    "name": "Pettneu, Austria",
+    "description": "Tyrol, Politischer Bezirk Landeck",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2769004",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2769004.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.14595
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 10.33655
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1141
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1193
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Vienna"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Austria"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "AT",
+    "altnames": "Pettneu am Arlberg"
+}

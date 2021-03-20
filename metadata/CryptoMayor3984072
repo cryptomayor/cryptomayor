@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3984072",
+    "name": "Santa Mar\u00eda del Valle, Mexico",
+    "description": "Jalisco, Arandas",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3984072",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3984072.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.87837
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -102.37983
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 4142
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2065
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": null
+}

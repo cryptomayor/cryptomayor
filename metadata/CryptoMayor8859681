@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8859681",
+    "name": "San Miguel Aguacomulican, Mexico",
+    "description": "Puebla, Atzitzihuac\u00e1n",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8859681",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8859681.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.82222
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -98.55056
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1107
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1747
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "San Miguel Aguacomulican"
+}

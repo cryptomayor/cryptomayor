@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor229112",
+    "name": "Moroto, Uganda",
+    "description": "Northern Region, Moroto District",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor229112",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor229112.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 2.53453
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 34.66659
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 10300
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1393
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Africa/Kampala"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Uganda"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AF"
+        }
+    ],
+    "country_code": "UG",
+    "altnames": "Maroto,Moroto"
+}

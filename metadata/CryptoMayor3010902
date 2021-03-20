@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3010902",
+    "name": "La Bouillie, France",
+    "description": "Brittany, C\u00f4tes-d'Armor",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3010902",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3010902.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 48.57314
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -2.43656
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 694
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 97
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Ar Vezvid,La Bouillie"
+}

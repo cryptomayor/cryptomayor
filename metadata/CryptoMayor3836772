@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3836772",
+    "name": "San Pedro de Jujuy, Argentina",
+    "description": "Jujuy, Departamento de San Pedro",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3836772",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3836772.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -24.23127
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -64.86614
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 58430
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 587
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Argentina/Jujuy"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Argentina"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "AR",
+    "altnames": "San Pedro de Jujuy,XPD"
+}

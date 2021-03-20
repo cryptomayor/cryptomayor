@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5894924",
+    "name": "Bath, Canada",
+    "description": "Ontario, Lennox and Addington County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5894924",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5894924.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 44.18342
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -76.78273
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1180
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 79
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Toronto"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Canada"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "CA",
+    "altnames": null
+}

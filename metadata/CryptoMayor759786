@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor759786",
+    "name": "Rzeczni\u00f3w, Poland",
+    "description": "Mazovia, Powiat lipski",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor759786",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor759786.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 51.12804
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 21.44008
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 673
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 182
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Warsaw"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Poland"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "PL",
+    "altnames": null
+}

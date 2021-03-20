@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3598277",
+    "name": "Chuarrancho, Guatemala",
+    "description": "Guatemala, Municipio de Chuarrancho",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3598277",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3598277.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 14.81794
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -90.51568
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 7149
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1289
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Guatemala"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Guatemala"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "GT",
+    "altnames": "Chibatutuy,Chuarrancho"
+}

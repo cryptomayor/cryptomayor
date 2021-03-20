@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3823262",
+    "name": "Tronconal, Mexico",
+    "description": "Veracruz, Xalapa",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3823262",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3823262.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.56404
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -96.86324
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1014
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1188
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Tronconal"
+}

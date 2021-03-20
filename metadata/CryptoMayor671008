@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor671008",
+    "name": "Petreni, Romania",
+    "description": "Hunedoara, Comuna B\u0103cia",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor671008",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor671008.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 45.79251
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 23.02691
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 515
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 226
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": null
+}

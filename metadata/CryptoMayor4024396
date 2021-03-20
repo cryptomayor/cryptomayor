@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4024396",
+    "name": "San Antonio Cerro Prieto, Mexico",
+    "description": "Guanajuato, Romita",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4024396",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4024396.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.72612
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -101.6488
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 776
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1779
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Cerro Prieto,San Antonio Cerro Prieto"
+}

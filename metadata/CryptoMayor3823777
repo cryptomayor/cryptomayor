@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3823777",
+    "name": "Loma Angosta, Mexico",
+    "description": "Veracruz, Carrillo Puerto",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3823777",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3823777.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.78309
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -96.67588
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1094
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 292
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Loma Angosta"
+}

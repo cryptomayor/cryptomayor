@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8860225",
+    "name": "Manzana Rancho Escondido, Mexico",
+    "description": "Michoac\u00e1n, Ocampo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8860225",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8860225.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.58639
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -100.27444
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 911
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 3052
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Manzana Rancho Escondido"
+}

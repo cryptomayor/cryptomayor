@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8859062",
+    "name": "Tzintzimeo, Mexico",
+    "description": "Michoac\u00e1n, \u00c1lvaro Obreg\u00f3n",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8859062",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8859062.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.87028
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -100.97778
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1500
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1841
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Tzintzimeo"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3593235",
+    "name": "Los Amates, Guatemala",
+    "description": "Izabal, Municipio de Los Amates",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3593235",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3593235.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 15.25645
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -89.09723
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3417
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 99
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Guatemala"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Guatemala"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "GT",
+    "altnames": "Los Amates"
+}

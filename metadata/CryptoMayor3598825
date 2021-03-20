@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3598825",
+    "name": "Chahal Guatemala, Guatemala",
+    "description": "Alta Verapaz, Municipio de Chahal",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3598825",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3598825.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 15.79122
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -89.60518
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 7465
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 178
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Guatemala"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Guatemala"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "GT",
+    "altnames": "Chahal"
+}

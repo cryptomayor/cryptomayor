@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3710439",
+    "name": "El Manantial, Panama",
+    "description": "Los Santos, Distrito de Las Tablas",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3710439",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3710439.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 7.78245
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -80.24713
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 363
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 26
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Panama"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Panama"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "PA",
+    "altnames": "El Manantial"
+}

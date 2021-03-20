@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4000880",
+    "name": "La Paz de Ordaz, Mexico",
+    "description": "Jalisco, La Barca",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4000880",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4000880.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.34489
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -102.53059
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1196
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1545
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "La Paz de Ordaz"
+}

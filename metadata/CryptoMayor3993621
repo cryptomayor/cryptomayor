@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3993621",
+    "name": "Palos Altos, Mexico",
+    "description": "Guerrero, Arcelia",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3993621",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3993621.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.37077
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -100.27433
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 743
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 373
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Palo Alto,Palos Altos"
+}

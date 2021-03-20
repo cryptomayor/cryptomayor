@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3070554",
+    "name": "Mistrovice, Czechia",
+    "description": "Pardubick\u00fd, Okres \u00dast\u00ed nad Orlic\u00ed",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3070554",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3070554.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 50.02367
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 16.57151
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 577
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 471
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Prague"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Czechia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "CZ",
+    "altnames": null
+}

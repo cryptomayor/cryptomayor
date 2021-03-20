@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4704264",
+    "name": "Ladonia, United States",
+    "description": "Texas, Fannin County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4704264",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4704264.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 33.42483
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -95.94636
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 605
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 194
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Chicago"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

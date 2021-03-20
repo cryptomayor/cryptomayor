@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor308632",
+    "name": "Kayadibi, Turkey",
+    "description": "Sivas",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor308632",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor308632.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 39.47993
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 36.71245
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 0
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1349
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Istanbul"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Turkey"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AS"
+        }
+    ],
+    "country_code": "TR",
+    "altnames": "Kayadibi"
+}

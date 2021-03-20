@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6295494",
+    "name": "Z\u00fcrich (Kreis 1) / City, Switzerland",
+    "description": "Zurich, Bezirk Z\u00fcrich",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6295494",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6295494.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.37269
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 8.53576
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1089
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 418
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Zurich"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Switzerland"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "CH",
+    "altnames": null
+}

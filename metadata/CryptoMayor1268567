@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor1268567",
+    "name": "Kakching, India",
+    "description": "Manipur, Kakching",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor1268567",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor1268567.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 24.4982
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 93.98126
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 30418
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 787
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Asia/Kolkata"
+        },
+        {
+            "trait_type": "Country",
+            "value": "India"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AS"
+        }
+    ],
+    "country_code": "IN",
+    "altnames": "Kakching"
+}

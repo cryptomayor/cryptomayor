@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor468809",
+    "name": "Yasenevo, Russia",
+    "description": "Moscow",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor468809",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor468809.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 55.60686
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 37.51991
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 180000
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 228
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Moscow"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Russia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RU",
+    "altnames": "Jasenevo,Yasenevo,\u042f\u0441\u0435\u043d\u0435\u0432\u043e"
+}

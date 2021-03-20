@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor683568",
+    "name": "Buciumeni, Romania",
+    "description": "Ilfov, Ora\u015f Buftea",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor683568",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor683568.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 44.54975
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 25.96419
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2142
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 100
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": null
+}

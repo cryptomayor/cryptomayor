@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3972874",
+    "name": "La Prieta, Mexico",
+    "description": "Zacatecas, Villa de Cos",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3972874",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3972874.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 23.36781
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -102.13994
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 809
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1941
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "La Prieta"
+}

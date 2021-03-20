@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4566481",
+    "name": "Palmas, Puerto Rico",
+    "description": "Arroyo, Palmas Barrio",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4566481",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4566481.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 17.98719
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -66.02544
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2829
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 68
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Puerto_Rico"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Puerto Rico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "PR",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor625972",
+    "name": "Lahoysk, Belarus",
+    "description": "Minsk",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor625972",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor625972.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 54.2064
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 27.8512
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 10321
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 192
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Minsk"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Belarus"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "BY",
+    "altnames": "Lagojsk,Lahoysk,Logojsk,Logoysk,\u041b\u0430\u0433\u043e\u0439\u0441\u043a,\u041b\u043e\u0433\u043e\u0439\u0441\u043a"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4893700",
+    "name": "Gibson City, United States",
+    "description": "Illinois, Ford County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4893700",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4893700.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 40.45843
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -88.3846
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3409
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 226
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Chicago"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": "Gibson,Gibson City"
+}

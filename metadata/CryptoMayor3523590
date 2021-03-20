@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3523590",
+    "name": "Mapastepec, Mexico",
+    "description": "Chiapas, Mapastepec",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3523590",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3523590.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 15.43358
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -92.90039
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 17931
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 44
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Mapastepec"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor11788280",
+    "name": "Old Harlow, United Kingdom",
+    "description": "England, Essex",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor11788280",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor11788280.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 51.78353
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 0.13381
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 6968
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 72
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/London"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United Kingdom"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "GB",
+    "altnames": null
+}

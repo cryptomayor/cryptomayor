@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6295329",
+    "name": "Oberengstringen / Zentrum, Switzerland",
+    "description": "Zurich, Bezirk Dietikon",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6295329",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6295329.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.40711
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 8.46276
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1271
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 404
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Zurich"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Switzerland"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "CH",
+    "altnames": "Zentrum"
+}

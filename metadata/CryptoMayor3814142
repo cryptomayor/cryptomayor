@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3814142",
+    "name": "Texas, Mexico",
+    "description": "Hidalgo, Atotonilco de Tula",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3814142",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3814142.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.02556
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -99.19556
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 993
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2176
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Texas,Tojas"
+}

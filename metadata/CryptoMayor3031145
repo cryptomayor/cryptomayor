@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3031145",
+    "name": "Boulleville, France",
+    "description": "Normandy, Eure",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3031145",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3031145.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 49.37157
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 0.39069
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 832
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 115
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Boulleville"
+}

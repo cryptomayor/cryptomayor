@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor743638",
+    "name": "Kaynarca, Turkey",
+    "description": "Bursa",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor743638",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor743638.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 40.41444
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 29.82556
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 863
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 227
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Istanbul"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Turkey"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AS"
+        }
+    ],
+    "country_code": "TR",
+    "altnames": "Kaynarca"
+}

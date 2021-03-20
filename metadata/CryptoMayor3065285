@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3065285",
+    "name": "Starovice, Czechia",
+    "description": "South Moravian, Okres B\u0159eclav",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3065285",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3065285.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 48.95158
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 16.70661
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 761
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 206
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Prague"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Czechia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "CZ",
+    "altnames": "Gross-Steurowitz"
+}

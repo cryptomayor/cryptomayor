@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3598034",
+    "name": "Comalapa, Guatemala",
+    "description": "Chimaltenango, Municipio de Comalapa",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3598034",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3598034.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 14.74086
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -90.88761
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 20738
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2115
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Guatemala"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Guatemala"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "GT",
+    "altnames": "Comalapa"
+}

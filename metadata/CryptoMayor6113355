@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6113355",
+    "name": "Prince Edward, Canada",
+    "description": "Ontario",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6113355",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6113355.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 44.00012
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -77.24946
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 25496
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 97
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Toronto"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Canada"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "CA",
+    "altnames": "Prince Edward,Prince Edward County"
+}

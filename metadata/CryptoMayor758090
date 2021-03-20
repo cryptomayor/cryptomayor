@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor758090",
+    "name": "Strawczyn, Poland",
+    "description": "\u015awi\u0119tokrzyskie, Powiat kielecki",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor758090",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor758090.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 50.94177
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 20.42135
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1000
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 256
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Warsaw"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Poland"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "PL",
+    "altnames": null
+}

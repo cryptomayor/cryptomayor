@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3023055",
+    "name": "Courcoury, France",
+    "description": "Nouvelle-Aquitaine, Charente-Maritime",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3023055",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3023055.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 45.71002
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -0.57717
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 663
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 3
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Courcoury"
+}

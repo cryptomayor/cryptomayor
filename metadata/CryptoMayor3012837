@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3012837",
+    "name": "Illies, France",
+    "description": "Hauts-de-France, North",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3012837",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3012837.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 50.56144
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 2.83011
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1281
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 27
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Illies"
+}

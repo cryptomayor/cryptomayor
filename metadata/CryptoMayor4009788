@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4009788",
+    "name": "El Fuerte, Mexico",
+    "description": "Sinaloa, El Fuerte",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4009788",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4009788.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 26.41686
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -108.61828
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 12566
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 84
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mazatlan"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "El Fuerte,El Fuerte de Montes Claros,Fuerte"
+}

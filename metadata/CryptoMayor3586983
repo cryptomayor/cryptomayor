@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3586983",
+    "name": "Ciudad Barrios, El Salvador",
+    "description": "San Miguel",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3586983",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3586983.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 13.76667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -88.26667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 8491
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 847
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/El_Salvador"
+        },
+        {
+            "trait_type": "Country",
+            "value": "El Salvador"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "SV",
+    "altnames": "Ciudad Barrios,Villa de Cacahuatique"
+}

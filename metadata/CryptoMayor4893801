@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4893801",
+    "name": "Glasford, United States",
+    "description": "Illinois, Peoria County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4893801",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4893801.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 40.57254
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -89.81344
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1003
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 188
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Chicago"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

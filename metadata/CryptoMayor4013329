@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4013329",
+    "name": "Colonia Plenitud, Mexico",
+    "description": "Zacatecas, Fresnillo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4013329",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4013329.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 23.2325
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -103.075
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1233
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2060
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6545367",
+    "name": "Neskollen, Norway",
+    "description": "Viken, Nes",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6545367",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6545367.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 60.12159
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 11.33926
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1157
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 174
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Oslo"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Norway"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "NO",
+    "altnames": null
+}

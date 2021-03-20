@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8556208",
+    "name": "Jesmond, Australia",
+    "description": "New South Wales, Newcastle",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8556208",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8556208.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -32.90275
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 151.69072
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3100
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 12
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Sydney"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6945979",
+    "name": "Lillooet, Canada",
+    "description": "British Columbia, Squamish-Lillooet Regional District",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6945979",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6945979.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 50.6856
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -121.942
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2324
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 276
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Vancouver"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Canada"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "CA",
+    "altnames": null
+}

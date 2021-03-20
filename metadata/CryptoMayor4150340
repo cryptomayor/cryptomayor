@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4150340",
+    "name": "Cedar Grove, United States",
+    "description": "Florida, Bay County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4150340",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4150340.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 30.17103
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -85.6252
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3397
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 15
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Chicago"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

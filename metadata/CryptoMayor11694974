@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor11694974",
+    "name": "Bernardin, Austria",
+    "description": "Upper Austria, Wels Stadt",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor11694974",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor11694974.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 48.16042
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 14.00834
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 4300
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 318
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Vienna"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Austria"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "AT",
+    "altnames": null
+}

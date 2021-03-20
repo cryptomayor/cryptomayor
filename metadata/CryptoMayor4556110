@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4556110",
+    "name": "Yale, United States",
+    "description": "Oklahoma, Payne County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4556110",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4556110.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 36.11423
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -96.69919
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1223
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 250
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Chicago"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

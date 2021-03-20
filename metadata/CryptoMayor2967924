@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2967924",
+    "name": "Virsac, France",
+    "description": "Nouvelle-Aquitaine, Gironde",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2967924",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2967924.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 45.03333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -0.45
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 975
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 39
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Virsac"
+}

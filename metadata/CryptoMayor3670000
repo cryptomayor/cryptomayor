@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3670000",
+    "name": "San Carlos, Colombia",
+    "description": "Antioquia, San Carlos",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3670000",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3670000.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 6.18789
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -74.99315
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 7742
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 989
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Bogota"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Colombia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "CO",
+    "altnames": "San Carlos"
+}

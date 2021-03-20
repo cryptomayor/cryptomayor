@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3929663",
+    "name": "San Genaro, Peru",
+    "description": "Huancavelica, Provincia de Castrovirreyna",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3929663",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3929663.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -13.19418
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -75.14168
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 886
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 4883
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Lima"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Peru"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "PE",
+    "altnames": null
+}

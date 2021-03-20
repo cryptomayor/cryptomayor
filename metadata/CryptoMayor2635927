@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2635927",
+    "name": "Three Legged Cross, United Kingdom",
+    "description": "England, Dorset",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2635927",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2635927.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 50.85
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -1.88333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1492
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 29
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/London"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United Kingdom"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "GB",
+    "altnames": null
+}

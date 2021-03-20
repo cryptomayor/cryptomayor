@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3525379",
+    "name": "La Misi\u00f3n, Mexico",
+    "description": "Tamaulipas, Victoria",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3525379",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3525379.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 23.80326
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -99.17025
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1004
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 287
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Monterrey"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "La Mision,La Misi\u00f3n"
+}

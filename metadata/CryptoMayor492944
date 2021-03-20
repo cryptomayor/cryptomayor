@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor492944",
+    "name": "Sim, Russia",
+    "description": "Chelyabinsk",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor492944",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor492944.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 54.993
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 57.6982
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 15632
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 203
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Asia/Yekaterinburg"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Russia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RU",
+    "altnames": "Sim,Simski Zavod,\u0421\u0438\u043c"
+}

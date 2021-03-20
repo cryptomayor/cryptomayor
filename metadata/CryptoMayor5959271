@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5959271",
+    "name": "Gambo, Canada",
+    "description": "Newfoundland and Labrador",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5959271",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5959271.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 48.7832
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -54.21482
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1614
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 7
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/St_Johns"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Canada"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "CA",
+    "altnames": null
+}

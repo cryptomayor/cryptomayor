@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3531400",
+    "name": "Los Cavazos, Mexico",
+    "description": "Tamaulipas, Reynosa",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3531400",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3531400.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 26.14803
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -98.34508
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2187
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 44
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Matamoros"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Cabazos,Cavazos,Los Cavazos"
+}

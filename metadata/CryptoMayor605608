@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor605608",
+    "name": "Innertavle, Sweden",
+    "description": "V\u00e4sterbotten, Ume\u00e5 Kommun",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor605608",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor605608.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 63.81121
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 20.40752
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 576
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 27
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Stockholm"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Sweden"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "SE",
+    "altnames": "Innertavle"
+}

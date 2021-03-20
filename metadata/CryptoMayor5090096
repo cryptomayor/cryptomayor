@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5090096",
+    "name": "New Boston, United States",
+    "description": "New Hampshire, Hillsborough County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5090096",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5090096.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 42.97619
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -71.69396
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 4934
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 151
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/New_York"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": "Lane's New Boston,New Boston"
+}

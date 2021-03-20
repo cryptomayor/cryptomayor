@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3589632",
+    "name": "San Pedro Necta, Guatemala",
+    "description": "Huehuetenango, Municipio de San Pedro Necta",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3589632",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3589632.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 15.49142
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -91.76551
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3554
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1513
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Guatemala"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Guatemala"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "GT",
+    "altnames": "San Pedro Necta"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor1504624",
+    "name": "Karabinka, Russia",
+    "description": "Altai Krai",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor1504624",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor1504624.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 52.6885
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 86.2517
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1000
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 210
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Asia/Barnaul"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Russia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RU",
+    "altnames": "Karabinka,Karabinskoye,\u041a\u0430\u0440\u0430\u0431\u0438\u043d\u043a\u0430"
+}

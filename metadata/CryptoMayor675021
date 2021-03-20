@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor675021",
+    "name": "Larga, Romania",
+    "description": "Maramure\u015f, Comuna Suciu de Sus",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor675021",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor675021.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.45201
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 24.10507
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 537
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 447
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": null
+}

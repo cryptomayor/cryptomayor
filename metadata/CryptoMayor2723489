@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2723489",
+    "name": "Bara, Sweden",
+    "description": "Sk\u00e5ne, Svedala Kommun",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2723489",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2723489.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 55.58155
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 13.17862
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3743
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 31
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Stockholm"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Sweden"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "SE",
+    "altnames": null
+}

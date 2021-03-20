@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3834048",
+    "name": "Tostado, Argentina",
+    "description": "Santa Fe, Departamento de Nueve de Julio",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3834048",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3834048.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -29.23202
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -61.76917
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 14000
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 77
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Argentina/Cordoba"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Argentina"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "AR",
+    "altnames": "Tostado"
+}

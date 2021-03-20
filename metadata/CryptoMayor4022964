@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4022964",
+    "name": "Cerro Colorado, Mexico",
+    "description": "Guanajuato, Tierra Blanca",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4022964",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4022964.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 21.10313
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -100.23207
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 940
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1914
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Cerro Colorado,Colorado"
+}

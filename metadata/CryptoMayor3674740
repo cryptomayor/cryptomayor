@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3674740",
+    "name": "Miraflores, Colombia",
+    "description": "Guaviare, Miraflores",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3674740",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3674740.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 1.33667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -71.95111
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 4864
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 209
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Bogota"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Colombia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "CO",
+    "altnames": "MFS,Miraflores"
+}

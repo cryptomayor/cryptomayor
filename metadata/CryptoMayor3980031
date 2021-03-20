@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3980031",
+    "name": "Viudas de Poniente, Mexico",
+    "description": "Aguascalientes, Asientos",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3980031",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3980031.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 22.10361
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -102.0851
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 675
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1977
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Oriente,Viudas de Oriente,Viudas de Poniente"
+}

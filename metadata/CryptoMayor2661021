@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2661021",
+    "name": "Diepoldsau, Switzerland",
+    "description": "Saint Gallen, Wahlkreis Rheintal",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2661021",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2661021.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.386
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 9.65558
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 5401
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 411
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Zurich"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Switzerland"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "CH",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3520319",
+    "name": "Rinconada, Mexico",
+    "description": "Veracruz, Emiliano Zapata",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3520319",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3520319.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.35438
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -96.56581
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 8173
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 265
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Rinconada"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2261698",
+    "name": "Vestiaria, Portugal",
+    "description": "Leiria, Alcoba\u00e7a",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2261698",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2261698.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 39.55271
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -8.9979
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1258
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 168
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Lisbon"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Portugal"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "PT",
+    "altnames": "Vestiaria"
+}

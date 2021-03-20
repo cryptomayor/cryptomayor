@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3481456",
+    "name": "Tocuyito, Venezuela",
+    "description": "Carabobo, Municipio Libertador",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3481456",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3481456.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 10.11347
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -68.06783
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 0
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 538
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Caracas"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Venezuela"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "VE",
+    "altnames": "Tocuyito"
+}

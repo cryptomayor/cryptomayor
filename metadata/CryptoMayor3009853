@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3009853",
+    "name": "La Coulonche, France",
+    "description": "Normandy, Orne",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3009853",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3009853.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 48.64705
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -0.45653
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 505
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 306
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3976441",
+    "name": "El Bolillo, Mexico",
+    "description": "Sinaloa, Elota",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3976441",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3976441.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 24.0193
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -106.82006
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 586
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 68
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mazatlan"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "El Bolillo"
+}

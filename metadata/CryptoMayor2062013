@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2062013",
+    "name": "Salisbury, Australia",
+    "description": "South Australia, Salisbury",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2062013",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2062013.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -34.76667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 138.63333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 8136
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 31
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Adelaide"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": "Salisbury"
+}

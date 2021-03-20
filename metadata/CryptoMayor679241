@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor679241",
+    "name": "Dobric, Romania",
+    "description": "Bistri\u0163a-N\u0103s\u0103ud, Comuna C\u0103ianu",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor679241",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor679241.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.2469
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 24.12777
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1110
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 283
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": null
+}

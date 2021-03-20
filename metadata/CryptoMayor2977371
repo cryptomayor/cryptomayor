@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2977371",
+    "name": "Saint-Porquier, France",
+    "description": "Occitanie, Tarn-et-Garonne",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2977371",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2977371.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 44.00469
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 1.17697
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1094
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 92
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Mont-Porquier,Saint-Porquier"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8714371",
+    "name": "St. Sebastian, Austria",
+    "description": "Styria, Politischer Bezirk Bruck-M\u00fcrzzuschlag",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8714371",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8714371.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.78274
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 15.30958
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 885
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 854
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Vienna"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Austria"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "AT",
+    "altnames": "Sankt Sebastian"
+}

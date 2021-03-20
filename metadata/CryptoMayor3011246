@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3011246",
+    "name": "La Bastide-sur-l'Hers, France",
+    "description": "Occitanie, Ari\u00e8ge",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3011246",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3011246.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 42.95582
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 1.90853
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 721
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 435
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "La Bastide,La Bastide-sur-l'Hers"
+}

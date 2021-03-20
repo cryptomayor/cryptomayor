@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3603157",
+    "name": "Puerto Lempira, Honduras",
+    "description": "Gracias a Dios",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3603157",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3603157.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 15.26667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -83.77222
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 4856
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 10
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Tegucigalpa"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Honduras"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "HN",
+    "altnames": "PEU,Puerto Lempira"
+}

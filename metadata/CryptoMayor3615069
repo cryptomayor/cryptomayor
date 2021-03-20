@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3615069",
+    "name": "Arizona, Honduras",
+    "description": "Atl\u00e1ntida",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3615069",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3615069.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 15.63333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -87.31667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 4444
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 72
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Tegucigalpa"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Honduras"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "HN",
+    "altnames": "Arizona"
+}

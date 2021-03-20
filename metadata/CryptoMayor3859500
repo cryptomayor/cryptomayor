@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3859500",
+    "name": "Del Campillo, Argentina",
+    "description": "Cordoba, Departamento de General Roca",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3859500",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3859500.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -34.37659
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -64.49504
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3155
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 228
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Argentina/Cordoba"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Argentina"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "AR",
+    "altnames": "Del Campillo"
+}

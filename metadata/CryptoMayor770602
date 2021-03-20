@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor770602",
+    "name": "Jakubowice Murowane, Poland",
+    "description": "Lublin, Powiat lubelski",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor770602",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor770602.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 51.26992
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 22.63415
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 259
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 170
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Warsaw"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Poland"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "PL",
+    "altnames": null
+}

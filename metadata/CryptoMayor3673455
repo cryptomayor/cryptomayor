@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3673455",
+    "name": "Ovejas, Colombia",
+    "description": "Sucre, Ovejas",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3673455",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3673455.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 9.52716
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -75.22873
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 13284
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 255
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Bogota"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Colombia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "CO",
+    "altnames": "Ovejas"
+}

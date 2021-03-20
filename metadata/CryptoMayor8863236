@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8863236",
+    "name": "5 de Mayo, Mexico",
+    "description": "Oaxaca, San Sim\u00f3n Zahuatl\u00e1n",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8863236",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8863236.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 17.83083
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -98.00194
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 504
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1875
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "5 de Mayo"
+}

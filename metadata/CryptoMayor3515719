@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3515719",
+    "name": "Texcatepec, Mexico",
+    "description": "Veracruz, Texcatepec",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3515719",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3515719.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.58505
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -98.36538
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1114
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1859
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Texcatepec,Tezcatepec"
+}

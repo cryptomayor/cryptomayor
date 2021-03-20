@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3529372",
+    "name": "El Bosque, Mexico",
+    "description": "Chiapas, El Bosque",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3529372",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3529372.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 17.06273
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -92.72147
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 5155
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1082
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "El Bosque,San Juan"
+}

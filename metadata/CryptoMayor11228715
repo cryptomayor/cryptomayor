@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor11228715",
+    "name": "La Joya, Mexico",
+    "description": "Morelos",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor11228715",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor11228715.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.89064
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -99.12337
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 13715
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1477
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "La Joya"
+}

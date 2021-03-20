@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor1706084",
+    "name": "Lipahan, Philippines",
+    "description": "Calabarzon, Province of Batangas",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor1706084",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor1706084.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 13.83687
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 121.40167
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3403
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 18
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Asia/Manila"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Philippines"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AS"
+        }
+    ],
+    "country_code": "PH",
+    "altnames": "Lipahan"
+}

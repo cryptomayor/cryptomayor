@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5123347",
+    "name": "Keuka Park, United States",
+    "description": "New York, Yates County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5123347",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5123347.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 42.61535
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -77.09219
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1137
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 239
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/New_York"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

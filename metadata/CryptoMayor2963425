@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2963425",
+    "name": "Kildrum, Ireland",
+    "description": "Ulster, County Donegal",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2963425",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2963425.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 54.97977
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -7.41213
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 581
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 60
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Dublin"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Ireland"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IE",
+    "altnames": null
+}

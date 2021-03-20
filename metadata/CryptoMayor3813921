@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3813921",
+    "name": "Montecillos, Mexico",
+    "description": "Hidalgo, Atotonilco el Grande",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3813921",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3813921.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.28893
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -98.60641
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 915
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2036
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Montecillos"
+}

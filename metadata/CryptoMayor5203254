@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5203254",
+    "name": "New Salem, United States",
+    "description": "Pennsylvania, Armstrong County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5203254",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5203254.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 40.98812
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -79.24421
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 631
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 410
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/New_York"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": "New Salem,Salem"
+}

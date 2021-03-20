@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3836238",
+    "name": "Santa Isabel, Argentina",
+    "description": "La Pampa, Departamento de Chalileo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3836238",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3836238.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -36.22724
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -66.9424
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2493
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 315
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Argentina/Salta"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Argentina"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "AR",
+    "altnames": "Santa Isabel"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor321637",
+    "name": "Bekilli, Turkey",
+    "description": "Denizli",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor321637",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor321637.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 38.23105
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 29.4197
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3615
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 835
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Istanbul"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Turkey"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AS"
+        }
+    ],
+    "country_code": "TR",
+    "altnames": "Bekilli"
+}

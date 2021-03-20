@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3827305",
+    "name": "San Juan la Isla, Mexico",
+    "description": "Morelos",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3827305",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3827305.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.13027
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -99.57076
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2244
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2584
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "San Juan la Isla"
+}

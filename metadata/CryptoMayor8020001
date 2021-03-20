@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8020001",
+    "name": "Svislach, Belarus",
+    "description": "Minsk",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8020001",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8020001.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 53.6404
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 27.9199
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 4200
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 175
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Minsk"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Belarus"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "BY",
+    "altnames": "Svislach,Svisloch',Svisloch\u2019,\u0421\u0432\u0456\u0441\u043b\u0430\u0447"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6185007",
+    "name": "Wynndel, Canada",
+    "description": "British Columbia",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6185007",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6185007.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 49.18
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -116.5525
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 900
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 578
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Creston"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Canada"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "CA",
+    "altnames": null
+}

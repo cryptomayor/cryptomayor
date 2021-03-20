@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2166849",
+    "name": "Farnborough, Australia",
+    "description": "Queensland, Livingstone",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2166849",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2166849.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -23.09122
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 150.74148
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 507
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 23
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Brisbane"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": null
+}

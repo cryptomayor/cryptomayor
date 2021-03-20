@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2788559",
+    "name": "Proven, Belgium",
+    "description": "Flanders, Provincie West-Vlaanderen",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2788559",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2788559.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 50.88976
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 2.65721
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1212
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 12
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Brussels"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Belgium"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "BE",
+    "altnames": "Proven"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5003052",
+    "name": "Mulliken, United States",
+    "description": "Michigan, Eaton County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5003052",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5003052.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 42.76226
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -84.89638
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 558
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 262
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Detroit"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

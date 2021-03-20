@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4024062",
+    "name": "Piedras de Lumbre, Mexico",
+    "description": "Guanajuato, Jer\u00e9cuaro",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4024062",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4024062.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.25097
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -100.59972
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1121
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2281
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Piedras de Lumbre"
+}

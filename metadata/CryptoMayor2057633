@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2057633",
+    "name": "Yalgoo, Australia",
+    "description": "Western Australia, Yalgoo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2057633",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2057633.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -28.34356
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 116.68253
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 672
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 318
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Perth"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": "YLG,Yalgoo"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4027252",
+    "name": "San Bartolo, Mexico",
+    "description": "Guerrero, Ajuchitl\u00e1n del Progreso",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4027252",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4027252.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.22233
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -100.38348
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 541
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 300
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "San Bartolo"
+}

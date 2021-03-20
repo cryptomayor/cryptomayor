@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5121309",
+    "name": "Horseheads, United States",
+    "description": "New York, Chemung County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5121309",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5121309.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 42.16702
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -76.82051
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 6616
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 274
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/New_York"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": "Fairport,Horseheads"
+}

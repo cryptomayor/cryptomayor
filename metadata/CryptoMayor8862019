@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8862019",
+    "name": "Fraccionamiento Valle del Nevado, Mexico",
+    "description": "M\u00e9xico, Calimaya",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8862019",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8862019.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.18472
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -99.55417
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 614
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2581
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Fraccionamiento Valle del Nevado"
+}

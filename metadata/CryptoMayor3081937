@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3081937",
+    "name": "Wilkowo, Poland",
+    "description": "Lubusz, Powiat \u015bwiebodzi\u0144ski",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3081937",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3081937.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 52.2546
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 15.46755
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1000
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 87
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Warsaw"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Poland"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "PL",
+    "altnames": null
+}

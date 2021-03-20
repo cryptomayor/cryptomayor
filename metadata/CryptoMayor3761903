@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3761903",
+    "name": "Llano de la Canoa, Mexico",
+    "description": "Oaxaca, San Juan Tamazola",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3761903",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3761903.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 17.09373
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -97.21751
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 748
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1998
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Llano de la Canoa"
+}

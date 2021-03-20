@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3005360",
+    "name": "Le Barp, France",
+    "description": "Nouvelle-Aquitaine, Gironde",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3005360",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3005360.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 44.60784
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -0.77318
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 4230
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 73
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Le Barp"
+}

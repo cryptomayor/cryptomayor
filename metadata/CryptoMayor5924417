@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5924417",
+    "name": "Coaldale, Canada",
+    "description": "Alberta",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5924417",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5924417.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 49.7167
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -112.61854
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 6317
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 865
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Edmonton"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Canada"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "CA",
+    "altnames": null
+}

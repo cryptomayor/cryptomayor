@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6534789",
+    "name": "Senales, Italy",
+    "description": "Trentino-Alto Adige, Bolzano",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6534789",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6534789.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 46.70602
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 10.90846
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1394
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1343
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "Schnals,Senales"
+}

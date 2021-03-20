@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3801458",
+    "name": "Dolores Hidalgo, Mexico",
+    "description": "Oaxaca, Santiago Yaveo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3801458",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3801458.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 17.4864
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -95.48506
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 576
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 114
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Dolores Hidalgo"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4886584",
+    "name": "Capron, United States",
+    "description": "Illinois, Boone County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4886584",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4886584.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 42.39974
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -88.74038
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1348
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 281
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Chicago"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

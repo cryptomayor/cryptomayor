@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2708426",
+    "name": "Hallstavik, Sweden",
+    "description": "Stockholm, Norrt\u00e4lje Kommun",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2708426",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2708426.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 60.05
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 18.6
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 4536
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 31
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Stockholm"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Sweden"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "SE",
+    "altnames": "Hallstavik"
+}

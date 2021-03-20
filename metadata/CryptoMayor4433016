@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4433016",
+    "name": "Latimer, United States",
+    "description": "Mississippi, Jackson County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4433016",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4433016.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 30.53464
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -88.8667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 6079
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 28
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Chicago"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

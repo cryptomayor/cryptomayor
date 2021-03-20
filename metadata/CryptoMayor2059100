@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2059100",
+    "name": "Warburton, Australia",
+    "description": "Western Australia, Ngaanyatjarraku",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2059100",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2059100.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -26.1346
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 126.57681
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 608
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 459
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Perth"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": "Warburton"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor11395215",
+    "name": "Maine, United States",
+    "description": "Wisconsin, Marathon County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor11395215",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor11395215.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 45.02716
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -89.69039
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2364
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 431
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Chicago"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

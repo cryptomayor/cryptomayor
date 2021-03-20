@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor10056969",
+    "name": "Myaree, Australia",
+    "description": "Western Australia, Melville",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor10056969",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor10056969.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -32.04
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 115.81761
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1914
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 10
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Perth"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": null
+}

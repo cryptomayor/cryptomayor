@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor637400",
+    "name": "Sauvo, Finland",
+    "description": "Southwest Finland, Turku",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor637400",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor637400.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 60.34306
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 22.69642
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2941
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 12
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Helsinki"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Finland"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FI",
+    "altnames": "Sagu,Sauvo"
+}

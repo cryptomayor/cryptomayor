@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8862169",
+    "name": "Torrecitas, Mexico",
+    "description": "Guanajuato, Tierra Blanca",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8862169",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8862169.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 21.08528
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -100.19944
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 597
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1801
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Torrecitas"
+}

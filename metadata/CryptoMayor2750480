@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2750480",
+    "name": "Nederhemert, Netherlands",
+    "description": "Gelderland, Gemeente Zaltbommel",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2750480",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2750480.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 51.76518
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 5.16817
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1496
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 3
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Amsterdam"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Netherlands"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "NL",
+    "altnames": null
+}

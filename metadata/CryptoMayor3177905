@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3177905",
+    "name": "Costa di Rovigo, Italy",
+    "description": "Veneto, Provincia di Rovigo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3177905",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3177905.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 45.05181
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 11.6956
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2326
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 6
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "Costa di Rovigo"
+}

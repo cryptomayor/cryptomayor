@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2991472",
+    "name": "Moulins-la-Marche, France",
+    "description": "Normandy, Orne",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2991472",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2991472.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 48.6512
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 0.47528
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 788
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 261
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Moulins,Moulins-la-Marche"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4400260",
+    "name": "New Franklin, United States",
+    "description": "Missouri, Howard County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4400260",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4400260.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 39.01725
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -92.73741
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1082
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 202
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Chicago"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

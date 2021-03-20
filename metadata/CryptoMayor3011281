@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3011281",
+    "name": "Labastide-d'Anjou, France",
+    "description": "Occitanie, Aude",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3011281",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3011281.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 43.34665
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 1.8515
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 957
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 188
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "La Bastide-de-Fresquel,Labastide,Labastide-d'Anjou"
+}

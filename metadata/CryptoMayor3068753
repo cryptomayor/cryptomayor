@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3068753",
+    "name": "Ostrov u Macochy, Czechia",
+    "description": "South Moravian, Okres Blansko",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3068753",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3068753.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 49.38236
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 16.76268
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1078
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 503
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Prague"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Czechia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "CZ",
+    "altnames": "Ostrow"
+}

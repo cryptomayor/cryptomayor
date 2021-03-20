@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor153247",
+    "name": "Monduli, Tanzania",
+    "description": "Arusha, Monduli District",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor153247",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor153247.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -3.3
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 36.45
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 5694
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1534
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Africa/Dar_es_Salaam"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Tanzania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AF"
+        }
+    ],
+    "country_code": "TZ",
+    "altnames": "Monduli"
+}

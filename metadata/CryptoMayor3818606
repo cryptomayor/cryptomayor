@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3818606",
+    "name": "Ocpaco, Mexico",
+    "description": "Puebla, Huauchinango",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3818606",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3818606.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.14604
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -98.035
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 864
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1672
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Ocpaco"
+}

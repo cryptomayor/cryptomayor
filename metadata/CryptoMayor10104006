@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor10104006",
+    "name": "Bellbird Heights, Australia",
+    "description": "New South Wales, Cessnock",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor10104006",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor10104006.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -32.85042
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 151.32903
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 768
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 101
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Sydney"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": null
+}

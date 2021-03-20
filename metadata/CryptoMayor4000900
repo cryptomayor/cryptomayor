@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4000900",
+    "name": "La Paz, Mexico",
+    "description": "Baja California Sur, La Paz",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4000900",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4000900.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 24.14437
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -110.3005
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 215178
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 47
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mazatlan"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "LAP,La Paz,La-Pas,Paz,\u041b\u0430-\u041f\u0430\u0441"
+}

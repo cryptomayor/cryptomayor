@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3946203",
+    "name": "Calango, Peru",
+    "description": "Lima region, Provincia de Ca\u00f1ete",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3946203",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3946203.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -12.52618
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -76.54413
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 651
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 315
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Lima"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Peru"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "PE",
+    "altnames": null
+}

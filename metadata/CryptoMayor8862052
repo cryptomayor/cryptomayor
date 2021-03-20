@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8862052",
+    "name": "Monte Alegre, Mexico",
+    "description": "Guerrero, Mochitl\u00e1n",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8862052",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8862052.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 17.49694
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -99.29556
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 610
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1566
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Monte Alegre"
+}

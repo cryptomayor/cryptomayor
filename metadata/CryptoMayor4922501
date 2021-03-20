@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4922501",
+    "name": "Lake Dalecarlia, United States",
+    "description": "Indiana, Lake County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4922501",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4922501.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 41.33087
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -87.39476
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1355
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 224
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Chicago"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

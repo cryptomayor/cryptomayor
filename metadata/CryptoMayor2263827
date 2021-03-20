@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2263827",
+    "name": "Rio de Mouro, Portugal",
+    "description": "Lisbon, Sintra",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2263827",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2263827.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 38.76613
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -9.32804
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 54695
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 127
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Lisbon"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Portugal"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "PT",
+    "altnames": "Rio de Mouro"
+}

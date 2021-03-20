@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3028231",
+    "name": "Catus, France",
+    "description": "Occitanie, Lot",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3028231",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3028231.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 44.55633
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 1.33639
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 968
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 170
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Catus"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2786399",
+    "name": "Solre-sur-Sambre, Belgium",
+    "description": "Wallonia, Province du Hainaut",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2786399",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2786399.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 50.30809
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 4.15429
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2650
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 131
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Brussels"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Belgium"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "BE",
+    "altnames": "Erquelinnes (Solre-sur-Sambre)"
+}

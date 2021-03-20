@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3068719",
+    "name": "Otice, Czechia",
+    "description": "Moravskoslezsk\u00fd, Okres Opava",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3068719",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3068719.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 49.91684
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 17.86982
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1292
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 262
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Prague"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Czechia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "CZ",
+    "altnames": "Ottendorf"
+}

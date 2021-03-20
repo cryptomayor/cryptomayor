@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3700802",
+    "name": "Taboga, Panama",
+    "description": "Panam\u00e1, Distrito de Taboga",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3700802",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3700802.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 8.79462
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -79.55475
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 722
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 0
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Panama"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Panama"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "PA",
+    "altnames": "Taboga"
+}

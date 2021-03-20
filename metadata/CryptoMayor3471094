@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3471094",
+    "name": "Baixa Grande, Brazil",
+    "description": "Bahia, Baixa Grande",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3471094",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3471094.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -11.95972
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -40.16806
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 7534
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 367
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Bahia"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Brazil"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "BR",
+    "altnames": null
+}

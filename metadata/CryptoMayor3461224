@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3461224",
+    "name": "Inhambupe, Brazil",
+    "description": "Bahia, Inhambupe",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3461224",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3461224.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -11.78444
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -38.35306
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 14735
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 169
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Bahia"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Brazil"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "BR",
+    "altnames": "Inhambupo"
+}

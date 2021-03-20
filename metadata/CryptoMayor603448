@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor603448",
+    "name": "S\u00e4vast, Sweden",
+    "description": "Norrbotten, Bodens Kommun",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor603448",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor603448.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 65.77002
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 21.73113
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3093
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 21
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Stockholm"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Sweden"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "SE",
+    "altnames": null
+}

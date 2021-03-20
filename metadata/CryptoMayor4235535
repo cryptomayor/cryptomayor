@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4235535",
+    "name": "Central City, United States",
+    "description": "Illinois, Marion County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4235535",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4235535.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 38.54894
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -89.12701
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1129
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 149
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Chicago"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

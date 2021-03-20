@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8858591",
+    "name": "Ejido la Soledad, Mexico",
+    "description": "M\u00e9xico, San Jos\u00e9 del Rinc\u00f3n",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8858591",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8858591.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.645
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -100.10639
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2379
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2758
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Ejido la Soledad"
+}

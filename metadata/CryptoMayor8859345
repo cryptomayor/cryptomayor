@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8859345",
+    "name": "San Mart\u00edn Itunyoso, Mexico",
+    "description": "Oaxaca, San Mart\u00edn Itunyoso",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8859345",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8859345.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 17.22806
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -97.88083
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1276
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2612
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "San Martin Itunyoso,San Mart\u00edn Itunyoso"
+}

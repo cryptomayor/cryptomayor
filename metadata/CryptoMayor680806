@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor680806",
+    "name": "Cormaia, Romania",
+    "description": "Bistri\u0163a-N\u0103s\u0103ud, Ora\u015f S\u00e2ngeorz-B\u00e3i",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor680806",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor680806.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.36667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 24.68333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 10254
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 456
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": null
+}

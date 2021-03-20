@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8859929",
+    "name": "El Progreso, Mexico",
+    "description": "Chiapas, Las Margaritas",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8859929",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8859929.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 16.30278
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -91.92667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1007
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1491
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "El Progreso"
+}

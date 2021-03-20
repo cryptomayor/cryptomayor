@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3037237",
+    "name": "Arceau, France",
+    "description": "Bourgogne-Franche-Comt\u00e9, Cote d'Or",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3037237",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3037237.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.38489
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 5.19026
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 590
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 233
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Arceau"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor11550907",
+    "name": "Burgauberg, Austria",
+    "description": "Burgenland, Politischer Bezirk G\u00fcssing",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor11550907",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor11550907.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.14767
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 16.12351
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 773
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 336
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Vienna"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Austria"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "AT",
+    "altnames": null
+}

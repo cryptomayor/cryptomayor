@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3007119",
+    "name": "Laps, France",
+    "description": "Auvergne-Rh\u00f4ne-Alpes, Puy-de-D\u00f4me",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3007119",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3007119.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 45.67397
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 3.27013
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 517
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 593
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Laps"
+}

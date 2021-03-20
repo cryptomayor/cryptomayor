@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2147085",
+    "name": "Tenterfield, Australia",
+    "description": "New South Wales, Tenterfield Municipality",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2147085",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2147085.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -29.04946
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 152.01952
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 4107
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 849
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Sydney"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": "Tenterfield"
+}

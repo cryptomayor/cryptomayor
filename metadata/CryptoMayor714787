@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor714787",
+    "name": "Tiszabura, Hungary",
+    "description": "J\u00e1sz-Nagykun-Szolnok",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor714787",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor714787.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.45
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 20.46667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2730
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 86
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Budapest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Hungary"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "HU",
+    "altnames": "Tiszabura"
+}

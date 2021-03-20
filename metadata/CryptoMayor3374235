@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3374235",
+    "name": "Sal Rei, Cabo Verde",
+    "description": "Boa Vista",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3374235",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3374235.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 16.17611
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -22.91722
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2122
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Atlantic/Cape_Verde"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Cabo Verde"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AF"
+        }
+    ],
+    "country_code": "CV",
+    "altnames": "Sal Rei,Sal-Rel,Vila de Sal Rei"
+}

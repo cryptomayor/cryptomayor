@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8860853",
+    "name": "Barrio el Ruso, Mexico",
+    "description": "M\u00e9xico, Jocotitl\u00e1n",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8860853",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8860853.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.713
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -99.82798
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 772
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2579
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Barrio el Ruso"
+}

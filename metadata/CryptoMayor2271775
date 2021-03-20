@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2271775",
+    "name": "Alvorninha, Portugal",
+    "description": "Leiria, Caldas da Rainha",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2271775",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2271775.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 39.38224
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -9.03674
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2987
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 123
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Lisbon"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Portugal"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "PT",
+    "altnames": "Alvorninha"
+}

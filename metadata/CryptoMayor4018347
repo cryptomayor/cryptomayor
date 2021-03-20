@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4018347",
+    "name": "Arandas, Mexico",
+    "description": "Guanajuato, Irapuato",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4018347",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4018347.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.72468
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -101.37296
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 7722
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1736
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Arandas"
+}

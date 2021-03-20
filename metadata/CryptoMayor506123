@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor506123",
+    "name": "Poselki, Russia",
+    "description": "Penza",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor506123",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor506123.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 53.13236
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 46.50307
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3069
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 223
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Moscow"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Russia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RU",
+    "altnames": "Poselki,\u041f\u043e\u0441\u0435\u043b\u043a\u0438"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2997764",
+    "name": "Longchamps, France",
+    "description": "Normandy, Eure",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2997764",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2997764.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 49.36115
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 1.62517
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 526
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 117
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Longchamps"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor256200",
+    "name": "Pag\u00f3ndas, Greece",
+    "description": "North Aegean, Nom\u00f3s S\u00e1mou",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor256200",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor256200.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 37.67175
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 26.83113
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 518
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 272
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Athens"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Greece"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "GR",
+    "altnames": "Pagondas,Pagondhas,Pag\u00f3ndas,Pag\u00f3ndhas,\u03a0\u03b1\u03b3\u03ce\u03bd\u03b4\u03b1\u03c2"
+}

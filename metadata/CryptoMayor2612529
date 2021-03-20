@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2612529",
+    "name": "Stoholm, Denmark",
+    "description": "Central Jutland, Viborg Kommune",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2612529",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2612529.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 56.48454
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 9.14617
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2202
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 23
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Copenhagen"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Denmark"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "DK",
+    "altnames": "Stoholm"
+}

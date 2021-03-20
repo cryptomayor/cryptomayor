@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor7290088",
+    "name": "Raito, Italy",
+    "description": "Campania, Provincia di Salerno",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor7290088",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor7290088.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 40.66939
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 14.71797
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 938
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 116
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor1519463",
+    "name": "Sayaq, Kazakhstan",
+    "description": "Karaganda",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor1519463",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor1519463.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.0
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 77.26667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 4543
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 593
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Asia/Almaty"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Kazakhstan"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AS"
+        }
+    ],
+    "country_code": "KZ",
+    "altnames": "Sayak,Sayaq"
+}

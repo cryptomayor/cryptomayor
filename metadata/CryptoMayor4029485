@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4029485",
+    "name": "La Solana, Mexico",
+    "description": "Quer\u00e9taro, Quer\u00e9taro",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4029485",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4029485.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.73835
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -100.39469
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3871
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2057
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "La Solana"
+}

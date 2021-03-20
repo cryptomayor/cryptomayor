@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor678360",
+    "name": "Feldioara, Romania",
+    "description": "Cluj, Comuna C\u0103tina",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor678360",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor678360.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 46.88402
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 24.15483
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 628
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 338
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": null
+}

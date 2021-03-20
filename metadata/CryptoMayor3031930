@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3031930",
+    "name": "Boisseuil, France",
+    "description": "Nouvelle-Aquitaine, Haute-Vienne",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3031930",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3031930.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 45.77003
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 1.33124
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2066
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 370
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Boisseuil"
+}

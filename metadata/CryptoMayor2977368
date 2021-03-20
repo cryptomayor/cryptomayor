@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2977368",
+    "name": "Saint-Pouange, France",
+    "description": "Grand Est, Aube",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2977368",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2977368.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 48.22656
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 4.03979
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1076
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 121
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Saint-Pouange"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3455784",
+    "name": "Orleans, Brazil",
+    "description": "Santa Catarina, Orleans",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3455784",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3455784.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -28.35889
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -49.29139
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 16422
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 131
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Sao_Paulo"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Brazil"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "BR",
+    "altnames": "Orleans,Orleans do Sul"
+}

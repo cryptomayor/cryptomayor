@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4375229",
+    "name": "Ashland, United States",
+    "description": "Missouri, Boone County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4375229",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4375229.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 38.77448
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -92.25713
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3865
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 277
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Chicago"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

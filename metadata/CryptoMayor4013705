@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4013705",
+    "name": "Ciudad Manuel Doblado, Mexico",
+    "description": "Guanajuato, Manuel Doblado",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4013705",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4013705.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.72888
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -101.95226
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 13956
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1728
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Ciudad Manuel Doblado,Manuel Doblado,San Pedro Piedra Gorda"
+}

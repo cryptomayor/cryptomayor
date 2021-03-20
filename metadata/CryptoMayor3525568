@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3525568",
+    "name": "La Joya, Mexico",
+    "description": "Veracruz, Acajete",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3525568",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3525568.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.61099
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -97.02687
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1360
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2169
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "La Joya"
+}

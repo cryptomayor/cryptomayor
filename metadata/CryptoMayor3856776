@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3856776",
+    "name": "El Rodeo, Argentina",
+    "description": "Catamarca, Departamento de Ambato",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3856776",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3856776.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -28.21518
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -65.8742
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1083
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1296
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Argentina/Catamarca"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Argentina"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "AR",
+    "altnames": "El Rodeo,Rodeo"
+}

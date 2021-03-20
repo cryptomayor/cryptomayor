@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8862089",
+    "name": "Puente Colorado, Mexico",
+    "description": "Puebla, Chapulco",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8862089",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8862089.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.70431
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -97.36056
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 606
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2201
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Puente Colorado"
+}

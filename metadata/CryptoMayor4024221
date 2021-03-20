@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4024221",
+    "name": "San Diego de los Dolores, Mexico",
+    "description": "Guanajuato, Santa Cruz de Juventino Rosas",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4024221",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4024221.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.72601
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -101.02891
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 944
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1904
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "San Diego de los Dolores"
+}

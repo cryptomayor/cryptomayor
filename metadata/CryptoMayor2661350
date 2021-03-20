@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2661350",
+    "name": "Buchrain, Switzerland",
+    "description": "Lucerne, Lucerne-Land District",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2661350",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2661350.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.09625
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 8.34729
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 5341
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 458
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Zurich"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Switzerland"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "CH",
+    "altnames": null
+}

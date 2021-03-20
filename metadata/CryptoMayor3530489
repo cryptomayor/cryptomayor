@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3530489",
+    "name": "Cocoyotla, Mexico",
+    "description": "Morelos, Coatl\u00e1n del R\u00edo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3530489",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3530489.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.75445
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -99.45075
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1376
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1049
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Cocoyotla"
+}

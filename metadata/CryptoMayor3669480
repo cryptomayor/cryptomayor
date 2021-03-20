@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3669480",
+    "name": "San Juan de Betulia, Colombia",
+    "description": "Sucre, San Juan de Betulia",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3669480",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3669480.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 9.27345
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -75.24103
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 9092
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 152
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Bogota"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Colombia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "CO",
+    "altnames": "Betulia,San Juan de Betulia"
+}

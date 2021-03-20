@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3872255",
+    "name": "San Felipe, Chile",
+    "description": "Valpara\u00edso, Provincia de San Felipe de Aconcagua",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3872255",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3872255.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -32.74976
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -70.72584
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 59294
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 654
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Santiago"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Chile"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "CL",
+    "altnames": "San Felipe"
+}

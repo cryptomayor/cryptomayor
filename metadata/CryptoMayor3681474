@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3681474",
+    "name": "Guaranda, Colombia",
+    "description": "Sucre, Guaranda",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3681474",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3681474.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 8.46746
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -74.53617
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 0
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 23
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Bogota"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Colombia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "CO",
+    "altnames": "Guaranda"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2845389",
+    "name": "Rollshausen, Germany",
+    "description": "Lower Saxony",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2845389",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2845389.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 51.56667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 10.21667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 987
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 160
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Berlin"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Germany"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "DE",
+    "altnames": null
+}

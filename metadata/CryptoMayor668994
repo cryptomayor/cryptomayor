@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor668994",
+    "name": "Reghiu, Romania",
+    "description": "Vrancea, Comuna Reghiu",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor668994",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor668994.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 45.78333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 26.83333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2677
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 584
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": "Reghiu"
+}

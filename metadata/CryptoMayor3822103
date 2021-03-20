@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3822103",
+    "name": "Tierra Blanca, Mexico",
+    "description": "Guerrero, Cochoapa el Grande",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3822103",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3822103.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 17.27039
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -98.46899
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 825
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1976
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Tierra Blanca"
+}

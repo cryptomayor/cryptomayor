@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3710920",
+    "name": "El Empalme, Panama",
+    "description": "Bocas del Toro, Distrito de Changuinola",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3710920",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3710920.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 9.41468
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -82.52244
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 11035
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 19
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Panama"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Panama"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "PA",
+    "altnames": "El Empalme,Empalme"
+}

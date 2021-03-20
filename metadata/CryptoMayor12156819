@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor12156819",
+    "name": "South Parkdale, Canada",
+    "description": "Ontario, Toronto county",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor12156819",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor12156819.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 43.6367
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -79.43934
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 21849
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 95
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Toronto"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Canada"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "CA",
+    "altnames": null
+}

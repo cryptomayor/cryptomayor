@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor12157094",
+    "name": "San Antonio, Peru",
+    "description": "Moquegua, Provincia de Mariscal Nieto",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor12157094",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor12157094.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -17.21718
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -70.92593
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 15633
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1553
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Lima"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Peru"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "PE",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3432122",
+    "name": "Lapachito, Argentina",
+    "description": "Chaco, Departamento de General Donovan",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3432122",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3432122.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -27.15997
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -59.38605
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1448
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 66
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Argentina/Cordoba"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Argentina"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "AR",
+    "altnames": "Lapachito"
+}

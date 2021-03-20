@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor1292037",
+    "name": "Thayetmyo, Myanmar",
+    "description": "Magway, Thayet District",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor1292037",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor1292037.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.32076
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 95.18272
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 98185
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 47
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Asia/Yangon"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Myanmar"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AS"
+        }
+    ],
+    "country_code": "MM",
+    "altnames": "Thayetmo,Thayetmyo,Thyatmyo"
+}

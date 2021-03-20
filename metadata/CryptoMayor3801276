@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3801276",
+    "name": "Tierra Blanca, Mexico",
+    "description": "Veracruz, Tierra Blanca",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3801276",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3801276.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.44771
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -96.35912
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 47824
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 67
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Tierra Blanca"
+}

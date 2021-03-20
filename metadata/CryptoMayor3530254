@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3530254",
+    "name": "Copanatoyac, Mexico",
+    "description": "Guerrero, Copanatoyac",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3530254",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3530254.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 17.46335
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -98.71362
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2924
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1377
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Copanatoyac,Copantoyac"
+}

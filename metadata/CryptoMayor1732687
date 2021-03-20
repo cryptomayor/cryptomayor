@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor1732687",
+    "name": "Batu Pahat, Malaysia",
+    "description": "Johor, Daerah Batu Pahat",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor1732687",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor1732687.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 1.8548
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 102.9325
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 156236
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 7
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Asia/Kuala_Lumpur"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Malaysia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AS"
+        }
+    ],
+    "country_code": "MY",
+    "altnames": "BP,Bandar Penggaram,Batu Pahat"
+}

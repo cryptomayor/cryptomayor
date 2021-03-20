@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor603088",
+    "name": "Sangis, Sweden",
+    "description": "Norrbotten, Kalix Kommun",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor603088",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor603088.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 65.85573
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 23.49689
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 543
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 16
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Stockholm"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Sweden"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "SE",
+    "altnames": "Sangis"
+}

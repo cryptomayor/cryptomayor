@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor7306525",
+    "name": "Kili, Marshall Islands",
+    "description": "Kili Island",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor7306525",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor7306525.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 5.64387
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 169.12109
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 602
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 6
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Pacific/Majuro"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Marshall Islands"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "MH",
+    "altnames": null
+}

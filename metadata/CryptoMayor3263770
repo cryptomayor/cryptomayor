@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3263770",
+    "name": "Bra\u0161ina, Croatia",
+    "description": "Dubrova\u010dko-Neretvanska, \u017dupa dubrova\u010dka",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3263770",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3263770.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 42.62667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 18.19833
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 747
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 58
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Zagreb"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Croatia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "HR",
+    "altnames": null
+}

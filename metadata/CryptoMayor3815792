@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3815792",
+    "name": "La Nueva, Mexico",
+    "description": "Chiapas, Copainal\u00e1",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3815792",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3815792.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 17.0508
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -93.16611
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 643
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 640
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "La Nueva"
+}

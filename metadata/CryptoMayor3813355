@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3813355",
+    "name": "San Francisco, Mexico",
+    "description": "Hidalgo, Huazalingo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3813355",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3813355.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 21.01819
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -98.48699
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1831
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1034
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "San Francisco"
+}

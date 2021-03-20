@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2799882",
+    "name": "Dampicourt, Belgium",
+    "description": "Wallonia, Province du Luxembourg",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2799882",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2799882.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 49.55426
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 5.4983
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 759
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 205
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Brussels"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Belgium"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "BE",
+    "altnames": "Dampicourt"
+}

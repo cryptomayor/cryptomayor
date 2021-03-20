@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3428609",
+    "name": "San Miguel del Monte, Argentina",
+    "description": "Buenos Aires, Partido de Monte",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3428609",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3428609.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -35.43962
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -58.80675
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 0
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 25
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Argentina/Buenos_Aires"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Argentina"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "AR",
+    "altnames": "San M. del Monte,San Miguel de Monte,San Miguel del Monte"
+}

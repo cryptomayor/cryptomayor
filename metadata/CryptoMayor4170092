@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4170092",
+    "name": "River Park, United States",
+    "description": "Florida, Saint Lucie County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4170092",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4170092.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 27.31421
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -80.34727
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 5222
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 10
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/New_York"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": "Port Saint Lucie-River Park"
+}

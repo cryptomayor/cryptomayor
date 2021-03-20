@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor715570",
+    "name": "Szajol, Hungary",
+    "description": "J\u00e1sz-Nagykun-Szolnok",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor715570",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor715570.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.18333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 20.3
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3991
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 81
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Budapest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Hungary"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "HU",
+    "altnames": "Szajol"
+}

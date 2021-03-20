@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6293098",
+    "name": "Au / Mittel-Dorf, Switzerland",
+    "description": "Zurich, Bezirk Horgen",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6293098",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6293098.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.24303
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 8.64591
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2562
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 460
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Zurich"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Switzerland"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "CH",
+    "altnames": "Mittel-Dorf"
+}

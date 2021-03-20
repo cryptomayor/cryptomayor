@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8859000",
+    "name": "San Francisco Atotonilco, Mexico",
+    "description": "Hidalgo, Acaxochitl\u00e1n",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8859000",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8859000.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.19472
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -98.15167
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1573
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1782
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "San Francisco Atotonilco"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2412355",
+    "name": "No Kunda, Gambia",
+    "description": "North Bank",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2412355",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2412355.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 13.56667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -15.83333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1913
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 14
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Africa/Banjul"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Gambia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AF"
+        }
+    ],
+    "country_code": "GM",
+    "altnames": null
+}

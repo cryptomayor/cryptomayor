@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4521011",
+    "name": "Peebles, United States",
+    "description": "Ohio, Adams County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4521011",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4521011.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 38.94896
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -83.40575
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1764
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 251
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/New_York"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

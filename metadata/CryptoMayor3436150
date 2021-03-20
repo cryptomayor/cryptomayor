@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3436150",
+    "name": "Baradero, Argentina",
+    "description": "Buenos Aires, Partido de Baradero",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3436150",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3436150.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -33.81105
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -59.50807
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 0
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 29
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Argentina/Buenos_Aires"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Argentina"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "AR",
+    "altnames": "Baradero"
+}

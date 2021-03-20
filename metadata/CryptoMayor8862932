@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8862932",
+    "name": "El Varal (La Merced), Mexico",
+    "description": "Guanajuato, San Luis de la Paz",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8862932",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8862932.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 21.19389
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -100.44306
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 526
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2244
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "El Varal (La Merced)"
+}

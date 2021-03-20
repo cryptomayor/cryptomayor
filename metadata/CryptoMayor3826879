@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3826879",
+    "name": "Ojo de Agua, Mexico",
+    "description": "M\u00e9xico, Zinacantepec",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3826879",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3826879.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.2168
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -99.77101
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2083
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 3020
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Ojo de Agua"
+}

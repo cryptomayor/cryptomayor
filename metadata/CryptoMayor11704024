@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor11704024",
+    "name": "Untergr\u00fcnburg, Austria",
+    "description": "Upper Austria, Politischer Bezirk Kirchdorf an der Krems",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor11704024",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor11704024.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.97185
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 14.2648
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 786
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 355
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Vienna"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Austria"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "AT",
+    "altnames": null
+}

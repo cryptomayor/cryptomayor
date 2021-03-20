@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3815303",
+    "name": "Plan de Ayala, Mexico",
+    "description": "Tlaxcala, Cuapiaxtla",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3815303",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3815303.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.30944
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -97.73833
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 501
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2444
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": null
+}

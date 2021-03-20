@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor1509008",
+    "name": "Bor, Russia",
+    "description": "Krasnoyarskiy",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor1509008",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor1509008.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 61.60111
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 90.01806
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2300
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 30
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Asia/Krasnoyarsk"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Russia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RU",
+    "altnames": "Bor,TGP,\u0411\u043e\u0440"
+}

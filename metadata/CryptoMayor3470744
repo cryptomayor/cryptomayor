@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3470744",
+    "name": "Barra da Estiva, Brazil",
+    "description": "Bahia, Barra da Estiva",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3470744",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3470744.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -13.62611
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -41.32694
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 12614
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1030
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Bahia"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Brazil"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "BR",
+    "altnames": null
+}

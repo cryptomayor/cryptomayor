@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3958499",
+    "name": "San Antonio, Peru",
+    "description": "Ica, Provincia de Ica",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3958499",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3958499.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -14.28253
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -75.65176
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 523
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 344
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Lima"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Peru"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "PE",
+    "altnames": null
+}

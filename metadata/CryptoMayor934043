@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor934043",
+    "name": "Saint Julien, Mauritius",
+    "description": "Flacq",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor934043",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor934043.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -20.22639
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 57.63639
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3188
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 329
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Indian/Mauritius"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mauritius"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AF"
+        }
+    ],
+    "country_code": "MU",
+    "altnames": "Julien,Saint Julien,Saint Julien Village"
+}

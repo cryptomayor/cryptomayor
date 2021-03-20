@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6294565",
+    "name": "Wermatswil, Switzerland",
+    "description": "Zurich, Bezirk Uster",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6294565",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6294565.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.36408
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 8.74152
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 774
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 559
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Zurich"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Switzerland"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "CH",
+    "altnames": null
+}

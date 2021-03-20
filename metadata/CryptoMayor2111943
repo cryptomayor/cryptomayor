@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2111943",
+    "name": "Miharu, Japan",
+    "description": "Fukushima, Tamura-gun",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2111943",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2111943.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 37.43333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 140.48333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 19708
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 352
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Asia/Tokyo"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Japan"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AS"
+        }
+    ],
+    "country_code": "JP",
+    "altnames": "Miharu"
+}

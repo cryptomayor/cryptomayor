@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2789800",
+    "name": "Oostakker, Belgium",
+    "description": "Flanders, Provincie Oost-Vlaanderen",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2789800",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2789800.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 51.10124
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 3.76945
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 7885
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 6
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Brussels"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Belgium"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "BE",
+    "altnames": "Oostacker,Oostakker"
+}

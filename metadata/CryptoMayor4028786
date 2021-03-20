@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4028786",
+    "name": "Colonia Emiliano Zapata, Mexico",
+    "description": "Nayarit, Santiago Ixcuintla",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4028786",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4028786.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 21.82861
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -105.21972
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1657
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 15
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mazatlan"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": null
+}

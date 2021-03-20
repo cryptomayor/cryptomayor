@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4023900",
+    "name": "Potreros, Mexico",
+    "description": "M\u00e9xico",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4023900",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4023900.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.25414
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -101.65747
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1547
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1703
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Potreros"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3972655",
+    "name": "El Lampotal, Mexico",
+    "description": "Zacatecas, Vetagrande",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3972655",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3972655.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 22.89583
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -102.41944
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1368
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2089
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": null
+}

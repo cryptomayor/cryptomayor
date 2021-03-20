@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3860129",
+    "name": "Corral de Bustos, Argentina",
+    "description": "Cordoba, Departamento de Marcos Ju\u00e1rez",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3860129",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3860129.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -33.28205
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -62.18463
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 9882
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 118
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Argentina/Cordoba"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Argentina"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "AR",
+    "altnames": "Corral de Bustos"
+}

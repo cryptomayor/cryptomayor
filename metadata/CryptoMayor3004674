@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3004674",
+    "name": "Le Chay, France",
+    "description": "Nouvelle-Aquitaine, Charente-Maritime",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3004674",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3004674.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 45.63882
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -0.89548
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 607
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 13
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Le Chay"
+}

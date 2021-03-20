@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3517608",
+    "name": "Santa Cruz, Mexico",
+    "description": "Guerrero, Quechultenango",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3517608",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3517608.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 17.31058
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -99.26376
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 711
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1259
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Santa Cruz"
+}

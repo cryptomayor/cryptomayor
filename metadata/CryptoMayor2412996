@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2412996",
+    "name": "Kerewan, Gambia",
+    "description": "Upper River",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2412996",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2412996.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 13.36667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -14.21667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 585
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 21
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Africa/Banjul"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Gambia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AF"
+        }
+    ],
+    "country_code": "GM",
+    "altnames": null
+}

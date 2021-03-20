@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5194656",
+    "name": "Hyde, United States",
+    "description": "Pennsylvania, Clearfield County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5194656",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5194656.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 41.00256
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -78.46252
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1399
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 339
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/New_York"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

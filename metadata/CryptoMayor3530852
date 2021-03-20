@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3530852",
+    "name": "San Francisco Chimalpa, Mexico",
+    "description": "Morelos",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3530852",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3530852.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.44279
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -99.34398
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 8953
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2884
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Chimalpa,San Francisco Chimalpa"
+}

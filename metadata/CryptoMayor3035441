@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3035441",
+    "name": "Bagard, France",
+    "description": "Occitanie, Gard",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3035441",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3035441.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 44.07281
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 4.05137
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2200
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 140
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Bagard"
+}

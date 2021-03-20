@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor11902774",
+    "name": "Wentworth, United Kingdom",
+    "description": "England, Cambridgeshire",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor11902774",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor11902774.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 52.38526
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 0.17452
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 0
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 25
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/London"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United Kingdom"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "GB",
+    "altnames": null
+}

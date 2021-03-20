@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3998730",
+    "name": "La Yesca, Mexico",
+    "description": "Nayarit, La Yesca",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3998730",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3998730.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 21.31871
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -104.01161
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 534
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1434
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mazatlan"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "La Yesca"
+}

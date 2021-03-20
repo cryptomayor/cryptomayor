@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3865742",
+    "name": "Anguil, Argentina",
+    "description": "La Pampa, Departamento de Capital",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3865742",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3865742.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -36.52567
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -64.01025
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1977
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 159
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Argentina/Salta"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Argentina"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "AR",
+    "altnames": "Anguil"
+}

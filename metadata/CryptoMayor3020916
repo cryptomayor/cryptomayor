@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3020916",
+    "name": "Dourgne, France",
+    "description": "Occitanie, Tarn",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3020916",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3020916.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 43.48517
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 2.13841
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1288
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 254
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Dourgne"
+}

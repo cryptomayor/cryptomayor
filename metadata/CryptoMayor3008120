@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3008120",
+    "name": "Lamnay, France",
+    "description": "Pays de la Loire, Sarthe",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3008120",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3008120.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 48.11675
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 0.70433
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 865
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 155
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Lamnay"
+}

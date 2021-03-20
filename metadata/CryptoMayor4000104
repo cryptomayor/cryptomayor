@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4000104",
+    "name": "Las Cenizas, Mexico",
+    "description": "Quer\u00e9taro, Col\u00f3n",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4000104",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4000104.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.60631
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -100.07359
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 806
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2006
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Cenizal,Cenizas,Las Cenizas"
+}

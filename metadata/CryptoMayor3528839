@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3528839",
+    "name": "El Jobo, Mexico",
+    "description": "Veracruz, Comapa",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3528839",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3528839.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.13242
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -96.72392
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 626
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 600
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "El Jobo,Jobo"
+}

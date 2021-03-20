@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2905906",
+    "name": "Hermsdorf, Germany",
+    "description": "Brandenburg",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2905906",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2905906.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 52.15843
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 13.79539
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 932
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 43
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Berlin"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Germany"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "DE",
+    "altnames": "Hermsdorf"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor11820087",
+    "name": "Neu-Anif, Austria",
+    "description": "Salzburg, Politischer Bezirk Salzburg-Umgebung",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor11820087",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor11820087.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.7362
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 13.05268
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 806
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 430
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Vienna"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Austria"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "AT",
+    "altnames": null
+}

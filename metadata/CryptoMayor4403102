@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4403102",
+    "name": "Pevely, United States",
+    "description": "Missouri, Jefferson County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4403102",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4403102.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 38.28339
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -90.39512
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 5652
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 138
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Chicago"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

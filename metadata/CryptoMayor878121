@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor878121",
+    "name": "Mahuta, Tanzania",
+    "description": "Mtwara, Tandahimba",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor878121",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor878121.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -10.86667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 39.45
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 13548
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 478
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Africa/Dar_es_Salaam"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Tanzania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AF"
+        }
+    ],
+    "country_code": "TZ",
+    "altnames": "Mahuta"
+}

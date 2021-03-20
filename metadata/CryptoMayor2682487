@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2682487",
+    "name": "Rinkabyholm, Sweden",
+    "description": "Kalmar, Kalmar Kommun",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2682487",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2682487.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 56.64972
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 16.26667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1631
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 14
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Stockholm"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Sweden"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "SE",
+    "altnames": "Rinkabyholm"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4013075",
+    "name": "Compuertas, Mexico",
+    "description": "Coahuila, Matamoros",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4013075",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4013075.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 25.74681
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -103.3025
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1017
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1114
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Monterrey"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Compuertas"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3483704",
+    "name": "La Subida, Mexico",
+    "description": "San Luis Potos\u00ed, Ciudad Valles",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3483704",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3483704.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 21.90506
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -99.09892
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1515
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 154
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "La Subida"
+}

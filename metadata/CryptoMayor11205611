@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor11205611",
+    "name": "Nueva Esperanza, Paraguay",
+    "description": "Canindey\u00fa, Nueva Esperanza",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor11205611",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor11205611.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -24.5076
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -54.8551
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 12717
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 370
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Asuncion"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Paraguay"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "PY",
+    "altnames": null
+}

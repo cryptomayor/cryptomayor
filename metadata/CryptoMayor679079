@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor679079",
+    "name": "Doroban\u021bi, Romania",
+    "description": "Arad, Comuna Doroban\u021bi",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor679079",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor679079.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 46.35022
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 21.24441
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1841
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 100
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": null
+}

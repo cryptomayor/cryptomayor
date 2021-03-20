@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8030233",
+    "name": "Midstream, South Africa",
+    "description": "Gauteng, Ekurhuleni Metropolitan Municipality",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8030233",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8030233.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -25.91849
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 28.19881
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 25000
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1520
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Africa/Johannesburg"
+        },
+        {
+            "trait_type": "Country",
+            "value": "South Africa"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AF"
+        }
+    ],
+    "country_code": "ZA",
+    "altnames": null
+}

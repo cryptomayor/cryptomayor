@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4004706",
+    "name": "Huajimic, Mexico",
+    "description": "Nayarit, La Yesca",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4004706",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4004706.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 21.68347
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -104.31542
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1028
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1132
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mazatlan"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Huajimic"
+}

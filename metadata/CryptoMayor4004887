@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4004887",
+    "name": "Heroica Caborca, Mexico",
+    "description": "Sonora, Caborca",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4004887",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4004887.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 30.71825
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -112.15822
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 59922
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 288
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Hermosillo"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Caborca,Heroica Caborca,Her\u00f3ica Caborca"
+}

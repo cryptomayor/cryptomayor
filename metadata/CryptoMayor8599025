@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8599025",
+    "name": "San Luis, Mexico",
+    "description": "Baja California, Tijuana",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8599025",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8599025.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 32.43167
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -116.95361
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 8571
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 188
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Tijuana"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "San Luis"
+}

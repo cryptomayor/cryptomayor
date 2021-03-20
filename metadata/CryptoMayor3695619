@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3695619",
+    "name": "La Raya, Peru",
+    "description": "Lambayeque, Provincia de Lambayeque",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3695619",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3695619.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -6.51802
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -79.83643
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 867
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 48
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Lima"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Peru"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "PE",
+    "altnames": "La Raya"
+}

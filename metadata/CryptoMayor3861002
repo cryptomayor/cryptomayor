@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3861002",
+    "name": "Clodomira, Argentina",
+    "description": "Santiago del Estero, Departamento de Banda",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3861002",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3861002.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -27.5744
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -64.13108
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 9043
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 180
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Argentina/Cordoba"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Argentina"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "AR",
+    "altnames": "Clodomira"
+}

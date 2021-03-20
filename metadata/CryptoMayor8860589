@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8860589",
+    "name": "Barrio de Tetzmola, Mexico",
+    "description": "Veracruz, Camerino Z. Mendoza",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8860589",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8860589.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.76972
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -97.15278
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 823
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2109
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Barrio de Tetzmola"
+}

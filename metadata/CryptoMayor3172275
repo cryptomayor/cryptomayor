@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3172275",
+    "name": "Nibbiano, Italy",
+    "description": "Emilia-Romagna, Provincia di Piacenza",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3172275",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3172275.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 44.90506
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 9.32826
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 418
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 290
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "Nibbiano"
+}

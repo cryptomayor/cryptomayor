@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8861650",
+    "name": "Emiliano Zapata, Mexico",
+    "description": "Chiapas, Socoltenango",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8861650",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8861650.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 16.18344
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -92.41605
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 658
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 610
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Emiliano Zapata"
+}

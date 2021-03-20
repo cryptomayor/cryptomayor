@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3532621",
+    "name": "Atlacholoaya, Mexico",
+    "description": "Morelos, Xochitepec",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3532621",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3532621.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.74238
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -99.22656
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 4131
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1087
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Atlacholoaya"
+}

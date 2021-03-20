@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor772372",
+    "name": "Garbatka-Letnisko, Poland",
+    "description": "Mazovia, Powiat kozienicki",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor772372",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor772372.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 51.4832
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 21.61079
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3295
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 153
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Warsaw"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Poland"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "PL",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3587636",
+    "name": "Yepocapa, Guatemala",
+    "description": "Chimaltenango, Municipio de Yepocapa",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3587636",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3587636.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 14.50195
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -90.95396
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 8961
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1404
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Guatemala"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Guatemala"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "GT",
+    "altnames": "San Pedro Yepocapa,Yepocapa"
+}

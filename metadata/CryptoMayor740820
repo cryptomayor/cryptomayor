@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor740820",
+    "name": "Ovacuma, Turkey",
+    "description": "Karab\u00fck",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor740820",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor740820.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 41.4485
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 32.75361
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 0
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 361
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Istanbul"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Turkey"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AS"
+        }
+    ],
+    "country_code": "TR",
+    "altnames": "Ovacuma"
+}

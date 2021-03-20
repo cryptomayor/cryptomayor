@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6535708",
+    "name": "Borgo San Giovanni, Italy",
+    "description": "Lombardy, Provincia di Lodi",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6535708",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6535708.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 45.27787
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 9.43496
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2055
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 76
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": null
+}

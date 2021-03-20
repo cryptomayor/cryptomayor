@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6534522",
+    "name": "Bione, Italy",
+    "description": "Lombardy, Provincia di Brescia",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6534522",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6534522.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 45.67279
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 10.33887
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1386
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 609
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": null
+}

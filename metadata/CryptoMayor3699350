@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3699350",
+    "name": "Bernal, Peru",
+    "description": "Piura, Sechura",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3699350",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3699350.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -5.45
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -80.75
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 5916
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 13
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Lima"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Peru"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "PE",
+    "altnames": null
+}

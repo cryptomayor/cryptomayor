@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3519285",
+    "name": "San Francisco Cajonos, Mexico",
+    "description": "Oaxaca, San Francisco Cajonos",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3519285",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3519285.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 17.17091
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -96.25024
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 268
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1689
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Cajonos,San Francisco,San Francisco Cajonos"
+}

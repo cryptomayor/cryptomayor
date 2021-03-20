@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3979550",
+    "name": "Poblado Puente Trevi\u00f1o, Mexico",
+    "description": "Baja California, Mexicali",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3979550",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3979550.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 32.59495
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -114.98535
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 568
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 21
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Tijuana"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3948456",
+    "name": "Acocro, Peru",
+    "description": "Ayacucho, Provincia de Huamanga",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3948456",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3948456.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -13.21912
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -74.04198
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 543
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 3251
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Lima"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Peru"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "PE",
+    "altnames": null
+}

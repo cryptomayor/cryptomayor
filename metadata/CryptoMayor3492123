@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3492123",
+    "name": "Vallejuelo, Dominican Republic",
+    "description": "San Juan, Vallejuelo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3492123",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3492123.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.65354
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -71.33431
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 5217
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 675
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Santo_Domingo"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Dominican Republic"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "DO",
+    "altnames": "Vallejuelo"
+}

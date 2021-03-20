@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3669860",
+    "name": "San Francisco, Colombia",
+    "description": "Cundinamarca, San Francisco",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3669860",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3669860.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 4.97876
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -74.2927
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2785
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1458
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Bogota"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Colombia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "CO",
+    "altnames": "San Fracisco,San Francisco"
+}

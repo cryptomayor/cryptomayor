@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5210117",
+    "name": "Saint Marys, United States",
+    "description": "Pennsylvania, Elk County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5210117",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5210117.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 41.42784
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -78.56086
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 13070
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 507
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/New_York"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": "STQ"
+}

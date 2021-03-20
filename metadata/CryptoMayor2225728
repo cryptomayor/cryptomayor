@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2225728",
+    "name": "Mutengene, Cameroon",
+    "description": "South-West",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2225728",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2225728.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 4.0913
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 9.3144
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 47478
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 241
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Africa/Douala"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Cameroon"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AF"
+        }
+    ],
+    "country_code": "CM",
+    "altnames": null
+}

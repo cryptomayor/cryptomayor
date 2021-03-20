@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8029783",
+    "name": "St Leonards, Australia",
+    "description": "New South Wales, North Sydney",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8029783",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8029783.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -33.82344
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 151.19836
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 6343
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 96
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Sydney"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": null
+}

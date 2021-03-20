@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3067138",
+    "name": "Radostice, Czechia",
+    "description": "South Moravian, Okres Brno-venkov",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3067138",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3067138.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 49.13361
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 16.47701
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 671
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 289
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Prague"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Czechia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "CZ",
+    "altnames": null
+}

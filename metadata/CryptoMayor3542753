@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3542753",
+    "name": "Rancho Veloz, Cuba",
+    "description": "Villa Clara",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3542753",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3542753.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 22.88042
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -80.39098
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 4549
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 59
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Havana"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Cuba"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "CU",
+    "altnames": "Rancho Veloz"
+}

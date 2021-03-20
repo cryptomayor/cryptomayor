@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2793070",
+    "name": "Ledeberg, Belgium",
+    "description": "Flanders, Provincie Oost-Vlaanderen",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2793070",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2793070.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 51.03859
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 3.74458
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 8454
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 10
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Brussels"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Belgium"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "BE",
+    "altnames": "Ledeberg"
+}

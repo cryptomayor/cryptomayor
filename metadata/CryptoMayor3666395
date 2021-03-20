@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3666395",
+    "name": "Urrao, Colombia",
+    "description": "Antioquia, Urrao",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3666395",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3666395.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 6.31696
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -76.1342
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 18846
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1815
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Bogota"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Colombia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "CO",
+    "altnames": "URR,Urrao"
+}

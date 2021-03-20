@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3994969",
+    "name": "Nextipac, Mexico",
+    "description": "Jalisco, Zapopan",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3994969",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3994969.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.76725
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -103.52405
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 4008
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1657
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Nestipac,Nextipac"
+}

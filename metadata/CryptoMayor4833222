@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4833222",
+    "name": "Rush, United States",
+    "description": "New York, Monroe County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4833222",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4833222.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 42.9959
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -77.64556
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3478
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 169
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/New_York"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": "Rush,Webster's Mills"
+}

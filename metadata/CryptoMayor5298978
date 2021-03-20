@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5298978",
+    "name": "Huachuca City, United States",
+    "description": "Arizona, Cochise County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5298978",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5298978.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 31.62787
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -110.33397
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1755
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1347
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Phoenix"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3605382",
+    "name": "Los Planes, Honduras",
+    "description": "La Paz",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3605382",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3605382.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 14.05
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -88.01667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1320
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1811
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Tegucigalpa"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Honduras"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "HN",
+    "altnames": "Los Planes,Planes"
+}

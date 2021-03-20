@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3181517",
+    "name": "Brittoli, Italy",
+    "description": "Abruzzo, Provincia di Pescara",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3181517",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3181517.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 42.31518
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 13.86026
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 109
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 756
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "Brittoli"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3603221",
+    "name": "Pueblo Nuevo, Honduras",
+    "description": "Cort\u00e9s",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3603221",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3603221.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 15.28333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -88.01667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3556
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 116
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Tegucigalpa"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Honduras"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "HN",
+    "altnames": null
+}

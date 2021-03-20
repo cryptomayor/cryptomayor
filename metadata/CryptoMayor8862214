@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8862214",
+    "name": "Popoyatlajco, Mexico",
+    "description": "Guerrero, Chilapa de \u00c1lvarez",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8862214",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8862214.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 17.50056
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -99.26944
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 592
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1741
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Popoyatlajco"
+}

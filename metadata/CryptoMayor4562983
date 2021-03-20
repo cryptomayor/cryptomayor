@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4562983",
+    "name": "Bufalo, Puerto Rico",
+    "description": "Barceloneta, Florida Afuera Barrio",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4562983",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4562983.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.41828
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -66.57323
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1108
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 135
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Puerto_Rico"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Puerto Rico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "PR",
+    "altnames": null
+}

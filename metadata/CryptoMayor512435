@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor512435",
+    "name": "Pasegovo, Russia",
+    "description": "Kirov",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor512435",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor512435.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 58.50602
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 49.51383
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2807
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 154
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Kirov"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Russia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RU",
+    "altnames": "Pasegovo,\u041f\u0430\u0441\u0435\u0433\u043e\u0432\u043e"
+}

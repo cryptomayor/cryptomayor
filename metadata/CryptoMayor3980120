@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3980120",
+    "name": "Villa Victoria, Mexico",
+    "description": "Michoac\u00e1n, Chinicuila",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3980120",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3980120.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.75749
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -103.36967
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1010
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 691
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Chinicuila,Villa Victoria"
+}

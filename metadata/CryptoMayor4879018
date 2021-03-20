@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4879018",
+    "name": "Tripoli, United States",
+    "description": "Iowa, Bremer County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4879018",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4879018.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 42.80804
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -92.25823
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1342
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 316
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Chicago"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

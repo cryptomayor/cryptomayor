@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2060604",
+    "name": "Tanunda, Australia",
+    "description": "South Australia, Barossa",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2060604",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2060604.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -34.52336
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 138.95982
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 4524
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 261
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Adelaide"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": "Tanunda"
+}

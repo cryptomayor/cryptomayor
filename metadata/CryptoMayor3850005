@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3850005",
+    "name": "Lamarque, Argentina",
+    "description": "Rio Negro, Departamento de Avellaneda",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3850005",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3850005.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -39.42304
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -65.70208
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 7819
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 128
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Argentina/Salta"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Argentina"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "AR",
+    "altnames": "Lamarque"
+}

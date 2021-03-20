@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3521168",
+    "name": "Poza Rica de Hidalgo, Mexico",
+    "description": "Veracruz, Poza Rica de Hidalgo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3521168",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3521168.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.53315
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -97.45946
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 185242
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 58
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "PAZ,Poza Rica"
+}

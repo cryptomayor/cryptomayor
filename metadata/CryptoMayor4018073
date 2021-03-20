@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4018073",
+    "name": "Atacco, Mexico",
+    "description": "Jalisco, Tapalpa",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4018073",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4018073.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.92662
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -103.74249
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1202
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2045
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Atacco"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4526215",
+    "name": "The Plains, United States",
+    "description": "Ohio, Athens County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4526215",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4526215.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 39.36896
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -82.13237
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3080
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 218
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/New_York"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4006931",
+    "name": "El Walamo, Mexico",
+    "description": "Sinaloa, Mazatl\u00e1n",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4006931",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4006931.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 23.14009
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -106.245
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3085
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 12
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mazatlan"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "El Walamo,Watamo"
+}

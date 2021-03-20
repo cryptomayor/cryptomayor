@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3800527",
+    "name": "Patria Nueva, Mexico",
+    "description": "Oaxaca, Santiago Jamiltepec",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3800527",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3800527.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 16.18084
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -97.7976
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 777
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 62
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Patria Nueva"
+}

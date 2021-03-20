@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor11901838",
+    "name": "San Cayetano, Colombia",
+    "description": "Cundinamarca",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor11901838",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor11901838.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 5.3359
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -74.02659
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 0
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2685
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Bogota"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Colombia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "CO",
+    "altnames": "San Cayetano"
+}

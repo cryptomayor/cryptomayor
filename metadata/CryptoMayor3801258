@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3801258",
+    "name": "Loma de Piedra, Mexico",
+    "description": "Oaxaca, San Lucas Ojitl\u00e1n",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3801258",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3801258.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.09732
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -96.43985
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 109
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Loma de Piedra"
+}

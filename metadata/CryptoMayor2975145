@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2975145",
+    "name": "Sempigny, France",
+    "description": "Hauts-de-France, Oise",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2975145",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2975145.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 49.55876
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 2.99467
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 767
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 41
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Sempigny"
+}

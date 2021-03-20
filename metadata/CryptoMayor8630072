@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8630072",
+    "name": "Fabbrica, Italy",
+    "description": "Tuscany, Province of Pisa",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8630072",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8630072.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 43.50833
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 10.75833
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 735
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 168
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "Fabbrica di Peccioli"
+}

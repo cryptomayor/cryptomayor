@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3080369",
+    "name": "Zebrzydowice, Poland",
+    "description": "Silesia, Powiat cieszy\u0144ski",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3080369",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3080369.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 49.87793
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 18.61127
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 5046
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 226
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Warsaw"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Poland"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "PL",
+    "altnames": "Zebrzydowice"
+}

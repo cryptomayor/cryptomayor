@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3980339",
+    "name": "El Vergel, Mexico",
+    "description": "Durango, G\u00f3mez Palacio",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3980339",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3980339.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 25.63965
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -103.52139
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2257
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1125
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Monterrey"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "El Vergel,Vergel"
+}

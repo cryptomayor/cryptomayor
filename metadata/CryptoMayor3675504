@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3675504",
+    "name": "Manaure, Colombia",
+    "description": "La Guajira, Manaure",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3675504",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3675504.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 11.77505
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -72.44447
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 9703
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 3
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Bogota"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Colombia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "CO",
+    "altnames": "Manare,Manaure"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2765361",
+    "name": "Schwemmberg, Austria",
+    "description": "Salzburg, Politischer Bezirk Sankt Johann im Pongau",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2765361",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2765361.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.39791
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 13.48247
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 847
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1153
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Vienna"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Austria"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "AT",
+    "altnames": null
+}

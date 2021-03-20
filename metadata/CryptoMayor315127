@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor315127",
+    "name": "Evciler, Turkey",
+    "description": "Canakkale",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor315127",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor315127.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 39.77556
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 26.77167
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 0
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 242
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Istanbul"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Turkey"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AS"
+        }
+    ],
+    "country_code": "TR",
+    "altnames": "Evciler"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4023780",
+    "name": "El Maguey, Mexico",
+    "description": "Guanajuato, Ac\u00e1mbaro",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4023780",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4023780.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.1023
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -100.68606
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 567
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1922
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "El Maguey"
+}

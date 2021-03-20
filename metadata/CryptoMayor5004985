@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5004985",
+    "name": "Parkdale, United States",
+    "description": "Michigan, Manistee County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5004985",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5004985.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 44.2675
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -86.30286
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 704
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 185
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Detroit"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

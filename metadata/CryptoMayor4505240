@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4505240",
+    "name": "Amsterdam, United States",
+    "description": "Ohio, Licking County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4505240",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4505240.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 39.95757
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -82.37821
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 549
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 355
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/New_York"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": "Amsterdam,Melgen"
+}

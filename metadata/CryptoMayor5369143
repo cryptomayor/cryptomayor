@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5369143",
+    "name": "Lucerne, United States",
+    "description": "California, Kings County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5369143",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5369143.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 36.38078
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -119.6643
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3443
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 79
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Los_Angeles"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

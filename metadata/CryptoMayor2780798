@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2780798",
+    "name": "Dorfgastein, Austria",
+    "description": "Salzburg, Politischer Bezirk Sankt Johann im Pongau",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2780798",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2780798.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.24172
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 13.10223
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 966
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 819
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Vienna"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Austria"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "AT",
+    "altnames": null
+}

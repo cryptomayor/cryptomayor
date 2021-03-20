@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8468983",
+    "name": "Ballaugh, Isle of Man",
+    "description": "Ballaugh",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8468983",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8468983.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 54.31193
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -4.54456
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 0
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 30
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Isle_of_Man"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Isle of Man"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IM",
+    "altnames": null
+}

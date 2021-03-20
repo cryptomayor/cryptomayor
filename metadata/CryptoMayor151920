@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor151920",
+    "name": "Nansio, Tanzania",
+    "description": "Mara",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor151920",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor151920.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -2.13333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 33.05
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 6437
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1134
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Africa/Dar_es_Salaam"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Tanzania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AF"
+        }
+    ],
+    "country_code": "TZ",
+    "altnames": "Nansio"
+}

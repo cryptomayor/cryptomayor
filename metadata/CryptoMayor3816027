@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3816027",
+    "name": "San Antonio Zaragoza, Mexico",
+    "description": "Chiapas, Soyal\u00f3",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3816027",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3816027.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 16.91911
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -93.03351
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 768
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1026
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "San Antonio Zaragoza"
+}

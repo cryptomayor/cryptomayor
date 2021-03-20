@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor700823",
+    "name": "Moloha, Ukraine",
+    "description": "Odessa, Bilhorod-Dnistrovskyy Raion",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor700823",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor700823.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 46.21653
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 30.23078
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2046
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 19
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Kiev"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Ukraine"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "UA",
+    "altnames": "Molga,Mologa,Moloha,mo luo jia,\u041c\u043e\u043b\u043e\u0433\u0430,\u0544\u0578\u056c\u0578\u0563\u0561,\u83ab\u6d1b\u52a0"
+}

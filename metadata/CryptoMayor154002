@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor154002",
+    "name": "Mhango, Tanzania",
+    "description": "Shinyanga, Shinyanga Rural",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor154002",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor154002.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -3.28333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 32.85
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 21553
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1217
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Africa/Dar_es_Salaam"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Tanzania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AF"
+        }
+    ],
+    "country_code": "TZ",
+    "altnames": "Mhango"
+}

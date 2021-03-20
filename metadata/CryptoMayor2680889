@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2680889",
+    "name": "Ryssby, Sweden",
+    "description": "J\u00f6nk\u00f6ping, N\u00e4ssj\u00f6 Kommun",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2680889",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2680889.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 57.71667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 14.65
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 689
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 273
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Stockholm"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Sweden"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "SE",
+    "altnames": null
+}

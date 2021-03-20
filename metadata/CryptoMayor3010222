@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3010222",
+    "name": "La Chapelle-Vend\u00f4moise, France",
+    "description": "Centre, Loir-et-Cher",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3010222",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3010222.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.67098
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 1.23891
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 772
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 117
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "La Chapelle,La Chapelle-Vendomoise,La Chapelle-Vend\u00f4moise,Le Temple-Vendomois,Le Temple-Vend\u00f4mois"
+}

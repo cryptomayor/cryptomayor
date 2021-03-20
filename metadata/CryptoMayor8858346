@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8858346",
+    "name": "Hacienda San Pedro, Mexico",
+    "description": "Nuevo Le\u00f3n, General Zuazua",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8858346",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8858346.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 25.91472
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -100.16278
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3707
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 398
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Monterrey"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Hacienda San Pedro"
+}

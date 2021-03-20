@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor664771",
+    "name": "Topana, Romania",
+    "description": "Olt, Comuna Topana",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor664771",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor664771.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 44.81667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 24.51667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1220
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 338
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": "Topana"
+}

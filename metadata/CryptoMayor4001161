@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4001161",
+    "name": "La Noria, Mexico",
+    "description": "Michoac\u00e1n, Churintzio",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4001161",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4001161.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.19198
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -102.09352
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 537
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1787
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": null
+}

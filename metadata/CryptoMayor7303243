@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor7303243",
+    "name": "Ascot, Australia",
+    "description": "Western Australia, Belmont",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor7303243",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor7303243.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -31.93818
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 115.92258
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2674
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 14
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Perth"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": null
+}

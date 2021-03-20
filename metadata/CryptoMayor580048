@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor580048",
+    "name": "Azovskaya, Russia",
+    "description": "Krasnodarskiy",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor580048",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor580048.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 44.79083
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 38.62639
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3960
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 63
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Moscow"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Russia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RU",
+    "altnames": "Azovskaja,Azovskaya,\u0410\u0437\u043e\u0432\u0441\u043a\u0430\u044f"
+}

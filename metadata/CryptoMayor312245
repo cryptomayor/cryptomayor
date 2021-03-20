@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor312245",
+    "name": "Hekimhan, Turkey",
+    "description": "Malatya",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor312245",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor312245.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 38.81622
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 37.92882
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 13946
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1107
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Istanbul"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Turkey"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AS"
+        }
+    ],
+    "country_code": "TR",
+    "altnames": "Hekimhan"
+}

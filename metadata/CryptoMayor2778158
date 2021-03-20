@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2778158",
+    "name": "Grafendorf, Austria",
+    "description": "Carinthia, Politischer Bezirk Hermagor",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2778158",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2778158.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 46.65839
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 13.11364
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 515
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 682
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Vienna"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Austria"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "AT",
+    "altnames": null
+}

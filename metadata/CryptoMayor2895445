@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2895445",
+    "name": "Jagel, Germany",
+    "description": "Schleswig-Holstein",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2895445",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2895445.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 54.45652
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 9.53759
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 969
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 20
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Berlin"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Germany"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "DE",
+    "altnames": null
+}

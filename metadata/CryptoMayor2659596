@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2659596",
+    "name": "Morbio Superiore, Switzerland",
+    "description": "Ticino, Mendrisio District",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2659596",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2659596.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 45.86004
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 9.02318
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 703
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 463
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Zurich"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Switzerland"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "CH",
+    "altnames": "Morbio,Morbio Superiore"
+}

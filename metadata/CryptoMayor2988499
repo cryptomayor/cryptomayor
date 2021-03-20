@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2988499",
+    "name": "Parisot, France",
+    "description": "Occitanie, Tarn",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2988499",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2988499.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 43.79997
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 1.82871
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 595
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 193
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Parisot"
+}

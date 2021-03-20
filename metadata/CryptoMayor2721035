@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2721035",
+    "name": "Bodafors, Sweden",
+    "description": "J\u00f6nk\u00f6ping, N\u00e4ssj\u00f6 Kommun",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2721035",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2721035.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 57.5
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 14.7
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1957
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 276
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Stockholm"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Sweden"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "SE",
+    "altnames": "Bodafors"
+}

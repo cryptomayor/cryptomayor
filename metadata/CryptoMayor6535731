@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6535731",
+    "name": "Gurro, Italy",
+    "description": "Piedmont, Provincia Verbano-Cusio-Ossola",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6535731",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6535731.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 46.08498
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 8.56772
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 229
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 819
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": null
+}

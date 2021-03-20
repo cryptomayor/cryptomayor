@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3980617",
+    "name": "Valle de Guadalupe, Mexico",
+    "description": "Jalisco, Valle de Guadalupe",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3980617",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3980617.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 21.01114
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -102.61683
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 4492
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1826
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Valle de Guadalupe"
+}

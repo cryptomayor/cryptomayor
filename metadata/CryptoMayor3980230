@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3980230",
+    "name": "Viesca, Mexico",
+    "description": "Coahuila, Viesca",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3980230",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3980230.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 25.33923
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -102.80493
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3610
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1098
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Monterrey"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Viesca"
+}

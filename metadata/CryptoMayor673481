@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor673481",
+    "name": "Mice\u0219ti, Romania",
+    "description": "Alba, Municipiul Alba Iulia",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor673481",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor673481.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 46.10141
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 23.55573
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1420
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 244
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": null
+}

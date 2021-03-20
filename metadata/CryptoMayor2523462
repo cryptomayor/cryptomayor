@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2523462",
+    "name": "San Giovanni Gemini, Italy",
+    "description": "Sicily, Agrigento",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2523462",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2523462.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 37.62785
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 13.64357
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 7774
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 702
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "San Giovanni Gemini,San Giuvanni"
+}

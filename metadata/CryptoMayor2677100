@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2677100",
+    "name": "Skruv, Sweden",
+    "description": "Kronoberg, Lessebo Kommun",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2677100",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2677100.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 56.67646
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 15.3659
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 586
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 139
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Stockholm"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Sweden"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "SE",
+    "altnames": "Skruv"
+}

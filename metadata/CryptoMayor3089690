@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3089690",
+    "name": "Ostrowo, Poland",
+    "description": "Pomerania, Powiat pucki",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3089690",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3089690.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 54.82527
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 18.24409
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 605
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 3
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Warsaw"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Poland"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "PL",
+    "altnames": null
+}

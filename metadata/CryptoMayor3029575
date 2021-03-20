@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3029575",
+    "name": "Bulles, France",
+    "description": "Hauts-de-France, Oise",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3029575",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3029575.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 49.45948
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 2.32566
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 924
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 90
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Bulles"
+}

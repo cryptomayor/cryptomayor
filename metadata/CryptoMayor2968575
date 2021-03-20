@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2968575",
+    "name": "Villeneuve, France",
+    "description": "Occitanie, Aveyron",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2968575",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2968575.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 44.43729
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 2.03148
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2098
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 393
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Villeneuve,Villeneuve-d'Aveyron"
+}

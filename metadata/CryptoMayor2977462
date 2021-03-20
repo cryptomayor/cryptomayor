@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2977462",
+    "name": "Saint-Pierre-du-Mont, France",
+    "description": "Nouvelle-Aquitaine, Landes",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2977462",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2977462.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 43.88453
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -0.52185
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 7660
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 79
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Saint-Pierre"
+}

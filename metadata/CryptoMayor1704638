@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor1704638",
+    "name": "Mabayo, Philippines",
+    "description": "Central Luzon, Province of Bataan",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor1704638",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor1704638.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 14.7318
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 120.2781
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2843
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 10
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Asia/Manila"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Philippines"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AS"
+        }
+    ],
+    "country_code": "PH",
+    "altnames": "Mabage,Mabayo,Maybayo"
+}

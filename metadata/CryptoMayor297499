@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor297499",
+    "name": "Yayla, Turkey",
+    "description": "Bing\u00f6l",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor297499",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor297499.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 38.63092
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 40.52793
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 0
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1308
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Istanbul"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Turkey"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AS"
+        }
+    ],
+    "country_code": "TR",
+    "altnames": "Yayla"
+}

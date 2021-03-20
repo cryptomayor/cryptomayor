@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4024960",
+    "name": "El Nacimiento, Mexico",
+    "description": "Guanajuato, Salamanca",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4024960",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4024960.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.47737
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -101.06973
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 682
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1733
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": null
+}

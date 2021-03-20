@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3825056",
+    "name": "Buenos Aires, Mexico",
+    "description": "Veracruz, San Andr\u00e9s Tuxtla",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3825056",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3825056.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.46463
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -95.24879
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1998
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 435
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Buenos Aires,Buenos Aires Texalpan,Texalpan"
+}

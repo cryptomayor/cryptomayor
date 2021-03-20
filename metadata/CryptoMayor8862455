@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8862455",
+    "name": "San Pedro Xochicuaco, Mexico",
+    "description": "Hidalgo, Pisaflores",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8862455",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8862455.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 21.22333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -98.99222
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 569
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1020
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "San Pedro Xochicuaco,Xochicoaco,Xochicuaco,Xochiouaco"
+}

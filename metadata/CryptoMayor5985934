@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5985934",
+    "name": "Jasper Park Lodge, Canada",
+    "description": "Alberta",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5985934",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5985934.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 52.88633
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -118.05625
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3907
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1036
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Edmonton"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Canada"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "CA",
+    "altnames": null
+}

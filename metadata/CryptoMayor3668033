@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3668033",
+    "name": "Silos, Colombia",
+    "description": "Norte de Santander, Silos",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3668033",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3668033.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 7.20524
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -72.75639
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1300
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2730
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Bogota"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Colombia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "CO",
+    "altnames": "Silos"
+}

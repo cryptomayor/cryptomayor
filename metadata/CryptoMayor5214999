@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5214999",
+    "name": "Swartzville, United States",
+    "description": "Pennsylvania, Lancaster County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5214999",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5214999.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 40.23315
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -76.07828
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2283
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 173
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/New_York"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": "Schwartville,Swartzville"
+}

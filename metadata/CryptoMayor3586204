@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3586204",
+    "name": "El Paisnal, El Salvador",
+    "description": "San Salvador",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3586204",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3586204.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 13.97361
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -89.21861
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1641
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 305
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/El_Salvador"
+        },
+        {
+            "trait_type": "Country",
+            "value": "El Salvador"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "SV",
+    "altnames": "El Paisnal,Paisnal"
+}

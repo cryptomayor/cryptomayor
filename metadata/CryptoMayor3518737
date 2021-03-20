@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3518737",
+    "name": "San Juan Atepec, Mexico",
+    "description": "Oaxaca, San Juan Atepec",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3518737",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3518737.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 17.42819
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -96.53968
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1479
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2028
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Altepec,Atepec,San Juan,San Juan Atepec"
+}

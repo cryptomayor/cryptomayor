@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3005901",
+    "name": "Lauzun, France",
+    "description": "Nouvelle-Aquitaine, Lot-et-Garonne",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3005901",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3005901.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 44.63017
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 0.45994
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 816
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 101
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Lauzun"
+}

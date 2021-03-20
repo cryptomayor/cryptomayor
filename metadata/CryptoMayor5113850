@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5113850",
+    "name": "Country Knolls, United States",
+    "description": "New York, Saratoga County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5113850",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5113850.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 42.91508
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -73.80512
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2224
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 94
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/New_York"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

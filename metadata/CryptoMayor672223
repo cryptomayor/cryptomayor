@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor672223",
+    "name": "Nima, Romania",
+    "description": "Cluj, Comuna Mintiu Gherlii",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor672223",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor672223.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.0766
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 23.86879
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 773
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 287
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": null
+}

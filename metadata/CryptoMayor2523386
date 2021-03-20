@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2523386",
+    "name": "San Pietro in Guarano, Italy",
+    "description": "Calabria, Provincia di Cosenza",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2523386",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2523386.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 39.34164
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 16.31304
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1355
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 661
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "San Pietro in Guarano"
+}

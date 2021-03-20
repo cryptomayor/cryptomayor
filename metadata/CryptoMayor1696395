@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor1696395",
+    "name": "Pakil, Philippines",
+    "description": "Calabarzon, Province of Laguna",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor1696395",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor1696395.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 14.3835
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 121.4786
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 10693
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 14
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Asia/Manila"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Philippines"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AS"
+        }
+    ],
+    "country_code": "PH",
+    "altnames": "Pakil"
+}

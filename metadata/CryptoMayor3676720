@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3676720",
+    "name": "La Virginia, Colombia",
+    "description": "Risaralda, La Virginia",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3676720",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3676720.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 4.89972
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -75.8825
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 33835
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 901
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Bogota"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Colombia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "CO",
+    "altnames": "La Virginia"
+}

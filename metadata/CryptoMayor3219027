@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3219027",
+    "name": "San Liberale, Italy",
+    "description": "Veneto, Provincia di Venezia",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3219027",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3219027.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 45.54778
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 12.34139
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2298
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": null
+}

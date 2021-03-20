@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3531933",
+    "name": "Bustamante, Mexico",
+    "description": "Tamaulipas, Bustamante",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3531933",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3531933.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 23.43524
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -99.75875
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1392
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1694
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Monterrey"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Bustamante,Bustamente,Villa de Bustamante"
+}

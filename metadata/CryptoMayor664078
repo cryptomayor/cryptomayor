@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor664078",
+    "name": "Urzica Mare, Romania",
+    "description": "Dolj, Comuna Urzicu\u0163a",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor664078",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor664078.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 44.01615
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 23.59722
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 630
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 53
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": null
+}

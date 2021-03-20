@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3834403",
+    "name": "Tilcara, Argentina",
+    "description": "Jujuy, Departamento de Tilcara",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3834403",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3834403.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -23.57817
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -65.39516
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 5640
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 3180
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Argentina/Jujuy"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Argentina"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "AR",
+    "altnames": "Tilcara"
+}

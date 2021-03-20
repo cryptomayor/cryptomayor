@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor310982",
+    "name": "Kabala, Turkey",
+    "description": "Mardin",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor310982",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor310982.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 37.34585
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 40.80059
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 9275
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 797
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Istanbul"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Turkey"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AS"
+        }
+    ],
+    "country_code": "TR",
+    "altnames": "Kabala"
+}

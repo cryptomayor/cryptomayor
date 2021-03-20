@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor1862601",
+    "name": "Hino, Japan",
+    "description": "Shiga, Gam\u014d-gun",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor1862601",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor1862601.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 35.0
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 136.25
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 22767
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 182
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Asia/Tokyo"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Japan"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AS"
+        }
+    ],
+    "country_code": "JP",
+    "altnames": "Hino"
+}

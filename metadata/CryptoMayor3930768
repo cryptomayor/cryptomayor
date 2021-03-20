@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3930768",
+    "name": "Quinches, Peru",
+    "description": "Lima region, Provincia de Yauyos",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3930768",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3930768.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -12.30739
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -76.14318
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 809
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2957
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Lima"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Peru"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "PE",
+    "altnames": "Quinches"
+}

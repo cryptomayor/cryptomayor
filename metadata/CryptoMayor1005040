@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor1005040",
+    "name": "Eshowe, South Africa",
+    "description": "KwaZulu-Natal, uThungulu District Municipality",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor1005040",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor1005040.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -28.88649
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 31.4699
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 14786
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 539
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Africa/Johannesburg"
+        },
+        {
+            "trait_type": "Country",
+            "value": "South Africa"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AF"
+        }
+    ],
+    "country_code": "ZA",
+    "altnames": "Eshowe"
+}

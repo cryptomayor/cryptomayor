@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2781935",
+    "name": "Baumkirchen, Austria",
+    "description": "Tyrol, Politischer Bezirk Innsbruck Land",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2781935",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2781935.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.3
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 11.56667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1284
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 582
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Vienna"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Austria"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "AT",
+    "altnames": null
+}

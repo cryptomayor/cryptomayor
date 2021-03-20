@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor664602",
+    "name": "Tritenii de Jos, Romania",
+    "description": "Cluj, Comuna Tritenii De Jos",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor664602",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor664602.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 46.58333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 24.0
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 5008
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 342
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": "Tritenii de Jos"
+}

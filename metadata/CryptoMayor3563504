@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3563504",
+    "name": "Contramaestre, Cuba",
+    "description": "Santiago de Cuba",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3563504",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3563504.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.29879
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -76.24511
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 70438
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 114
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Havana"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Cuba"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "CU",
+    "altnames": "Contramaestre"
+}

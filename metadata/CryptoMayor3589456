@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3589456",
+    "name": "Santa Catarina Mita, Guatemala",
+    "description": "Jutiapa, Municipio de Santa Catarina Mita",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3589456",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3589456.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 14.45131
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -89.74285
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 10817
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 697
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Guatemala"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Guatemala"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "GT",
+    "altnames": "Santa Catarina Mita"
+}

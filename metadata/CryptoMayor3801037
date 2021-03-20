@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3801037",
+    "name": "San Marcos Arteaga, Mexico",
+    "description": "Oaxaca, San Marcos Arteaga",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3801037",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3801037.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 17.72238
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -97.86034
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1058
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1482
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "San Marcos Arteaga"
+}

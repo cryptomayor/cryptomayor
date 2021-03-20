@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2984664",
+    "name": "Quinsac, France",
+    "description": "Nouvelle-Aquitaine, Gironde",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2984664",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2984664.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 44.75537
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -0.48844
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1907
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 53
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Quinsac"
+}

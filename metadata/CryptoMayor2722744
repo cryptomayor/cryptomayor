@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2722744",
+    "name": "Bergshammar, Sweden",
+    "description": "S\u00f6dermanland, Nyk\u00f6pings Kommun",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2722744",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2722744.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 58.7405
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 16.91284
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 801
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 23
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Stockholm"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Sweden"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "SE",
+    "altnames": "Bergshammar"
+}

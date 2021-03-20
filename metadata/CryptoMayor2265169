@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2265169",
+    "name": "Parede, Portugal",
+    "description": "Lisbon, Cascais",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2265169",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2265169.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 38.69282
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -9.35412
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 17212
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 52
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Lisbon"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Portugal"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "PT",
+    "altnames": "Parede"
+}

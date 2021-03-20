@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3665895",
+    "name": "Villeta, Colombia",
+    "description": "Cundinamarca, Villeta",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3665895",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3665895.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 5.00886
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -74.47226
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 20689
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 810
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Bogota"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Colombia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "CO",
+    "altnames": "Villeta"
+}

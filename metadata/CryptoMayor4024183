@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4024183",
+    "name": "Presa Blanca, Mexico",
+    "description": "Guanajuato, Celaya",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4024183",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4024183.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.64146
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -100.79241
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1881
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1780
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Presa Blanca"
+}

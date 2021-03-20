@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor7315191",
+    "name": "Walnut Creek, United States",
+    "description": "Arizona, Mohave County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor7315191",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor7315191.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 35.13124
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -114.12662
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 562
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 850
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Phoenix"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

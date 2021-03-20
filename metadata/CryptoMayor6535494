@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6535494",
+    "name": "Vicoforte, Italy",
+    "description": "Piedmont, Provincia di Cuneo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6535494",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6535494.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 44.36393
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 7.86264
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2130
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 520
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": null
+}

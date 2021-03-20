@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3999837",
+    "name": "Los Herrera, Mexico",
+    "description": "Durango, Santiago Papasquiaro",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3999837",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3999837.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 25.16194
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -105.50306
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 666
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1700
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Monterrey"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Herreras,Las Herreras,Los Herrera,Los Herreras"
+}

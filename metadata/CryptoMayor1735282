@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor1735282",
+    "name": "Tapah Road, Malaysia",
+    "description": "Perak",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor1735282",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor1735282.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 4.16667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 101.2
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 27863
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 40
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Asia/Kuala_Lumpur"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Malaysia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AS"
+        }
+    ],
+    "country_code": "MY",
+    "altnames": "Tapah Road"
+}

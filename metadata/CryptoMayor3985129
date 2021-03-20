@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3985129",
+    "name": "San Pedro, Mexico",
+    "description": "Coahuila, Matamoros",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3985129",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3985129.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 25.43333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -103.21667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 41165
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1126
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Monterrey"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "San Pedro"
+}

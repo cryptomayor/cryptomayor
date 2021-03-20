@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4895376",
+    "name": "Hawthorn Woods, United States",
+    "description": "Illinois, Lake County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4895376",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4895376.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 42.21697
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -88.04952
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 7961
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 250
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Chicago"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

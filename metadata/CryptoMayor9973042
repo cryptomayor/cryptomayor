@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor9973042",
+    "name": "Frewville, Australia",
+    "description": "South Australia, Burnside",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor9973042",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor9973042.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -34.94763
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 138.6306
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 867
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 75
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Adelaide"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3189981",
+    "name": "Stare Plavnice, Croatia",
+    "description": "Bjelovarsko-Bilogorska, Grad Bjelovar",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3189981",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3189981.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 45.9
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 16.81667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 673
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 124
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Zagreb"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Croatia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "HR",
+    "altnames": "Stare Plavnice"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8860191",
+    "name": "El Zapote, Mexico",
+    "description": "San Luis Potos\u00ed, Soledad de Graciano S\u00e1nchez",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8860191",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8860191.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 22.21
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -100.92306
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 920
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1848
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "El Zapote"
+}

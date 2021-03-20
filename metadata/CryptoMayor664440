@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor664440",
+    "name": "Turnu, Romania",
+    "description": "Arad, Ora\u015f Pecica",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor664440",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor664440.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 46.25764
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 21.12657
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1164
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 100
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": "Sebestorony,Turnu,Turnul"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3822423",
+    "name": "San Antonio Tehuitz, Mexico",
+    "description": "Yucat\u00e1n, Kanas\u00edn",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3822423",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3822423.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.89962
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -89.52048
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 724
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 15
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Merida"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "San Antonio Tehuitz"
+}

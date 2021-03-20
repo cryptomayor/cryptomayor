@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3985749",
+    "name": "San Lorenzo, Mexico",
+    "description": "Coahuila, San Pedro",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3985749",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3985749.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 25.72272
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -103.1535
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1593
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1111
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Monterrey"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "San Lorenzo"
+}

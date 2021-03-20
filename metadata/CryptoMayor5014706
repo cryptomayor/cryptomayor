@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5014706",
+    "name": "Westwood, United States",
+    "description": "Michigan, Kalamazoo County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5014706",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5014706.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 42.30282
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -85.63362
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 8653
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 287
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Detroit"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

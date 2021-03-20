@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor663849",
+    "name": "Valea Caselor, Romania",
+    "description": "Arges, Comuna Dragoslavele",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor663849",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor663849.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 45.35
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 25.16667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2528
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 690
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": null
+}

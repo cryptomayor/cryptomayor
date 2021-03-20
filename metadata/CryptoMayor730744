@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor730744",
+    "name": "Kalofer, Bulgaria",
+    "description": "Plovdiv, Obshtina Karlovo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor730744",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor730744.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 42.61667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 24.98333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3248
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 731
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Sofia"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Bulgaria"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "BG",
+    "altnames": "Kalofer,Kaloter,\u041a\u0430\u043b\u043e\u0444\u0435\u0440"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor765857",
+    "name": "Lubomierz, Poland",
+    "description": "Lesser Poland, Powiat limanowski",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor765857",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor765857.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 49.60854
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 20.20214
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1830
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 596
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Warsaw"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Poland"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "PL",
+    "altnames": null
+}

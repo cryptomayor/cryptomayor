@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3451114",
+    "name": "Rio Novo, Brazil",
+    "description": "Minas Gerais, Rio Novo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3451114",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3451114.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -21.47703
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -43.12589
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 6255
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 412
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Sao_Paulo"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Brazil"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "BR",
+    "altnames": null
+}

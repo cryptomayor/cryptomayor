@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor10941900",
+    "name": "Poienari, Romania",
+    "description": "Arges, Comuna Poienarii de Arge\u015f",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor10941900",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor10941900.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 45.07034
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 24.53056
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 530
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 341
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor11196935",
+    "name": "Canelos, Peru",
+    "description": "Loreto, Provincia de Ucayali",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor11196935",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor11196935.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -7.05879
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -75.11173
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 657
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 128
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Lima"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Peru"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "PE",
+    "altnames": "Canelos"
+}

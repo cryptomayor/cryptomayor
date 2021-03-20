@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor502423",
+    "name": "Razliv, Russia",
+    "description": "St.-Petersburg",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor502423",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor502423.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 60.07919
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 29.97206
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1230
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 8
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Moscow"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Russia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RU",
+    "altnames": "Razliv,Rosliva,\u0420\u0430\u0437\u043b\u0438\u0432"
+}

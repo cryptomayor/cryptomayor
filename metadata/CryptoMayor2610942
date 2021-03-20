@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2610942",
+    "name": "Ullerslev, Denmark",
+    "description": "South Denmark, Nyborg Kommune",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2610942",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2610942.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 55.36172
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 10.6519
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2962
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 14
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Copenhagen"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Denmark"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "DK",
+    "altnames": "Ullerslev"
+}

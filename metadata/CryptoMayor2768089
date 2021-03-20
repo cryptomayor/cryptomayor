@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2768089",
+    "name": "Raffelstetten, Austria",
+    "description": "Upper Austria, Politischer Bezirk Linz-Land",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2768089",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2768089.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 48.23759
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 14.40273
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1013
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 245
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Vienna"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Austria"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "AT",
+    "altnames": null
+}

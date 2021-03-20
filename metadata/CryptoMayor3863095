@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3863095",
+    "name": "Campo Largo, Argentina",
+    "description": "Chaco, Departamento de Independencia",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3863095",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3863095.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -26.80077
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -60.84215
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 10743
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 106
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Argentina/Cordoba"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Argentina"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "AR",
+    "altnames": "Campo Largo"
+}

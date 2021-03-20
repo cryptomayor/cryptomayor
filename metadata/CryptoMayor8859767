@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8859767",
+    "name": "Acuaco, Mexico",
+    "description": "Puebla, Zaragoza",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8859767",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8859767.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.7625
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -97.56444
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1071
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2296
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Acuaco"
+}

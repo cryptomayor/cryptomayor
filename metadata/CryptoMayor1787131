@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor1787131",
+    "name": "Yanmen, China",
+    "description": "Hunan",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor1787131",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor1787131.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 27.855
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 109.74028
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1590
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 161
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Asia/Shanghai"
+        },
+        {
+            "trait_type": "Country",
+            "value": "China"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AS"
+        }
+    ],
+    "country_code": "CN",
+    "altnames": "Yanmen,Yen-men"
+}

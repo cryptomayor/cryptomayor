@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3194216",
+    "name": "Odra, Croatia",
+    "description": "City of Zagreb, Gradska \u010detvrt Novi Zagreb - zapad",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3194216",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3194216.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 45.72979
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 15.9924
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1866
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 113
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Zagreb"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Croatia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "HR",
+    "altnames": "Odra"
+}

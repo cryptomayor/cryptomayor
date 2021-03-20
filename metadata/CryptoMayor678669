@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor678669",
+    "name": "Dumeni, Romania",
+    "description": "Boto\u015fani, Comuna George Enescu",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor678669",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor678669.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 48.00724
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 26.54287
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1826
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 135
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": null
+}

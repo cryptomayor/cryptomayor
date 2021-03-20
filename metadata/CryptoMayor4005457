@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4005457",
+    "name": "Guadalupe, Mexico",
+    "description": "Sonora, Ures",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4005457",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4005457.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 29.38411
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -110.44946
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 964
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 366
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Hermosillo"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Guadalupe"
+}

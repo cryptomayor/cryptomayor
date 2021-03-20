@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8859530",
+    "name": "Arroyo Zapotillo, Mexico",
+    "description": "Oaxaca, San Felipe Jalapa de D\u00edaz",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8859530",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8859530.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.07639
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -96.54417
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1174
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 124
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Arroyo Zapotillo"
+}

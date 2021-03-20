@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor52381",
+    "name": "Saacow, Somalia",
+    "description": "Middle Juba",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor52381",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor52381.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 1.62794
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 42.44067
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 7893
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 63
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Africa/Mogadishu"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Somalia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AF"
+        }
+    ],
+    "country_code": "SO",
+    "altnames": null
+}

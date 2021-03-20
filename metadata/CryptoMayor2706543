@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2706543",
+    "name": "Herrestad, Sweden",
+    "description": "\u00d6sterg\u00f6tland, Vadstena Kommun",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2706543",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2706543.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 58.38333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 14.8
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2412
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 97
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Stockholm"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Sweden"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "SE",
+    "altnames": null
+}

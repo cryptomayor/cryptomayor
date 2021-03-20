@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6295079",
+    "name": "Stadt Winterthur (Kreis 1) / Heiligberg, Switzerland",
+    "description": "Zurich, Bezirk Winterthur",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6295079",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6295079.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.49409
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 8.72334
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3034
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 474
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Zurich"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Switzerland"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "CH",
+    "altnames": "Heiligberg"
+}

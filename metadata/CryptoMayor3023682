@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3023682",
+    "name": "Cordon, France",
+    "description": "Auvergne-Rh\u00f4ne-Alpes, Haute-Savoie",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3023682",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3023682.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 45.92099
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 6.60536
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1006
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 872
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Cordon"
+}

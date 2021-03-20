@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8861118",
+    "name": "Chantasco, Mexico",
+    "description": "Hidalgo, Lolotla",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8861118",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8861118.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 21.17
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -98.74944
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 730
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 467
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Chantasco"
+}

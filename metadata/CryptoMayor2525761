@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2525761",
+    "name": "Aidone, Italy",
+    "description": "Sicily, Enna",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2525761",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2525761.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 37.41468
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 14.44542
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 4929
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 825
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "Aidone,Aidoni"
+}

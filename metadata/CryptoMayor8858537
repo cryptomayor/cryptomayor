@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8858537",
+    "name": "La Planada, Mexico",
+    "description": "M\u00e9xico, Coyotepec",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8858537",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8858537.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.78129
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -99.18267
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2554
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2251
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "La Planada"
+}

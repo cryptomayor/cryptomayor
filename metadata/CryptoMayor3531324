@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3531324",
+    "name": "El Salto, Mexico",
+    "description": "Veracruz, Ignacio de la Llave",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3531324",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3531324.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.65222
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -96.03917
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 640
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 12
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": null
+}

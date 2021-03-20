@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3528248",
+    "name": "Los Robles, Mexico",
+    "description": "Veracruz, Medell\u00edn",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3528248",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3528248.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.97305
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -96.11768
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3119
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 30
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "El Roble,Los Robles"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3621515",
+    "name": "Santo Domingo, Costa Rica",
+    "description": "Heredia, Santa B\u00e1rbara",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3621515",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3621515.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 10.06389
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -84.15499
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 5745
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1327
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Costa_Rica"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Costa Rica"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "CR",
+    "altnames": "Santo Domingo"
+}

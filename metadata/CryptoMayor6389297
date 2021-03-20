@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6389297",
+    "name": "Vista Alegre, Peru",
+    "description": "San Mart\u00edn, Provincia de Rioja",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6389297",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6389297.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -5.82532
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -77.39486
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 547
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 900
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Lima"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Peru"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "PE",
+    "altnames": null
+}

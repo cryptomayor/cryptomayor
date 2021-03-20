@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3021075",
+    "name": "Donneville, France",
+    "description": "Occitanie, Upper Garonne",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3021075",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3021075.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 43.47182
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 1.5491
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 934
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 184
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Donneville"
+}

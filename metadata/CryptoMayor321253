@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor321253",
+    "name": "Beykent, Turkey",
+    "description": "Siirt",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor321253",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor321253.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 37.88314
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 41.68686
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 580
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1098
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Istanbul"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Turkey"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AS"
+        }
+    ],
+    "country_code": "TR",
+    "altnames": "Beykent"
+}

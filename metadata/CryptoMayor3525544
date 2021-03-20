@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3525544",
+    "name": "La Ladrillera, Mexico",
+    "description": "M\u00e9xico, Malinalco",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3525544",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3525544.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.92753
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -99.48305
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 829
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1594
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "La Ladrillera,Ladrillera"
+}

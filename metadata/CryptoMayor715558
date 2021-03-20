@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor715558",
+    "name": "Szakoly, Hungary",
+    "description": "Szabolcs-Szatm\u00e1r-Bereg",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor715558",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor715558.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.76667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 21.91667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2925
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 144
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Budapest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Hungary"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "HU",
+    "altnames": "Szakoly"
+}

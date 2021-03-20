@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8862648",
+    "name": "Las Isabeles, Mexico",
+    "description": "Durango, Lerdo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8862648",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8862648.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 25.49667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -103.5575
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 552
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1146
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Monterrey"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Las Isabeles"
+}

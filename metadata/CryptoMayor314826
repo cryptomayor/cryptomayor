@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor314826",
+    "name": "Gaziemir, Turkey",
+    "description": "\u0130zmir",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor314826",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor314826.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 38.32392
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 27.12918
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 0
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 144
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Istanbul"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Turkey"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AS"
+        }
+    ],
+    "country_code": "TR",
+    "altnames": "Gaziemir"
+}

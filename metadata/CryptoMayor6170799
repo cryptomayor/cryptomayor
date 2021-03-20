@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6170799",
+    "name": "Tweed, Canada",
+    "description": "Ontario, Hastings County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6170799",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6170799.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 44.47512
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -77.31616
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1701
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 157
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Toronto"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Canada"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "CA",
+    "altnames": null
+}

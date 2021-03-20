@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3030604",
+    "name": "Braine, France",
+    "description": "Hauts-de-France, Aisne",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3030604",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3030604.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 49.34261
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 3.53262
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2094
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 52
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Braine,Braisne"
+}

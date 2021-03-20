@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3035699",
+    "name": "Avesnes-le-Sec, France",
+    "description": "Hauts-de-France, North",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3035699",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3035699.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 50.251
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 3.37768
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1309
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 65
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Avesnes,Avesnes-le-Sec"
+}

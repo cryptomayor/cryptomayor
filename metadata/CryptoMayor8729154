@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8729154",
+    "name": "Potrero Segundo, Mexico",
+    "description": "Veracruz, Tantoyuca",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8729154",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8729154.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 21.35389
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -98.26944
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 509
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 199
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Potrero Segundo"
+}

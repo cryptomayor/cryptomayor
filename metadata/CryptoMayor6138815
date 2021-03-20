@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6138815",
+    "name": "Saint-Nazaire, Canada",
+    "description": "Quebec, Saguenay/Lac-Saint-Jean",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6138815",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6138815.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 48.58944
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -71.55247
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 0
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 148
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Toronto"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Canada"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "CA",
+    "altnames": null
+}

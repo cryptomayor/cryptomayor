@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8949331",
+    "name": "Puginate, Italy",
+    "description": "Lombardy, Provincia di Como",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8949331",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8949331.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 45.71095
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 9.05772
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1122
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 307
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "Puginate"
+}

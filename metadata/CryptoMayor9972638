@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor9972638",
+    "name": "Chatswood West, Australia",
+    "description": "New South Wales, Willoughby",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor9972638",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor9972638.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -33.79402
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 151.16492
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1471
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 59
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Sydney"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": null
+}

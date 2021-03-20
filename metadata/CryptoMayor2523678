@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2523678",
+    "name": "Prizzi, Italy",
+    "description": "Sicily, Palermo",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2523678",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2523678.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 37.72088
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 13.43435
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 4514
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 988
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "Prizzi"
+}

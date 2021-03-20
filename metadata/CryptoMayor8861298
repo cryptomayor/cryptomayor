@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8861298",
+    "name": "Francisco Villa, Mexico",
+    "description": "Hidalgo, Zempoala",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8861298",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8861298.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.94
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -98.57722
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 702
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2585
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Francisco Villa"
+}

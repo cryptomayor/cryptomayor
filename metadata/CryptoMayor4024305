@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4024305",
+    "name": "Carrizal Grande, Mexico",
+    "description": "Guanajuato, Irapuato",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4024305",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4024305.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.70634
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -101.306
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3113
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1744
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Carrizal Grande"
+}

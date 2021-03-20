@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3821992",
+    "name": "La Dicha, Mexico",
+    "description": "Guerrero, Cuautepec",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3821992",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3821992.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 16.7672
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -99.01058
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1204
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 336
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "La Dicha"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2880079",
+    "name": "Lauperath, Germany",
+    "description": "Rheinland-Pfalz",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2880079",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2880079.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 50.08333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 6.33333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 118
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 507
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Berlin"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Germany"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "DE",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3519238",
+    "name": "San Gabriel las Palmas, Mexico",
+    "description": "Morelos, Amacuzac",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3519238",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3519238.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 18.61417
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -99.34694
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3005
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 928
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": null
+}

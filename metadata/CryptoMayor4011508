@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4011508",
+    "name": "Mochis, Mexico",
+    "description": "Sinaloa, Ahome",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4011508",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4011508.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 25.8272
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -109.0512
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2924
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 10
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mazatlan"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Ejido Mochis,Mochis"
+}

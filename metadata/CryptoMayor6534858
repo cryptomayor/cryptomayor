@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6534858",
+    "name": "San Paolo Solbrito, Italy",
+    "description": "Piedmont, Provincia di Asti",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6534858",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6534858.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 44.95065
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 7.97073
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 811
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 263
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": null
+}

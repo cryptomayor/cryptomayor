@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8950004",
+    "name": "Borgo San Pietro, Italy",
+    "description": "Latium, Provincia di Rieti",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8950004",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8950004.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 42.49476
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 12.88211
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 635
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 526
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "Borgo San Pietro"
+}

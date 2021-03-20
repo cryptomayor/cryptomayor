@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4002733",
+    "name": "La Cruz, Mexico",
+    "description": "Coahuila, Frontera",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4002733",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4002733.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 26.99339
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -101.4958
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1672
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 533
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Monterrey"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "La Cruz"
+}

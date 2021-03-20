@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3823891",
+    "name": "Frijol Colorado, Mexico",
+    "description": "Veracruz, Perote",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3823891",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3823891.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.58872
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -97.35237
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 547
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2426
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "El Frijol Colorado,Frijol Colorado"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5533510",
+    "name": "Westway, United States",
+    "description": "Texas, El Paso County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5533510",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5533510.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 31.95871
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -106.57805
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 4188
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1200
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Denver"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

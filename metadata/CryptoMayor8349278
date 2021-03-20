@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8349278",
+    "name": "Riverton, Australia",
+    "description": "Western Australia, Canning",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8349278",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8349278.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -32.03468
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 115.89856
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 5547
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 13
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Perth"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": null
+}

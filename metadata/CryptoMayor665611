@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor665611",
+    "name": "Talea, Romania",
+    "description": "Prahova, Comuna Talea",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor665611",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor665611.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 45.22564
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 25.56433
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1184
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 824
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Bucharest"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Romania"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "RO",
+    "altnames": "Talea"
+}

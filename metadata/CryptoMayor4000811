@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4000811",
+    "name": "La Pila, Mexico",
+    "description": "San Luis Potos\u00ed, San Luis Potos\u00ed",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4000811",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4000811.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 22.03425
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -100.86786
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 6722
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1868
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "La Pila,Pila"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5921356",
+    "name": "Chilliwack, Canada",
+    "description": "British Columbia, Fraser Valley Regional District",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5921356",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5921356.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 49.16638
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -121.95257
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 77000
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 11
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Vancouver"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Canada"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "CA",
+    "altnames": "YCW"
+}

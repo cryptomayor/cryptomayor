@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2110377",
+    "name": "Kulia Village, Tuvalu",
+    "description": "Niutao",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2110377",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2110377.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -6.10819
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 177.33393
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 224
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 10
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Pacific/Funafuti"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Tuvalu"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "TV",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5119833",
+    "name": "Hamburg, United States",
+    "description": "New York, Erie County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5119833",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5119833.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 42.71589
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -78.82948
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 9576
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 252
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/New_York"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": "Hamburg,Hamburgh,Smith's Mills,Smithville,White's Corners"
+}

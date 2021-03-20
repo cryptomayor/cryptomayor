@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5021351",
+    "name": "Clara City, United States",
+    "description": "Minnesota, Chippewa County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5021351",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5021351.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 44.95496
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -95.3664
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1320
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 321
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Chicago"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

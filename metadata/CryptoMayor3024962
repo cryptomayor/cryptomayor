@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3024962",
+    "name": "Cieux, France",
+    "description": "Nouvelle-Aquitaine, Haute-Vienne",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3024962",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3024962.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 45.99182
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 1.04522
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 931
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 326
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Paris"
+        },
+        {
+            "trait_type": "Country",
+            "value": "France"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "FR",
+    "altnames": "Cieux"
+}

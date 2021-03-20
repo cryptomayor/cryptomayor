@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor6057842",
+    "name": "Lively, Canada",
+    "description": "Ontario",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor6057842",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor6057842.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 46.43338
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -81.14975
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 5608
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 270
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Toronto"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Canada"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "CA",
+    "altnames": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5121666",
+    "name": "Hunts Point, United States",
+    "description": "New York, Bronx County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5121666",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5121666.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 40.8126
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -73.88402
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 27204
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 8
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/New_York"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

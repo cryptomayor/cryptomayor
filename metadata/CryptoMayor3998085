@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3998085",
+    "name": "Los Bancos, Mexico",
+    "description": "Michoac\u00e1n, Par\u00e1cuaro",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3998085",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3998085.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.18278
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -102.20722
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 844
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 772
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Los Bancos"
+}

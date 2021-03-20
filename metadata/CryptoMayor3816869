@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3816869",
+    "name": "Progreso, Mexico",
+    "description": "Chiapas, Pijijiapan",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3816869",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3816869.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 15.59951
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -93.1455
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 867
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 21
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Progreso"
+}

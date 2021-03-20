@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4790025",
+    "name": "Triangle, United States",
+    "description": "Virginia, Prince William County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4790025",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4790025.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 38.54679
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -77.33665
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 8188
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 34
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/New_York"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": null
+}

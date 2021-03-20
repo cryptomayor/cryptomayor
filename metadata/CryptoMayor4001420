@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor4001420",
+    "name": "La Melada, Mexico",
+    "description": "San Luis Potos\u00ed, San Luis Potos\u00ed",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor4001420",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor4001420.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 22.47543
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -100.96912
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 960
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1790
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "La Melada,Melada"
+}

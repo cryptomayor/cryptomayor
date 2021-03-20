@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3941300",
+    "name": "El Ingenio, Peru",
+    "description": "Ica, Provincia de Nazca",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3941300",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3941300.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -14.64528
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -75.05833
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 427
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 451
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Lima"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Peru"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "PE",
+    "altnames": "El Ingenio,Ingenio"
+}

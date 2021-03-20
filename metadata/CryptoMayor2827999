@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2827999",
+    "name": "Steinheid, Germany",
+    "description": "Thuringia",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2827999",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2827999.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 50.46538
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 11.08265
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 1311
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 807
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Berlin"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Germany"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "DE",
+    "altnames": "Steinheid"
+}

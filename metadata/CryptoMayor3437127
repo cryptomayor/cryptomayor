@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3437127",
+    "name": "San Antonio, Paraguay",
+    "description": "Central, San Antonio",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3437127",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3437127.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -25.42126
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -57.54725
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 55754
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 123
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Asuncion"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Paraguay"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "SA"
+        }
+    ],
+    "country_code": "PY",
+    "altnames": "San Antonio"
+}

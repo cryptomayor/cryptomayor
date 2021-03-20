@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2159432",
+    "name": "Low Head, Australia",
+    "description": "Tasmania, George Town",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2159432",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2159432.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": -41.08
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 146.80751
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 536
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 10
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Australia/Hobart"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Australia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "OC"
+        }
+    ],
+    "country_code": "AU",
+    "altnames": "Low Head"
+}

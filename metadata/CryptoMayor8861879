@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8861879",
+    "name": "El Terrero, Mexico",
+    "description": "Michoac\u00e1n, Tac\u00e1mbaro",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8861879",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8861879.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 19.23
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -101.52417
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 632
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1692
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "El Terrero"
+}

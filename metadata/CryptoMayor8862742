@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8862742",
+    "name": "Mercurio (Mina Mercurio), Mexico",
+    "description": "Zacatecas, Sain Alto",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8862742",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8862742.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 23.51444
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -103.22167
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 544
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 2133
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Mercurio (Mina Mercurio)"
+}

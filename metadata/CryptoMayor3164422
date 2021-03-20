@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3164422",
+    "name": "Vicchio, Italy",
+    "description": "Tuscany, Province of Florence",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3164422",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3164422.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 43.93413
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 11.46004
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 3747
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 186
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "Vicchio"
+}

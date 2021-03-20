@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8862700",
+    "name": "El Zancudo, Mexico",
+    "description": "Jalisco, Puerto Vallarta",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8862700",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8862700.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 20.77972
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -105.15333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 547
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 42
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "El Zancudo"
+}

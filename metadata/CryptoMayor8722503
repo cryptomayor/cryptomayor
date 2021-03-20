@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor8722503",
+    "name": "Atalco, Mexico",
+    "description": "Hidalgo, Huejutla de Reyes",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor8722503",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor8722503.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 21.09056
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -98.4425
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 501
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 220
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/Mexico_City"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Mexico"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "MX",
+    "altnames": "Atalco"
+}

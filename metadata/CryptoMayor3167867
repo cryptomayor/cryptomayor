@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor3167867",
+    "name": "San Piero in Campo, Italy",
+    "description": "Tuscany, Provincia di Livorno",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor3167867",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor3167867.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 42.75231
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 10.21153
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 589
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 218
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Rome"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Italy"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "IT",
+    "altnames": "San Pietro in Campo"
+}

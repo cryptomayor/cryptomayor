@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor5113131",
+    "name": "Cohocton, United States",
+    "description": "New York, Steuben County",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor5113131",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor5113131.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 42.50229
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": -77.50721
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 817
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 408
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "America/New_York"
+        },
+        {
+            "trait_type": "Country",
+            "value": "United States"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "NA"
+        }
+    ],
+    "country_code": "US",
+    "altnames": "Cohocton,Conhocton,Liberty"
+}

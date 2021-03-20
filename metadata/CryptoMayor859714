@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor859714",
+    "name": "Vardadzor, Armenia",
+    "description": "Yerevan",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor859714",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor859714.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 40.18701
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 45.19212
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 2095
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 1997
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Asia/Yerevan"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Armenia"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AS"
+        }
+    ],
+    "country_code": "AM",
+    "altnames": "Vardadzor"
+}

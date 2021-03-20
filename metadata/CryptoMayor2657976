@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor2657976",
+    "name": "Windisch, Switzerland",
+    "description": "Aargau, Bezirk Brugg",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor2657976",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor2657976.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 47.47899
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 8.21842
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 6689
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 363
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Europe/Zurich"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Switzerland"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "EU"
+        }
+    ],
+    "country_code": "CH",
+    "altnames": null
+}

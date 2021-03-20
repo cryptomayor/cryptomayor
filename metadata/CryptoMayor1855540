@@ -1,0 +1,43 @@
+{
+    "id": "CryptoMayor1855540",
+    "name": "Naze, Japan",
+    "description": "Kagoshima, Amami Shi",
+    "external_url": "https://cryptomayor.io/cities/CryptoMayor1855540",
+    "image": "https://cryptomayor.s3.amazonaws.com/images/CryptoMayor1855540.png",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Latitude",
+            "value": 28.36667
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Longitude",
+            "value": 129.48333
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Population",
+            "value": 41365
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Elevation",
+            "value": 192
+        },
+        {
+            "trait_type": "Time Zone",
+            "value": "Asia/Tokyo"
+        },
+        {
+            "trait_type": "Country",
+            "value": "Japan"
+        },
+        {
+            "trait_type": "Continent",
+            "value": "AS"
+        }
+    ],
+    "country_code": "JP",
+    "altnames": "Nase,Naze"
+}
